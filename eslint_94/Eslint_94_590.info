@@ -1,0 +1,4 @@
+Generation: 25
+Elapsed time: 100461.34223484993sec
+List of applied operators:
+TreeCrossoverOperator; OPERATORS.indexOf(OPERATORS.value) && OPERATORS.indexOf(1, left) ^ 0 &&; parents; OPERATORS.indexOf(op.value) && OPERATORS.indexOf(1, left) ^ 0 &&; OPERATORS.indexOf("Infix operators must be spaced.") && OPERATORS.indexOf(op.value) >= 1 &&

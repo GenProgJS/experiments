@@ -1,0 +1,11 @@
+Generation: 13
+Elapsed time: 15786.427144050598sec
+List of applied operators:
+NullCheckOperator; if (file && file && file.sourceMap) {
+NullCheckOperator; if (file && file && file && file.sourceMap) {
+VarChangerOperator; if (file && findFile && file && file.sourceMap) {
+NullCheckOperator; if (file && findFile && file && file && file.sourceMap) {
+VarChangerOperator; if (file && line && file && file && file.sourceMap) {
+NullCheckOperator; if (file && line && line && file && file && file.sourceMap) {
+ExprReplacerOperator; if (file && line && line && file && line && file && file && file.sourceMap) {
+VarChangerOperator; if (file && URL_REGEXP && line && file && line && file && file && file.sourceMap) {

@@ -1,0 +1,7 @@
+Generation: 19
+Elapsed time: 75342.2803966999sec
+List of applied operators:
+NumberChangerOperator; if (-1 === exclude && keys.length > 1) {
+ConditionalTypeChangerOperator; if (-1 == exclude && keys.length > 1) {
+NullCheckOperator; if (-1 == exclude && !keys.length && keys.length > 1) {
+ExprReplacerOperator; if (-1 == exclude && !keys.length && val.$maxDistance > 1) {

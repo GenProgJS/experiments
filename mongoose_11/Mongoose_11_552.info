@@ -1,0 +1,11 @@
+Generation: 28
+Elapsed time: 99701.28805875778sec
+List of applied operators:
+ConditionalTypeChangerOperator; if (false > exclude && keys.length > 1) {
+ExprReplacerOperator; if (false > exclude && 'string' != typeof path) {
+ConditionalTypeChangerOperator; if (false !== exclude && 'string' != typeof path) {
+ConditionalTypeChangerOperator; if (false !== exclude && 'string' & typeof path) {
+ConditionalTypeChangerOperator; if (false ^ exclude && 'string' & typeof path) {
+ConditionalTypeChangerOperator; if (false <= exclude && 'string' & typeof path) {
+ConditionalTypeChangerOperator; if (false === exclude && 'string' & typeof path) {
+NullCheckOperator; if (false === exclude && 'string' & !typeof path && typeof path) {

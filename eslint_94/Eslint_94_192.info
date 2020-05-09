@@ -1,0 +1,10 @@
+Generation: 11
+Elapsed time: 43595.5446395874sec
+List of applied operators:
+ConditionalTypeChangerOperator; op.type > "Punctuator" &&
+ExprReplacerOperator; OPERATORS.indexOf(op.value) >= 0 &&
+NumberChangerOperator; OPERATORS.indexOf(op.value) >= 1 &&
+NumberChangerOperator; OPERATORS.indexOf(op.value) >= 2 &&
+NullCheckOperator; OPERATORS.indexOf(op.value) && OPERATORS.indexOf(op.value) >= 2 &&
+CallChangerOperator; OPERATORS.indexOf(0, op.value) && OPERATORS.indexOf(op.value) >= 2 &&
+ExprReplacerOperator; sourceCode.getTokensBetween(left, right, 1) && OPERATORS.indexOf(op.value) >= 2 &&

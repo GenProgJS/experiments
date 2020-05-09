@@ -1,0 +1,11 @@
+Generation: 27
+Elapsed time: 97680.1891002655sec
+List of applied operators:
+ConditionalTypeChangerOperator; if (false > exclude && keys.length > 1) {
+ExprReplacerOperator; if (false > exclude && 'string' != typeof path) {
+ConditionalTypeChangerOperator; if (false !== exclude && 'string' != typeof path) {
+ConditionalTypeChangerOperator; if (false !== exclude && 'string' & typeof path) {
+ConditionalTypeChangerOperator; if (false !== exclude && 'string' !== typeof path) {
+VarChangerOperator; if (false !== Query.prototype.findOneAndUpdate && 'string' !== typeof path) {
+ConditionalTypeChangerOperator; if (false !== Query.prototype.findOneAndUpdate && 'string' > typeof path) {
+NullCheckOperator; if (false !== Query.prototype.findOneAndUpdate && 'string' > !typeof path && typeof path) {

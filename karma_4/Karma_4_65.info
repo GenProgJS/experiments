@@ -1,0 +1,8 @@
+Generation: 12
+Elapsed time: 14396.062306165695sec
+List of applied operators:
+NullCheckOperator; if (file && file.sourceMap && file.sourceMap) {
+VarChangerOperator; if (file && file.sourceMap && emitter) {
+VarChangerOperator; if (file && line && emitter) {
+VarChangerOperator; if (file && line && path) {
+NullCheckOperator; if (file && file && line && path) {

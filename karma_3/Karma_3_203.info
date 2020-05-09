@@ -1,0 +1,13 @@
+Generation: 24
+Elapsed time: 116554.26198577881sec
+List of applied operators:
+NullCheckOperator; msg = config.formatError(msg) && config.formatError(msg)
+ReturnInsertOperator; return msg = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return reporters = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return errorFormatter = config.formatError(msg) && config.formatError(msg)
+NullCheckOperator; return errorFormatter = config.formatError(msg) && config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return msg = config.formatError(msg) && config.formatError(msg) && config.formatError(msg)
+CallChangerOperator; return msg = config.formatError(msg) && config.formatError() && config.formatError(msg)
+NullCheckOperator; return msg = config.formatError(msg) && config.formatError() && config.formatError() && config.formatError(msg)
+CallChangerOperator; return msg = config.formatError(msg) && config.formatError() && config.formatError('./reporters/base') && config.formatError(msg)
+CallChangerOperator; return msg = config.formatError(msg) && config.formatError() && config.formatError(baseReporterDecoratorFactory, './reporters/base') && config.formatError(msg)

@@ -1,0 +1,11 @@
+Generation: 7
+Elapsed time: 26239.172441244125sec
+List of applied operators:
+ExprReplacerOperator; sourceCode.getText(node).substr(-2) === "|0" &&
+NullCheckOperator; !sourceCode.getText(node).substr(-2) && sourceCode.getText(node).substr(-2) === "|0" &&
+ExprReplacerOperator; tokens[i - 1].range[1] >= op.range[0] || op.range[1] >= tokens[i + 1].range[0] &&
+NullCheckOperator; !tokens[i - 1].range[1] && tokens[i - 1].range[1] >= op.range[0] || op.range[1] >= tokens[i + 1].range[0] &&
+ExprReplacerOperator; !tokens[i - 1].range[1] && tokens[i - 1].range[1] >= op.range[0] || op.range[1] >= tokens[i - 1].range[1] &&
+NumberChangerOperator; !tokens[i - 0].range[1] && tokens[i - 1].range[1] >= op.range[0] || op.range[1] >= tokens[i - 1].range[1] &&
+ConditionalTypeChangerOperator; !tokens[i - 0].range[1] && tokens[i - 1].range[1] >= op.range[0] || op.range[1] > tokens[i - 1].range[1] &&
+NumberChangerOperator; !tokens[i - 0].range[0] && tokens[i - 1].range[1] >= op.range[0] || op.range[1] > tokens[i - 1].range[1] &&

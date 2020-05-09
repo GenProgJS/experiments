@@ -1,0 +1,9 @@
+Generation: 13
+Elapsed time: 70154.88343763351sec
+List of applied operators:
+ExprStatementInserterOperator; log.warn('SourceMap position not found for trace: %s', msg)
+CallChangerOperator; log.warn('SourceMap position not found for trace: %s', msg, msg)
+CallChangerOperator; log.warn('SourceMap position not found for trace: %s', msg, 'SourceMap position not found for trace: %s', msg, msg)
+CallChangerOperator; log.warn('SourceMap position not found for trace: %s', msg, 'SourceMap position not found for trace: %s', 'lodash', msg)
+ExprReplacerOperator; return path = JSON.stringify(input, null, indentation) && config.formatError(msg)
+NullCheckOperator; return path = JSON.stringify(input, null, indentation) && config.formatError(msg) && config.formatError(msg)

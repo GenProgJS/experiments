@@ -1,0 +1,11 @@
+Generation: 27
+Elapsed time: 93796.3211607933sec
+List of applied operators:
+NullCheckOperator; } else if (tokenBefore.loc.end.line !== node.loc.end.line && option && option === "beside") {
+VarChangerOperator; } else if (tokenBefore.loc.end.line !== node.loc.start.line && option && option === "beside") {
+ConditionalTypeChangerOperator; } else if (tokenBefore.loc.end.line != node.loc.start.line && option && option === "beside") {
+VarChangerOperator; } else if (tokenBefore.loc.end.line != node.loc.start.line && node.range && option === "beside") {
+NullCheckOperator; } else if (tokenBefore.loc.end.line != node.loc.start.line && node.range && node.range && option === "beside") {
+VarChangerOperator; } else if (tokenBefore.loc.end.line != node.loc.start.line && node && node.range && option === "beside") {
+VarChangerOperator; } else if (tokenBefore.loc.end.line != node.loc.start.line && node && node.type && option === "beside") {
+VarChangerOperator; } else if (tokenBefore.loc.end.line != node.loc.start.line && node && node && option === "beside") {

@@ -1,0 +1,5 @@
+Generation: 2
+Elapsed time: 17545.87086200714sec
+List of applied operators:
+NullCheckOperator; msg = config.formatError(msg) && config.formatError(msg)
+ReturnInsertOperator; return msg = config.formatError(msg) && config.formatError(msg)

@@ -1,0 +1,11 @@
+Generation: 19
+Elapsed time: 5836.810076951981sec
+List of applied operators:
+CallChangerOperator; if (!trust()) {
+NullCheckOperator; if (!trust() && !trust()) {
+NullCheckOperator; if (!trust() && !trust() && !trust()) {
+CallChangerOperator; if (!trust() && !trust() && !trust('acceptedCharsets')) {
+CallChangerOperator; if (!trust(']') && !trust() && !trust('acceptedCharsets')) {
+CallChangerOperator; if (!trust(']', 0) && !trust() && !trust('acceptedCharsets')) {
+CallChangerOperator; if (!trust(']', 0) && !trust() && !trust()) {
+ExprReplacerOperator; if (!trust(']', 0) && !trust() && !this.get('X-Requested-With')) {

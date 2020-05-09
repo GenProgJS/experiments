@@ -1,0 +1,11 @@
+Generation: 14
+Elapsed time: 22678.5672519207sec
+List of applied operators:
+VarChangerOperator; return node;
+NullCheckOperator; return node && node;
+ExprReplacerOperator; return node.type === "Literal" && node.value === null;
+ConditionalTypeChangerOperator; return node.type !== "Literal" && node.value === null;
+ConditionalTypeChangerOperator; return node.type < "Literal" && node.value === null;
+ExprReplacerOperator; return node.type < "Literal" && node.computed === false;
+ConditionalTypeChangerOperator; return node.type < "Literal" && node.computed & false;
+ExprReplacerOperator; return module.exports < "Literal" && node.computed & false;

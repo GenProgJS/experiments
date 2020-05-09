@@ -1,0 +1,5 @@
+Generation: 2
+Elapsed time: 17433.820550203323sec
+List of applied operators:
+CallChangerOperator; msg = config.formatError(msg, 'core-js/es6/weak-map')
+ReturnInsertOperator; return msg = config.formatError(msg, 'core-js/es6/weak-map')

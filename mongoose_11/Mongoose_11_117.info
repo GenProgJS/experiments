@@ -1,0 +1,6 @@
+Generation: 8
+Elapsed time: 43644.447390794754sec
+List of applied operators:
+ConditionalTypeChangerOperator; if (false === exclude && keys.length === 1) {
+NullCheckOperator; if (false === exclude && exclude && keys.length === 1) {
+VarChangerOperator; if (false === exclude && Query.prototype.findOneAndUpdate && keys.length === 1) {

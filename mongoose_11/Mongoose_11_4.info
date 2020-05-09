@@ -1,0 +1,5 @@
+Generation: 1
+Elapsed time: 6247.462754487991sec
+List of applied operators:
+NullCheckOperator; if (false === exclude && !keys.length && keys.length > 1) {
+NullCheckOperator; if (false === exclude && !keys.length && !keys.length && keys.length > 1) {

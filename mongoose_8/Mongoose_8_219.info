@@ -1,0 +1,8 @@
+Generation: 24
+Elapsed time: 76245.55915021896sec
+List of applied operators:
+ReturnInsertOperator; return this.constructor.update.apply(this.constructor, args);
+NullCheckOperator; return this.constructor.update.apply(this.constructor, args) && this.constructor.update.apply(this.constructor, args);
+VarChangerOperator; return this.constructor.update.apply(this.constructor, args) && this.constructor.update.apply(this.constructor, Document.prototype.__proto__);
+LogicalExprChangerOperator; return this.constructor.update.apply(this.constructor, args) || this.constructor.update.apply(this.constructor, Document.prototype.__proto__);
+ExprReplacerOperator; return this.constructor.update.apply(this.constructor, args) || this.constructor.update.apply(this.$__.activePaths.modify, Document.prototype.__proto__);

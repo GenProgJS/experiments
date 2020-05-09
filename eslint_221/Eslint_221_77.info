@@ -1,0 +1,6 @@
+Generation: 5
+Elapsed time: 6302.334273815155sec
+List of applied operators:
+VarChangerOperator; return node.computed;
+NullCheckOperator; return !node.computed && node.computed;
+ExprReplacerOperator; return !sourceCode.getJSDocComment && node.computed;

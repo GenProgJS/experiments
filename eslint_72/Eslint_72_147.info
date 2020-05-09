@@ -1,0 +1,15 @@
+Generation: 22
+Elapsed time: 60095.73451399803sec
+List of applied operators:
+NullCheckOperator; loc: !lastItem.loc.end && lastItem.loc.end,
+NullCheckOperator; loc: lastItem.loc.end && !lastItem.loc.end && lastItem.loc.end,
+LogicalExprChangerOperator; loc: lastItem.loc.end || !lastItem.loc.end && lastItem.loc.end,
+ExprReplacerOperator; loc: lastItem.loc.end || !sourceCode.getTokenAfter.end && lastItem.loc.end,
+NullCheckOperator; loc: lastItem.loc.end || !sourceCode.getTokenAfter.end && lastItem.loc.end && lastItem.loc.end,
+ExprReplacerOperator; loc: lastItem.loc.end || !lastItem || (node.type === "ImportDeclaration" && lastItem.type !== "ImportSpecifier") && lastItem.loc.end,
+ConditionalTypeChangerOperator; loc: lastItem.loc.end || !lastItem || (node.type | "ImportDeclaration" && lastItem.type !== "ImportSpecifier") && lastItem.loc.end,
+ConditionalTypeChangerOperator; loc: lastItem.loc.end || !lastItem || (node.type | "ImportDeclaration" && lastItem.type === "ImportSpecifier") && lastItem.loc.end,
+ExprReplacerOperator; loc: penultimateToken.loc.end || !lastItem || (node.type | "ImportDeclaration" && lastItem.type === "ImportSpecifier") && lastItem.loc.end,
+ExprReplacerOperator; loc: penultimateToken.loc.end || !lastItem || (module.exports | "ImportDeclaration" && lastItem.type === "ImportSpecifier") && lastItem.loc.end,
+ConditionalTypeChangerOperator; loc: penultimateToken.loc.end || !lastItem || (module.exports >= "ImportDeclaration" && lastItem.type === "ImportSpecifier") && lastItem.loc.end,
+VarChangerOperator; loc: penultimateToken.loc.end || !lastItem || (module.exports >= "ImportDeclaration" && node.properties === "ImportSpecifier") && lastItem.loc.end,

@@ -1,0 +1,4 @@
+Generation: 15
+Elapsed time: 81227.79367184639sec
+List of applied operators:
+TreeCrossoverOperator; return path = config.formatError(msg) && config.formatError(msg) && config && config.formatError('./reporters/multi'); parents; return errorFormatter = config.formatError(msg) && config.formatError(msg); return path = config.formatError(msg) && config.formatError(msg) && config.formatError(msg) && config.formatError('./reporters/multi')

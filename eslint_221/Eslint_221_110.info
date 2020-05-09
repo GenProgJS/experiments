@@ -1,0 +1,6 @@
+Generation: 5
+Elapsed time: 8010.471858739853sec
+List of applied operators:
+ExprReplacerOperator; return node.type;
+NullCheckOperator; return !node.type && node.type;
+VarChangerOperator; return !node.type && isCallee;

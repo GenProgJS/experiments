@@ -1,0 +1,13 @@
+Generation: 16
+Elapsed time: 82965.92234420776sec
+List of applied operators:
+NullCheckOperator; msg = config.formatError(msg) && config.formatError(msg)
+ReturnInsertOperator; return msg = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return reporters = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return errorFormatter = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return path = config.formatError(msg) && config.formatError(msg)
+NullCheckOperator; return path = config.formatError(msg) && config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return config.reportSlowerThan = config.formatError(msg) && config.formatError(msg) && config.formatError(msg)
+ExprReplacerOperator; return config.reportSlowerThan = config.formatError(msg) && config.formatError(msg) && config.formatError(msg) && config.formatError(msg)
+ExprReplacerOperator; return config.reportSlowerThan = config.formatError(msg) && function () {
+ExprReplacerOperator; return config.reportSlowerThan = require('url') && function () {

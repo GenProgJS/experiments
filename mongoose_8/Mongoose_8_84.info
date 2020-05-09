@@ -1,0 +1,4 @@
+Generation: 13
+Elapsed time: 49430.64670228958sec
+List of applied operators:
+TreeCrossoverOperator; return !this.constructor.update.apply(this.constructor, args, args) && this.constructor.update.apply(this.constructor, args, args) && !this.constructor.update(this.constructor, args, args) && !this.constructor.update.apply(this.constructor, args, args) || this.constructor.update.apply(this.constructor, args, args);; parents; return this.constructor.update.apply(this.constructor, args) || !this.constructor.update.apply(this.constructor, args) || this.constructor.update.apply(this.constructor, args, args);; return !this.constructor.update.apply(this.constructor, args, args) && this.constructor.update.apply(this.constructor, args, args) && !this.constructor.update.apply(this.constructor, args, args) && !this.constructor.update.apply(this.constructor, args, args) || this.constructor.update.apply(this.constructor, args, args);

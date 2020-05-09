@@ -1,0 +1,14 @@
+Generation: 26
+Elapsed time: 8999.149133443832sec
+List of applied operators:
+CallChangerOperator; if (!trust()) {
+NullCheckOperator; if (!trust() && !trust()) {
+NullCheckOperator; if (!trust() && !trust() && !trust()) {
+CallChangerOperator; if (!trust() && !trust() && !trust('acceptedCharsets')) {
+CallChangerOperator; if (!trust(']') && !trust() && !trust('acceptedCharsets')) {
+CallChangerOperator; if (!trust(']', 0) && !trust() && !trust('acceptedCharsets')) {
+CallChangerOperator; if (!trust(']', 0) && !trust() && !trust()) {
+CallChangerOperator; if (!trust(parse, 0) && !trust() && !trust()) {
+CallChangerOperator; if (!trust(parse, 0) && !trust() && !trust(req.acceptsEncoding)) {
+ExprReplacerOperator; if (!trust(parse, 0) && !trust() && !trust(this.get)) {
+VarChangerOperator; if (!trust(proto.split(/\s*,\s*/)[0], 0) && !trust() && !trust(this.get)) {

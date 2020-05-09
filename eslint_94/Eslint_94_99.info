@@ -1,0 +1,4 @@
+Generation: 8
+Elapsed time: 30190.642142295837sec
+List of applied operators:
+TreeCrossoverOperator; 1 && OPERATORS.indexOf(op.value) !== 0 &&; parents; OPERATORS.indexOf(op.value) && OPERATORS.indexOf(op.value) !== 0 &&; OPERATORS.indexOf("=") && OPERATORS.indexOf(op.value) >= 1 &&

@@ -1,0 +1,6 @@
+Generation: 3
+Elapsed time: 19390.974959373474sec
+List of applied operators:
+ConditionalTypeChangerOperator; if (false >= exclude && keys.length > 1) {
+ConditionalTypeChangerOperator; if (false >= exclude && keys.length === 1) {
+NumberChangerOperator; if (false >= exclude && keys.length === 0) {

@@ -1,0 +1,6 @@
+Generation: 6
+Elapsed time: 9664.279089212418sec
+List of applied operators:
+NullCheckOperator; return !parent.static && parent.static;
+NullCheckOperator; return !parent.static && parent.static && parent.static;
+VarChangerOperator; return !parent.static && parent.static && node.computed;

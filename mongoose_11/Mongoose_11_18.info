@@ -1,0 +1,5 @@
+Generation: 2
+Elapsed time: 13267.773313045502sec
+List of applied operators:
+ConditionalTypeChangerOperator; if (false === exclude && keys.length === 1) {
+VarChangerOperator; if (false === exclude && this._conditions === 1) {

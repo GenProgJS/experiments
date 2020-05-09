@@ -1,0 +1,12 @@
+Generation: 27
+Elapsed time: 97718.66181397438sec
+List of applied operators:
+VarChangerOperator; if (false === exclude && Query.prototype.near > 1) {
+VarChangerOperator; if (false === Query.prototype._optionsForExec && Query.prototype.near > 1) {
+VarChangerOperator; if (false === arguments && Query.prototype.near > 1) {
+ExprReplacerOperator; if (false === arguments && this.op > 1) {
+ConditionalTypeChangerOperator; if (false >= arguments && this.op > 1) {
+ConditionalTypeChangerOperator; if (false ^ arguments && this.op > 1) {
+ConditionalTypeChangerOperator; if (false != arguments && this.op > 1) {
+ConditionalTypeChangerOperator; if (false != arguments && this.op === 1) {
+NullCheckOperator; if (false != arguments && !this.op && this.op === 1) {

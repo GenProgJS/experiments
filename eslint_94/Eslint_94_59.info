@@ -1,0 +1,10 @@
+Generation: 7
+Elapsed time: 24344.70889878273sec
+List of applied operators:
+NullCheckOperator; !op.type && op.type === "Punctuator" &&
+LogicalExprChangerOperator; !op.type || op.type === "Punctuator" &&
+VarChangerOperator; !op || op.type === "Punctuator" &&
+NullCheckOperator; op && !op || op.type === "Punctuator" &&
+NullCheckOperator; !op && op && !op || op.type === "Punctuator" &&
+ConditionalTypeChangerOperator; !op && op && !op || op.type <= "Punctuator" &&
+LogicalExprChangerOperator; !op || op && !op || op.type <= "Punctuator" &&

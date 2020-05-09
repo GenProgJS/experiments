@@ -1,0 +1,16 @@
+Generation: 28
+Elapsed time: 111786.00165605545sec
+List of applied operators:
+ConditionalTypeChangerOperator; op.type > "Punctuator" &&
+ExprReplacerOperator; OPERATORS.indexOf(op.value) >= 0 &&
+NullCheckOperator; OPERATORS.indexOf(op.value) && OPERATORS.indexOf(op.value) >= 0 &&
+CallChangerOperator; OPERATORS.indexOf() && OPERATORS.indexOf(op.value) >= 0 &&
+NumberChangerOperator; OPERATORS.indexOf() && OPERATORS.indexOf(op.value) >= 1 &&
+CallChangerOperator; OPERATORS.indexOf("=") && OPERATORS.indexOf(op.value) >= 1 &&
+CallChangerOperator; OPERATORS.indexOf(tokens) && OPERATORS.indexOf(op.value) >= 1 &&
+CallChangerOperator; OPERATORS.indexOf(tokens[i + 1].range) && OPERATORS.indexOf(op.value) >= 1 &&
+CallChangerOperator; OPERATORS.indexOf("**") && OPERATORS.indexOf(op.value) >= 1 &&
+CallChangerOperator; OPERATORS.indexOf(0) && OPERATORS.indexOf(op.value) >= 1 &&
+CallChangerOperator; OPERATORS.indexOf("Infix operators must be spaced.") && OPERATORS.indexOf(op.value) >= 1 &&
+ConditionalTypeChangerOperator; OPERATORS.indexOf("Infix operators must be spaced.") && OPERATORS.indexOf(op.value) ^ 1 &&
+ExprReplacerOperator; OPERATORS.indexOf("Infix operators must be spaced.") && OPERATORS.indexOf(tokens[i - 1].range) ^ 1 &&

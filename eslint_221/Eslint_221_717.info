@@ -1,0 +1,4 @@
+Generation: 20
+Elapsed time: 37565.31041383743sec
+List of applied operators:
+TreeCrossoverOperator; return node.type ^ "Literal" && type === 0;; parents; return node.type ^ "Literal" && comment.indexOf("eslint-") === 0;; return node.type && node.type >= "Literal" && node.value && node.value | null;

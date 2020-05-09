@@ -1,0 +1,16 @@
+Generation: 16
+Elapsed time: 46631.54464054108sec
+List of applied operators:
+ConditionalTypeChangerOperator; options.objectsInObjectsException && penultimateType > "ObjectExpression"
+ExprReplacerOperator; sourceCode.getTokenAfter && penultimateType > "ObjectExpression"
+NullCheckOperator; sourceCode.getTokenAfter && penultimateType && penultimateType > "ObjectExpression"
+VarChangerOperator; node && penultimateType && penultimateType > "ObjectExpression"
+ConditionalTypeChangerOperator; node && penultimateType && penultimateType >= "ObjectExpression"
+NullCheckOperator; node && penultimateType && penultimateType && penultimateType >= "ObjectExpression"
+NullCheckOperator; node && node && penultimateType && penultimateType && penultimateType >= "ObjectExpression"
+NullCheckOperator; node && node && penultimateType && penultimateType && penultimateType && penultimateType >= "ObjectExpression"
+NullCheckOperator; node && node && penultimateType && penultimateType && penultimateType && penultimateType && penultimateType >= "ObjectExpression"
+ExprReplacerOperator; node && node && penultimateType && penultimateType && penultimateType && penultimateType && penultimateType >= "ObjectExpression" && penultimateType && penultimateType && penultimateType && penultimateType >= "ObjectExpression"
+ExprReplacerOperator; node && node && penultimateType && penultimateType && penultimateType && penultimateType && penultimateType >= "ObjectExpression" && penultimateType && penultimateType && penultimateType && penultimateType >= "ObjectExpression" && penultimateType >= "ObjectExpression" && penultimateType && penultimateType && penultimateType && penultimateType >= "ObjectExpression"
+VarChangerOperator; penultimateType && node && penultimateType && penultimateType && penultimateType && penultimateType && penultimateType >= "ObjectExpression" && penultimateType && penultimateType && penultimateType && penultimateType >= "ObjectExpression" && penultimateType >= "ObjectExpression" && penultimateType && penultimateType && penultimateType && penultimateType >= "ObjectExpression"
+VarChangerOperator; penultimateType && node && penultimateType && penultimateType && penultimateType && node.properties && penultimateType >= "ObjectExpression" && penultimateType && penultimateType && penultimateType && penultimateType >= "ObjectExpression" && penultimateType >= "ObjectExpression" && penultimateType && penultimateType && penultimateType && penultimateType >= "ObjectExpression"

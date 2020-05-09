@@ -1,0 +1,11 @@
+Generation: 16
+Elapsed time: 62496.05754947662sec
+List of applied operators:
+ConditionalTypeChangerOperator; op.type > "Punctuator" &&
+ExprReplacerOperator; OPERATORS.indexOf(op.value) >= 0 &&
+NumberChangerOperator; OPERATORS.indexOf(op.value) >= -1 &&
+NumberChangerOperator; OPERATORS.indexOf(op.value) >= -2 &&
+ConditionalTypeChangerOperator; OPERATORS.indexOf(op.value) > -2 &&
+ConditionalTypeChangerOperator; OPERATORS.indexOf(op.value) & -2 &&
+CallChangerOperator; OPERATORS.indexOf(i) & -2 &&
+ConditionalTypeChangerOperator; OPERATORS.indexOf(i) >= -2 &&

@@ -1,0 +1,18 @@
+Generation: 26
+Elapsed time: 29716.405656337738sec
+List of applied operators:
+NullCheckOperator; if (file && file && file.sourceMap) {
+NullCheckOperator; if (file && file && file && file.sourceMap) {
+VarChangerOperator; if (file && findFile && file && file.sourceMap) {
+NullCheckOperator; if (file && findFile && file && file && file.sourceMap) {
+VarChangerOperator; if (file && line && file && file && file.sourceMap) {
+NullCheckOperator; if (file && line && file && file && file && file.sourceMap) {
+ExprReplacerOperator; if (file && line && file && file && file && file && file && file.sourceMap) {
+NullCheckOperator; if (file && line && file && file && file && file && file && file && file.sourceMap) {
+NullCheckOperator; if (file && file && line && file && file && file && file && file && file && file.sourceMap) {
+ExprReplacerOperator; if (file && file && line && file && file && file && file && file && file && file && file && file && file && file && file.sourceMap) {
+ExprReplacerOperator; if (file && file && line && file && file && file && file && file && file && file && file && file && file && line && file && file && file && file && file && file && file && file && file && file && file && file.sourceMap) {
+ExprReplacerOperator; if (file && file && line && file && file && file && file && file && file && file && file && file && file && line && file && file && file && file && file && file && file && file && file && file) {
+VarChangerOperator; if (file && file && line && file && file && file && file && file && file && file && file && file && file && line && file && file && file && file && URL_REGEXP && file && file && file && file && file) {
+NullCheckOperator; if (file && file && line && file && file && file && file && file && file && file && file && file && file && line && file && file && file && file && URL_REGEXP && URL_REGEXP && file && file && file && file && file) {
+VarChangerOperator; if (file && file && line && file && file && file && file && file && file && file && file && file && file && line && require('source-map').SourceMapConsumer && file && file && file && URL_REGEXP && URL_REGEXP && file && file && file && file && file) {

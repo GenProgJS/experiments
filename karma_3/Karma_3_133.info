@@ -1,0 +1,13 @@
+Generation: 18
+Elapsed time: 95637.75916361809sec
+List of applied operators:
+NullCheckOperator; msg = config.formatError(msg) && config.formatError(msg)
+ReturnInsertOperator; return msg = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return reporters = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return errorFormatter = config.formatError(msg) && config.formatError(msg)
+NullCheckOperator; return errorFormatter = config.formatError(msg) && config.formatError(msg) && config.formatError(msg)
+NullCheckOperator; return errorFormatter = config.formatError(msg) && config.formatError(msg) && config.formatError(msg) && config.formatError(msg)
+CallChangerOperator; return errorFormatter = config.formatError(msg) && config.formatError(msg) && config.formatError(msg) && config.formatError('(?:\\:', msg)
+VarChangerOperator; return errorFormatter = config.formatError(msg) && config.formatError(lastServedFiles) && config.formatError(msg) && config.formatError('(?:\\:', msg)
+NullCheckOperator; return errorFormatter = config.formatError(msg) && config.formatError(lastServedFiles) && config.formatError(lastServedFiles) && config.formatError(msg) && config.formatError('(?:\\:', msg)
+VarChangerOperator; return require('source-map').SourceMapConsumer = config.formatError(msg) && config.formatError(lastServedFiles) && config.formatError(lastServedFiles) && config.formatError(msg) && config.formatError('(?:\\:', msg)

@@ -1,0 +1,7 @@
+Generation: 11
+Elapsed time: 42380.99810361862sec
+List of applied operators:
+TreeCrossoverOperator; return !this.constructor.update.apply(update, args, args) || this.constructor.update.apply(this.constructor, args) && this.constructor.update.apply(this.constructor, args);; parents; return !this.constructor.update.apply(this.constructor, args, args) || this.constructor.update.apply(this.constructor, args) && this.constructor.update.apply(this.constructor, args);; return this.constructor.update.apply(args, args);
+CallChangerOperator; return !this.constructor.update.apply(update, args, args) || this.constructor.update.apply(this.constructor, this.constructor, args) && this.constructor.update.apply(this.constructor, args);
+CallChangerOperator; return !this.constructor.update.apply(DocumentArray, args, args) || this.constructor.update.apply(this.constructor, this.constructor, args) && this.constructor.update.apply(this.constructor, args);
+NullCheckOperator; return !this.constructor.update.apply(DocumentArray, args, args) || this.constructor.update.apply(this.constructor, this.constructor, args) && this.constructor.update.apply(this.constructor, args) && this.constructor.update.apply(this.constructor, args);

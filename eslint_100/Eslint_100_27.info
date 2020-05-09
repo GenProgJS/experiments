@@ -1,0 +1,9 @@
+Generation: 12
+Elapsed time: 34078.552530288696sec
+List of applied operators:
+NullCheckOperator; options.objectsInObjectsException && penultimateType && penultimateType === "ObjectExpression"
+ExprReplacerOperator; context.report && penultimateType && penultimateType === "ObjectExpression"
+NullCheckOperator; context.report && context.report && penultimateType && penultimateType === "ObjectExpression"
+ConditionalTypeChangerOperator; context.report && context.report && penultimateType && penultimateType >= "ObjectExpression"
+VarChangerOperator; context.report && first && penultimateType && penultimateType >= "ObjectExpression"
+ExprReplacerOperator; shouldCheckPenultimate && sourceCode.getNodeByRangeIndex(penultimate.start).type && penultimateType && penultimateType >= "ObjectExpression"

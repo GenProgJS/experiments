@@ -1,0 +1,17 @@
+Generation: 26
+Elapsed time: 28800.68620491028sec
+List of applied operators:
+NullCheckOperator; if (file && file && file.sourceMap) {
+NullCheckOperator; if (file && file && file && file.sourceMap) {
+VarChangerOperator; if (file && findFile && file && file.sourceMap) {
+NullCheckOperator; if (file && findFile && file && file && file.sourceMap) {
+VarChangerOperator; if (file && line && file && file && file.sourceMap) {
+NullCheckOperator; if (file && line && file && file && file && file.sourceMap) {
+ExprReplacerOperator; if (file && line && file && file && file && file && file && file.sourceMap) {
+NullCheckOperator; if (file && line && file && file && file && file && file && file && file.sourceMap) {
+NullCheckOperator; if (file && file && line && file && file && file && file && file && file && file.sourceMap) {
+ExprReplacerOperator; if (file && file && line && file && file && file && file && file && file && file && file && file && file && file && file.sourceMap) {
+ExprReplacerOperator; if (file && file && line && file && file && file && file && file && file && file && file && file && file && line && file && file && file && file && file && file && file && file && file && file && file && file.sourceMap) {
+ExprReplacerOperator; if (file && file && line && file && file && file && file && file && file && file && file && file && file && line && file && file && file && file && file && file && file && file && file && file) {
+VarChangerOperator; if (file && file && line && file && file && file && file && file && file && file && file && file && file && line && file && file && file && file && URL_REGEXP && file && file && file && file && file) {
+ExprReplacerOperator; if (file && file && line && file && file && file && file && file && line && file && file && file && file && URL_REGEXP && file && file && file && file && file) {

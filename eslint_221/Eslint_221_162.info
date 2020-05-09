@@ -1,0 +1,8 @@
+Generation: 7
+Elapsed time: 10777.982282161713sec
+List of applied operators:
+VarChangerOperator; return node;
+NullCheckOperator; return node && node;
+ExprReplacerOperator; return node.type === "Literal" && node.value === null;
+ExprReplacerOperator; return node.type === "Literal" && node.type === "Identifier";
+ExprReplacerOperator; return thisTagPattern.test === "Literal" && node.type === "Identifier";

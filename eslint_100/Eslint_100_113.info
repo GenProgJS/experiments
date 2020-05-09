@@ -1,0 +1,13 @@
+Generation: 17
+Elapsed time: 50060.76361203194sec
+List of applied operators:
+ConditionalTypeChangerOperator; options.objectsInObjectsException && penultimateType > "ObjectExpression"
+ExprReplacerOperator; sourceCode.getTokenAfter && penultimateType > "ObjectExpression"
+NullCheckOperator; sourceCode.getTokenAfter && penultimateType && penultimateType > "ObjectExpression"
+VarChangerOperator; node && penultimateType && penultimateType > "ObjectExpression"
+ConditionalTypeChangerOperator; node && penultimateType && penultimateType >= "ObjectExpression"
+NullCheckOperator; node && penultimateType && penultimateType && penultimateType >= "ObjectExpression"
+NullCheckOperator; node && node && penultimateType && penultimateType && penultimateType >= "ObjectExpression"
+NullCheckOperator; node && node && penultimateType && penultimateType && penultimateType && penultimateType >= "ObjectExpression"
+ExprReplacerOperator; node && node && penultimateType && penultimateType >= "ObjectExpression"
+VarChangerOperator; node && last && penultimateType && penultimateType >= "ObjectExpression"

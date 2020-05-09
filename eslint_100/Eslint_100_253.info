@@ -1,0 +1,18 @@
+Generation: 29
+Elapsed time: 72668.25358605385sec
+List of applied operators:
+ConditionalTypeChangerOperator; options.objectsInObjectsException && penultimateType > "ObjectExpression"
+ExprReplacerOperator; sourceCode.getTokenAfter && penultimateType > "ObjectExpression"
+NullCheckOperator; sourceCode.getTokenAfter && penultimateType && penultimateType > "ObjectExpression"
+VarChangerOperator; node && penultimateType && penultimateType > "ObjectExpression"
+ConditionalTypeChangerOperator; node && penultimateType && penultimateType >= "ObjectExpression"
+NullCheckOperator; node && penultimateType && penultimateType && penultimateType >= "ObjectExpression"
+NullCheckOperator; node && node && penultimateType && penultimateType && penultimateType >= "ObjectExpression"
+ExprReplacerOperator; options.objectsInObjectsException && penultimate.value === "}" && penultimateType >= "ObjectExpression"
+ConditionalTypeChangerOperator; options.objectsInObjectsException && penultimate.value <= "}" && penultimateType >= "ObjectExpression"
+ExprReplacerOperator; sourceCode.isSpaceBetweenTokens && penultimate.value <= "}" && penultimateType >= "ObjectExpression"
+ExprReplacerOperator; sourceCode.isSpaceBetweenTokens && penultimate.value <= "}" && penultimateType >= "ObjectExpression" && penultimateType >= "ObjectExpression"
+NullCheckOperator; sourceCode.isSpaceBetweenTokens && penultimate.value && penultimate.value <= "}" && penultimateType >= "ObjectExpression" && penultimateType >= "ObjectExpression"
+NullCheckOperator; sourceCode.isSpaceBetweenTokens && penultimate.value && penultimate.value && penultimate.value <= "}" && penultimateType >= "ObjectExpression" && penultimateType >= "ObjectExpression"
+ExprReplacerOperator; sourceCode.isSpaceBetweenTokens && penultimate.value && penultimate.value && penultimate.value <= "}" && penultimate.value <= "}" && penultimateType >= "ObjectExpression"
+ConditionalTypeChangerOperator; sourceCode.isSpaceBetweenTokens && penultimate.value && penultimate.value && penultimate.value == "}" && penultimate.value <= "}" && penultimateType >= "ObjectExpression"

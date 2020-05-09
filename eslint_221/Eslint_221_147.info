@@ -1,0 +1,4 @@
+Generation: 6
+Elapsed time: 10120.539957761765sec
+List of applied operators:
+TreeCrossoverOperator; return node.value === null;; parents; return node.type && node.type >= "Literal" && node.value === null;; return parent.left;

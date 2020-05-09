@@ -1,0 +1,7 @@
+Generation: 13
+Elapsed time: 59039.006038188934sec
+List of applied operators:
+ConditionalTypeChangerOperator; if (false === exclude && keys.length === 1) {
+VarChangerOperator; if (false === exclude && this._conditions === 1) {
+NumberChangerOperator; if (false === exclude && this._conditions === 0) {
+ExprReplacerOperator; if (false === exclude && path === '$where') {

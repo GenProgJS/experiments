@@ -1,0 +1,14 @@
+Generation: 19
+Elapsed time: 5693.376658439636sec
+List of applied operators:
+CallChangerOperator; if (!trust()) {
+NullCheckOperator; if (!trust() && !trust()) {
+NullCheckOperator; if (!trust() && !trust() && !trust()) {
+CallChangerOperator; if (!trust() && !trust() && !trust('acceptedCharsets')) {
+CallChangerOperator; if (!trust(']') && !trust() && !trust('acceptedCharsets')) {
+CallChangerOperator; if (!trust(']', 0) && !trust() && !trust('acceptedCharsets')) {
+CallChangerOperator; if (!trust(']', 0) && !trust() && !trust()) {
+CallChangerOperator; if (!trust(']', 0) && !trust(1) && !trust()) {
+NumberChangerOperator; if (!trust(']', -1) && !trust(1) && !trust()) {
+NumberChangerOperator; if (!trust(']', -2) && !trust(1) && !trust()) {
+CallChangerOperator; if (!trust(']', -2) && !trust(1) && !trust(req.range)) {

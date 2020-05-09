@@ -1,0 +1,13 @@
+Generation: 29
+Elapsed time: 102129.24745464325sec
+List of applied operators:
+NumberChangerOperator; if (-1 === exclude && keys.length > 1) {
+NullCheckOperator; if (-1 === exclude && !keys.length && keys.length > 1) {
+ConditionalTypeChangerOperator; if (-1 === exclude && !keys.length && keys.length ^ 1) {
+ConditionalTypeChangerOperator; if (-1 === exclude && !keys.length && keys.length != 1) {
+ConditionalTypeChangerOperator; if (-1 !== exclude && !keys.length && keys.length != 1) {
+VarChangerOperator; if (-1 !== exclude && !keys.length && array != 1) {
+ConditionalTypeChangerOperator; if (-1 <= exclude && !keys.length && array != 1) {
+ConditionalTypeChangerOperator; if (-1 == exclude && !keys.length && array != 1) {
+ConditionalTypeChangerOperator; if (-1 == exclude && !keys.length && array >= 1) {
+ExprReplacerOperator; if (-1 == exclude && !keys.length && '$near' == geo) {

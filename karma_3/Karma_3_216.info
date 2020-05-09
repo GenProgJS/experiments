@@ -1,0 +1,12 @@
+Generation: 25
+Elapsed time: 120599.91657042503sec
+List of applied operators:
+NullCheckOperator; msg = config.formatError(msg) && config.formatError(msg)
+ReturnInsertOperator; return msg = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return reporters = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return errorFormatter = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return path = config.formatError(msg) && config.formatError(msg)
+CallChangerOperator; return path = config.formatError(msg) && config.formatError('_color')
+CallChangerOperator; return path = config.formatError(msg) && config.formatError()
+CallChangerOperator; return path = config.formatError(msg) && config.formatError(findFile)
+NullCheckOperator; return path = config.formatError(msg) && config.formatError(msg) && config.formatError(findFile)

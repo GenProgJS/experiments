@@ -1,0 +1,12 @@
+Generation: 24
+Elapsed time: 91253.91311573982sec
+List of applied operators:
+NumberChangerOperator; if (-1 === exclude && keys.length > 1) {
+NullCheckOperator; if (-1 === exclude && !keys.length && keys.length > 1) {
+ConditionalTypeChangerOperator; if (-1 === exclude && !keys.length && keys.length ^ 1) {
+ConditionalTypeChangerOperator; if (-1 === exclude && !keys.length && keys.length != 1) {
+ConditionalTypeChangerOperator; if (-1 !== exclude && !keys.length && keys.length != 1) {
+VarChangerOperator; if (-1 !== exclude && !keys.length && array != 1) {
+ConditionalTypeChangerOperator; if (-1 | exclude && !keys.length && array != 1) {
+ConditionalTypeChangerOperator; if (-1 | exclude && !keys.length && array >= 1) {
+VarChangerOperator; if (-1 | exclude && !keys.length && path >= 1) {

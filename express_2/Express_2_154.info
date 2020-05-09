@@ -1,0 +1,14 @@
+Generation: 23
+Elapsed time: 7496.753887653351sec
+List of applied operators:
+CallChangerOperator; if (!trust()) {
+NullCheckOperator; if (!trust() && !trust()) {
+NullCheckOperator; if (!trust() && !trust() && !trust()) {
+CallChangerOperator; if (!trust() && !trust() && !trust('acceptedCharsets')) {
+CallChangerOperator; if (!trust(']') && !trust() && !trust('acceptedCharsets')) {
+CallChangerOperator; if (!trust(']', 0) && !trust() && !trust('acceptedCharsets')) {
+CallChangerOperator; if (!trust(']', 0) && !trust() && !trust()) {
+CallChangerOperator; if (!trust(parse, 0) && !trust() && !trust()) {
+CallChangerOperator; if (!trust(parse, 0) && !trust() && !trust(req.acceptsEncoding)) {
+CallChangerOperator; if (!trust(parse, 0) && !trust() && !trust('X-Forwarded-Host')) {
+ExprReplacerOperator; if (!trust(parse, 0) && !trust() && !fresh(this.headers, (this.res._headers || {}))) {

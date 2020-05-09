@@ -1,0 +1,8 @@
+Generation: 6
+Elapsed time: 8435.447411775589sec
+List of applied operators:
+VarChangerOperator; return node;
+NullCheckOperator; return node && node;
+ExprReplacerOperator; return node.type === "MemberExpression" &&
+ConditionalTypeChangerOperator; return node.type == "MemberExpression" &&
+ExprReplacerOperator; return node.name == "MemberExpression" &&

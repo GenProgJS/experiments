@@ -1,0 +1,4 @@
+Generation: 25
+Elapsed time: 66676.72209596634sec
+List of applied operators:
+TreeCrossoverOperator; options.objectsInObjectsException && penultimate.value >= "}" && penultimate.value && penultimateType >= "ObjectExpression"; parents; sourceCode.isSpaceBetweenTokens && sourceCode.isSpaceBetweenTokens && penultimate.value <= "}" && penultimateType >= "ObjectExpression"; options.objectsInObjectsException && penultimate.value >= "}" && penultimateType && penultimateType >= "ObjectExpression"

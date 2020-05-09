@@ -1,0 +1,14 @@
+Generation: 21
+Elapsed time: 57679.961363554sec
+List of applied operators:
+NullCheckOperator; loc: !lastItem.loc.end && lastItem.loc.end,
+NullCheckOperator; loc: lastItem.loc.end && !lastItem.loc.end && lastItem.loc.end,
+LogicalExprChangerOperator; loc: lastItem.loc.end || !lastItem.loc.end && lastItem.loc.end,
+ExprReplacerOperator; loc: lastItem.loc.end || !sourceCode.getTokenAfter.end && lastItem.loc.end,
+NullCheckOperator; loc: lastItem.loc.end || !sourceCode.getTokenAfter.end && lastItem.loc.end && lastItem.loc.end,
+ExprReplacerOperator; loc: lastItem.loc.end || !lastItem || (node.type === "ImportDeclaration" && lastItem.type !== "ImportSpecifier") && lastItem.loc.end,
+ConditionalTypeChangerOperator; loc: lastItem.loc.end || !lastItem || (node.type | "ImportDeclaration" && lastItem.type !== "ImportSpecifier") && lastItem.loc.end,
+ConditionalTypeChangerOperator; loc: lastItem.loc.end || !lastItem || (node.type | "ImportDeclaration" && lastItem.type === "ImportSpecifier") && lastItem.loc.end,
+ExprReplacerOperator; loc: penultimateToken.loc.end || !lastItem || (node.type | "ImportDeclaration" && lastItem.type === "ImportSpecifier") && lastItem.loc.end,
+ExprReplacerOperator; loc: penultimateToken.loc.end || !lastItem || node.properties || node.elements,
+NullCheckOperator; loc: penultimateToken.loc.end || !lastItem || node.properties || node.elements && node.elements,

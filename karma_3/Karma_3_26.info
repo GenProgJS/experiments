@@ -1,0 +1,10 @@
+Generation: 9
+Elapsed time: 56206.461611032486sec
+List of applied operators:
+NullCheckOperator; msg = config.formatError(msg) && config.formatError(msg)
+ReturnInsertOperator; return msg = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return reporters = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return errorFormatter = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return path = config.formatError(msg) && config.formatError(msg)
+NullCheckOperator; return path = config.formatError(msg) && config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return config.reportSlowerThan = config.formatError(msg) && config.formatError(msg) && config.formatError(msg)

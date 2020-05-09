@@ -1,0 +1,4 @@
+Generation: 26
+Elapsed time: 68844.0394051075sec
+List of applied operators:
+TreeCrossoverOperator; penultimateType && shouldCheckPenultimate && penultimateType >= "ObjectExpression"; parents; node && shouldCheckPenultimate && penultimateType >= "ObjectExpression"; node && node && penultimateType && penultimateType && penultimateType >= "ObjectExpression" && penultimateType >= "ObjectExpression"

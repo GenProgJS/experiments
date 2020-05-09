@@ -1,0 +1,4 @@
+Generation: 26
+Elapsed time: 69815.7538421154sec
+List of applied operators:
+TreeCrossoverOperator; loc: penultimateToken.loc.end || !lastToken && !node || (node.type | "ImportDeclaration" && context.getSourceCode === "ImportSpecifier") && lastItem.loc.end,; parents; loc: penultimateToken.loc.end || !lastToken || (node.type | "ImportDeclaration" && lastItem.type === "ImportSpecifier") && penultimateToken.loc.end,; loc: penultimateToken.loc.end || !lastToken && !lastToken || (node.type | "ImportDeclaration" && context.getSourceCode === "ImportSpecifier") && lastItem.loc.end,

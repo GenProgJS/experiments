@@ -1,0 +1,10 @@
+Generation: 19
+Elapsed time: 76952.09047746658sec
+List of applied operators:
+NumberChangerOperator; if (false === exclude && keys.length > 2) {
+NullCheckOperator; if (false === exclude && exclude && keys.length > 2) {
+ExprReplacerOperator; if (false === exclude && exclude && query.constructor.name > 2) {
+ExprReplacerOperator; if (false === exclude && exclude && 'Object' == opts.constructor.name) {
+ConditionalTypeChangerOperator; if (false === exclude && exclude && 'Object' & opts.constructor.name) {
+ConditionalTypeChangerOperator; if (false & exclude && exclude && 'Object' & opts.constructor.name) {
+VarChangerOperator; if (false & path && exclude && 'Object' & opts.constructor.name) {

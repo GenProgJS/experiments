@@ -1,0 +1,6 @@
+Generation: 4
+Elapsed time: 26274.710327625275sec
+List of applied operators:
+ConditionalTypeChangerOperator; if (false > exclude && keys.length > 1) {
+ExprReplacerOperator; if (false > exclude && 'string' != typeof path) {
+VarChangerOperator; if (false > exclude && 'string' != typeof pop) {

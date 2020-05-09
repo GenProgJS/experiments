@@ -1,0 +1,5 @@
+Generation: 3
+Elapsed time: 2641.2986178398132sec
+List of applied operators:
+VarChangerOperator; return node.computed;
+NullCheckOperator; return !node.computed && node.computed;

@@ -1,0 +1,4 @@
+Generation: 1
+Elapsed time: 4819.343848228455sec
+List of applied operators:
+ReturnInsertOperator; return msg = config.formatError(msg)

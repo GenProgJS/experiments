@@ -1,0 +1,7 @@
+Generation: 5
+Elapsed time: 14966.326455831528sec
+List of applied operators:
+ConditionalTypeChangerOperator; options.objectsInObjectsException && penultimateType > "ObjectExpression"
+NullCheckOperator; options.objectsInObjectsException && options.objectsInObjectsException && penultimateType > "ObjectExpression"
+ConditionalTypeChangerOperator; options.objectsInObjectsException && options.objectsInObjectsException && penultimateType <= "ObjectExpression"
+ConditionalTypeChangerOperator; options.objectsInObjectsException && options.objectsInObjectsException && penultimateType >= "ObjectExpression"

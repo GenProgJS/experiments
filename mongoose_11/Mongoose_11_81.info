@@ -1,0 +1,6 @@
+Generation: 6
+Elapsed time: 36184.12197804451sec
+List of applied operators:
+ConditionalTypeChangerOperator; if (false >= exclude && keys.length > 1) {
+ConditionalTypeChangerOperator; if (false >= exclude && keys.length === 1) {
+VarChangerOperator; if (false >= path && keys.length === 1) {

@@ -1,0 +1,18 @@
+Generation: 27
+Elapsed time: 9435.936215162277sec
+List of applied operators:
+CallChangerOperator; if (!trust()) {
+NullCheckOperator; if (!trust() && !trust()) {
+NullCheckOperator; if (!trust() && !trust() && !trust()) {
+CallChangerOperator; if (!trust() && !trust() && !trust('acceptedCharsets')) {
+CallChangerOperator; if (!trust(']') && !trust() && !trust('acceptedCharsets')) {
+CallChangerOperator; if (!trust(']', 0) && !trust() && !trust('acceptedCharsets')) {
+CallChangerOperator; if (!trust(']', 0) && !trust() && !trust()) {
+CallChangerOperator; if (!trust(']', 0) && !trust(false) && !trust()) {
+NullCheckOperator; if (!trust(']', 0) && !trust(']', 0) && !trust(false) && !trust()) {
+LogicalExprChangerOperator; if (!trust(']', 0) || !trust(']', 0) && !trust(false) && !trust()) {
+NullCheckOperator; if (!trust(']', 0) || !trust(']', 0) && !trust(false) && !trust(false) && !trust()) {
+CallChangerOperator; if (!trust(']', 0) || !trust(']', false) && !trust(false) && !trust(false) && !trust()) {
+CallChangerOperator; if (!trust(']', 0) || !trust(']', false) && !trust(false) && !trust() && !trust()) {
+ExprReplacerOperator; if (!trust(']', 0) || !trust(']', false) && !trust(false) && !trust() && !host.split('.').reverse()) {
+VarChangerOperator; if (!trust(']', 0) || !trust(']', false) && !trust(false) && !trust() && !this.headers.split('.').reverse()) {

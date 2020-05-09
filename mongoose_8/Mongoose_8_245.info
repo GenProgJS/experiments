@@ -1,0 +1,11 @@
+Generation: 25
+Elapsed time: 79133.0439889431sec
+List of applied operators:
+ReturnInsertOperator; return this.constructor.update.apply(this.constructor, args);
+CallChangerOperator; return this.constructor.update.apply(this.constructor, args, args);
+NullCheckOperator; return this.constructor.update.apply(this.constructor, args, args) && this.constructor.update.apply(this.constructor, args, args);
+CallChangerOperator; return this.constructor.update.apply(this.constructor, args, args) && this.constructor.update.apply(this.constructor, args, args, args, args);
+NullCheckOperator; return this.constructor.update.apply(this.constructor, args, args) && this.constructor.update.apply(this.constructor, args, args) && this.constructor.update.apply(this.constructor, args, args, args, args);
+CallChangerOperator; return this.constructor.update.apply(this.constructor, args, this.constructor, args, args) && this.constructor.update.apply(this.constructor, args, args) && this.constructor.update.apply(this.constructor, args, args, args, args);
+CallChangerOperator; return this.constructor.update.apply(this.constructor, args, this.constructor, args, args) && this.constructor.update.apply(this.constructor, args, args, args, args) && this.constructor.update.apply(this.constructor, args, args, args, args);
+LogicalExprChangerOperator; return this.constructor.update.apply(this.constructor, args, this.constructor, args, args) || this.constructor.update.apply(this.constructor, args, args, args, args) && this.constructor.update.apply(this.constructor, args, args, args, args);

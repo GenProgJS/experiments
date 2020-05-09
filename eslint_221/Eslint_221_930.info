@@ -1,0 +1,14 @@
+Generation: 25
+Elapsed time: 46625.55735850334sec
+List of applied operators:
+VarChangerOperator; return node;
+NullCheckOperator; return node && node;
+ExprReplacerOperator; return node.type === "Literal" && node.value === null;
+ExprReplacerOperator; return node.type === "Literal" && node.type === "Identifier";
+ConditionalTypeChangerOperator; return node.type >= "Literal" && node.type === "Identifier";
+ConditionalTypeChangerOperator; return node.type >= "Literal" && node.type !== "Identifier";
+ExprReplacerOperator; return node.type >= "Literal" && comment.indexOf("eslint-") === 0;
+ConditionalTypeChangerOperator; return node.type ^ "Literal" && comment.indexOf("eslint-") === 0;
+CallChangerOperator; return node.type ^ "Literal" && comment.indexOf(variable) === 0;
+CallChangerOperator; return node.type ^ "Literal" && comment.indexOf(isSurroundedBy) === 0;
+NullCheckOperator; return node.type ^ "Literal" && comment.indexOf(isSurroundedBy) && comment.indexOf(isSurroundedBy) === 0;

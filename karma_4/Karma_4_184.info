@@ -1,0 +1,12 @@
+Generation: 19
+Elapsed time: 22774.853301286697sec
+List of applied operators:
+NullCheckOperator; if (file && file && file.sourceMap) {
+NullCheckOperator; if (file && file && file && file.sourceMap) {
+VarChangerOperator; if (file && findFile && file && file.sourceMap) {
+NullCheckOperator; if (file && findFile && file && file && file.sourceMap) {
+VarChangerOperator; if (file && line && file && file && file.sourceMap) {
+ExprReplacerOperator; if (file && line && file && file && file.sourceMap && file && file.sourceMap) {
+VarChangerOperator; if (file && line && file && createReporters && file.sourceMap && file && file.sourceMap) {
+ExprReplacerOperator; if (file && line && file && createReporters && file.sourceMap) {
+VarChangerOperator; if (file && line && file && createReporters.$inject && file.sourceMap) {

@@ -1,0 +1,14 @@
+Generation: 22
+Elapsed time: 107379.14725780487sec
+List of applied operators:
+NullCheckOperator; msg = config.formatError(msg) && config.formatError(msg)
+ReturnInsertOperator; return msg = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return reporters = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return errorFormatter = config.formatError(msg) && config.formatError(msg)
+NullCheckOperator; return errorFormatter = config.formatError(msg) && config.formatError(msg) && config.formatError(msg)
+NullCheckOperator; return errorFormatter = config.formatError(msg) && config.formatError(msg) && config.formatError(msg) && config.formatError(msg)
+CallChangerOperator; return errorFormatter = config.formatError(msg) && config.formatError(msg) && config.formatError(msg) && config.formatError('(?:\\:', msg)
+VarChangerOperator; return errorFormatter = config.formatError(msg) && config.formatError(lastServedFiles) && config.formatError(msg) && config.formatError('(?:\\:', msg)
+NullCheckOperator; return errorFormatter = config.formatError(msg) && config.formatError(lastServedFiles) && config.formatError(lastServedFiles) && config.formatError(msg) && config.formatError('(?:\\:', msg)
+CallChangerOperator; return errorFormatter = config.formatError(msg) && config.formatError() && config.formatError(lastServedFiles) && config.formatError(msg) && config.formatError('(?:\\:', msg)
+CallChangerOperator; return errorFormatter = config.formatError(msg) && config.formatError('g') && config.formatError(lastServedFiles) && config.formatError(msg) && config.formatError('(?:\\:', msg)

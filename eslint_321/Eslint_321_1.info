@@ -1,0 +1,6 @@
+Generation: 8
+Elapsed time: 25491.158014297485sec
+List of applied operators:
+NullCheckOperator; } else if (tokenBefore.loc.end.line !== node.loc.end.line && option && option === "beside") {
+VarChangerOperator; } else if (tokenBefore.loc.end.line !== node.loc.start.line && option && option === "beside") {
+ConditionalTypeChangerOperator; } else if (tokenBefore.loc.end.line != node.loc.start.line && option && option === "beside") {

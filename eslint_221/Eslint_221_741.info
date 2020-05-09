@@ -1,0 +1,16 @@
+Generation: 21
+Elapsed time: 38515.30995154381sec
+List of applied operators:
+VarChangerOperator; return node;
+NullCheckOperator; return node && node;
+ExprReplacerOperator; return node.type === "Literal" && node.value === null;
+NullCheckOperator; return node.type && node.type === "Literal" && node.value === null;
+ConditionalTypeChangerOperator; return node.type && node.type > "Literal" && node.value === null;
+ConditionalTypeChangerOperator; return node.type && node.type !== "Literal" && node.value === null;
+ConditionalTypeChangerOperator; return node.type && node.type !== "Literal" && node.value != null;
+ConditionalTypeChangerOperator; return node.type && node.type >= "Literal" && node.value != null;
+NullCheckOperator; return node.type && node.type >= "Literal" && node.value && node.value != null;
+ConditionalTypeChangerOperator; return node.type && node.type <= "Literal" && node.value && node.value != null;
+ConditionalTypeChangerOperator; return node.type && node.type <= "Literal" && node.value && node.value & null;
+ConditionalTypeChangerOperator; return node.type && node.type <= "Literal" && node.value && node.value <= null;
+ExprReplacerOperator; return node.type && node.type <= "Literal" && node.value && sourceCode.getComments(node).leading <= null;

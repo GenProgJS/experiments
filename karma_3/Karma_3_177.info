@@ -1,0 +1,14 @@
+Generation: 22
+Elapsed time: 109284.15510988235sec
+List of applied operators:
+NullCheckOperator; msg = config.formatError(msg) && config.formatError(msg)
+ReturnInsertOperator; return msg = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return reporters = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return errorFormatter = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return path = config.formatError(msg) && config.formatError(msg)
+NullCheckOperator; return path = config.formatError(msg) && config.formatError(msg) && config.formatError(msg)
+CallChangerOperator; return path = config.formatError(msg) && config.formatError(msg) && config.formatError('./reporters/multi')
+VarChangerOperator; return path = config.formatError(msg) && config.formatError(lastServedFiles) && config.formatError('./reporters/multi')
+ExprReplacerOperator; return path = config.formatError(msg) && require('./logger').create('reporter') && config.formatError('./reporters/multi')
+CallChangerOperator; return path = config.formatError(msg) && config.formatError(')?') && config.formatError()
+NullCheckOperator; return path = config.formatError(msg) && config.formatError(')?') && config.formatError() && config.formatError()

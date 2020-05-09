@@ -1,0 +1,10 @@
+Generation: 8
+Elapsed time: 16438.935547351837sec
+List of applied operators:
+ConditionalTypeChangerOperator; if (p < parts.length) {
+NullCheckOperator; if (p < parts.length && parts.length) {
+ExprReplacerOperator; if (p < parts.length && parts.slice(0, p).join) {
+ExprReplacerOperator; if (p < parts.length && foundschema.schema) {
+ConditionalTypeChangerOperator; if (p <= parts.length && foundschema.schema) {
+ConditionalTypeChangerOperator; if (p != parts.length && foundschema.schema) {
+ConditionalTypeChangerOperator; if (p !== parts.length && foundschema.schema) {

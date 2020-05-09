@@ -1,0 +1,10 @@
+Generation: 16
+Elapsed time: 82005.51848340034sec
+List of applied operators:
+NullCheckOperator; msg = config.formatError(msg) && config.formatError(msg)
+ReturnInsertOperator; return msg = config.formatError(msg) && config.formatError(msg)
+VarChangerOperator; return reporters = config.formatError(msg) && config.formatError(msg)
+CallChangerOperator; return reporters = config.formatError(msg) && config.formatError()
+VarChangerOperator; return config = config.formatError(msg) && config.formatError()
+VarChangerOperator; return prefix = config.formatError(msg) && config.formatError()
+CallChangerOperator; return prefix = config.formatError(msg) && config.formatError('SourceMap position not found for trace: %s')
