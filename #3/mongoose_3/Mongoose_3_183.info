@@ -1,0 +1,15 @@
+Generation: 18
+Elapsed time: 61260.679317474365sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+FunctionCallRemoverOperator; if (top.value._atomics && top.value.hasAtomics) {
+BinaryOperatorChanger; if (top.value._atomics & top.value.hasAtomics) {
+NullCheckOperator; if (!top.value._atomics && top.value._atomics & top.value.hasAtomics) {
+BinaryOperatorChanger; if (!top.value._atomics && top.value._atomics / top.value.hasAtomics) {
+FunctionMakerOperator; if (!top.value._atomics && top.value._atomics() / top.value.hasAtomics) {
+ArithmeticBinaryOperatorChanger; if (!top.value._atomics && top.value._atomics() % top.value.hasAtomics) {
+CallChangerOperator; if (!top.value._atomics && top.this.schema.options.toJSON._atomics() % top.value.hasAtomics) {
+BinaryOperatorChanger; if (!top.value._atomics && top.this.schema.options.toJSON._atomics() >>> top.value.hasAtomics) {
+CallChangerOperator; if (!top.value._atomics && top.this.schema.options.toJSON() >>> top.value.hasAtomics) {
+BinaryOperatorChanger; if (!top.value._atomics && top.this.schema.options.toJSON() || top.value.hasAtomics) {

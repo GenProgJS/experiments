@@ -1,7 +1,0 @@
-Generation: 10
-Elapsed time: 50553.38670349121sec
-List of applied operators:
-NumberChangerOperator; if (-1 === exclude && keys.length > 1) {
-ConditionalTypeChangerOperator; if (-1 == exclude && keys.length > 1) {
-NullCheckOperator; if (-1 == exclude && !keys.length && keys.length > 1) {
-VarChangerOperator; if (-1 == Query.prototype.count && !keys.length && keys.length > 1) {

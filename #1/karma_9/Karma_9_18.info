@@ -1,0 +1,10 @@
+Generation: 20
+Elapsed time: 14787.300519227982sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(exports, '') || '/';
+CallChangerOperator; return pattern.replace(exports, '', chokidar) || '/';
+CallChangerOperator; return pattern.replace(exports, '', '', chokidar) || '/';
+CallChangerOperator; return pattern.replace(chokidar) || '/';
+StringChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') && pattern.replace(/\/[^\/]*[\*\(].*$/, '');

@@ -1,0 +1,11 @@
+Generation: 11
+Elapsed time: 3571.763242006302sec
+# of failed test cases in developer-fixed version: 8
+# of failed test cases in current version: 8
+List of applied operators:
+NullCheckOperator; if (!trust(this.connection.remoteAddress && this.connection.remoteAddress)) {
+BinaryOperatorChanger; if (!trust(this.connection.remoteAddress == this.connection.remoteAddress)) {
+CallChangerOperator; if (!trust(this.connection.remoteAddress == this.acceptedCharsets, this.connection.remoteAddress)) {
+BinaryOperatorChanger; if (!trust(this.connection.remoteAddress || this.acceptedCharsets, this.connection.remoteAddress)) {
+BinaryOperatorChanger; if (!trust(this.connection.remoteAddress ^ this.acceptedCharsets, this.connection.remoteAddress)) {
+CallChangerOperator; if (!trust(this.headers.referer, this.connection.remoteAddress ^ this.acceptedCharsets, this.connection.remoteAddress)) {

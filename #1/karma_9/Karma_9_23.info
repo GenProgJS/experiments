@@ -1,0 +1,14 @@
+Generation: 25
+Elapsed time: 18383.37090754509sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') || '/';
+NullCheckOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') && pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') || '/';
+ExprReplacerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') && pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') || '/' || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, watchPatterns) && pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') || '/' || '/';
+CallChangerOperator; return pattern.replace('add', '', chokidar) || '/';
+CallChangerOperator; return pattern.replace('add', '', getWatchedPatterns) || '/';
+CallChangerOperator; return pattern.replace('add', getWatchedPatterns) || '/';
+CallChangerOperator; return pattern.replace('add', 'add', getWatchedPatterns) || '/';
+BinaryOperatorChanger; return pattern.replace('add', 'add', getWatchedPatterns) ** '/';

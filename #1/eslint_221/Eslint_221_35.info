@@ -1,0 +1,7 @@
+Generation: 3
+Elapsed time: 5054.8142857551575sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+ExprReplacerOperator; return node.property.type;
+NullCheckOperator; return node.property && node.property.type;

@@ -1,0 +1,10 @@
+Generation: 16
+Elapsed time: 9837.486665964127sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, require) || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, require, require) || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, require, /\/[^\/]*[\*\(].*$/, require, require) || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, require, /\/[^\/]*[\*\(].*$/, require, /\/[^\/]*[\*\(].*$/, require, /\/[^\/]*[\*\(].*$/, require, require) || '/';
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, require, /\/[^\/]*[\*\(].*$/, require, /\/[^\/]*[\*\(].*$/, require, /\/[^\/]*[\*\(].*$/, require, require) ** '/';

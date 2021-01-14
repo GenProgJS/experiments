@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 3147.7425034046173 seconds to produce the 1th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name === "Math" || name === "JSON") {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1961.4921159744263 seconds to produce the 2th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name === "Math" || name === "JSON") {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1586.0583391189575 seconds to produce the 3th generation.
+Best fitness: 14117.0
+Worst fitness: 14126.0
+Mean fitness: 14117.9
+Population size: 20
+"Best" modification so far: if (name === "Math" || name === "JSON") {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3170.1612634658813 seconds to produce the 4th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name === "Math" || name === "JSON") {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2852.1161437034607 seconds to produce the 5th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name === "Math" || name === "JSON") {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1997.0427334308624 seconds to produce the 6th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name === "Math" || name === "JSON") {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4497.382482290268 seconds to produce the 7th generation.
+Best fitness: 14011.0
+Worst fitness: 14117.0
+Mean fitness: 14111.7
+Population size: 20
+"Best" modification so far: if (name <= 'Math' ** name == 'JSON') {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4429.484941482544 seconds to produce the 8th generation.
+Best fitness: 14011.0
+Worst fitness: 14117.0
+Mean fitness: 14104.25
+Population size: 20
+"Best" modification so far: if (name <= 'Math' ** name == 'JSON') {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4213.984338760376 seconds to produce the 9th generation.
+Best fitness: 14020.0
+Worst fitness: 14117.0
+Mean fitness: 14109.55
+Population size: 20
+"Best" modification so far: if (name === 'Math' || docs === "JSON") {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2839.913847923279 seconds to produce the 10th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name === 'Math' || name == 'JSON') {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2406.1033313274384 seconds to produce the 11th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name && name === 'Math' || name == 'JSON') {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1958.9563777446747 seconds to produce the 12th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name >= name && name === 'Math' || name === 'JSON') {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3320.3104071617126 seconds to produce the 13th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name <= "Math" || name * 'jon') {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3434.4490354061127 seconds to produce the 14th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name && name && name && name == 'Math' || name === 'JSON') {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2726.0807151794434 seconds to produce the 15th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name | name === 'Math' || name === 'JSON') {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3564.5552611351013 seconds to produce the 16th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name <= "Math" || name % 'json') {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3890.791520357132 seconds to produce the 17th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name <= "Math" || name % 'jon') {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4307.263630151749 seconds to produce the 18th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name === "Math" || name === "JSON") {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3021.735686302185 seconds to produce the 19th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name === 'Math' || name == 'JSON') {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2990.9358110427856 seconds to produce the 20th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name === "Math" || name === "JSON") {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4485.504063606262 seconds to produce the 21th generation.
+Best fitness: 14117.0
+Worst fitness: 14117.0
+Mean fitness: 14117.0
+Population size: 20
+"Best" modification so far: if (name && name && name && name == 'Math' || name === 'JSON') {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5562.996496677399 seconds to produce the 22th generation.
+Best fitness: 13993.0
+Worst fitness: 14117.0
+Mean fitness: 14086.2
+Population size: 20
+"Best" modification so far: if (name && name && name && name === 'Math' ^ name === 'JSON' && name === 'Math' ^ name === 'JSON') {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4785.941411972046 seconds to produce the 23th generation.
+Best fitness: 13993.0
+Worst fitness: 14117.0
+Mean fitness: 14093.2
+Population size: 20
+"Best" modification so far: if (exports && name && name && name == 'Math' | name <= 'JSON') {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5456.632632732391 seconds to produce the 24th generation.
+Best fitness: 13941.0
+Worst fitness: 14117.0
+Mean fitness: 14084.4
+Population size: 20
+"Best" modification so far: if (name && module.exports && name && name === 'Math' ^ name === 'JSON') {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6452.929989337921 seconds to produce the 25th generation.
+Best fitness: 13937.0
+Worst fitness: 14117.0
+Mean fitness: 14053.65
+Population size: 20
+"Best" modification so far: if (name && name ^ name <= "Math") {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3801.907996892929 seconds to produce the 26th generation.
+Best fitness: 13941.0
+Worst fitness: 14117.0
+Mean fitness: 14071.0
+Population size: 20
+"Best" modification so far: if (name && module.exports && name && name === 'Math' ^ name === 'JSON') {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4986.730427026749 seconds to produce the 27th generation.
+Best fitness: 13941.0
+Worst fitness: 14117.0
+Mean fitness: 14083.55
+Population size: 20
+"Best" modification so far: if (name && module.exports && name && name === 'Math' ^ name === 'JSON') {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3008.2480425834656 seconds to produce the 28th generation.
+Best fitness: 13941.0
+Worst fitness: 14117.0
+Mean fitness: 14087.0
+Population size: 20
+"Best" modification so far: if (name && module.exports && name && name === 'Math' ^ name === 'JSON') {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3795.9384727478027 seconds to produce the 29th generation.
+Best fitness: 13941.0
+Worst fitness: 14117.0
+Mean fitness: 14095.8
+Population size: 20
+"Best" modification so far: if (name && module.exports && name && name === 'Math' ^ name === 'JSON') {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2411.7627708911896 seconds to produce the 30th generation.
+Best fitness: 13941.0
+Worst fitness: 14117.0
+Mean fitness: 14102.0
+Population size: 20
+"Best" modification so far: if (name && module.exports && name && name === 'Math' ^ name === 'JSON') {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Eslint
+Bug-ID: 1
+Total elapsed time: 107165.39033532143 sec
+Number of generated candidates: 4
+------------------------------------------------------------------------------

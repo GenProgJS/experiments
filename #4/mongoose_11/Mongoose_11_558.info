@@ -1,0 +1,10 @@
+Generation: 27
+Elapsed time: 90948.63266992569sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && opts.constructor > 1) {
+BinaryOperatorChanger; if (false === exclude && opts.constructor <= 1) {
+BinaryOperatorChanger; if (false === exclude && opts.constructor - 1) {
+BinaryOperatorChanger; if (false === exclude && opts.constructor ^ 1) {
+ExprReplacerOperator; if (arguments.length === 0 && opts.constructor ^ 1) {

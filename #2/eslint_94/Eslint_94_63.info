@@ -1,0 +1,16 @@
+Generation: 18
+Elapsed time: 49166.907796382904sec
+# of failed test cases in buggy version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+BinaryOperatorChanger; op.type === "Punctuator" &
+ConditionalBinaryOperatorChanger; op.type >= "Punctuator" &
+NullCheckOperator; op && op.type >= "Punctuator" &
+VarChangerOperator; i && op.type >= "Punctuator" &
+NullCheckOperator; i && op.type && op.type >= "Punctuator" &
+StringChangerOperator; i && op.type && op.type >= 'PUNCTUATOR' &
+BinaryOperatorChanger; i | op.type && op.type >= 'PUNCTUATOR' &
+ExprReplacerOperator; i | tokens[i + 1].range && op.type >= 'PUNCTUATOR' &
+ArraySubscripterOperator; i | tokens[i + 1 >= 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0].range && op.type >= 'PUNCTUATOR' &
+ConditionalBinaryOperatorChanger; i | tokens[i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0].range && op.type >= 'PUNCTUATOR' &
+ConditionalBinaryOperatorChanger; i | tokens[i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0].range && op.type !== 'PUNCTUATOR' &

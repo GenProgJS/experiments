@@ -1,0 +1,14 @@
+Generation: 21
+Elapsed time: 12286.382208824158sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+BinaryOperatorChanger; if (typeof arg !== 'function' && (arg && null || arg.length !== 0)) {
+BinaryOperatorChanger; if (typeof arg !== 'function' && (arg && null + arg.length !== 0)) {
+LogicalExprChangerOperator; if (typeof arg !== 'function' && (arg || null + arg.length !== 0)) {
+BinaryOperatorChanger; if (typeof arg !== 'function' && (arg || null + arg.length + 0)) {
+NullCheckOperator; if (typeof arg && typeof arg !== 'function' && (arg || null + arg.length + 0)) {
+ArithmeticBinaryOperatorChanger; if (typeof arg && typeof arg !== 'function' && (arg || null % arg.length + 0)) {
+ArithmeticBinaryOperatorChanger; if (typeof arg && typeof arg !== 'function' && (arg || null % arg.length - 0)) {
+ArithmeticBinaryOperatorChanger; if (typeof arg && typeof arg !== 'function' && (arg || null + arg.length - 0)) {
+NumberChangerOperator; if (typeof arg && typeof arg !== 'function' && (arg || null + arg.length - 1)) {

@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 3023.3182411193848 seconds to produce the 1th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: options.objectsInObjectsException && penultimateType === "ObjectExpression"
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1152.4565088748932 seconds to produce the 2th generation.
+Best fitness: 11704.0
+Worst fitness: 11713.0
+Mean fitness: 11704.45
+Population size: 20
+"Best" modification so far: options.objectsInObjectsException && penultimateType === "ObjectExpression"
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3611.7083303928375 seconds to produce the 3th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: options.objectsInObjectsException && penultimate.value === '}'
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1139.474674463272 seconds to produce the 4th generation.
+Best fitness: 11704.0
+Worst fitness: 11767.0
+Mean fitness: 11710.3
+Population size: 20
+"Best" modification so far: options.objectsInObjectsException && penultimate.value == "}"
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3299.7556178569794 seconds to produce the 5th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start).type && penultimateType === "ObjectExpression"
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2893.861407518387 seconds to produce the 6th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: options.objectsInObjectsException && penultimateType === "ObjectExpression"
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3434.148698091507 seconds to produce the 7th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: options.objectsInObjectsException && penultimateType === "ObjectExpression"
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3144.477298259735 seconds to produce the 8th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: reportRequiredBeginningSpace && penultimateType === "ObjectExpression"
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4250.598155736923 seconds to produce the 9th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: options.objectsInObjectsException && penultimate.value === '}'
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2388.9650938510895 seconds to produce the 10th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start || previousToken.range).type && penultimateType == "ObjectExpression"
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4016.4309873580933 seconds to produce the 11th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getFirstToken && penultimateType === "ObjectExpression"
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4893.706332683563 seconds to produce the 12th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start || penultimate(" ").start).type && penultimateType == "ObjectExpression"
+Number of repair candidates: 7
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4474.970201730728 seconds to produce the 13th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start || penultimate().start).type && penultimateType === "ObjectExpression"
+Number of repair candidates: 9
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4087.0086472034454 seconds to produce the 14th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start || penultimate(" ").start).type && penultimateType == "ObjectExpression"
+Number of repair candidates: 9
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3674.283046245575 seconds to produce the 15th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start > penultimate.start).type && penultimateType && penultimateType === "ObjectExpression"
+Number of repair candidates: 9
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3731.645643234253 seconds to produce the 16th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getFirstToken && penultimateType === "ObjectExpression"
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3864.152213573456 seconds to produce the 17th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getFirstToken && penultimateType === "ObjectExpression"
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4599.712240219116 seconds to produce the 18th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start).type | penultimateType == "ObjectExpression"
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5168.593989133835 seconds to produce the 19th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start >>> penultimate.start).type && penultimateType === "ObjectExpression"
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4204.845155715942 seconds to produce the 20th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start && penultimate.start).type && penultimateType === "ObjectExpression"
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3582.110069990158 seconds to produce the 21th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length * 1 : 0]).type && penultimateType === "ObjectExpression"
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4609.150298118591 seconds to produce the 22th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(options.arraysInObjectsException + "ArrayExpression" === "]").type && penultimateType === "ObjectExpression"
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4255.129761457443 seconds to produce the 23th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(options.arraysInObjectsException / "ArrayExpression" === "]").type && penultimateType === "ObjectExpression"
+Number of repair candidates: 22
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5761.657763957977 seconds to produce the 24th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0]).type && penultimateType === "ObjectExpression"
+Number of repair candidates: 23
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3777.6214361190796 seconds to produce the 25th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length % 1 : 0]).type && penultimateType === "ObjectExpression"
+Number of repair candidates: 25
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5132.818497419357 seconds to produce the 26th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length ** 1 : 0 * context.options.length % context.options.length]).type && penultimateType === "ObjectExpression"
+Number of repair candidates: 25
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 7602.09991979599 seconds to produce the 27th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start >>> penultimate.start).type && penultimateType === "ObjectExpression"
+Number of repair candidates: 25
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5905.6616587638855 seconds to produce the 28th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start || sourceCode.getNodeByRangeIndex(penultimate.start || token.value).type).type && penultimateType === "ObjectExpression"
+Number of repair candidates: 26
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4101.267011880875 seconds to produce the 29th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length ** 1 : 0 * context.options.length]).type && penultimateType === "ObjectExpression"
+Number of repair candidates: 26
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5167.145590305328 seconds to produce the 30th generation.
+Best fitness: 11704.0
+Worst fitness: 11704.0
+Mean fitness: 11704.0
+Population size: 20
+"Best" modification so far: sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length ** 1 : 0 + context.options.length % context.options.length % context.options.length]).type && penultimateType === "ObjectExpression"
+Number of repair candidates: 26
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Eslint
+Bug-ID: 100
+Total elapsed time: 121052.59579229355 sec
+Number of generated candidates: 26
+------------------------------------------------------------------------------

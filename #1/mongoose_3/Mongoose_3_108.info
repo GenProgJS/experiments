@@ -1,0 +1,8 @@
+Generation: 17
+Elapsed time: 26541.514629364014sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(item.value && this.id)) return;
+BinaryOperatorChanger; if (!(item.value <= this.id)) return;
+ConditionalChangerOperator; if (item.value <= this.id) return;

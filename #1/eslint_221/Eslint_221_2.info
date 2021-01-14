@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 393.6741473674774sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+ReturnNoneOperator; return undefined;

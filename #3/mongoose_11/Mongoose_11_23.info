@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 11866.413797616959sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && 'string' == typeof value.$geometry.type) {
+NumberChangerOperator; if (-1 === exclude && 'string' == typeof value.$geometry.type) {

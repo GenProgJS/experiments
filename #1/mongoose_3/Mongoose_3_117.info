@@ -1,0 +1,7 @@
+Generation: 19
+Elapsed time: 28938.211250305176sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(item.value && Document.prototype._set.value)) return;
+ConditionalChangerOperator; if (item.value && Document.prototype._set.value) return;

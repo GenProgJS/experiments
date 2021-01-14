@@ -1,5 +1,0 @@
-Generation: 3
-Elapsed time: 20305.06092095375sec
-List of applied operators:
-CallChangerOperator; this.constructor.update.apply(args, args);
-ReturnInsertOperator; return this.constructor.update.apply(args, args);

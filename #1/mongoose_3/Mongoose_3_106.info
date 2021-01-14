@@ -1,0 +1,7 @@
+Generation: 16
+Elapsed time: 25524.380000591278sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(item.nested && top.value)) return;
+LogicalExprChangerOperator; if (!(item.nested || top.value)) return;

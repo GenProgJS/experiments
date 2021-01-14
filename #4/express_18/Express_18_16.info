@@ -1,0 +1,8 @@
+Generation: 3
+Elapsed time: 1631.8051509857178sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+NullCheckOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match === paramVal)) {
+ExprReplacerOperator; if (paramCalled && (paramCalled.error && Object.prototype || paramCalled.match === paramVal)) {
+VarChangerOperator; if (paramCalled && (paramCalled.error && Object.isArray || paramCalled.match === paramVal)) {

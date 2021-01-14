@@ -1,0 +1,6 @@
+Generation: 16
+Elapsed time: 61111.084809064865sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+TreeCrossoverOperator; if (false && ascend.length != 1) {; parents; if (false === exclude == utils.merge <= 1) {; if (false != exclude && ascend.length != 1) {

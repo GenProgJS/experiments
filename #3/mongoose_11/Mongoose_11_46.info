@@ -1,0 +1,7 @@
+Generation: 2
+Elapsed time: 18636.42286014557sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && 'string' == typeof value.$geometry.type) {
+NullCheckOperator; if (false === exclude && exclude && 'string' == typeof value.$geometry.type) {

@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 8934.54969239235 seconds to produce the 1th generation.
+Best fitness: 905.0
+Worst fitness: 914.0
+Mean fitness: 911.35
+Population size: 20
+"Best" modification so far: return this.constructor.update.apply(this.constructor, args);
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 7899.6756892204285 seconds to produce the 2th generation.
+Best fitness: 873.0
+Worst fitness: 914.0
+Mean fitness: 906.6
+Population size: 20
+"Best" modification so far: this.constructor.update.apply(this.constructor, shouldSet);
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5651.72429895401 seconds to produce the 3th generation.
+Best fitness: 873.0
+Worst fitness: 905.0
+Mean fitness: 902.0
+Population size: 20
+"Best" modification so far: this.constructor.update.apply(this.constructor, shouldSet);
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4761.068112611771 seconds to produce the 4th generation.
+Best fitness: 883.0
+Worst fitness: 905.0
+Mean fitness: 903.9
+Population size: 20
+"Best" modification so far: fn = opts;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4248.144110441208 seconds to produce the 5th generation.
+Best fitness: 905.0
+Worst fitness: 905.0
+Mean fitness: 905.0
+Population size: 20
+"Best" modification so far: this.$__path.saveError = DocumentError;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3435.151166200638 seconds to produce the 6th generation.
+Best fitness: 886.0
+Worst fitness: 905.0
+Mean fitness: 904.05
+Population size: 20
+"Best" modification so far: self.isModified;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2968.506075143814 seconds to produce the 7th generation.
+Best fitness: 874.0
+Worst fitness: 905.0
+Mean fitness: 902.5
+Population size: 20
+"Best" modification so far: l = null;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3390.65967130661 seconds to produce the 8th generation.
+Best fitness: 874.0
+Worst fitness: 905.0
+Mean fitness: 902.5
+Population size: 20
+"Best" modification so far: l = null;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2710.5053992271423 seconds to produce the 9th generation.
+Best fitness: 874.0
+Worst fitness: 905.0
+Mean fitness: 902.2
+Population size: 20
+"Best" modification so far: l = null;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2810.235629081726 seconds to produce the 10th generation.
+Best fitness: 874.0
+Worst fitness: 905.0
+Mean fitness: 903.15
+Population size: 20
+"Best" modification so far: l = null;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2522.8105778694153 seconds to produce the 11th generation.
+Best fitness: 874.0
+Worst fitness: 905.0
+Mean fitness: 903.45
+Population size: 20
+"Best" modification so far: l = null;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3660.355338573456 seconds to produce the 12th generation.
+Best fitness: 874.0
+Worst fitness: 905.0
+Mean fitness: 903.45
+Population size: 20
+"Best" modification so far: l = null;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2095.373542547226 seconds to produce the 13th generation.
+Best fitness: 874.0
+Worst fitness: 905.0
+Mean fitness: 903.45
+Population size: 20
+"Best" modification so far: l = null;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2339.0559933185577 seconds to produce the 14th generation.
+Best fitness: 874.0
+Worst fitness: 905.0
+Mean fitness: 903.45
+Population size: 20
+"Best" modification so far: l = null;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2764.4768855571747 seconds to produce the 15th generation.
+Best fitness: 874.0
+Worst fitness: 905.0
+Mean fitness: 903.45
+Population size: 20
+"Best" modification so far: l = null;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3282.45432472229 seconds to produce the 16th generation.
+Best fitness: 874.0
+Worst fitness: 905.0
+Mean fitness: 903.45
+Population size: 20
+"Best" modification so far: l = null;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2681.4406197071075 seconds to produce the 17th generation.
+Best fitness: 874.0
+Worst fitness: 905.0
+Mean fitness: 903.3
+Population size: 20
+"Best" modification so far: l = null;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2421.804193496704 seconds to produce the 18th generation.
+Best fitness: 874.0
+Worst fitness: 905.0
+Mean fitness: 903.45
+Population size: 20
+"Best" modification so far: l = null;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2562.894022703171 seconds to produce the 19th generation.
+Best fitness: 874.0
+Worst fitness: 905.0
+Mean fitness: 903.45
+Population size: 20
+"Best" modification so far: l = null;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4078.702734231949 seconds to produce the 20th generation.
+Best fitness: 874.0
+Worst fitness: 905.0
+Mean fitness: 903.45
+Population size: 20
+"Best" modification so far: l = null;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2381.506778717041 seconds to produce the 21th generation.
+Best fitness: 905.0
+Worst fitness: 905.0
+Mean fitness: 905.0
+Population size: 20
+"Best" modification so far: Object.keys;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3109.1257181167603 seconds to produce the 22th generation.
+Best fitness: 905.0
+Worst fitness: 905.0
+Mean fitness: 905.0
+Population size: 20
+"Best" modification so far: !this.$__storeShard() - this.$__storeShard();
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3771.947073698044 seconds to produce the 23th generation.
+Best fitness: 905.0
+Worst fitness: 905.0
+Mean fitness: 905.0
+Population size: 20
+"Best" modification so far: !this.$__storeShard() / this.$__storeShard;
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3116.446091890335 seconds to produce the 24th generation.
+Best fitness: 905.0
+Worst fitness: 905.0
+Mean fitness: 905.0
+Population size: 20
+"Best" modification so far: this.constructor.update.apply(this.constructor, args) - this.constructor.apply(this.constructor, args);
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2596.730994939804 seconds to produce the 25th generation.
+Best fitness: 905.0
+Worst fitness: 905.0
+Mean fitness: 905.0
+Population size: 20
+"Best" modification so far: this.constructor.update.apply(this.constructor, args, args) * this.constructor.update.apply(this.constructor, args);
+Number of repair candidates: 7
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2588.9995131492615 seconds to produce the 26th generation.
+Best fitness: 905.0
+Worst fitness: 905.0
+Mean fitness: 905.0
+Population size: 20
+"Best" modification so far: !this.$__storeShard() / this.$__storeShard;
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3660.092315673828 seconds to produce the 27th generation.
+Best fitness: 905.0
+Worst fitness: 905.0
+Mean fitness: 905.0
+Population size: 20
+"Best" modification so far: this.constructor.update.apply(this.constructor, args, this.constructor, args, args) & this.constructor.update.apply(this.constructor, args);
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3334.5574526786804 seconds to produce the 28th generation.
+Best fitness: 905.0
+Worst fitness: 905.0
+Mean fitness: 905.0
+Population size: 20
+"Best" modification so far: this.constructor.apply(this.constructor, args, args) <= this.constructor.update.apply(this.constructor, args);
+Number of repair candidates: 9
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3366.417274236679 seconds to produce the 29th generation.
+Best fitness: 905.0
+Worst fitness: 905.0
+Mean fitness: 905.0
+Population size: 20
+"Best" modification so far: this.constructor.update.apply(this.constructor, args) == this.populated(this.constructor, args, args);
+Number of repair candidates: 9
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3269.476369857788 seconds to produce the 30th generation.
+Best fitness: 905.0
+Worst fitness: 905.0
+Mean fitness: 905.0
+Population size: 20
+"Best" modification so far: this.constructor.update.apply(require('./schematype').ValidatorError, args) == this.populated(this.constructor, args, args);
+Number of repair candidates: 9
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Mongoose
+Bug-ID: 8
+Total elapsed time: 106511.64975261688 sec
+Number of generated candidates: 9
+------------------------------------------------------------------------------

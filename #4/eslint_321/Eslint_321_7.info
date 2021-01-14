@@ -1,0 +1,16 @@
+Generation: 27
+Elapsed time: 70427.75168895721sec
+# of failed test cases in developer-fixed version: 25
+# of failed test cases in current version: 25
+List of applied operators:
+NullCheckOperator; } else if (tokenBefore.loc.end.line && tokenBefore.loc.end.line !== node.loc.end.line && option === "beside") {
+ConditionalBinaryOperatorChanger; } else if (tokenBefore.loc.end.line && tokenBefore.loc.end.line != node.loc.end.line && option === "beside") {
+NullCheckOperator; } else if (tokenBefore.loc.end.line && tokenBefore.loc.end.line != node.loc.end.line && option && option === "beside") {
+ConditionalBinaryOperatorChanger; } else if (tokenBefore.loc.end.line && tokenBefore.loc.end.line != node.loc.end.line && option && option == "beside") {
+ConditionalBinaryOperatorChanger; } else if (tokenBefore.loc.end.line && tokenBefore.loc.end.line !== node.loc.end.line && option && option == "beside") {
+BinaryOperatorChanger; } else if (tokenBefore.loc.end.line && tokenBefore.loc.end.line - node.loc.end.line && option && option == "beside") {
+ArithmeticBinaryOperatorChanger; } else if (tokenBefore.loc.end.line && tokenBefore.loc.end.line % node.loc.end.line && option && option == "beside") {
+ExprReplacerOperator; } else if (tokenBefore.loc.end.line && tokenBefore.loc.end.line % node.loc.end.line && option == "beside") {
+ArithmeticBinaryOperatorChanger; } else if (tokenBefore.loc.end.line && tokenBefore.loc.end.line - node.loc.end.line && option == "beside") {
+ConditionalBinaryOperatorChanger; } else if (tokenBefore.loc.end.line && tokenBefore.loc.end.line - node.loc.end.line && option >= "beside") {
+BinaryOperatorChanger; } else if (tokenBefore.loc.end.line ** tokenBefore.loc.end.line - node.loc.end.line && option >= "beside") {

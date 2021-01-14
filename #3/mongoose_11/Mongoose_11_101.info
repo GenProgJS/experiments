@@ -1,0 +1,8 @@
+Generation: 4
+Elapsed time: 26847.384766578674sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+FunctionMakerOperator; if (false === exclude && keys().length > 1) {
+ConditionalBinaryOperatorChanger; if (false == exclude && keys().length > 1) {
+ExprReplacerOperator; if ('function' == typeof options && keys().length > 1) {

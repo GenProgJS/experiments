@@ -1,0 +1,8 @@
+Generation: 4
+Elapsed time: 1837.4495568275452sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+NullCheckOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match === paramVal)) {
+ExprReplacerOperator; if (paramCalled && (Array.isArray && paramCalled.error || paramCalled.match === paramVal)) {
+BinaryOperatorChanger; if (paramCalled && (Array.isArray * paramCalled.error || paramCalled.match === paramVal)) {

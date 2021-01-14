@@ -1,0 +1,9 @@
+Generation: 9
+Elapsed time: 5231.638957262039sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, 'config.exclude') || '/';
+NullCheckOperator; return pattern.replace && pattern.replace('chokidar', 1) || '/';
+ExprReplacerOperator; return pattern.replace && pattern.replace('chokidar', 1);
+BinaryOperatorChanger; return pattern.replace ** pattern.replace('chokidar', 1);

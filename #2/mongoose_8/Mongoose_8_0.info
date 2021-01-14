@@ -1,0 +1,8 @@
+Generation: 13
+Elapsed time: 58355.76899075508sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; this.constructor.update.apply(utils.object.vals, args);
+CallChangerOperator; this.constructor.update.apply(utils.object.vals, args, args);
+ReturnInsertOperator; return this.constructor.update.apply(utils.object.vals, args, args);

@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 976.5637466907501sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+BinaryOperatorChanger; if (typeof arg !== 'function' && (arg << null || arg.length !== 0)) {
+NumberChangerOperator; if (typeof arg !== 'function' && (arg << null || arg.length !== -1)) {

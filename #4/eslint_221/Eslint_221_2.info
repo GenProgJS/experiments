@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 673.3082938194275sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+ExprReplacerOperator; return node.operator;

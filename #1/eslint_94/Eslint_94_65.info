@@ -1,0 +1,6 @@
+Generation: 26
+Elapsed time: 106132.56457424164sec
+# of failed test cases in buggy version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+TreeCrossoverOperator; op >= op != op * op.type / op && op.type && op >= op != op % op.type / op && op.type &&; parents; op >= op != op * op.type / op && op.type && op.type === "Punctuator" &&; op >= op != op % op.type / op && op.type && op.type === "Punctuator" &&

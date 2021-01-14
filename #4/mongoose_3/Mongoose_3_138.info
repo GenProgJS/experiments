@@ -1,0 +1,6 @@
+Generation: 12
+Elapsed time: 35417.38101053238sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+ExprReplacerOperator; if (Document.prototype && top.value.hasAtomics()) {

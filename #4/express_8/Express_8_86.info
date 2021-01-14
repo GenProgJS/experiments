@@ -1,0 +1,7 @@
+Generation: 7
+Elapsed time: 4092.84361743927sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+BinaryOperatorChanger; if (typeof arg !== 'function' && (arg == null ^ arg.length !== 0)) {
+ExprReplacerOperator; if (typeof arg !== 'function' && (arg == null ^ self.param !== 0)) {

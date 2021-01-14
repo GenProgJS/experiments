@@ -1,0 +1,8 @@
+Generation: 5
+Elapsed time: 2219.6468575000763sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+VarChangerOperator; if (paramCalled && (paramCalled.error || paramCalled.match === req.params[name])) {
+ExprReplacerOperator; if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match === req.params[name]))) {
+BinaryOperatorChanger; if (paramCalled ^ (paramCalled && (paramCalled.error || paramCalled.match === req.params[name]))) {

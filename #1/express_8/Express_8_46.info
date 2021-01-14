@@ -1,0 +1,7 @@
+Generation: 3
+Elapsed time: 1763.2215249538422sec
+# of failed test cases in buggy version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+ExprReplacerOperator; if (typeof arg !== 'function' && (arg == null || app.lazyrouter !== 0)) {
+BinaryOperatorChanger; if (typeof arg !== 'function' && (arg ** null || app.lazyrouter !== 0)) {

@@ -1,0 +1,17 @@
+Generation: 23
+Elapsed time: 14038.551809310913sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+NullCheckOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match === paramVal)) {
+NullCheckOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match && paramCalled.match === paramVal)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match && paramCalled.match == paramVal)) {
+NullCheckOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match && paramCalled.match && paramCalled.match == paramVal)) {
+ExprReplacerOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match && proto.param && paramCalled.match == paramVal)) {
+LogicalExprChangerOperator; if (paramCalled && (paramCalled.error || paramCalled.error || paramCalled.match && proto.param && paramCalled.match == paramVal)) {
+ExprReplacerOperator; if (paramCalled && (paramCalled.error || paramCalled.error || paramCalled.error || paramCalled.error || paramCalled.match && proto.param && paramCalled.match == paramVal)) {
+BinaryOperatorChanger; if (paramCalled && (paramCalled.error | paramCalled.error || paramCalled.error || paramCalled.error || paramCalled.match && proto.param && paramCalled.match == paramVal)) {
+ExprReplacerOperator; if (paramCalled && (paramCalled.error | paramCalled.error || paramCalled.error || paramCalled.error || paramCalled.match && Array.prototype && paramCalled.match == paramVal)) {
+BitwiseBinaryOperatorChanger; if (paramCalled && (paramCalled.error & paramCalled.error || paramCalled.error || paramCalled.error || paramCalled.match && Array.prototype && paramCalled.match == paramVal)) {
+BinaryOperatorChanger; if (paramCalled && (paramCalled.error & paramCalled.error - paramCalled.error || paramCalled.error || paramCalled.match && Array.prototype && paramCalled.match == paramVal)) {
+VarChangerOperator; if (paramCalled && (paramCalled.error & paramCalled.error - paramCalled.error || paramCalled.end || paramCalled.match && Array.prototype && paramCalled.match == paramVal)) {

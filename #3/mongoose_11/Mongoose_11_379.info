@@ -1,0 +1,8 @@
+Generation: 29
+Elapsed time: 107481.86737728119sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ConditionalChangerOperator; if (false === exclude) {
+BinaryOperatorChanger; if (false > exclude) {
+ExprReplacerOperator; if ('distinct' == this.op) {

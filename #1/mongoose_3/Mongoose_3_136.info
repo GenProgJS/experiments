@@ -1,0 +1,7 @@
+Generation: 23
+Elapsed time: 35374.05454111099sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+VarChangerOperator; if (!(item.value && top.populated)) return;
+LogicalExprChangerOperator; if (!(item.value || top.populated)) return;

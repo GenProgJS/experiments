@@ -1,0 +1,7 @@
+Generation: 5
+Elapsed time: 9436.942502737045sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(this.try && top.value)) return;
+BinaryOperatorChanger; if (!(this.try != top.value)) return;

@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 629.2273879051208 seconds to produce the 1th generation.
+Best fitness: 7013.0
+Worst fitness: 7022.0
+Mean fitness: 7021.55
+Population size: 20
+"Best" modification so far: } else if (definition.type === "Parameter" || node.type === "FunctionDeclaration") {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1318.8659133911133 seconds to produce the 2th generation.
+Best fitness: 7004.0
+Worst fitness: 7022.0
+Mean fitness: 7020.65
+Population size: 20
+"Best" modification so far: } else if (definition.type === "Parameter" && node.type <= "FunctionDeclaration") {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1139.9967267513275 seconds to produce the 3th generation.
+Best fitness: 7004.0
+Worst fitness: 7022.0
+Mean fitness: 7019.3
+Population size: 20
+"Best" modification so far: } else if (definition.type === "Parameter" && node.type <= "FunctionDeclaration") {
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1500.650684595108 seconds to produce the 4th generation.
+Best fitness: 6995.0
+Worst fitness: 7022.0
+Mean fitness: 7016.15
+Population size: 20
+"Best" modification so far: } else if (definition.type >= "Parameter" || node.type != "FunctionDeclaration") {
+Number of repair candidates: 12
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1208.7543971538544 seconds to produce the 5th generation.
+Best fitness: 6995.0
+Worst fitness: 7022.0
+Mean fitness: 7013.9
+Population size: 20
+"Best" modification so far: } else if (definition.type >= 'Parameter' || node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1802.5242669582367 seconds to produce the 6th generation.
+Best fitness: 6995.0
+Worst fitness: 7013.0
+Mean fitness: 7004.9
+Population size: 20
+"Best" modification so far: } else if (definition.type >= 'Parameter' || node.type && node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 28
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2039.6101965904236 seconds to produce the 7th generation.
+Best fitness: 6995.0
+Worst fitness: 7013.0
+Mean fitness: 7003.1
+Population size: 20
+"Best" modification so far: } else if (definition.type >= "Parameter" || node.type < "FunctionDeclaration") {
+Number of repair candidates: 37
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1797.2800619602203 seconds to produce the 8th generation.
+Best fitness: 6995.0
+Worst fitness: 7013.0
+Mean fitness: 7001.75
+Population size: 20
+"Best" modification so far: } else if (definition && definition.type >= 'Parameter' || node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 50
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2047.0057549476624 seconds to produce the 9th generation.
+Best fitness: 6995.0
+Worst fitness: 7004.0
+Mean fitness: 7000.4
+Population size: 20
+"Best" modification so far: } else if (definition.type >= 'Parameter' || node.type && node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 56
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2361.567305088043 seconds to produce the 10th generation.
+Best fitness: 6995.0
+Worst fitness: 7004.0
+Mean fitness: 6999.05
+Population size: 20
+"Best" modification so far: } else if (definition.type >= 'Parameter' || node.type && node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 68
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1892.312914133072 seconds to produce the 11th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition.type === 'Parameter' || node.type && node.type && node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 73
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1924.2533588409424 seconds to produce the 12th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition.type > 'Param' || node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 84
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1982.6502678394318 seconds to produce the 13th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition.type > 'Param' || node && node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 92
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1992.894851922989 seconds to produce the 14th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition.type == "Parameter" || node.type != "FunctionDeclaration") {
+Number of repair candidates: 99
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1474.9509291648865 seconds to produce the 15th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition && definition.type === 'Parameter' || node.type && node.type && node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 112
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1970.485867023468 seconds to produce the 16th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition && definition.type >= "Parameter" || node.type < "FunctionDeclaration") {
+Number of repair candidates: 126
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1514.2859613895416 seconds to produce the 17th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition.type >= 'Parameter' || node.type < 'FUNCTIONDECLARATION') {
+Number of repair candidates: 135
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1709.4800374507904 seconds to produce the 18th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition && definition.type >= "Parameter" || node.type < 'FUNCTIONDECLARATION') {
+Number of repair candidates: 144
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1574.0327591896057 seconds to produce the 19th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition.type > 'Param' || node && node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 157
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1852.5593900680542 seconds to produce the 20th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition && definition.type >= 'Param' || node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 170
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1954.3684101104736 seconds to produce the 21th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition && definition.type >= 'Param' || node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 179
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1381.7166347503662 seconds to produce the 22th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition.type && definition.type > 'Param' || node && node.type < 'FunctionDeclaration') {
+Number of repair candidates: 187
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1347.809245109558 seconds to produce the 23th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition | definition.type > 'Param' || node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 193
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2030.336140871048 seconds to produce the 24th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition && definition.type >= 'Param' || node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 210
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1789.7633504867554 seconds to produce the 25th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition.type == 'Parameter' || node && variable.references && node.type < 'FunctionDeclaration') {
+Number of repair candidates: 220
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1297.2554905414581 seconds to produce the 26th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition.type >= 'Parameter' || node.type && node.type < 'FunctionDeclaration') {
+Number of repair candidates: 228
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1846.0227806568146 seconds to produce the 27th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition && definition.type >= 'Param' || node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 232
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1729.073665857315 seconds to produce the 28th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition.type >= 'Parameter' || node.type && node.type != 'FunctionDeclaration') {
+Number of repair candidates: 245
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1224.3349220752716 seconds to produce the 29th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition.type == 'Parameter' || node && variable.references && node.type !== 'FunctionDeclaration') {
+Number of repair candidates: 254
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1862.5124473571777 seconds to produce the 30th generation.
+Best fitness: 6995.0
+Worst fitness: 6995.0
+Mean fitness: 6995.0
+Population size: 20
+"Best" modification so far: } else if (definition && definition && definition.type >= 'P' || node.type != 'FunctionDeclaration') {
+Number of repair candidates: 260
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Eslint
+Bug-ID: 323
+Total elapsed time: 50280.41744828224 sec
+Number of generated candidates: 260
+------------------------------------------------------------------------------

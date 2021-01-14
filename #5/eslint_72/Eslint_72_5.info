@@ -1,0 +1,14 @@
+Generation: 19
+Elapsed time: 62011.6113986969sec
+# of failed test cases in developer-fixed version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+NullCheckOperator; loc: lastItem && lastItem.loc.end,
+VarChangerOperator; loc: MISSING_MESSAGE && lastItem.loc.end,
+NullCheckOperator; loc: MISSING_MESSAGE && lastItem.loc && lastItem.loc.end,
+NullCheckOperator; loc: MISSING_MESSAGE && lastItem && lastItem.loc && lastItem.loc.end,
+BinaryOperatorChanger; loc: MISSING_MESSAGE !== lastItem && lastItem.loc && lastItem.loc.end,
+BinaryOperatorChanger; loc: MISSING_MESSAGE !== lastItem + lastItem.loc && lastItem.loc.end,
+BinaryOperatorChanger; loc: MISSING_MESSAGE + lastItem + lastItem.loc && lastItem.loc.end,
+ArithmeticBinaryOperatorChanger; loc: MISSING_MESSAGE * lastItem + lastItem.loc && lastItem.loc.end,
+ExprReplacerOperator; loc: MISSING_MESSAGE * lastItem + lastItem.loc && penultimateToken.loc.end,

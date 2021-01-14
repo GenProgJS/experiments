@@ -1,0 +1,10 @@
+Generation: 11
+Elapsed time: 47208.89437842369sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+ExprReplacerOperator; if (minimal.push && top.value.hasAtomics()) {
+FunctionCallRemoverOperator; if (minimal.push && top.value.hasAtomics) {
+ExprReplacerOperator; if (res.length && top.value.hasAtomics) {
+ConditionalChangerOperator; if (false) {
+NumberChangerOperator; if (-1) {

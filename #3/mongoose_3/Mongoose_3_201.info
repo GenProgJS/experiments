@@ -1,0 +1,12 @@
+Generation: 23
+Elapsed time: 78131.31989955902sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+NullCheckOperator; if (!top && top.value._atomics && top.value.hasAtomics()) {
+FunctionMakerOperator; if (!top && top.value._atomics && top().value.hasAtomics()) {
+CallChangerOperator; if (!top && top.value._atomics && top().hasAtomics()) {
+CallChangerOperator; if (!top && top.value._atomics && top(this.schema.virtualpath).hasAtomics()) {
+BinaryOperatorChanger; if (!top | top.value._atomics && top(this.schema.virtualpath).hasAtomics()) {
+ConditionalChangerOperator; if (!(!top | top.value._atomics && top(this.schema.virtualpath).hasAtomics())) {
+FunctionMakerOperator; if (!(!top | top.value._atomics && top(this.schema().virtualpath).hasAtomics())) {

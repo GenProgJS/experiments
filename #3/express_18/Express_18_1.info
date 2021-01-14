@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 516.9630098342896sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+VarChangerOperator; if (paramCalled && (mergeParams.error || paramCalled.match === paramVal)) {

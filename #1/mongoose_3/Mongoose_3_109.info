@@ -1,0 +1,8 @@
+Generation: 17
+Elapsed time: 26575.642465353012sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(item.nested && top.value)) return;
+BinaryOperatorChanger; if (!(item.nested * top.value)) return;
+ConditionalChangerOperator; if (item.nested * top.value) return;

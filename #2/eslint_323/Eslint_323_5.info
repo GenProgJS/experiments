@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 2780.3916354179382sec
+# of failed test cases in buggy version: 17
+# of failed test cases in current version: 17
+List of applied operators:
+BinaryOperatorChanger; } else if (definition.type === "Parameter" | node.type === "FunctionDeclaration") {
+VarChangerOperator; } else if (definition.type === "Parameter" | isReadRef === "FunctionDeclaration") {

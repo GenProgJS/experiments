@@ -1,0 +1,14 @@
+Generation: 16
+Elapsed time: 7922.501285791397sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+NullCheckOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal && paramVal)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && (paramCalled.error || paramCalled.match == paramVal && paramVal)) {
+NullCheckOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal && paramVal)) {
+NullCheckOperator; if (paramCalled && paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal && paramVal)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match === paramVal && paramVal)) {
+VarChangerOperator; if (paramCalled && paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match === paramVal && Array)) {
+BinaryOperatorChanger; if (paramCalled >= paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match === paramVal && Array)) {
+ConditionalBinaryOperatorChanger; if (paramCalled <= paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match === paramVal && Array)) {
+BinaryOperatorChanger; if (paramCalled <= paramCalled && (paramCalled.error !== paramCalled.error || paramCalled.match === paramVal && Array)) {

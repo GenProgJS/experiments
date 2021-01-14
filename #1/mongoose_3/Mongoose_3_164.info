@@ -1,0 +1,6 @@
+Generation: 29
+Elapsed time: 44578.04514980316sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(utils.deepEqual && top.value)) return;

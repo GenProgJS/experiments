@@ -1,0 +1,6 @@
+Generation: 15
+Elapsed time: 43891.986889362335sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+TreeCrossoverOperator; if (!(top.e >> top.value._atomics && top.value.arguments())) {; parents; if (!(top.e >> top.value._atomics && top.arguments())) {; if (top.value._atomics || p.doValidate()()) {

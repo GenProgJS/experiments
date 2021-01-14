@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 541.6815810203552 seconds to produce the 1th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2]) return true;
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 470.6580722332001 seconds to produce the 2th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2]) return true;
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 404.7998275756836 seconds to produce the 3th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2]) return true;
+Number of repair candidates: 7
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 492.54511404037476 seconds to produce the 4th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2]) return true;
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 835.2717001438141 seconds to produce the 5th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2]) return true;
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 856.1699130535126 seconds to produce the 6th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2 * path.length < 0 || 2 - path.length >= path.length ? Math.floor(Math.random() - path.length) : 2 * path.length]) return true;
+Number of repair candidates: 18
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 777.2256481647491 seconds to produce the 7th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2 * path.length < 0 || 2 * path.length >= path.length ? Math.floor(Math.random() - path.length) : 2 * path.length]) return true;
+Number of repair candidates: 18
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1048.6129591464996 seconds to produce the 8th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1 < 0 || 1 >= path.length ? Math.floor(Math.random() * path.length) : 1] && '\\' === path[2 ** path.length]) return true;
+Number of repair candidates: 20
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 837.0672852993011 seconds to produce the 9th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1 - path.length] && '\\' === path[2]) return true;
+Number of repair candidates: 20
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 685.8927505016327 seconds to produce the 10th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2 * path.length < 0 || 2 * path.length >= path.length ? Math.floor(Math.random() / path.length) : 2 ** path.length]) return true;
+Number of repair candidates: 22
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 801.66215467453 seconds to produce the 11th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2]) return true;
+Number of repair candidates: 23
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1128.730301618576 seconds to produce the 12th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2 * path.length < 0 || 2 - path.length >= path.length ? Math.floor(Math.random() % path.length) : 2 * path.length]) return true;
+Number of repair candidates: 23
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 891.153475522995 seconds to produce the 13th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2 < 0 || 2 >= path.length ? Math.floor(Math.random() + path.length) : 2 < 0 || 2 < 0 || 2 >= path.length ? Math.floor(Math.random() * path.length) : 2 >= path.length ? Math.floor(Math.random() * path.length) : 2 < 0 || 2 >= path.length ? Math.floor(Math.random() * path.length) : 2]) return true;
+Number of repair candidates: 25
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1172.1756496429443 seconds to produce the 14th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2 < 0 || 2 >= path.length ? Math.floor(Math.random() * path.length) : 2]) return true;
+Number of repair candidates: 28
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1067.1320168972015 seconds to produce the 15th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2 + path.length < 0 || 2 * path.length >= path.length ? Math.floor(Math.random() / path.length) : 2 * path.length]) return true;
+Number of repair candidates: 30
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1306.5885736942291 seconds to produce the 16th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1 % path.length] && '\\' === path[2 < 0 || 2 >= path.length ? Math.floor(Math.random() + path.length) : 2 < 0 || 2 < 0 || 2 >= path.length ? Math.floor(Math.random() ** path.length) : 2 >= path.length ? Math.floor(Math.random() * path.length) : 2 < 0 || 2 >= path.length ? Math.floor(Math.random() - path.length) : 2]) return true;
+Number of repair candidates: 34
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1272.1974818706512 seconds to produce the 17th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1 % path.length] && '\\' === path[2 < 0 || 2 >= path.length ? Math.floor(Math.random() + path.length) : 2 < 0 || 2 < 0 || 2 >= path.length ? Math.floor(Math.random() ** path.length) : 2 >= path.length ? Math.floor(Math.random() * path.length) : 2 < 0 || 2 >= path.length ? Math.floor(Math.random() - path.length) : 2]) return true;
+Number of repair candidates: 35
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 857.383725643158 seconds to produce the 18th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2 + path.length < 0 || 2 * path.length >= path.length ? Math.floor(Math.random() / path.length) : 2 * path.length]) return true;
+Number of repair candidates: 37
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1256.402500629425 seconds to produce the 19th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1 % path.length] && '\\' === path[2 < 0 || 2 >= path.length ? Math.floor(Math.random() + path.length) : 2 < 0 || 2 < 0 || 2 >= path.length ? Math.floor(Math.random() * path.length) : 2 >= path.length ? Math.floor(Math.random() - path.length) : 2 < 0 || 2 && path.length ? Math.floor(Math.random() / path.length) : 2]) return true;
+Number of repair candidates: 38
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1178.9805827140808 seconds to produce the 20th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1 % path.length] && '\\' === path[2 < 0 || 2 >= path.length ? Math.floor(Math.random() + path.length) : 2 < 0 || 2 < 0 || 2 >= path.length ? Math.floor(Math.random() * path.length) : 2 >= path.length ? Math.floor(Math.random() * path.length) : 2 < 0 || 2 >= path.length ? Math.floor(Math.random() - path.length) : 2]) return true;
+Number of repair candidates: 40
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1509.2502510547638 seconds to produce the 21th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2 + path.length < 0 || 2 * path.length >= path.length ? Math.floor(Math.random() - path.length) : 2 * path.length]) return true;
+Number of repair candidates: 43
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1184.2606484889984 seconds to produce the 22th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1 % path.length] && '\\' === path[2 < 0 || 2 >= path.length ? Math.floor(Math.random() + path.length) : 2 < 0 || 2 < 0 || 2 >= path.length ? Math.floor(Math.random() * path.length) : 2 >= path.length ? Math.floor(Math.random() - path.length) : 2 < 0 || 2 && path.length ? Math.floor(Math.random() / path.length) : 2]) return true;
+Number of repair candidates: 43
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1551.4252834320068 seconds to produce the 23th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1] && '\\' === path[2 < 0 || 2 >= path.length ? Math.floor(Math.random() ** path.length) : 2 < 0 || 2 < 0 || 2 >= path.length ? Math.floor(Math.random() * path.length) : 2 >= path.length ? Math.floor(Math.random() * path.length) : 2 < 0 || 2 >= path.length ? Math.floor(Math.random() * path.length) : 2]) return true;
+Number of repair candidates: 43
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1579.866979598999 seconds to produce the 24th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1 % path.length] && '\\' === path[2 < 0 || 2 >= path.length ? Math.floor(Math.random() + path.length) : 2 < 0 || 2 < 0 || 2 >= path.length ? Math.floor(Math.random() / path.length) : 2 >= path.length ? Math.floor(Math.random() % path.length) : 2 < 0 || 2 >= path.length ? Math.floor(Math.random() - path.length) : 2]) return true;
+Number of repair candidates: 48
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1601.9859738349915 seconds to produce the 25th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1 % path.length] && '\\' === path[2 < 0 || 2 >= path.length ? Math.floor(Math.random() + path.length) : 2 < 0 || 2 < 0 || 2 >= path.length ? Math.floor(Math.random() / path.length) : 2 >= path.length ? Math.floor(Math.random() % path.length) : 2 < 0 || 2 >= path.length ? Math.floor(Math.random() - path.length) : 2]) return true;
+Number of repair candidates: 51
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1517.9181199073792 seconds to produce the 26th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1 < 0 || 1 >= path.length ? Math.floor(Math.random() + path.length) : 1] && '\\' === path[2 * path.length < 0 || 2 * path.length >= path.length ? Math.floor(Math.random() - path.length) : 2 ** path.length]) return true;
+Number of repair candidates: 54
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1313.7186954021454 seconds to produce the 27th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1 % path.length] && '\\' === path[2 < 0 || 2 >= path.length ? Math.floor(Math.random() + path.length) : 2 < 0 || 2 < 0 || 2 >= path.length ? Math.floor(Math.random() * path.length) : 2 >= path.length ? Math.floor(Math.random() - path.length) : 2 < 0 || 2 && path.length ? Math.floor(Math.random() / path.length) : 2]) return true;
+Number of repair candidates: 55
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1670.1856219768524 seconds to produce the 28th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1 % path.length] && '\\' === path[2 < 0 || 2 >= path.length ? Math.floor(Math.random() + path.length) : 2 < 0 || 2 < 0 || 2 >= path.length ? Math.floor(Math.random() / path.length) : 2 >= path.length ? Math.floor(Math.random() * path.length) : 2 < 0 || 2 >= path.length ? Math.floor(Math.random() - path.length) : 2]) return true;
+Number of repair candidates: 55
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1422.727630853653 seconds to produce the 29th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1 < 0 || 1 >= path.length ? Math.floor(await (Math.random() * path.length)) : 1] && '\\' === path[2 * path.length < 0 || 2 * path.length >= path.length ? Math.floor(await (Math.random() - path.length)) : 2 ** path.length])
+Number of repair candidates: 55
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1374.1114723682404 seconds to produce the 30th generation.
+Best fitness: 854.0
+Worst fitness: 854.0
+Mean fitness: 854.0
+Population size: 20
+"Best" modification so far: if (':' === path[1 % path.length] && '\\' === path[2 < 0 || 2 >= path.length ? Math.floor(await (Math.random() + path.length)) : 2 < 0 || 2 < 0 || 2 >= path.length ? Math.floor(await (Math.random() * path.length)) : 2 >= path.length ? Math.floor(Math.random() - path.length) : 2 < 0 || 2 && path.length ? Math.floor(await (Math.random() / path.length)) : 2 >= 0 ? 2 < 0 || 2 >= path.length ? Math.floor(Math.random() - path.length) : 2 < 0 || 2 < 0 || 2 >= path.length ? Math.floor(await (Math.random() * path.length)) : 2 >= path.length ? Math.floor(Math.random() - path.length) : 2 < 0 || 2 && path.length ? Math.floor(await (Math.random() * path.length)) : 2 < path.length ? 2 < 0 || 2 >= path.length ? Math.floor(await (Math.random() + path.length)) : 2 < 0 || 2 < 0 || 2 >= path.length ? Math.floor(await (Math.random() * path.length)) : 2 >= path.length ? Math.floor(await (Math.random() - path.length)) : 2 < 0 || 2 && path.length ? Math.floor(await (Math.random() / path.length)) : 2 : path.length - 1 : 0])
+Number of repair candidates: 57
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Express
+Bug-ID: 5
+Total elapsed time: 32630.34256339073 sec
+Number of generated candidates: 57
+------------------------------------------------------------------------------

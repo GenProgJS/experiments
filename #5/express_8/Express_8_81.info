@@ -1,0 +1,8 @@
+Generation: 5
+Elapsed time: 1973.4807035923004sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+VarChangerOperator; if (typeof arg !== 'function' && (this.response == null || arg.length !== 0)) {
+ConditionalBinaryOperatorChanger; if (typeof arg > 'function' && (this.response == null || arg.length !== 0)) {
+VarChangerOperator; if (typeof arg > 'function' && (this.response == null || root !== 0)) {

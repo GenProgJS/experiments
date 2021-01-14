@@ -1,0 +1,7 @@
+Generation: 2
+Elapsed time: 21599.840941667557sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+CallChangerOperator; msg = config.formatError(msg, 'source-map')
+ReturnInsertOperator; return msg = config.formatError(msg, 'source-map')

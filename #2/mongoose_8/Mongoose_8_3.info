@@ -1,0 +1,7 @@
+Generation: 29
+Elapsed time: 112021.69470381737sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+TreeCrossoverOperator; return this.constructor.update.apply(this.vals, args) || this.constructor.p.doValidate.apply(nested.Document.prototype.toString, args());; parents; return this.constructor.update.apply(utils.object.vals, args) || this.constructor.p.doValidate.apply(nested.Document.prototype.toString, args());; this.constructor.update.adhoc(this.constructor, args);
+ExprReplacerOperator; return this.constructor.update.apply(this.vals, args) || require('events');

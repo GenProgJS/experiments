@@ -1,0 +1,6 @@
+Generation: 18
+Elapsed time: 27798.96541905403sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(self.$__.activePaths.require && top.value)) return;

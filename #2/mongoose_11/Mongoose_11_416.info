@@ -1,0 +1,15 @@
+Generation: 27
+Elapsed time: 95638.29492330551sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+BinaryOperatorChanger; if (false === exclude && keys.length - 1) {
+BinaryOperatorChanger; if (false > exclude && keys.length - 1) {
+NullCheckOperator; if (false > exclude && keys.length && length - 1) {
+ArithmeticBinaryOperatorChanger; if (false > exclude && keys.length && length / 1) {
+ConditionalBinaryOperatorChanger; if (false < exclude && keys.length && length / 1) {
+ExprReplacerOperator; if (false < exclude && keys.length && 'Field `' + key + '` is not in schema.') {
+BinaryOperatorChanger; if (false < exclude / keys.length && 'Field `' + key + '` is not in schema.') {
+ExprReplacerOperator; if (false < exclude / Query.prototype.snapshot && 'Field `' + key + '` is not in schema.') {
+NumberChangerOperator; if (1 < exclude / Query.prototype.snapshot && 'Field `' + key + '` is not in schema.') {
+ConditionalBinaryOperatorChanger; if (1 <= exclude / Query.prototype.snapshot && 'Field `' + key + '` is not in schema.') {

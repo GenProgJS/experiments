@@ -1,0 +1,15 @@
+Generation: 24
+Elapsed time: 69356.48222327232sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+BinaryOperatorChanger; if (top.value._atomics || top.value.hasAtomics()) {
+ExprReplacerOperator; if (top.value._atomics || p.doValidate()) {
+ConditionalChangerOperator; if (!(top.value._atomics || p.doValidate())) {
+CallChangerOperator; if (!(top.value._atomics || p.module.exports())) {
+CallChangerOperator; if (!(top.value._atomics || p.paths[i].exports())) {
+ArraySubscripterOperator; if (!(top.value._atomics || p.paths[i % p.paths.length].exports())) {
+ArithmeticBinaryOperatorChanger; if (!(top.value._atomics || p.paths[i * p.paths.length].exports())) {
+ArraySubscripterOperator; if (!(top.value._atomics || p.paths[i * p.paths.length < 0 || i * p.paths.length >= p.paths.length ? Math.floor(Math.random() * p.paths.length) : i * p.paths.length].exports())) {
+ArithmeticBinaryOperatorChanger; if (!(top.value._atomics || p.paths[i * p.paths.length < 0 || i + p.paths.length >= p.paths.length ? Math.floor(Math.random() * p.paths.length) : i * p.paths.length].exports())) {
+ConditionalChangerOperator; if (top.value._atomics || p.paths[i * p.paths.length < 0 || i + p.paths.length >= p.paths.length ? Math.floor(Math.random() * p.paths.length) : i * p.paths.length].exports()) {

@@ -1,0 +1,9 @@
+Generation: 8
+Elapsed time: 42949.05835103989sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && op == 'update') {
+BinaryOperatorChanger; if (false === exclude && op / 'update') {
+ArithmeticBinaryOperatorChanger; if (false === exclude && op % 'update') {
+VarChangerOperator; if (false === this._currPath && op % 'update') {

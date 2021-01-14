@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 444.88241314888 seconds to produce the 1th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg !== 'function' && (arg == null || arg.length !== 0)) {
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 638.0486323833466 seconds to produce the 2th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg !== 'function' && (arg == null || arg.length !== 0)) {
+Number of repair candidates: 27
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 571.0493364334106 seconds to produce the 3th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg !== 'function' && (arg == null || arg.length !== 0)) {
+Number of repair candidates: 36
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 420.5712776184082 seconds to produce the 4th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg > 'function' && (arg == null || arg.length !== 0)) {
+Number of repair candidates: 48
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 567.9746716022491 seconds to produce the 5th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg !== 'function' && (arg === null || arg.length !== 0)) {
+Number of repair candidates: 64
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 540.7004797458649 seconds to produce the 6th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg !== 'function' && (arg / null || arg.length !== 0)) {
+Number of repair candidates: 83
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 446.22766757011414 seconds to produce the 7th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg !== 'function' && (arg == null || arg.length !== 0)) {
+Number of repair candidates: 87
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 665.0111973285675 seconds to produce the 8th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg > 'function' && (arg / null || arg.length >= 0)) {
+Number of repair candidates: 102
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 488.7063338756561 seconds to produce the 9th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg !== 'function' && (arg == null || arg.length !== 0)) {
+Number of repair candidates: 121
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 704.0462925434113 seconds to produce the 10th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg > 'function' && (arg ^ null || arg.length !== 0)) {
+Number of repair candidates: 137
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 688.0368709564209 seconds to produce the 11th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg != 'function' && (arg ^ null || arg.length !== 0)) {
+Number of repair candidates: 156
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 485.3583285808563 seconds to produce the 12th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg !== 'function' && (arg == null >>> arg.length == 0)) {
+Number of repair candidates: 160
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 615.6197760105133 seconds to produce the 13th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg !== 'function' && (arg ^ null || arg.length !== 0)) {
+Number of repair candidates: 173
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 478.30942821502686 seconds to produce the 14th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg > 'function' && (arg == null || arg.length != 0)) {
+Number of repair candidates: 190
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 726.0360527038574 seconds to produce the 15th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg != 'function' && (arg | null || arg.length !== 0)) {
+Number of repair candidates: 204
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 565.3698310852051 seconds to produce the 16th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg !== 'function' && (arg < null || arg.length !== 0)) {
+Number of repair candidates: 211
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 613.1753981113434 seconds to produce the 17th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg != 'function' && (typeof arg != 'function' && (arg / null || arg.length !== 0))) {
+Number of repair candidates: 223
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 554.9665420055389 seconds to produce the 18th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg !== 'function' && (arg == null >> arg.length == 0)) {
+Number of repair candidates: 228
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 642.2113063335419 seconds to produce the 19th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg != 'function' && (typeof arg != 'function' && (arg % null || arg.length !== 0))) {
+Number of repair candidates: 236
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 453.5013394355774 seconds to produce the 20th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg > 'function' && (arg & null || arg.length != 0)) {
+Number of repair candidates: 244
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 641.5251019001007 seconds to produce the 21th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg && typeof arg > 'function' && (arg / null || arg.length != 0)) {
+Number of repair candidates: 258
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 648.8046171665192 seconds to produce the 22th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg != 'function' && (arg ^ null || arg.length !== 0)) {
+Number of repair candidates: 275
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 745.7988502979279 seconds to produce the 23th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg && typeof arg > 'function' && (arg / null ^ arg.length != 0)) {
+Number of repair candidates: 287
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 661.2815625667572 seconds to produce the 24th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg && typeof arg != 'function' && (arg - null ^ arg.length !== 0)) {
+Number of repair candidates: 306
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 597.1271121501923 seconds to produce the 25th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg && typeof arg > 'function' && (arg - null || arg.length != 0)) {
+Number of repair candidates: 321
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 399.64374685287476 seconds to produce the 26th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg != 'function' && (arg * null | arg.length !== 0)) {
+Number of repair candidates: 331
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 722.0032169818878 seconds to produce the 27th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg != 'function' && (arg * null | arg.length !== 0)) {
+Number of repair candidates: 346
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 748.5523743629456 seconds to produce the 28th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg && typeof arg > 'function' && (arg / null ^ arg.length != 0)) {
+Number of repair candidates: 363
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 465.84060859680176 seconds to produce the 29th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg && typeof arg != 'function' && (arg * null ^ arg.length != 0)) {
+Number of repair candidates: 379
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 665.4469046592712 seconds to produce the 30th generation.
+Best fitness: 817.0
+Worst fitness: 817.0
+Mean fitness: 817.0
+Population size: 20
+"Best" modification so far: if (typeof arg && typeof arg > 'function' && (arg >>> null ^ arg.length != 0)) {
+Number of repair candidates: 402
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Express
+Bug-ID: 8
+Total elapsed time: 17618.24733066559 sec
+Number of generated candidates: 402
+------------------------------------------------------------------------------

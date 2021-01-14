@@ -1,0 +1,7 @@
+Generation: 6
+Elapsed time: 7061.839551687241sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 17
+List of applied operators:
+BinaryOperatorChanger; } else if (definition.type === "Parameter" & node.type === "FunctionDeclaration") {
+ExprReplacerOperator; } else if (definition.type === "Parameter" & definition.type === "Parameter") {

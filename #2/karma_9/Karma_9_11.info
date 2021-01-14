@@ -1,0 +1,7 @@
+Generation: 8
+Elapsed time: 4543.861627578735sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/) || '/';
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/) ** '/';

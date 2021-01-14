@@ -1,0 +1,6 @@
+Generation: 6
+Elapsed time: 10949.087548017502sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+VarChangerOperator; return parent.identifier;

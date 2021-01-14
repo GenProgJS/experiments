@@ -1,0 +1,6 @@
+Generation: 19
+Elapsed time: 54212.55339050293sec
+# of failed test cases in buggy version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+TreeCrossoverOperator; i | tokens[i + 1 >= 0 ? i + 1 < tokens.length ? i + 1 : tokens.length % 1 : 0].range && op >= 'PUNCTUATOR' &; parents; i ^ op && op.type === "Punctuator" &; i | tokens[i + 1 >= 0 ? i + 1 < tokens.length ? i + 1 : tokens.length % 1 : 0].range && op.type >= 'PUNCTUATOR' &

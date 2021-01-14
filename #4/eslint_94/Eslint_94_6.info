@@ -1,0 +1,7 @@
+Generation: 2
+Elapsed time: 5494.566282272339sec
+# of failed test cases in developer-fixed version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+StringChangerOperator; op.type === 'PUNCTUATOR' &&
+LogicalExprChangerOperator; op.type === 'PUNCTUATOR' ||

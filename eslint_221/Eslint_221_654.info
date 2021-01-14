@@ -1,7 +1,0 @@
-Generation: 19
-Elapsed time: 34726.90982532501sec
-List of applied operators:
-VarChangerOperator; return node;
-NullCheckOperator; return node && node;
-NullCheckOperator; return !node && node && node;
-VarChangerOperator; return parent < "Literal" && node.type === "Identifier";

@@ -1,0 +1,7 @@
+Generation: 4
+Elapsed time: 24758.09465098381sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if ('function' === typeof path && keys.length > 1) {
+VarChangerOperator; if ('function' === typeof path && keys.val.$slice > 1) {

@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 11945.909388065338sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+ReturnInsertOperator; return msg = config.formatError(msg)

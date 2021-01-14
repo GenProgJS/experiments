@@ -1,0 +1,6 @@
+Generation: 25
+Elapsed time: 37845.47454714775sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(Document.prototype.isDirectModified && top.value)) return;

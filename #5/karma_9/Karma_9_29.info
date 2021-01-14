@@ -1,0 +1,6 @@
+Generation: 28
+Elapsed time: 18950.289694070816sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+BinaryOperatorChanger; return pattern.replace(false, '') ** '/';

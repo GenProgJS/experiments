@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 6844.035282611847sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === Query.prototype.execFind && keys.length > 1) {
+IfElseChangerOperator; 

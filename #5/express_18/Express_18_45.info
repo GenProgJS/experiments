@@ -1,0 +1,7 @@
+Generation: 10
+Elapsed time: 5140.692740678787sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+VarChangerOperator; if (paramCalled && (paramCalled.error || paramCalled.match === req.params[name])) {
+NullCheckOperator; if (paramCalled && (!paramCalled.error && paramCalled.error || paramCalled.match === req.params[name])) {

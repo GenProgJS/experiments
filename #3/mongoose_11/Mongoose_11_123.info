@@ -1,0 +1,9 @@
+Generation: 5
+Elapsed time: 30311.010060548782sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && val.$geoIntersects > 1) {
+ExprReplacerOperator; if (false === exclude && excluded.join > 1) {
+BinaryOperatorChanger; if (false === exclude && excluded.join + 1) {
+ArithmeticBinaryOperatorChanger; if (false === exclude && excluded.join % 1) {

@@ -1,0 +1,11 @@
+Generation: 22
+Elapsed time: 51982.970311164856sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+VarChangerOperator; return parent.static && getComments.static;
+FunctionMakerOperator; return parent.static && getComments().static;
+CallChangerOperator; return parent.static && getComments(id).static;
+CallChangerOperator; return parent.static && getComments(id, initScope).static;
+VarChangerOperator; return parent.val && getComments(id, initScope).static;

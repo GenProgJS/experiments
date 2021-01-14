@@ -1,0 +1,7 @@
+Generation: 11
+Elapsed time: 32323.752977848053sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && i < len) {
+ExprReplacerOperator; if (false === exclude && 'boolean' != typeof type.selected) {

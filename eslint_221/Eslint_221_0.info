@@ -1,4 +1,0 @@
-Generation: 1
-Elapsed time: 232.30038356781006sec
-List of applied operators:
-NullCheckOperator; return !parent.static && parent.static;

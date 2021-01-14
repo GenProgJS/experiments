@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 7639.52617764473sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && utils.merge > 1) {
+NullCheckOperator; if (false === exclude && !utils.merge && utils.merge > 1) {

@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 10318.351094007492sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+TreeCrossoverOperator; if (Query && !keys.length && keys.length > 1) {; parents; if (false === exclude && !keys.length && keys.length > 1) {; if (false === exclude && Query.prototype.polygon > 1) {

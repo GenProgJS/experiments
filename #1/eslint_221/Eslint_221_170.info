@@ -1,0 +1,8 @@
+Generation: 21
+Elapsed time: 60800.81995129585sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+ExprReplacerOperator; return parent.static && scope.set.get;
+ExprReplacerOperator; return parent.static && arrayOrTypedArrayPattern.test.get;

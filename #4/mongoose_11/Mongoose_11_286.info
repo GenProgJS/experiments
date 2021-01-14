@@ -1,0 +1,9 @@
+Generation: 10
+Elapsed time: 41423.18591403961sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && val.ll.length > 1) {
+BinaryOperatorChanger; if (false === exclude && val.ll.length < 1) {
+BinaryOperatorChanger; if (false === exclude && val.ll.length + 1) {
+ExprReplacerOperator; if ('$or' === path && val.ll.length + 1) {

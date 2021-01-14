@@ -1,0 +1,9 @@
+Generation: 6
+Elapsed time: 3059.0586857795715sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+NullCheckOperator; if (paramCalled && (paramCalled.error || paramCalled.match && paramCalled.match === paramVal)) {
+ExprReplacerOperator; if (paramCalled && (paramCalled.error || req.params && paramCalled.match === paramVal)) {
+NullCheckOperator; if (paramCalled && (paramCalled.error || req && req.params && paramCalled.match === paramVal)) {
+VarChangerOperator; if (paramCalled && (paramCalled.parent || req && req.params && paramCalled.match === paramVal)) {

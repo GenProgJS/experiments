@@ -1,0 +1,6 @@
+Generation: 28
+Elapsed time: 123469.82490372658sec
+# of failed test cases in developer-fixed version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+TreeCrossoverOperator; op ^ op !== op.type - op.type >= op.type && op &&; parents; op ^ op !== op.type - op.type >= op.type && op.type >= 'Pator' &&; op ^ op !== op.type - op.type && op.type && op.type >= 'Pator' &&

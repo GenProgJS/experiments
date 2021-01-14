@@ -1,0 +1,6 @@
+Generation: 14
+Elapsed time: 55599.10426783562sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+TreeCrossoverOperator; if (false === exclude | arguments && false >= 1) {; parents; if (false != exclude && ascend.length != 1) {; if (false === exclude | arguments && arguments.length >= 1) {

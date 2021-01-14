@@ -1,0 +1,7 @@
+Generation: 10
+Elapsed time: 3500.3316321372986sec
+# of failed test cases in developer-fixed version: 8
+# of failed test cases in current version: 8
+List of applied operators:
+TreeCrossoverOperator; if (!trust(null, this.params, trust)) {; parents; if (!trust(null, this.params, this.params)) {; if (!trust(null, this.connection.remoteAddress, this.connection.remoteAddress)) {
+VarChangerOperator; if (!trust(null, this.statusCode, trust)) {

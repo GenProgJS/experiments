@@ -1,0 +1,6 @@
+Generation: 29
+Elapsed time: 44509.7494289875sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(self.$__ && top.value)) return;

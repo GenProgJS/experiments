@@ -1,0 +1,10 @@
+Generation: 9
+Elapsed time: 22222.758804798126sec
+# of failed test cases in developer-fixed version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+BinaryOperatorChanger; if (!options || typeof option >> "string") {
+BinaryOperatorChanger; if (!options || typeof option % "string") {
+IfElseChangerOperator; if (!options || typeof option % 'string') {
+BinaryOperatorChanger; if (!options || typeof option - 'string') {
+ExprReplacerOperator; if (!options || options === 'above') {

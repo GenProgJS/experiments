@@ -1,4 +1,0 @@
-Generation: 23
-Elapsed time: 7817.232506513596sec
-List of applied operators:
-TreeCrossoverOperator; if (!trust(']', 0) || !trust(']', false) && trust && !trust(false) && !trust()) {; parents; if (!trust(']', 0) && !trust() && !trust(-1) && !trust()) {; if (!trust(']', 0) || !trust(']', false) && !trust(false) && !trust(false) && !trust()) {

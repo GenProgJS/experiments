@@ -1,0 +1,13 @@
+Generation: 17
+Elapsed time: 10278.375811576843sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+NullCheckOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match === paramVal)) {
+NullCheckOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match && paramCalled.match === paramVal)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match && paramCalled.match == paramVal)) {
+NullCheckOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match && paramCalled.match && paramCalled.match == paramVal)) {
+ExprReplacerOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match && proto.param && paramCalled.match == paramVal)) {
+ExprReplacerOperator; if (paramCalled && (proto.process_params && paramCalled.error || paramCalled.match && proto.param && paramCalled.match == paramVal)) {
+ExprReplacerOperator; if (paramCalled && (proto.process_params && paramCalled.error || utils.flatten && proto.param && paramCalled.match == paramVal)) {
+VarChangerOperator; if (paramCalled && (proto.err && paramCalled.error || utils.flatten && proto.param && paramCalled.match == paramVal)) {

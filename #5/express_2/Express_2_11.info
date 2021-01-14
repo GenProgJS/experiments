@@ -1,0 +1,9 @@
+Generation: 9
+Elapsed time: 2734.08412027359sec
+# of failed test cases in developer-fixed version: 8
+# of failed test cases in current version: 8
+List of applied operators:
+CallChangerOperator; if (!trust(null, this.connection.remoteAddress)) {
+ExprReplacerOperator; if (!trust(null, this.params)) {
+CallChangerOperator; if (!trust(null, this.params, hasOwnProperty)) {
+CallChangerOperator; if (!trust(null, null, this.params, hasOwnProperty)) {

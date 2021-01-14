@@ -1,0 +1,11 @@
+Generation: 17
+Elapsed time: 93547.95481538773sec
+# of failed test cases in buggy version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+VarChangerOperator; tokens[i].type === "Punctuator" &&
+ArraySubscripterOperator; tokens[i >= 0 ? i < tokens.length ? i : tokens.length - 1 : 0].type === "Punctuator" &&
+ArithmeticBinaryOperatorChanger; tokens[i >= 0 ? i < tokens.length ? i : tokens.length * 1 : 0].type === "Punctuator" &&
+ArithmeticBinaryOperatorChanger; tokens[i >= 0 ? i < tokens.length ? i : tokens.length % 1 : 0].type === "Punctuator" &&
+ArithmeticBinaryOperatorChanger; tokens[i >= 0 ? i < tokens.length ? i : tokens.length ** 1 : 0].type === "Punctuator" &&
+ConditionalBinaryOperatorChanger; tokens[i >= 0 ? i < tokens.length ? i : tokens.length ** 1 : 0].type <= "Punctuator" &&

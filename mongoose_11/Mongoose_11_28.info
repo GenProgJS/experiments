@@ -1,6 +1,0 @@
-Generation: 3
-Elapsed time: 19472.741218566895sec
-List of applied operators:
-NullCheckOperator; if (false === exclude && !keys.length && keys.length > 1) {
-NullCheckOperator; if (false === exclude && !keys.length && !keys.length && keys.length > 1) {
-NumberChangerOperator; if (1 === exclude && !keys.length && !keys.length && keys.length > 1) {

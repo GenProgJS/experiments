@@ -1,0 +1,17 @@
+Generation: 29
+Elapsed time: 16308.781000852585sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+NullCheckOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal && paramVal)) {
+VarChangerOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal && appendMethods)) {
+NullCheckOperator; if (paramCalled && paramCalled && (paramCalled.error || paramCalled.match === paramVal && appendMethods)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && paramCalled && (paramCalled.error || paramCalled.match == paramVal && appendMethods)) {
+ConditionalBinaryOperatorChanger; if (paramCalled <= paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal && Array)) {
+VarChangerOperator; if (paramCalled <= req.params[key.name] && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal && Array)) {
+ArraySubscripterOperator; if (paramCalled <= req.params[key.name < 0 || key.name >= req.params.length ? Math.floor(Math.random() * req.params.length) : key.name] && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal && Array)) {
+ArithmeticBinaryOperatorChanger; if (paramCalled <= req.params[key.name < 0 || key.name >= req.params.length ? Math.floor(Math.random() / req.params.length) : key.name] && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal && Array)) {
+CallChangerOperator; if (paramCalled <= req.params[key.name < 0 || key.name >= req.params.length ? Math.floor(Math.router.mergeParams() / req.params.length) : key.name] && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal && Array)) {
+ArithmeticBinaryOperatorChanger; if (paramCalled <= req.params[key.name < 0 || key.name >= req.params.length ? Math.floor(Math.router.mergeParams() % req.params.length) : key.name] && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal && Array)) {
+ArithmeticBinaryOperatorChanger; if (paramCalled <= req.params[key.name < 0 || key.name >= req.params.length ? Math.floor(Math.router.mergeParams() + req.params.length) : key.name] && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal && Array)) {
+VarChangerOperator; if (paramCalled <= req.params[key.name < 0 || key.name >= req.params.length ? Math.floor(Math.router.mergeParams() + req.params.length) : key.name] && (paramCalled.error && paramCalled.req || paramCalled.match == paramVal && Array)) {

@@ -1,0 +1,6 @@
+Generation: 4
+Elapsed time: 8896.111011505127sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+VarChangerOperator; if (!(item.value && require)) return;

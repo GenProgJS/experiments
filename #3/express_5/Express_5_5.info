@@ -1,0 +1,7 @@
+Generation: 2
+Elapsed time: 1245.8100821971893sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+ArraySubscripterOperator; if (':' === path[1 % path.length] && '\\' === path[2]) return true;
+LogicalExprChangerOperator; if (':' === path[1 % path.length] || '\\' === path[2]) return true;

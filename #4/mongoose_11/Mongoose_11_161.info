@@ -1,0 +1,7 @@
+Generation: 6
+Elapsed time: 30155.470215797424sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && opts.constructor > 1) {
+ExprReplacerOperator; if (1 === arguments.length && opts.constructor > 1) {

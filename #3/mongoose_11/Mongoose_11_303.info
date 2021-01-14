@@ -1,0 +1,8 @@
+Generation: 20
+Elapsed time: 75090.97288656235sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ConditionalChangerOperator; if (false === exclude) {
+BinaryOperatorChanger; if (false > exclude) {
+VarChangerOperator; if (false > this._updateArg) {

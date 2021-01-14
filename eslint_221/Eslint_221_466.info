@@ -1,7 +1,0 @@
-Generation: 15
-Elapsed time: 25621.844814300537sec
-List of applied operators:
-VarChangerOperator; return node;
-NullCheckOperator; return node && node;
-NullCheckOperator; return !node && node && node;
-VarChangerOperator; return !node && scope.upper && node;

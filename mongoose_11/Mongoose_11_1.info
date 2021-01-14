@@ -1,5 +1,0 @@
-Generation: 1
-Elapsed time: 4987.382876157761sec
-List of applied operators:
-NumberChangerOperator; if (1 === exclude && keys.length > 1) {
-ConditionalTypeChangerOperator; if (1 === exclude && keys.length == 1) {

@@ -1,0 +1,7 @@
+Generation: 29
+Elapsed time: 43957.00842952728sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(item.value && utils.clone.value)) return;
+NullCheckOperator; if ((item.value && utils.clone.value) && !(item.value && utils.clone.value)) return;

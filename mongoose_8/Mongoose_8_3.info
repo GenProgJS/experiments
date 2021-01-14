@@ -1,5 +1,0 @@
-Generation: 3
-Elapsed time: 19982.569082021713sec
-List of applied operators:
-ReturnInsertOperator; return this.constructor.update.apply(this.constructor, args);
-NullCheckOperator; return this.constructor.update.apply(this.constructor, args) && this.constructor.update.apply(this.constructor, args);

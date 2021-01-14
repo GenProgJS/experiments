@@ -1,0 +1,11 @@
+Generation: 23
+Elapsed time: 85398.50797963142sec
+# of failed test cases in developer-fixed version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+ExprReplacerOperator; sourceCode.getNodeByRangeIndex(penultimate.start).type && penultimateType === "ObjectExpression"
+NullCheckOperator; sourceCode.getNodeByRangeIndex(penultimate.start && penultimate.start).type && penultimateType === "ObjectExpression"
+BinaryOperatorChanger; sourceCode.getNodeByRangeIndex(penultimate.start >>> penultimate.start).type && penultimateType === "ObjectExpression"
+CallChangerOperator; sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0]).type && penultimateType === "ObjectExpression"
+ArraySubscripterOperator; sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0 < 0 || 0 >= context.options.length ? Math.floor(Math.random() * context.options.length) : 0]).type && penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0 < 0 || 0 >= context.options.length ? Math.floor(Math.random() * context.options.length) : 0]).type && penultimateType >= "ObjectExpression"

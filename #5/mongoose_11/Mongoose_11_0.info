@@ -1,0 +1,11 @@
+Generation: 7
+Elapsed time: 37812.75001311302sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && obj[key].$sort > 1) {
+BinaryOperatorChanger; if (false ^ exclude && obj[key].$sort > 1) {
+NullCheckOperator; if (false ^ !exclude && exclude && obj[key].$sort > 1) {
+FunctionMakerOperator; if (false ^ !exclude && exclude && obj()[key].$sort > 1) {
+CallChangerOperator; if (false ^ !exclude && exclude && obj(/\s+/)[key].$sort > 1) {
+BinaryOperatorChanger; if (false % !exclude && exclude && obj(/\s+/)[key].$sort > 1) {

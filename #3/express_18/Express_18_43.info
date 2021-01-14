@@ -1,0 +1,7 @@
+Generation: 16
+Elapsed time: 9176.790130615234sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+VarChangerOperator; if (paramCalled && (paramCalled.error || paramCalled.match === req.params[key.name])) {
+BinaryOperatorChanger; if (paramCalled && (paramCalled.error ^ paramCalled.match === req.params[key.name])) {

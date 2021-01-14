@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 6488.268982887268sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if ('number' === typeof path && keys.length > 1) {
+ConditionalBinaryOperatorChanger; if ('number' === typeof path && keys.length == 1) {

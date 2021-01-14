@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 1080.3763449192047sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+ExprReplacerOperator; if (':' === path[1] && ':' === path[1]) return true;

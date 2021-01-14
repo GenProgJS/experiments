@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 6386.473960399628sec
+# of failed test cases in developer-fixed version: 25
+# of failed test cases in current version: 25
+List of applied operators:
+VarChangerOperator; } else if (tokenBefore.loc.end.line !== node.loc.start.line && option === "beside") {

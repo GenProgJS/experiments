@@ -1,0 +1,9 @@
+Generation: 7
+Elapsed time: 34329.34636759758sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && utils.merge > 1) {
+BinaryOperatorChanger; if (false === exclude == utils.merge > 1) {
+ConditionalBinaryOperatorChanger; if (false === exclude == utils.merge <= 1) {
+NullCheckOperator; if (false === exclude == utils && utils.merge <= 1) {

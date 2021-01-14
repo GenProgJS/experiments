@@ -1,0 +1,19 @@
+Generation: 27
+Elapsed time: 71213.78210735321sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+FunctionMakerOperator; return parent.static && parent.static();
+FunctionMakerOperator; return parent.static && parent().static();
+CallChangerOperator; return parent.static && parent().thisTagPattern();
+CallChangerOperator; return parent.static && parent(module.exports).thisTagPattern();
+CallChangerOperator; return parent.static && parent(/^(?:Function(?:Declaration|Expression)|ArrowFunctionExpression)$/).thisTagPattern();
+CallChangerOperator; return parent.static && parent(isMethodWhichHasThisArg).right.loc.start();
+CallChangerOperator; return parent.static && parent(isReflectApply).right.loc.start();
+CallChangerOperator; return parent.static && parent(isReflectApply).right.loc();
+CallChangerOperator; return parent.static && parent(computed).right.loc();
+CallChangerOperator; return parent.static && parent(computed).right();
+CallChangerOperator; return parent.static && parent(scope.set.get).right();
+CallChangerOperator; return parent.static && parent(scope.set.get, "use strict").right();
+VarChangerOperator; return sourceCode.getComments.static && parent(scope.set.get, "use strict").right();

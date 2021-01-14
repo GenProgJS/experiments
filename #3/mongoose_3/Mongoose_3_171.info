@@ -1,0 +1,8 @@
+Generation: 16
+Elapsed time: 57518.79906010628sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+FunctionCallRemoverOperator; if (top.value._atomics && top.value.hasAtomics) {
+LogicalExprChangerOperator; if (top.value._atomics || top.value.hasAtomics) {
+VarChangerOperator; if (Document.prototype.update || top.value.hasAtomics) {

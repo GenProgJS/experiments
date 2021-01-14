@@ -1,0 +1,13 @@
+Generation: 21
+Elapsed time: 59894.895057201385sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+BinaryOperatorChanger; if (top.value._atomics || top.value.hasAtomics()) {
+ExprReplacerOperator; if (top.value._atomics || p.doValidate()) {
+ConditionalChangerOperator; if (!(top.value._atomics || p.doValidate())) {
+CallChangerOperator; if (!(top.value._atomics || p.module.exports())) {
+CallChangerOperator; if (!(top.value._atomics || p.paths[i].exports())) {
+ArraySubscripterOperator; if (!(top.value._atomics || p.paths[i % p.paths.length].exports())) {
+ArraySubscripterOperator; if (!(top.value._atomics || p.paths[i % p.paths.length >= 0 ? i % p.paths.length < p.paths.length ? i % p.paths.length : p.paths.length - 1 : 0].exports())) {
+ConditionalChangerOperator; if (top.value._atomics || p.paths[i % p.paths.length >= 0 ? i % p.paths.length < p.paths.length ? i % p.paths.length : p.paths.length - 1 : 0].exports()) {

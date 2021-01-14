@@ -1,0 +1,8 @@
+Generation: 5
+Elapsed time: 1718.4851396083832sec
+# of failed test cases in developer-fixed version: 8
+# of failed test cases in current version: 8
+List of applied operators:
+CallChangerOperator; if (!trust('req.auth: Use basic-auth npm module instead', this.connection.remoteAddress)) {
+ExprReplacerOperator; if (!trust('req.auth: Use basic-auth npm module instead', this.fresh.remoteAddress)) {
+NullCheckOperator; if (!trust('req.auth: Use basic-auth npm module instead', this.fresh && fresh.remoteAddress)) {

@@ -1,0 +1,10 @@
+Generation: 8
+Elapsed time: 4526.412224054337sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, '') >> '/';
+CallChangerOperator; return pattern.replace('path', '') || '/';
+CallChangerOperator; return pattern.replace('path', 'fileList') || '/';
+NullCheckOperator; return pattern.replace && pattern.replace('path', 'fileList') || '/';
+BinaryOperatorChanger; return pattern.replace ** pattern.replace('path', 'fileList') || '/';

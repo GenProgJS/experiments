@@ -1,7 +1,0 @@
-Generation: 6
-Elapsed time: 9443.072583436966sec
-List of applied operators:
-ExprReplacerOperator; return left.loc.end;
-VarChangerOperator; return node.property;
-NullCheckOperator; return !node.property && node.property;
-VarChangerOperator; return !func && node.property;

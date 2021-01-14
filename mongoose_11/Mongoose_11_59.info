@@ -1,4 +1,0 @@
-Generation: 5
-Elapsed time: 32591.028909683228sec
-List of applied operators:
-TreeCrossoverOperator; if (false > exclude && 'string' != -1) {; parents; if (false > exclude && 'string' != typeof path) {; if (-1 == exclude && !keys.length && keys.length > 1) {

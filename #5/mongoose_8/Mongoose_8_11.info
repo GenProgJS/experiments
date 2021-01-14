@@ -1,0 +1,11 @@
+Generation: 24
+Elapsed time: 104566.3724925518sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; this.constructor.update.apply(paths[ii], args);
+CallChangerOperator; this.constructor.update.apply(this.$__.getters, args);
+NullCheckOperator; this.constructor.update.apply(!this.$__.getters && this.$__.getters, args);
+BinaryOperatorChanger; this.constructor.update.apply(!this.$__.getters - this.$__.getters, args);
+BinaryOperatorChanger; this.constructor.update.apply(!this.$__.getters === this.$__.getters, args);
+ReturnInsertOperator; return this.constructor.update.apply(!this.$__.getters === this.$__.getters, args);

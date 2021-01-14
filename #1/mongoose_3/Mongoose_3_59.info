@@ -1,0 +1,6 @@
+Generation: 8
+Elapsed time: 14011.46834230423sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(require('util').inspect && top.value)) return;

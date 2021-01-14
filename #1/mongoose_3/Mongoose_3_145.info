@@ -1,0 +1,6 @@
+Generation: 25
+Elapsed time: 37950.1824555397sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(Document.prototype._setSchema && top.value)) return;

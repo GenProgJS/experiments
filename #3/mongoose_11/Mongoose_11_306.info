@@ -1,0 +1,6 @@
+Generation: 20
+Elapsed time: 75581.29607963562sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+TreeCrossoverOperator; 1; parents; if (false | exclude && ascend / -1) {; if (false + exclude && 'string' <= typeof value().$geometry.type) {

@@ -1,0 +1,9 @@
+Generation: 10
+Elapsed time: 26604.24646115303sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+VarChangerOperator; return parent.static && arrayOrTypedArrayPattern.test;
+NullCheckOperator; return parent.static && parent.static && arrayOrTypedArrayPattern.test;
+ExprReplacerOperator; return parent.static && node.parent.callee && arrayOrTypedArrayPattern.test;

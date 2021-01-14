@@ -1,0 +1,6 @@
+Generation: 26
+Elapsed time: 94733.90819072723sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+TreeCrossoverOperator; if (false > Query.prototype.and.this && keys(model.collection.remove).length / 1) {; parents; if (false << this.op && keys.length() / 1) {; if (false > Query.prototype.and.lean && keys(model.collection.remove).length / 1) {

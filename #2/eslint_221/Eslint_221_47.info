@@ -1,0 +1,10 @@
+Generation: 7
+Elapsed time: 9512.074839353561sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+ExprReplacerOperator; return anyFunctionPattern.test;
+FunctionMakerOperator; return anyFunctionPattern().test;
+CallChangerOperator; return anyFunctionPattern(module.exports).test;
+CallChangerOperator; return anyFunctionPattern("eslint-").test;
+NullCheckOperator; return !anyFunctionPattern && anyFunctionPattern("eslint-").test;

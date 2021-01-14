@@ -1,0 +1,9 @@
+Generation: 11
+Elapsed time: 32689.250715255737sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+VarChangerOperator; return parent.static && arrayOrTypedArrayPattern.test;
+NullCheckOperator; return parent.static && parent.static && arrayOrTypedArrayPattern.test;
+VarChangerOperator; return parent.isDirectiveComment && parent.static && arrayOrTypedArrayPattern.test;

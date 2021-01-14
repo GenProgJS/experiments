@@ -1,0 +1,17 @@
+Generation: 29
+Elapsed time: 113367.40090322495sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+ExprReplacerOperator; return parent.static && scope.set.get;
+ExprReplacerOperator; return parent.static && func.parent;
+FunctionMakerOperator; return parent.static && func().parent;
+CallChangerOperator; return parent.static && func(node.id.name[0]).parent;
+ArraySubscripterOperator; return parent.static && func(node.id.name[0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0]).parent;
+ArithmeticBinaryOperatorChanger; return parent.static && func(node.id.name[0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length % 1 : 0]).parent;
+ArithmeticBinaryOperatorChanger; return parent.static && func(node.id.name[0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length + 1 : 0]).parent;
+BinaryOperatorChanger; return parent.static && func(node.id.name[0 % 0 ? 0 < node.id.name.length ? 0 : node.id.name.length + 1 : 0]).parent;
+ArraySubscripterOperator; return parent.static && func(node.id.name[0 % 0 ? 0 < node.id.name.length ? 0 : node.id.name.length + 1 : 0 >= 0 ? 0 % 0 ? 0 < node.id.name.length ? 0 : node.id.name.length + 1 : 0 < node.id.name.length ? 0 % 0 ? 0 < node.id.name.length ? 0 : node.id.name.length + 1 : 0 : node.id.name.length - 1 : 0]).parent;
+ArithmeticBinaryOperatorChanger; return parent.static && func(node.id.name[0 % 0 ? 0 < node.id.name.length ? 0 : node.id.name.length + 1 : 0 >= 0 ? 0 % 0 ? 0 < node.id.name.length ? 0 : node.id.name.length + 1 : 0 < node.id.name.length ? 0 % 0 ? 0 < node.id.name.length ? 0 : node.id.name.length + 1 : 0 : node.id.name.length ** 1 : 0]).parent;
+NullCheckOperator; return !parent.static && parent.static && func(node.id.name[0 % 0 ? 0 < node.id.name.length ? 0 : node.id.name.length + 1 : 0 >= 0 ? 0 % 0 ? 0 < node.id.name.length ? 0 : node.id.name.length + 1 : 0 < node.id.name.length ? 0 % 0 ? 0 < node.id.name.length ? 0 : node.id.name.length + 1 : 0 : node.id.name.length ** 1 : 0]).parent;

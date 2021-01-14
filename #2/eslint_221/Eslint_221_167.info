@@ -1,0 +1,6 @@
+Generation: 14
+Elapsed time: 29867.806000709534sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+VarChangerOperator; return parent.arguments;

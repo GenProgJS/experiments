@@ -1,0 +1,13 @@
+Generation: 22
+Elapsed time: 76965.58267188072sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+BinaryOperatorChanger; if (false === exclude && keys.length - 1) {
+BinaryOperatorChanger; if (false > exclude && keys.length - 1) {
+ArithmeticBinaryOperatorChanger; if (false > exclude && keys.length / 1) {
+VarChangerOperator; if (false > this.op && keys.length / 1) {
+BinaryOperatorChanger; if (false >>> this.op && keys.length / 1) {
+ShiftOperatorChanger; if (false << this.op && keys.length / 1) {
+BinaryOperatorChanger; if (false < this.op && keys.length / 1) {
+NullCheckOperator; if (false < this.op && keys.length && length / 1) {

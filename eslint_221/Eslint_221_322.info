@@ -1,9 +1,0 @@
-Generation: 11
-Elapsed time: 18367.926915168762sec
-List of applied operators:
-VarChangerOperator; return node;
-NullCheckOperator; return node && node;
-ExprReplacerOperator; return node.type === "Literal" && node.value === null;
-NullCheckOperator; return node.type && node.type === "Literal" && node.value === null;
-NullCheckOperator; return node.type && node.type === "Literal" && node.value && node.value === null;
-VarChangerOperator; return node.type && sourceCode === "Literal" && node.value && node.value === null;

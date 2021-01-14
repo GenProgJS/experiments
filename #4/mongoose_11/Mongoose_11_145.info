@@ -1,0 +1,6 @@
+Generation: 5
+Elapsed time: 28964.74730706215sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+TreeCrossoverOperator; utils; parents; if (false === exclude == utils.merge > 1) {; if (false | exclude && keys.utils.isObject <= 1) {

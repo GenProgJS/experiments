@@ -1,0 +1,9 @@
+Generation: 15
+Elapsed time: 8988.941990613937sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(baseDirFromPattern, /\/[^\/]*[\*\(].*$/, '') || '/';
+CallChangerOperator; return pattern.replace(baseDirFromPattern, '/', '') || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, require('path').sep, require, exports) || '/';
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, require('path').sep, require, exports) ** '/';

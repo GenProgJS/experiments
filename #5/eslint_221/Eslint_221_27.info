@@ -1,0 +1,8 @@
+Generation: 3
+Elapsed time: 3771.1431567668915sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+ExprReplacerOperator; return node.type;
+NullCheckOperator; return node && node.type;
+ExprReplacerOperator; return node.type === "MemberExpression" &&

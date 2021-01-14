@@ -1,0 +1,7 @@
+Generation: 4
+Elapsed time: 8839.127416849136sec
+# of failed test cases in developer-fixed version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+NullCheckOperator; loc: lastItem.loc.end && lastItem.loc.end,
+ExprReplacerOperator; loc: MISSING_MESSAGE && penultimateToken.loc.end,

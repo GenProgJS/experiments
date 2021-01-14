@@ -1,0 +1,11 @@
+Generation: 17
+Elapsed time: 9155.0445022583sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+NullCheckOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match === paramVal)) {
+VarChangerOperator; if (paramCalled && (paramCalled.error && paramCallback || paramCalled.match === paramVal)) {
+NullCheckOperator; if (paramCalled && paramCalled && (paramCalled.error && paramCallback || paramCalled.match === paramVal)) {
+ExprReplacerOperator; if (paramCalled && paramCalled && (paramCalled.error && paramCallback || paramCalled.match === paramVal || paramCalled.match === paramVal)) {
+ExprReplacerOperator; if (paramCalled && paramCalled && (paramCalled.error && paramCallback || paramCalled.match === paramVal || paramCalled.match === paramVal) && (paramCalled.error && paramCallback || paramCalled.match === paramVal || paramCalled.match === paramVal)) {
+ExprReplacerOperator; if (paramCalled && paramCalled && (this.caseSensitive && paramCallback || paramCalled.match === paramVal || paramCalled.match === paramVal) && (paramCalled.error && paramCallback || paramCalled.match === paramVal || paramCalled.match === paramVal)) {

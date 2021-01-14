@@ -1,0 +1,14 @@
+Generation: 22
+Elapsed time: 13915.302135944366sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, require) || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, /\/[^\/]*[\*\(].*$/, require) || '/';
+NullCheckOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, /\/[^\/]*[\*\(].*$/, require) && pattern.replace(/\/[^\/]*[\*\(].*$/, /\/[^\/]*[\*\(].*$/, require) || '/';
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, /\/[^\/]*[\*\(].*$/, require) || pattern.replace(/\/[^\/]*[\*\(].*$/, /\/[^\/]*[\*\(].*$/, require) || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, pattern.watched) && pattern.replace(/\/[^\/]*[\*\(].*$/, /\/[^\/]*[\*\(].*$/, require) || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, pattern.watched) && pattern.replace(/\/[^\/]*[\*\(].*$/, require) || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, pattern.watched) && pattern.replace(/\/[^\/]*[\*\(].*$/, require, require) || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, /\/[^\/]*[\*\(].*$/, pattern.watched) && pattern.replace(/\/[^\/]*[\*\(].*$/, require, require) || '/';
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, /\/[^\/]*[\*\(].*$/, pattern.watched) && pattern.replace(/\/[^\/]*[\*\(].*$/, require, require) ** '/';

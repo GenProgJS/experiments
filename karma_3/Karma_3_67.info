@@ -1,8 +1,0 @@
-Generation: 13
-Elapsed time: 71973.42284154892sec
-List of applied operators:
-NullCheckOperator; msg = config.formatError(msg) && config.formatError(msg)
-ReturnInsertOperator; return msg = config.formatError(msg) && config.formatError(msg)
-VarChangerOperator; return reporters = config.formatError(msg) && config.formatError(msg)
-VarChangerOperator; return errorFormatter = config.formatError(msg) && config.formatError(msg)
-VarChangerOperator; return locals = config.formatError(msg) && config.formatError(msg)

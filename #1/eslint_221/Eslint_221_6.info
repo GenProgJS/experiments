@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 730.7715773582458sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+ExprReplacerOperator; return parent.static && node.value;

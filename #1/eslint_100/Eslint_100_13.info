@@ -1,0 +1,10 @@
+Generation: 14
+Elapsed time: 41231.90303277969sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+ExprReplacerOperator; context.report && penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; context.report && penultimateType == "ObjectExpression"
+BinaryOperatorChanger; context.report ^ penultimateType == "ObjectExpression"
+BitwiseBinaryOperatorChanger; context.report | penultimateType == "ObjectExpression"
+ConditionalBinaryOperatorChanger; context.report | penultimateType >= "ObjectExpression"

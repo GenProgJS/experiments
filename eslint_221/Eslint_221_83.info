@@ -1,8 +1,0 @@
-Generation: 5
-Elapsed time: 6746.376327514648sec
-List of applied operators:
-VarChangerOperator; return node;
-NullCheckOperator; return node && node;
-NullCheckOperator; return !node && node && node;
-NullCheckOperator; return !node && node && !node && node;
-LogicalExprChangerOperator; return !node || node && !node && node;

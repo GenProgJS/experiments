@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 8338.889913082123sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && keys.utils.isObject > 1) {
+NullCheckOperator; if (false === exclude && keys.utils && keys.utils.isObject > 1) {

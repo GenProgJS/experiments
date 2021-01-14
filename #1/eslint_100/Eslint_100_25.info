@@ -1,0 +1,12 @@
+Generation: 27
+Elapsed time: 76491.94089317322sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+NullCheckOperator; options.objectsInObjectsException && options.objectsInObjectsException && penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; options.objectsInObjectsException && options.objectsInObjectsException && penultimateType == "ObjectExpression"
+ExprReplacerOperator; sourceCode.getNodeByRangeIndex && options.objectsInObjectsException && penultimateType == "ObjectExpression"
+ConditionalBinaryOperatorChanger; sourceCode.getNodeByRangeIndex && options.objectsInObjectsException && penultimateType === "ObjectExpression"
+ExprReplacerOperator; sourceCode.getNodeByRangeIndex && sourceCode.getTokenBefore && penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; sourceCode.getNodeByRangeIndex && sourceCode.getTokenBefore && penultimateType == "ObjectExpression"
+ConditionalBinaryOperatorChanger; sourceCode.getNodeByRangeIndex && sourceCode.getTokenBefore && penultimateType >= "ObjectExpression"

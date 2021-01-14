@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 1070.894053697586sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return !parent.static && parent.static;

@@ -1,0 +1,9 @@
+Generation: 10
+Elapsed time: 48274.590277671814sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && op == 'update') {
+ExprReplacerOperator; if (false === exclude && i < len) {
+BinaryOperatorChanger; if (false === exclude && i && len) {
+NumberChangerOperator; if (-1 === exclude && i && len) {

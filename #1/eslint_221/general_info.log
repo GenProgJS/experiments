@@ -1,0 +1,538 @@
+---------------------------------- Statistics ----------------------------------
+It took 1663.9406144618988 seconds to produce the 1th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 743.1324055194855 seconds to produce the 2th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1549.9431002140045 seconds to produce the 3th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 31
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1426.1937408447266 seconds to produce the 4th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && parent().static;
+Number of repair candidates: 45
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1051.289894104004 seconds to produce the 5th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && parent(scope.set.get).static;
+Number of repair candidates: 52
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1444.9747488498688 seconds to produce the 6th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static || parent.static;
+Number of repair candidates: 65
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1803.3798658847809 seconds to produce the 7th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && parent("LogicalExpression").static;
+Number of repair candidates: 69
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2447.3441367149353 seconds to produce the 8th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return !parent.static & parent.static || parent.static;
+Number of repair candidates: 80
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2426.929878473282 seconds to produce the 9th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 83
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1863.96648812294 seconds to produce the 10th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && parent(scope.set.get).static;
+Number of repair candidates: 88
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3631.333556652069 seconds to produce the 11th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static * parent.static;
+Number of repair candidates: 102
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2502.356924057007 seconds to produce the 12th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && parent.reference.isWrite();
+Number of repair candidates: 106
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2810.194980621338 seconds to produce the 13th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static * parent.static;
+Number of repair candidates: 108
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3471.5945060253143 seconds to produce the 14th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 115
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4408.886322259903 seconds to produce the 15th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && sourceCode.getComments(node).leading.some()();
+Number of repair candidates: 122
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2538.315737247467 seconds to produce the 16th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && node.id.name[0 < 0 ^ 0 >= node.id.name.length ? Math.floor(Math.random() / node.id.name.length) : 0].toLocaleUpperCase;
+Number of repair candidates: 125
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4292.503742456436 seconds to produce the 17th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && node.id.name[0 < 0 || 0 >= node.id.name.length ? Math.floor(Math.random() ** node.id.name.length, node.property.type) : 0 < 0 || 0 < 0 || 0 >= node.id.name.length ? Math.floor(Math.random() ** node.id.name.length, node.property.type) : 0 >= node.id.name.length ? Math.floor(Math.random() * node.id.name.length) : 0 < 0 || 0 >= node.id.name.length ? Math.floor(Math.random() ** node.id.name.length, node.property.type) : 0].toLocaleUpperCase;
+Number of repair candidates: 130
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4672.342388629913 seconds to produce the 18th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && sourceCode.getComments(node).leading.some()();
+Number of repair candidates: 138
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5317.570223808289 seconds to produce the 19th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && node.id.name[0 < 0 || 0 >= node.id.name.length ? Math.floor(Math.random() - node.id.name.length, node.property.type) : 0 % node.id.name.length].toLocaleUpperCase;
+Number of repair candidates: 142
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4201.1719336509705 seconds to produce the 20th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && node.id.name[0 < 0 || 0 >= node.id.name.length ? Math.val(Math.random() - node.id.name.length) : 0 < 0 || 0 < 0 || 0 >= node.id.name.length ? Math.val(Math.random() ** node.id.name.length) : 0 >= node.id.name.length ? Math.floor(Math.random() * node.id.name.length) : 0 < 0 || 0 >= node.id.name.length ? Math.val(Math.random() + node.id.name.length) : 0].toLocaleUpperCase;
+Number of repair candidates: 144
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3308.913087129593 seconds to produce the 21th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && node.id.name[0 < 0 ^ 0 >= node.id.name.length ? Math.floor(Math.random() ** node.id.name.length) : 0].toLocaleUpperCase;
+Number of repair candidates: 147
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6610.859077692032 seconds to produce the 22th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && node.id.name[0 < 0 || 0 >= node.id.name.length ? Math.val(Math.random() - node.id.name.length) : 0 < 0 || 0 < 0 || 0 >= node.id.name.length ? Math.val(Math.random() % node.id.name.length) : 0 >= node.id.name.length ? Math.floor(Math.random() * node.id.name.length) : 0 < 0 || 0 >= node.id.name.length ? Math.val(Math.random() + node.id.name.length) : 0].toLocaleUpperCase;
+Number of repair candidates: 149
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6247.539169073105 seconds to produce the 23th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && node.id.name[0 + node.id.name.length < 0 || 0 + node.id.name.length >= node.id.name.length ? Math.floor(Math.random() ** node.id.name.length) : 0 - node.id.name.length].toLocaleUpperCase;
+Number of repair candidates: 150
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5257.585060119629 seconds to produce the 24th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && node.id.name[0 < 0 || 0 >= node.id.name.length ? Math.val(Math.random() + node.id.name.length) : 0].toLocaleUpperCase;
+Number of repair candidates: 151
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4003.163187265396 seconds to produce the 25th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && node.id.name[0 + node.id.name.length < 0 || 0 + node.id.name.length >= node.id.name.length ? Math.floor(Math.random() * node.id.name.length) : 0 + node.id.name.length].toLocaleUpperCase;
+Number of repair candidates: 155
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6065.959516525269 seconds to produce the 26th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && node.id.name[0 * node.id.name.length < 0 || 0 % node.id.name.length >= node.id.name.length ? Math.floor(Math.random() ** node.id.name.length) : 0 - node.id.name.length].toLocaleUpperCase;
+Number of repair candidates: 156
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5159.361123561859 seconds to produce the 27th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && node.id.name[0 < 0 | 0 >= node.id.name.length ? Math.floor(Math.random() % node.id.name.length) : 0].toLocaleUpperCase;
+Number of repair candidates: 157
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4638.450502872467 seconds to produce the 28th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && node.id.name[0 < 0 | 0 >= node.id.name.length ? Math.floor(Math.random() < node.id.name.length) : 0].toLocaleUpperCase;
+Number of repair candidates: 157
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6448.091487169266 seconds to produce the 29th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && node.id.name[0 < 0 || 0 >= node.id.name.length ? Math.floor(Math.random() - node.id.name.length, node.property.type) : 0 % node.id.name.length].toLocaleUpperCase;
+Number of repair candidates: 160
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 477.25696539878845 seconds to produce the 1th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1855.5989828109741 seconds to produce the 2th generation.
+Best fitness: 7856.0
+Worst fitness: 7910.0
+Mean fitness: 7864.1
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 20
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1581.058747768402 seconds to produce the 3th generation.
+Best fitness: 7856.0
+Worst fitness: 7910.0
+Mean fitness: 7864.1
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 32
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1919.1022763252258 seconds to produce the 4th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && thisTagPattern.test;
+Number of repair candidates: 39
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2052.332316637039 seconds to produce the 5th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static & parent.static;
+Number of repair candidates: 49
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2091.7672612667084 seconds to produce the 6th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 60
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1811.4363143444061 seconds to produce the 7th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static | parent.static;
+Number of repair candidates: 63
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1941.309534072876 seconds to produce the 8th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static / parent.static;
+Number of repair candidates: 73
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2227.0671854019165 seconds to produce the 9th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static >> thisTagPattern.test;
+Number of repair candidates: 83
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2821.106731414795 seconds to produce the 10th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && left.loc.end() && end;
+Number of repair candidates: 93
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3420.5123207569122 seconds to produce the 11th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static ^ node.operator;
+Number of repair candidates: 103
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2701.4420511722565 seconds to produce the 12th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && left.loc.end() && end;
+Number of repair candidates: 119
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2944.760120153427 seconds to produce the 13th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static ^ node.operator;
+Number of repair candidates: 130
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3174.891391515732 seconds to produce the 14th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 139
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2835.4880220890045 seconds to produce the 15th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && func(node.id.name[0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 < 0 || 0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 >= node.id.name.length ? Math.floor(Math.random() * node.id.name.length) : 0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0]).parent;
+Number of repair candidates: 144
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3552.2747778892517 seconds to produce the 16th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static ^ node.operator;
+Number of repair candidates: 149
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4757.243661880493 seconds to produce the 17th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 155
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4681.355288982391 seconds to produce the 18th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && scope.set.get;
+Number of repair candidates: 163
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4883.579308509827 seconds to produce the 19th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && func(node.id.name[0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length % 1 : 0]).parent;
+Number of repair candidates: 166
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3612.0274600982666 seconds to produce the 20th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && func(filter).parent;
+Number of repair candidates: 168
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3373.996971845627 seconds to produce the 21th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static | node.operator;
+Number of repair candidates: 170
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4650.962519407272 seconds to produce the 22th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && func(node.id.name[0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 < 0 >= 0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 >= node.id.name.length ? Math.floor(Math.random() * node.id.name.length) : 0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length / 1 : 0 * node.id.name.length]).parent;
+Number of repair candidates: 172
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6229.245878696442 seconds to produce the 23th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && func(node.id.name[0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 < 0 || 0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length / 1 : 0 >= node.id.name.length ? Math.floor(Math.random() % node.id.name.length) : 0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0]).parent;
+Number of repair candidates: 173
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6440.2245552539825 seconds to produce the 24th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && func(node.id.name[0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 < 0 >= 0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 >= node.id.name.length ? Math.floor(Math.random() * node.id.name.length) : 0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length / 1 : 0 * node.id.name.length]).parent;
+Number of repair candidates: 175
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5368.069053888321 seconds to produce the 25th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && func(node.id.name[0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 < 0 || 0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length / 1 : 0 >= node.id.name.length ? Math.floor(Math.random() % node.id.name.length) : 0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0]).parent;
+Number of repair candidates: 180
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4331.615514993668 seconds to produce the 26th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && func(node.id.name[0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0]).parent;
+Number of repair candidates: 181
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6722.12034368515 seconds to produce the 27th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && func(node.id.name[0 <= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length / 1 : 0]).parent;
+Number of repair candidates: 185
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6283.0785048007965 seconds to produce the 28th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && func(node.id.name[0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 < 0 || 0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length ** 1 : 0 >= node.id.name.length ? Math.floor(Math.random() * node.id.name.length) : 0 === 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 * node.id.name.length % node.id.name.length]).parent;
+Number of repair candidates: 187
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 8354.272919416428 seconds to produce the 29th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && func(node.id.name[0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length * 1 : 0 >= 0 ? 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length * 1 : 0 < node.id.name.length ? 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 : node.id.name.length + 1 : 0 < 0 || 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length * 1 : 0 >= 0 ? 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length * 1 : 0 < node.id.name.length ? 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 : node.id.name.length + 1 : 0 >= node.id.name.length ? Math.floor(Math.random() * node.id.name.length) : 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length * 1 : 0 >= 0 ? 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length * 1 : 0 < node.id.name.length ? 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 : node.id.name.length ** 1 : 0]).parent;
+Number of repair candidates: 189
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 8206.668585062027 seconds to produce the 30th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && func(node.id.name[0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length * 1 : 0 >= 0 ? 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length * 1 : 0 < node.id.name.length ? 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 : node.id.name.length + 1 : 0 < 0 || 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length * 1 : 0 >= 0 ? 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length * 1 : 0 < node.id.name.length ? 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 : node.id.name.length + 1 : 0 >= node.id.name.length ? Math.floor(Math.random() * node.id.name.length) : 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length * 1 : 0 >= 0 ? 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 < node.id.name.length ? 0 || 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 : node.id.name.length ** 1 : 0]).parent;
+Number of repair candidates: 192
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Eslint
+Bug-ID: 221
+Total elapsed time: 115391.5482184887 sec
+Number of generated candidates: 192
+------------------------------------------------------------------------------

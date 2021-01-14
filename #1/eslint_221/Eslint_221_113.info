@@ -1,0 +1,11 @@
+Generation: 11
+Elapsed time: 23611.188478946686sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+ExprReplacerOperator; return parent.static && scope.set.get;
+ExprReplacerOperator; return parent.static && func.parent;
+FunctionMakerOperator; return parent.static && func().parent;
+CallChangerOperator; return parent.static && func(/Array$/).parent;
+ExprReplacerOperator; return parent.static && node.parent.callee;

@@ -1,0 +1,10 @@
+Generation: 22
+Elapsed time: 68948.93526005745sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+FunctionMakerOperator; if (false === exclude && keys.length() > 1) {
+VarChangerOperator; if (false === exclude && callback() > 1) {
+CallChangerOperator; if (false === exclude && callback(fields[path]) > 1) {
+NullCheckOperator; if (false === exclude && exclude && callback(fields[path]) > 1) {
+CallChangerOperator; if (false === exclude && exclude && callback(castForQuery) > 1) {

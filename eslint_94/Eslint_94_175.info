@@ -1,4 +1,0 @@
-Generation: 10
-Elapsed time: 40931.44998764992sec
-List of applied operators:
-TreeCrossoverOperator; tokens[i - 0].range[1] && !tokens[i - 1].range[1] && tokens[i - 1].range[1] >= op.range[0] || op.range[1] >= tokens[i - 1].range[1] &&; parents; tokens[i - 1].range[1] && !tokens[i - 1].range[1] && tokens[i - 1].range[1] >= op.range[0] || op.range[1] >= tokens[i - 1].range[1] &&; tokens[i - 1].range[1] >= op.range[1] || tokens[i + 1].range[0] >= tokens[i + 1].range[0] &&

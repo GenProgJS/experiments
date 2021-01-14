@@ -1,0 +1,8 @@
+Generation: 10
+Elapsed time: 32538.30122590065sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && 'function' == typeof doc) {
+ExprReplacerOperator; if (false === exclude && 'update' == this.op) {
+NullCheckOperator; if (false === exclude && exclude && 'update' == this.op) {

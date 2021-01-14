@@ -1,0 +1,8 @@
+Generation: 5
+Elapsed time: 8462.544560194016sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+VarChangerOperator; return parent.static && left.loc.end;
+ExprReplacerOperator; return node.type === "MemberExpression" &&

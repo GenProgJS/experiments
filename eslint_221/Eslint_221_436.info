@@ -1,7 +1,0 @@
-Generation: 14
-Elapsed time: 24051.80394101143sec
-List of applied operators:
-VarChangerOperator; return node;
-NullCheckOperator; return node && node;
-NullCheckOperator; return !node && node && node;
-VarChangerOperator; return !node && node && getTrailingStatement;

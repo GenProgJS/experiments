@@ -1,0 +1,7 @@
+Generation: 11
+Elapsed time: 17698.30907678604sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(this.db && top.value)) return;
+LogicalExprChangerOperator; if (!(this.db || top.value)) return;

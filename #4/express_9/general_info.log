@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 509.5352735519409 seconds to produce the 1th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: app.defaultConfiguration = function(){
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 321.51283979415894 seconds to produce the 2th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: app.route = function(path){
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 499.6855752468109 seconds to produce the 3th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: mount_app.mountpath = path;
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 375.4327313899994 seconds to produce the 4th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: this.enable(this.response.__proto__, 'callback');
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 491.5783543586731 seconds to produce the 5th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: mount_app.mountpath = path;
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 408.1035475730896 seconds to produce the 6th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: methods.forEach(function(method){
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 235.67588353157043 seconds to produce the 7th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: this.enable(this.response.__proto__, arguments);
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 491.54435873031616 seconds to produce the 8th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: methods.forEach(function(){
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 401.982262134552 seconds to produce the 9th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: app.route = function(path){
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 425.32481360435486 seconds to produce the 10th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: this.enable(mount_app.handle.use);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 567.3504986763 seconds to produce the 11th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: require('debug')('express:application');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 571.4526922702789 seconds to produce the 12th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: [].slice = function use(path, fn) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 454.3040702342987 seconds to produce the 13th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: app.param = function(name, fn){
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 550.7955012321472 seconds to produce the 14th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: mount_app.mountpath = path;
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 612.2442579269409 seconds to produce the 15th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: this.enable(this.response.__proto__, arguments, arguments, arguments, arguments);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 515.3825531005859 seconds to produce the 16th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: arguments.length = null <= this.set ? this.settings(setting) : this.enabled;
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 664.6542003154755 seconds to produce the 17th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: arguments.length = null - this.set ? this.module.exports(setting) : this.enabled;
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 417.1945197582245 seconds to produce the 18th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: arguments.length = null == this.set ? this.module.exports(setting) : this.enabled;
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 558.0215010643005 seconds to produce the 19th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: arguments.length = null <= this.set ? this.settings(Object) : this.enabled;
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 506.46474623680115 seconds to produce the 20th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: arguments.length = null ^ this.set ? this.module.exports(setting) : this.enabled;
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 515.3782889842987 seconds to produce the 21th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: arguments.length = null > this.set ? [].slice(setting) : this.enabled;
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 981.1246831417084 seconds to produce the 22th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: arguments.length = null % this.set ? [].slice(setting) : this.enabled;
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 533.8793306350708 seconds to produce the 23th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: app.param = function(name, fn){
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 559.9512405395508 seconds to produce the 24th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: arguments.length = null ^ this.set ? this.settings(Object) : this.enabled;
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 482.15082120895386 seconds to produce the 25th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: arguments.length = null | this.set ? this.module.exports(setting) : this.enabled;
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 438.4472653865814 seconds to produce the 26th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: app.route = function(path){
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 590.1041629314423 seconds to produce the 27th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: app.route = function(path){
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 398.7972197532654 seconds to produce the 28th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: arguments.length = null | this.set ? this.module.exports(setting) : this.enabled;
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 477.29986548423767 seconds to produce the 29th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: arguments.length = null === this.set ? this.settings(Object) : this.enabled;
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 570.4480090141296 seconds to produce the 30th generation.
+Best fitness: 777.0
+Worst fitness: 777.0
+Mean fitness: 777.0
+Population size: 20
+"Best" modification so far: arguments.length = null | this.set ? [].slice : this.enabled;
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Express
+Bug-ID: 9
+Total elapsed time: 15134.925431251526 sec
+Number of generated candidates: 1
+------------------------------------------------------------------------------

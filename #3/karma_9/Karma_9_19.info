@@ -1,0 +1,12 @@
+Generation: 28
+Elapsed time: 18576.72942852974sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, true) || '/';
+StringChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, true) || '';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, './logger') || -1 && -1;
+NullCheckOperator; return pattern.replace && pattern.replace(/\/[^\/]*[\*\(].*$/, './logger') || -1 && -1;
+BinaryOperatorChanger; return pattern.replace && pattern.replace(/\/[^\/]*[\*\(].*$/, './logger') || -1 / -1;
+ArithmeticBinaryOperatorChanger; return pattern.replace && pattern.replace(/\/[^\/]*[\*\(].*$/, './logger') || -1 - -1;
+BinaryOperatorChanger; return pattern.replace && pattern.replace(/\/[^\/]*[\*\(].*$/, './logger') ** -1 - -1;

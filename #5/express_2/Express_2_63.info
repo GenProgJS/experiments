@@ -1,0 +1,14 @@
+Generation: 20
+Elapsed time: 7803.292053937912sec
+# of failed test cases in developer-fixed version: 8
+# of failed test cases in current version: 8
+List of applied operators:
+CallChangerOperator; if (!trust(null, this.connection.remoteAddress)) {
+ExprReplacerOperator; if (!trust(null, this.params)) {
+CallChangerOperator; if (!trust(null, this.params, this.params)) {
+NullCheckOperator; if (!trust(null, !this.params && this.params, this.params)) {
+ExprReplacerOperator; if (!trust(null, !this.params && this.params, this.connection.encrypted)) {
+BinaryOperatorChanger; if (!trust(null, !this.params << this.params, this.connection.encrypted)) {
+CallChangerOperator; if (!trust(null, !this.params << this.connection.encrypted)) {
+ExprReplacerOperator; if (!trust(null, !this.params << this.res.statusCode)) {
+ShiftOperatorChanger; if (!trust(null, !this.params >> this.res.statusCode)) {

@@ -1,0 +1,6 @@
+Generation: 13
+Elapsed time: 30883.28774380684sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+VarChangerOperator; return thisTagPattern.test.static;

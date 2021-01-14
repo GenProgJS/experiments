@@ -1,7 +1,0 @@
-Generation: 9
-Elapsed time: 14363.590587854385sec
-List of applied operators:
-NullCheckOperator; return !parent.static && parent.static;
-NullCheckOperator; return !parent.static && parent.static && parent.static;
-NullCheckOperator; return !parent.static && parent.static && !parent.static && parent.static;
-ExprReplacerOperator; return node.type === "Identifier" && node.name === "undefined" && parent.static;

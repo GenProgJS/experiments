@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 1528.3561043739319sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 17
+List of applied operators:
+ConditionalChangerOperator; } else if (definition.type === 'Parameter') {

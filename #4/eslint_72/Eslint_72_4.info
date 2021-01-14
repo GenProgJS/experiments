@@ -1,0 +1,16 @@
+Generation: 20
+Elapsed time: 63664.755385160446sec
+# of failed test cases in developer-fixed version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+NullCheckOperator; loc: lastItem.loc && lastItem.loc.end,
+ExprReplacerOperator; loc: sourceCode.getTokenAfter && lastItem.loc.end,
+VarChangerOperator; loc: context.options[0] && lastItem.loc.end,
+ArraySubscripterOperator; loc: context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length - 1 : 0] && lastItem.loc.end,
+ArithmeticBinaryOperatorChanger; loc: context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length % 1 : 0] && lastItem.loc.end,
+BinaryOperatorChanger; loc: context.options[0 >= 0 ? 0 ** context.options.length ? 0 : context.options.length % 1 : 0] && lastItem.loc.end,
+ArithmeticBinaryOperatorChanger; loc: context.options[0 >= 0 ? 0 % context.options.length ? 0 : context.options.length % 1 : 0] && lastItem.loc.end,
+ArithmeticBinaryOperatorChanger; loc: context.options[0 >= 0 ? 0 + context.options.length ? 0 : context.options.length % 1 : 0] && lastItem.loc.end,
+ArithmeticBinaryOperatorChanger; loc: context.options[0 >= 0 ? 0 + context.options.length ? 0 : context.options.length ** 1 : 0] && lastItem.loc.end,
+ArithmeticBinaryOperatorChanger; loc: context.options[0 >= 0 ? 0 + context.options.length ? 0 : context.options.length / 1 : 0] && lastItem.loc.end,
+ExprReplacerOperator; loc: context.options[0 >= 0 ? 0 + context.options.length ? 0 : context.options.length / 1 : 0] && penultimateToken.loc.end,

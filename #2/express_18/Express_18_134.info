@@ -1,0 +1,14 @@
+Generation: 24
+Elapsed time: 12550.448288917542sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+NullCheckOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal && paramVal)) {
+VarChangerOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal && appendMethods)) {
+NullCheckOperator; if (paramCalled && paramCalled && (paramCalled.error || paramCalled.match === paramVal && appendMethods)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && paramCalled && (paramCalled.error || paramCalled.match == paramVal && appendMethods)) {
+ConditionalBinaryOperatorChanger; if (paramCalled <= paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal && Array)) {
+FunctionMakerOperator; if (paramCalled <= paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal && Array())) {
+CallChangerOperator; if (paramCalled <= paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal && Array(Array.isArray))) {
+ConditionalBinaryOperatorChanger; if (paramCalled <= paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match === paramVal && Array(Array.isArray))) {
+ExprReplacerOperator; if (paramCalled <= paramCalled && (req.url[0] !== '/' && 1 + req.url.substr(0, pathlength).indexOf('://') || paramCalled.match === paramVal && Array(Array.isArray))) {

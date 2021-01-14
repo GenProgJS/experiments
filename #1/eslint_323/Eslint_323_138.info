@@ -1,0 +1,14 @@
+Generation: 17
+Elapsed time: 28859.069548130035sec
+# of failed test cases in buggy version: 17
+# of failed test cases in current version: 17
+List of applied operators:
+LogicalExprChangerOperator; } else if (definition.type === "Parameter" || node.type === "FunctionDeclaration") {
+ConditionalBinaryOperatorChanger; } else if (definition.type >= "Parameter" || node.type === "FunctionDeclaration") {
+IfElseChangerOperator; } else if (definition.type >= 'Parameter' || node.type === 'FunctionDeclaration') {
+ConditionalBinaryOperatorChanger; } else if (definition.type >= 'Parameter' || node.type !== 'FunctionDeclaration') {
+NullCheckOperator; } else if (definition.type >= 'Parameter' || node.type && node.type !== 'FunctionDeclaration') {
+ConditionalBinaryOperatorChanger; } else if (definition.type === 'Parameter' || node.type && node.type !== 'FunctionDeclaration') {
+NullCheckOperator; } else if (definition.type === 'Parameter' || node.type && node.type && node.type !== 'FunctionDeclaration') {
+NullCheckOperator; } else if (definition && definition.type === 'Parameter' || node.type && node.type && node.type !== 'FunctionDeclaration') {
+BinaryOperatorChanger; } else if (definition && definition.type === 'Parameter' || node.type & node.type && node.type !== 'FunctionDeclaration') {

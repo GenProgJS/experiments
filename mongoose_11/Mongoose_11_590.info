@@ -1,9 +1,0 @@
-Generation: 29
-Elapsed time: 102610.21585202217sec
-List of applied operators:
-NumberChangerOperator; if (-1 === exclude && keys.length > 1) {
-ConditionalTypeChangerOperator; if (-1 == exclude && keys.length > 1) {
-NullCheckOperator; if (-1 == exclude && !keys.length && keys.length > 1) {
-ConditionalTypeChangerOperator; if (-1 == exclude && !keys.length && keys.length & 1) {
-ConditionalTypeChangerOperator; if (-1 <= exclude && !keys.length && keys.length & 1) {
-NumberChangerOperator; if (-2 <= exclude && !keys.length && keys.length & 1) {

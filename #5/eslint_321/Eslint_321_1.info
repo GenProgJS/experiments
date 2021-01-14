@@ -1,0 +1,18 @@
+Generation: 23
+Elapsed time: 93937.66672611237sec
+# of failed test cases in developer-fixed version: 25
+# of failed test cases in current version: 25
+List of applied operators:
+NullCheckOperator; } else if (tokenBefore.loc.end.line !== node.loc.end.line && option && option === "beside") {
+NullCheckOperator; } else if (tokenBefore && tokenBefore.loc.end.line !== node.loc.end.line && option && option === "beside") {
+BinaryOperatorChanger; } else if (tokenBefore && tokenBefore.loc.end.line !== node.loc.end.line && option && option == "beside") {
+BinaryOperatorChanger; } else if (tokenBefore && tokenBefore.loc.end.line % node.loc.end.line && option && option == "beside") {
+NullCheckOperator; } else if (tokenBefore && tokenBefore.loc.end && tokenBefore.loc.end.line % node.loc.end.line && option && option == "beside") {
+BinaryOperatorChanger; } else if (tokenBefore && tokenBefore.loc.end && tokenBefore.loc.end.line % node.loc.end.line && option && option === "beside") {
+ArithmeticBinaryOperatorChanger; } else if (tokenBefore && tokenBefore.loc.end && tokenBefore.loc.end.line - node.loc.end.line && option && option === "beside") {
+BinaryOperatorChanger; } else if (tokenBefore != tokenBefore.loc.end && tokenBefore.loc.end.line - node.loc.end.line && option && option === "beside") {
+ConditionalBinaryOperatorChanger; } else if (tokenBefore !== tokenBefore.loc.end && tokenBefore.loc.end.line - node.loc.end.line && option && option === "beside") {
+NullCheckOperator; } else if (tokenBefore && tokenBefore !== tokenBefore.loc.end && tokenBefore.loc.end.line - node.loc.end.line && option && option === "beside") {
+ArithmeticBinaryOperatorChanger; } else if (tokenBefore && tokenBefore !== tokenBefore.loc.end && tokenBefore.loc.end.line % node.loc.end.line && option && option === "beside") {
+BinaryOperatorChanger; } else if (tokenBefore >= tokenBefore !== tokenBefore.loc.end && tokenBefore.loc.end.line % node.loc.end.line && option && option === "beside") {
+ExprReplacerOperator; } else if (tokenBefore >= tokenBefore !== tokenBefore.loc.end && tokenBefore.loc.end.line % node.loc.start.line && option && option === "beside") {

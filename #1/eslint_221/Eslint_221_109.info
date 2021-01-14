@@ -1,0 +1,6 @@
+Generation: 11
+Elapsed time: 23257.030958652496sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+ExprReplacerOperator; return node.name;

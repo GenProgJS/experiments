@@ -1,0 +1,8 @@
+Generation: 4
+Elapsed time: 5517.43616104126sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+VarChangerOperator; return parent.static && getComments.static;
+ExprReplacerOperator; return isES5Constructor(node) || hasJSDocThisTag(node, sourceCode);

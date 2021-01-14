@@ -1,0 +1,7 @@
+Generation: 7
+Elapsed time: 37639.50889778137sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && op == 'update') {
+ExprReplacerOperator; if ('$or' === path && op == 'update') {

@@ -1,0 +1,8 @@
+Generation: 2
+Elapsed time: 4232.849142074585sec
+# of failed test cases in developer-fixed version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+ConditionalBinaryOperatorChanger; op.type == "Punctuator" &&
+StringChangerOperator; op.type == 'PUNCTUATOR' &&
+BinaryOperatorChanger; op.type !== 'PUNCTUATOR' &&

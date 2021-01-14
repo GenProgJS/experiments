@@ -1,0 +1,7 @@
+Generation: 28
+Elapsed time: 41694.07730507851sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(Object.create.value && top.value)) return;
+BinaryOperatorChanger; if (!(Object.create.value || top.value)) return;

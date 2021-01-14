@@ -1,0 +1,6 @@
+Generation: 7
+Elapsed time: 13187.757658481598sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(inspect && top.value)) return;

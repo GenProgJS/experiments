@@ -1,0 +1,16 @@
+Generation: 22
+Elapsed time: 74043.49380040169sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+FunctionCallRemoverOperator; if (top.value._atomics && top.value.hasAtomics) {
+BinaryOperatorChanger; if (top.value._atomics & top.value.hasAtomics) {
+NullCheckOperator; if (!top.value._atomics && top.value._atomics & top.value.hasAtomics) {
+BinaryOperatorChanger; if (!top.value._atomics && top.value._atomics / top.value.hasAtomics) {
+FunctionMakerOperator; if (!top.value._atomics && top.value._atomics() / top.value.hasAtomics) {
+ArithmeticBinaryOperatorChanger; if (!top.value._atomics && top.value._atomics() % top.value.hasAtomics) {
+CallChangerOperator; if (!top.value._atomics && top.Object.keys(this.$__.activePaths.states.require).filter._atomics() % top.value.hasAtomics) {
+ArithmeticBinaryOperatorChanger; if (!top.value._atomics && top.Object.keys(this.$__.activePaths.states.require).filter._atomics() * top.value.hasAtomics) {
+BinaryOperatorChanger; if (!top.value._atomics && top.Object.keys(this.$__.activePaths.states.require).filter._atomics() >> top.value.hasAtomics) {
+CallChangerOperator; if (!top.value._atomics && top.keys(this.$__.activePaths.states.require).filter._atomics() >> top.value.hasAtomics) {
+ConditionalChangerOperator; if (!(!top.value._atomics && top.keys(this.$__.activePaths.states.require).filter._atomics() >> top.value.hasAtomics)) {

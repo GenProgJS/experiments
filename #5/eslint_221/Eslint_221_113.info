@@ -1,0 +1,9 @@
+Generation: 13
+Elapsed time: 25545.334124803543sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+FunctionMakerOperator; return parent.static && parent.static();
+VarChangerOperator; return parent.static && jsdocComment.static();
+ExprReplacerOperator; return node.id && jsdocComment.static();

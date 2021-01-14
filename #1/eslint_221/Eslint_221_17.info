@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 2007.2673723697662sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+VarChangerOperator; return sourceCode.getComments(node).leading.some.static;

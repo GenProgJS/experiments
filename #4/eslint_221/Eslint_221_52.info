@@ -1,0 +1,6 @@
+Generation: 4
+Elapsed time: 9952.915624141693sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+VarChangerOperator; return isCallee.static;

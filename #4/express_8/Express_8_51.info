@@ -1,0 +1,6 @@
+Generation: 3
+Elapsed time: 2052.4534854888916sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+VarChangerOperator; if (typeof arg !== 'function' && (arg == null || this.locals.length !== 0)) {

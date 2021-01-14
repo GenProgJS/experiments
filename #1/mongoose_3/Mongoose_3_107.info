@@ -1,0 +1,6 @@
+Generation: 16
+Elapsed time: 25972.695298433304sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(Document.prototype._storeShard && top.value)) return;

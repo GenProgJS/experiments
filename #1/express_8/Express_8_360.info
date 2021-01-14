@@ -1,0 +1,15 @@
+Generation: 22
+Elapsed time: 14954.976966142654sec
+# of failed test cases in buggy version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+BinaryOperatorChanger; if (typeof arg !== 'function' && (arg == null / arg.length !== 0)) {
+ExprReplacerOperator; if (typeof arg !== 'function' && (arg == null / middleware.init !== 0)) {
+ConditionalBinaryOperatorChanger; if (typeof arg !== 'function' && (arg === null / middleware.init !== 0)) {
+ArithmeticBinaryOperatorChanger; if (typeof arg !== 'function' && (arg === null ** middleware.init !== 0)) {
+BinaryOperatorChanger; if (typeof arg !== 'function' && (arg === null <= middleware.init !== 0)) {
+FunctionMakerOperator; if (typeof arg !== 'function' && (arg === null <= middleware.init() !== 0)) {
+NumberChangerOperator; if (typeof arg !== 'function' && (arg === null <= middleware.init() !== 1)) {
+ExprReplacerOperator; if (typeof arg !== 'function' && (arg === null <= this.enabled('view cache') !== 1)) {
+ConditionalBinaryOperatorChanger; if (typeof arg !== 'function' && (arg == null <= this.enabled('view cache') !== 1)) {
+BinaryOperatorChanger; if (typeof arg !== 'function' && (arg <= null <= this.enabled('view cache') !== 1)) {

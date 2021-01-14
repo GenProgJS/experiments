@@ -1,0 +1,16 @@
+Generation: 27
+Elapsed time: 107486.00869345665sec
+# of failed test cases in developer-fixed version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+ExprReplacerOperator; sourceCode.getNodeByRangeIndex(penultimate.start).type && penultimateType === "ObjectExpression"
+NullCheckOperator; sourceCode.getNodeByRangeIndex(penultimate.start && penultimate.start).type && penultimateType === "ObjectExpression"
+BinaryOperatorChanger; sourceCode.getNodeByRangeIndex(penultimate.start >>> penultimate.start).type && penultimateType === "ObjectExpression"
+CallChangerOperator; sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0]).type && penultimateType === "ObjectExpression"
+ArraySubscripterOperator; sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length - 1 : 0]).type && penultimateType === "ObjectExpression"
+ArithmeticBinaryOperatorChanger; sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length ** 1 : 0]).type && penultimateType === "ObjectExpression"
+ArraySubscripterOperator; sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length ** 1 : 0 % context.options.length]).type && penultimateType === "ObjectExpression"
+ArithmeticBinaryOperatorChanger; sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length ** 1 : 0 * context.options.length]).type && penultimateType === "ObjectExpression"
+ArraySubscripterOperator; sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length ** 1 : 0 * context.options.length % context.options.length]).type && penultimateType === "ObjectExpression"
+ArithmeticBinaryOperatorChanger; sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length ** 1 : 0 * context.options.length * context.options.length]).type && penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; sourceCode.getNodeByRangeIndex(penultimate.start >>> context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length ** 1 : 0 * context.options.length * context.options.length]).type && penultimateType >= "ObjectExpression"

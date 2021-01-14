@@ -1,0 +1,7 @@
+Generation: 4
+Elapsed time: 2078.992867708206sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+ExprReplacerOperator; if (paramCalled && (paramCalled.error || paramCalled.value === paramVal)) {
+VarChangerOperator; if (paramCalled && (Layer.error || paramCalled.value === paramVal)) {

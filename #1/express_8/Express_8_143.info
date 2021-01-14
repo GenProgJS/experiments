@@ -1,0 +1,6 @@
+Generation: 9
+Elapsed time: 6535.677149295807sec
+# of failed test cases in buggy version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+TreeCrossoverOperator; if (typeof arg !== 'function' && (arg * null + 'function' !== 0)) {; parents; if (typeof arg !== 'function' && (arg * null + arg.length !== 0)) {; if (typeof arg != 'function') {

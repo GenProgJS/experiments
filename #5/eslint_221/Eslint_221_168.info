@@ -1,0 +1,11 @@
+Generation: 24
+Elapsed time: 58038.84164047241sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+FunctionMakerOperator; return parent.static && parent.static();
+ExprReplacerOperator; return parent.static && esutils.ast.trailingStatement();
+CallChangerOperator; return parent.static && esutils.ast();
+CallChangerOperator; return parent.static && esutils.left.loc();
+ExprReplacerOperator; return parent.arguments && esutils.left.loc();

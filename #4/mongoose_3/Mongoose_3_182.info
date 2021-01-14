@@ -1,0 +1,9 @@
+Generation: 15
+Elapsed time: 42324.125109910965sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+BinaryOperatorChanger; if (top.value._atomics || top.value.hasAtomics()) {
+ExprReplacerOperator; if (top.value._atomics || p.doValidate()) {
+FunctionMakerOperator; if (top.value._atomics || p.doValidate()()) {
+ExprReplacerOperator; if (top.value._atomics || this.toObject(opts)()) {

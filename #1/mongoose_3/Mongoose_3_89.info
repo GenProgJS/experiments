@@ -1,0 +1,8 @@
+Generation: 13
+Elapsed time: 20670.653287172318sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(this.db && top.value)) return;
+ReturnNoneOperator; if (!(this.db && top.value)) return null;
+ExprReplacerOperator; if (!(Document.prototype.modifiedPaths && top.value)) return null;

@@ -1,0 +1,13 @@
+Generation: 23
+Elapsed time: 81121.00093126297sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+BinaryOperatorChanger; if (false === exclude && keys.length - 1) {
+BinaryOperatorChanger; if (false > exclude && keys.length - 1) {
+ArithmeticBinaryOperatorChanger; if (false > exclude && keys.length + 1) {
+VarChangerOperator; if (false > exclude && 'gt gte lt lte ne in nin all regex size maxDistance'.split + 1) {
+BinaryOperatorChanger; if (false > exclude * 'gt gte lt lte ne in nin all regex size maxDistance'.split + 1) {
+BinaryOperatorChanger; if (false > exclude >> 'gt gte lt lte ne in nin all regex size maxDistance'.split + 1) {
+ArithmeticBinaryOperatorChanger; if (false > exclude >> 'gt gte lt lte ne in nin all regex size maxDistance'.split % 1) {
+VarChangerOperator; if (false > keys[ki] >> 'gt gte lt lte ne in nin all regex size maxDistance'.split % 1) {

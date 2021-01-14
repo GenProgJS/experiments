@@ -1,0 +1,7 @@
+Generation: 10
+Elapsed time: 49019.33970475197sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && op == 'update') {
+VarChangerOperator; if (false === exclude && this.model == 'update') {

@@ -1,0 +1,7 @@
+Generation: 20
+Elapsed time: 31329.923164367676sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+ExprReplacerOperator; if (!(item.value && this._dirty)) return;
+LogicalExprChangerOperator; if (!(item.value || this._dirty)) return;

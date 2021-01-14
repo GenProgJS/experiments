@@ -1,0 +1,6 @@
+Generation: 3
+Elapsed time: 2329.9432740211487sec
+# of failed test cases in buggy version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+VarChangerOperator; if (typeof arg !== 'function' && (arg == null || process.env.NODE_ENV.length !== 0)) {

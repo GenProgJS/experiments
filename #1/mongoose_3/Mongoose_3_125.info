@@ -1,0 +1,6 @@
+Generation: 19
+Elapsed time: 30281.71259188652sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+TreeCrossoverOperator; if (!(item.value && !(item.value && Document.prototype.setValue.value))) return;; parents; if (!(item.value && top.value)) return;; if (!(item.value && Document.prototype.setValue.value)) return;

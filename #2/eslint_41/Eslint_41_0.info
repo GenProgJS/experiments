@@ -1,0 +1,9 @@
+Generation: 11
+Elapsed time: 26975.24194407463sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+NullCheckOperator; (end.line > lineNumber || end.column && end.column === line.length);
+NullCheckOperator; (end.line > lineNumber || end.column && end.column === line.length && line.length);
+ConditionalBinaryOperatorChanger; (end.line > lineNumber || end.column && end.column >= line.length && line.length);
+ExprReplacerOperator; (end.line > lineNumber || end.column && end.column >= line.length && options.tabWidth);

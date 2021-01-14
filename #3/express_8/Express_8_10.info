@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 356.2317051887512sec
+# of failed test cases in buggy version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+VarChangerOperator; if (typeof arg !== 'function' && (arg == null || compileETag.length !== 0)) {

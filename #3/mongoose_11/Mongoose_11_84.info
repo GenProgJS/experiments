@@ -1,0 +1,7 @@
+Generation: 3
+Elapsed time: 24276.24400997162sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if ('number' === typeof path && keys.length > 1) {
+VarChangerOperator; if ('number' === typeof path && keys.value.$geometry.type > 1) {

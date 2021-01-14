@@ -1,0 +1,7 @@
+Generation: 4
+Elapsed time: 8074.304798841476sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(this.try && top.value)) return;
+LogicalExprChangerOperator; if (!(this.try || top.value)) return;

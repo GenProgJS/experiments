@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 1376.7911496162415sec
+# of failed test cases in buggy version: 17
+# of failed test cases in current version: 17
+List of applied operators:
+ExprReplacerOperator; } else if (definition.type === "Parameter" && node.parent.type.indexOf("Export") === 0) {

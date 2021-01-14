@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 1842.713843345642sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+ReturnNoneOperator; if (!(item.value && top.value)) return null;

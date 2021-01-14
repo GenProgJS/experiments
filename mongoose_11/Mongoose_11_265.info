@@ -1,8 +1,0 @@
-Generation: 16
-Elapsed time: 68575.59007930756sec
-List of applied operators:
-ConditionalTypeChangerOperator; if (false === exclude && keys.length === 1) {
-VarChangerOperator; if (false === exclude && this._conditions === 1) {
-NumberChangerOperator; if (false === exclude && this._conditions === 0) {
-ConditionalTypeChangerOperator; if (false & exclude && this._conditions === 0) {
-NumberChangerOperator; if (false & exclude && this._conditions === -1) {

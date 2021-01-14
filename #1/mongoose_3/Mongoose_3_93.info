@@ -1,0 +1,8 @@
+Generation: 13
+Elapsed time: 20949.178218364716sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+VarChangerOperator; if (!(item._set && top.value)) return;
+ConditionalChangerOperator; if (item._set && top.value) return;
+FunctionMakerOperator; if (item._set && top.value()) return;

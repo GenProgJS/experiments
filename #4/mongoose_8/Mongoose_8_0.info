@@ -1,0 +1,7 @@
+Generation: 2
+Elapsed time: 21192.57662820816sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+NullCheckOperator; this.constructor && this.constructor.update.apply(this.constructor, args);
+ReturnInsertOperator; return this.constructor && this.constructor.update.apply(this.constructor, args);

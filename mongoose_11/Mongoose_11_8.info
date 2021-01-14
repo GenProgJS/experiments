@@ -1,5 +1,0 @@
-Generation: 1
-Elapsed time: 6861.773544549942sec
-List of applied operators:
-VarChangerOperator; if (false === this._conditions && keys.length > 1) {
-NullCheckOperator; if (false === !this._conditions && this._conditions && keys.length > 1) {

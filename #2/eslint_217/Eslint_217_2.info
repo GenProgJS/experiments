@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 5660.886239051819sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+TreeCrossoverOperator; if (!options || typeof options === "string") {; parents; if (!options || typeof option === "string") {; if (!options || typeof option === "string") {

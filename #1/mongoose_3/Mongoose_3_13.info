@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 3353.549431324005sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+BinaryOperatorChanger; if (!(item.value != top.value)) return;

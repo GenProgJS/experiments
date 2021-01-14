@@ -1,0 +1,7 @@
+Generation: 13
+Elapsed time: 54943.198138952255sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && op == 'update') {
+ExprReplacerOperator; if (1 === arguments.length && op == 'update') {

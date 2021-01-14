@@ -1,0 +1,7 @@
+Generation: 6
+Elapsed time: 17494.54316687584sec
+# of failed test cases in buggy version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+ExprReplacerOperator; tokens[i - 1].range === "Punctuator" &&
+ConditionalBinaryOperatorChanger; tokens[i - 1].range !== "Punctuator" &&

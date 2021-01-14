@@ -1,0 +1,6 @@
+Generation: 6
+Elapsed time: 9968.777399778366sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+TreeCrossoverOperator; return node.type.static;; parents; return parent.static;; return parent.static && anyFunctionPattern.node.operator(node.type).static();

@@ -1,0 +1,17 @@
+Generation: 25
+Elapsed time: 62987.57104349136sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+FunctionMakerOperator; return parent.static && parent.static();
+FunctionMakerOperator; return parent.static && parent().static();
+CallChangerOperator; return parent.static && parent().thisTagPattern();
+CallChangerOperator; return parent.static && parent(module.exports).thisTagPattern();
+CallChangerOperator; return parent.static && parent(/^(?:Function(?:Declaration|Expression)|ArrowFunctionExpression)$/).thisTagPattern();
+CallChangerOperator; return parent.static && parent(isMethodWhichHasThisArg).right.loc.start();
+CallChangerOperator; return parent.static && parent(isMethodWhichHasThisArg).loc.start();
+CallChangerOperator; return parent.static && parent(node.id.name[0].toLocaleUpperCase).loc.start();
+ArraySubscripterOperator; return parent.static && parent(node.id.name[0 < 0 || 0 >= node.id.name.length ? Math.floor(Math.random() * node.id.name.length) : 0].toLocaleUpperCase).loc.start();
+ArraySubscripterOperator; return parent.static && parent(node.id.name[0 < 0 || 0 >= node.id.name.length ? Math.floor(Math.random() * node.id.name.length) : 0 % node.id.name.length].toLocaleUpperCase).loc.start();
+NullCheckOperator; return !parent.static && parent.static && parent(node.id.name[0 < 0 || 0 >= node.id.name.length ? Math.floor(Math.random() * node.id.name.length) : 0 % node.id.name.length].toLocaleUpperCase).loc.start();

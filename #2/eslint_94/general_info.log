@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 2623.985475063324 seconds to produce the 1th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: op.type === "Punctuator" &&
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2269.6803364753723 seconds to produce the 2th generation.
+Best fitness: 13690.0
+Worst fitness: 13762.0
+Mean fitness: 13697.2
+Population size: 20
+"Best" modification so far: op.type === "Punctuator" &&
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1895.9639987945557 seconds to produce the 3th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: op.type === "Punctuator" &&
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1947.410763502121 seconds to produce the 4th generation.
+Best fitness: 13690.0
+Worst fitness: 13915.0
+Mean fitness: 13704.85
+Population size: 20
+"Best" modification so far: op.type === "Punctuator" &&
+Number of repair candidates: 7
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2442.2528676986694 seconds to produce the 5th generation.
+Best fitness: 13690.0
+Worst fitness: 13915.0
+Mean fitness: 13715.65
+Population size: 20
+"Best" modification so far: op && op.type === "Punctuator" ==
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2482.266632080078 seconds to produce the 6th generation.
+Best fitness: 13690.0
+Worst fitness: 13762.0
+Mean fitness: 13702.6
+Population size: 20
+"Best" modification so far: op && op.type === "Punctuator" ==
+Number of repair candidates: 9
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1532.615763425827 seconds to produce the 7th generation.
+Best fitness: 13690.0
+Worst fitness: 13744.0
+Mean fitness: 13700.8
+Population size: 20
+"Best" modification so far: op.type == "Punctuator" ==
+Number of repair candidates: 10
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2562.5462453365326 seconds to produce the 8th generation.
+Best fitness: 13690.0
+Worst fitness: 13744.0
+Mean fitness: 13704.4
+Population size: 20
+"Best" modification so far: op.type === "Punctuator" &
+Number of repair candidates: 15
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4516.524780035019 seconds to produce the 9th generation.
+Best fitness: 13690.0
+Worst fitness: 13744.0
+Mean fitness: 13697.2
+Population size: 20
+"Best" modification so far: op.type >= "Punctuator" ==
+Number of repair candidates: 20
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3220.8103008270264 seconds to produce the 10th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: i && op && op.type == "Punctuator" &
+Number of repair candidates: 24
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2120.5716257095337 seconds to produce the 11th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: sourceCode.getText && op.type == "Punctuator" ==
+Number of repair candidates: 28
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3961.5011484622955 seconds to produce the 12th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: op.type && op.type === "Punctuator" ==
+Number of repair candidates: 30
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2486.253151655197 seconds to produce the 13th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: i && op.type && op.type > 'PUNCTUATOR' &
+Number of repair candidates: 31
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3379.3511776924133 seconds to produce the 14th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: op && op.type >= 'PUNCTUATOR' &&
+Number of repair candidates: 44
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2539.2722153663635 seconds to produce the 15th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: i && op && op.type >= "Punctuator" &
+Number of repair candidates: 50
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2800.8702840805054 seconds to produce the 16th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens.length && op.type == "Punctuator" ==
+Number of repair candidates: 55
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2430.127106666565 seconds to produce the 17th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: op && op.type >= "Punctuator" ===
+Number of repair candidates: 58
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3249.5256373882294 seconds to produce the 18th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: op ^ op.type >= "Punctuator" ==
+Number of repair candidates: 63
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2351.4680304527283 seconds to produce the 19th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: sourceCode.getText && op.type == "Punctuator" ==
+Number of repair candidates: 68
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3399.5451414585114 seconds to produce the 20th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: i | tokens[i + 1 >= 0 ? i + 1 < tokens.length ? i + 1 : tokens.length % 1 : 0].range && op.type >= 'PUNCTUATOR' &
+Number of repair candidates: 71
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3483.9815950393677 seconds to produce the 21th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: i | tokens[i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0 >= 0 ? i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0 < tokens.length ? i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0 : tokens.length - 1 : 0 >= 0 ? i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0 >= 0 ? i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0 < tokens.length ? i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0 : tokens.length - 1 : 0 < tokens.length ? i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0 >= 0 ? i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0 < tokens.length ? i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0 : tokens.length - 1 : 0 : tokens.length - 1 : 0 % tokens.length].range && op.type >= 'PUNCTUATOR' &
+Number of repair candidates: 86
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3808.5830113887787 seconds to produce the 22th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: i | tokens[i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0 >= 0 ? i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0 < tokens.length ? i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0 : tokens.length * 1 : 0].range && op.type >= 'PUNCTUATOR' &
+Number of repair candidates: 86
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4375.935971498489 seconds to produce the 23th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: i | tokens[i + 1 === 0 ? i / 1 >= tokens.length ? i + 1 : tokens.length + 1 : 0 / tokens.length].range && op.type >= 'PUNCTUATOR' &
+Number of repair candidates: 88
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4659.110534906387 seconds to produce the 24th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: i | tokens[i - 1 === 0 ? i * 1 < tokens.length ? i - 1 : tokens.length - 1 : 0].range && op.type >= 'PUNCTUATOR' &
+Number of repair candidates: 92
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4813.7322154045105 seconds to produce the 25th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: i | tokens[i + 1 === 0 ? i + 1 < tokens.length ? i % 1 : tokens.length - 1 : 0 >= 0 ? i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0 < tokens.length ? i + 1 === 0 ? i + 1 < tokens.length ? i + 1 : tokens.length - 1 : 0 : tokens.length * 1 : 0 % tokens.length].range && op.type >= 'PUNCTUATOR' &
+Number of repair candidates: 96
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4820.3169412612915 seconds to produce the 26th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: i | tokens[i + 1 === 0 ? i + 1 >= tokens.length ? i + 1 : tokens.length + 1 : 0 ** tokens.length % tokens.length].range && op.type >= 'PUNCTUATOR' &
+Number of repair candidates: 99
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4209.672406196594 seconds to produce the 27th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: i | tokens[i + 1 === 0 ? i + 1 >= tokens.length ? i + 1 : tokens.length - 1 : 0].range && op.type >= 'PUNCTUATOR' &
+Number of repair candidates: 103
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4060.8467955589294 seconds to produce the 28th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: op ^ op.type >= "Punctuator" ==
+Number of repair candidates: 105
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4206.323623180389 seconds to produce the 29th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: i | tokens[i + 1 === 0 ? i + 1 >= tokens.length ? i + 1 : tokens.length + 1 : 0 / tokens.length].range && op.type >= 'PUNCTUATOR' &
+Number of repair candidates: 106
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4436.194841384888 seconds to produce the 30th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: i ^ tokens[i + 1 === 0 ? i / 1 >= tokens.length ? i ** 1 : tokens.length + 1 : 0 / tokens.length >= 0 ? i + 1 === 0 ? i / 1 >= tokens.length ? i ** 1 : tokens.length + 1 : 0 / tokens.length < tokens.length ? i + 1 === 0 ? i / 1 >= tokens.length ? i ** 1 : tokens.length + 1 : 0 * tokens.length : tokens.length - 1 : 0].range && op.type >= 'PUNCTUATOR' &
+Number of repair candidates: 109
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Eslint
+Bug-ID: 94
+Total elapsed time: 97201.84027814865 sec
+Number of generated candidates: 109
+------------------------------------------------------------------------------

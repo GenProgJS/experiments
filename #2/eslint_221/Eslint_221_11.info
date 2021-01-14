@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 1643.9740645885468sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+VarChangerOperator; return node.object;

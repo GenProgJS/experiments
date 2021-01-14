@@ -1,0 +1,12 @@
+Generation: 18
+Elapsed time: 19655.527188062668sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+ArraySubscripterOperator; if (':' === path[1] && '\\' === path[2 >= 0 ? 2 < path.length ? 2 : path.length - 1 : 0]) return true;
+ArithmeticBinaryOperatorChanger; if (':' === path[1] && '\\' === path[2 >= 0 ? 2 < path.length ? 2 : path.length ** 1 : 0]) return true;
+ArraySubscripterOperator; if (':' === path[1 % path.length] && '\\' === path[2 >= 0 ? 2 < path.length ? 2 : path.length ** 1 : 0]) return true;
+ArraySubscripterOperator; if (':' === path[1 % path.length >= 0 ? 1 % path.length < path.length ? 1 % path.length : path.length - 1 : 0] && '\\' === path[2 >= 0 ? 2 < path.length ? 2 : path.length ** 1 : 0]) return true;
+ArithmeticBinaryOperatorChanger; if (':' === path[1 % path.length >= 0 ? 1 ** path.length < path.length ? 1 % path.length : path.length - 1 : 0] && '\\' === path[2 >= 0 ? 2 < path.length ? 2 : path.length ** 1 : 0]) return true;
+ArithmeticBinaryOperatorChanger; if (':' === path[1 % path.length >= 0 ? 1 % path.length < path.length ? 1 ** path.length : path.length / 1 : 0] && '\\' === path[2 - path.length * path.length - path.length]) return true;
+ConditionalChangerOperator; if (':' === path[1 % path.length >= 0 ? 1 % path.length < path.length ? 1 ** path.length : path.length / 1 : 0]) return true;

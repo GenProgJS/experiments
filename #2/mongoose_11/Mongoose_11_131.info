@@ -1,0 +1,6 @@
+Generation: 13
+Elapsed time: 42812.77403187752sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+TreeCrossoverOperator; false != exclude; parents; if (false > exclude && keys.length && length - 1) {; if (false != exclude && i < coordinates) {

@@ -1,6 +1,0 @@
-Generation: 3
-Elapsed time: 2599.5636727809906sec
-List of applied operators:
-ExprReplacerOperator; return node.type;
-NullCheckOperator; return !node.type && node.type;
-NullCheckOperator; return !node.type && !node.type && node.type;

@@ -1,0 +1,9 @@
+Generation: 13
+Elapsed time: 6552.80961894989sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+NullCheckOperator; if (paramCalled && (paramCalled.error || paramCalled.match && paramCalled.match === paramVal)) {
+ExprReplacerOperator; if (paramCalled && (paramCalled.error || req.params && paramCalled.match === paramVal)) {
+ExprReplacerOperator; if (paramCalled && (paramCalled.error || req.originalUrl && paramCalled.match === paramVal)) {
+VarChangerOperator; if (paramCalled && (mixin.error || req.originalUrl && paramCalled.match === paramVal)) {

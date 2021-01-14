@@ -1,0 +1,8 @@
+Generation: 17
+Elapsed time: 46005.072715997696sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+VarChangerOperator; return parent.static && left.loc.end;
+VarChangerOperator; return parent.upper && left.loc.end;

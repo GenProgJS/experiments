@@ -1,0 +1,8 @@
+Generation: 15
+Elapsed time: 10086.839414358139sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace('change', chokidar || log.debug, '') || '/';
+BinaryOperatorChanger; return pattern.replace('change', chokidar ^ log.debug, '') || '/';
+BinaryOperatorChanger; return pattern.replace('change', chokidar ^ log.debug, '') ** '/';

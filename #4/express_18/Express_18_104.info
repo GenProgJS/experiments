@@ -1,0 +1,13 @@
+Generation: 28
+Elapsed time: 15759.62338089943sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+TreeCrossoverOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (paramCalled.error || paramCalled.match === paramVal)) {; parents; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (paramCalled.error || paramCalled.match >= paramVal)) {
+NullCheckOperator; if (paramCalled && paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (paramCalled.error || paramCalled.match >= paramVal)) {
+NullCheckOperator; if (paramCalled && paramCalled && (paramCalled.error || paramCalled.match === paramVal && paramVal) && (paramCalled.error || paramCalled.match >= paramVal)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && paramCalled && (paramCalled.error || paramCalled.match <= paramVal && paramVal) && (paramCalled.error || paramCalled.match >= paramVal)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && paramCalled && (paramCalled.error || paramCalled.match <= paramVal && paramVal) && (paramCalled.error || paramCalled.match === paramVal)) {
+ExprReplacerOperator; if (paramCalled && paramCalled && (Object.prototype || paramCalled.match <= paramVal && paramVal) && (paramCalled.error || paramCalled.match === paramVal)) {
+NullCheckOperator; if (paramCalled && paramCalled && (!Object.prototype && Object.prototype || paramCalled.match <= paramVal && paramVal) && (paramCalled.error || paramCalled.match === paramVal)) {

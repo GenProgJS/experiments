@@ -1,0 +1,19 @@
+Generation: 27
+Elapsed time: 99135.50568461418sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+NullCheckOperator; this.constructor.update.apply(this.constructor, args) && this.constructor.update.apply(this.constructor, args);
+BinaryOperatorChanger; this.constructor.update.apply(this.constructor, args) + this.constructor.update.apply(this.constructor, args);
+ArithmeticBinaryOperatorChanger; this.constructor.update.apply(this.constructor, args) - this.constructor.update.apply(this.constructor, args);
+BinaryOperatorChanger; this.constructor.update.apply(this.constructor, args) <= this.constructor.update.apply(this.constructor, args);
+CallChangerOperator; this.constructor.update.apply(this.constructor, args, args) <= this.constructor.update.apply(this.constructor, args);
+BinaryOperatorChanger; this.constructor.update.apply(this.constructor, args, args) >> this.constructor.update.apply(this.constructor, args);
+BinaryOperatorChanger; this.constructor.update.apply(this.constructor, args, args) | this.constructor.update.apply(this.constructor, args);
+CallChangerOperator; this.constructor.update.apply(this.constructor, args, this.constructor, args, args) | this.constructor.update.apply(this.constructor, args);
+BitwiseBinaryOperatorChanger; this.constructor.update.apply(this.constructor, args, this.constructor, args, args) & this.constructor.update.apply(this.constructor, args);
+BinaryOperatorChanger; this.constructor.update.apply(this.constructor, args, this.constructor, args, args) >>> this.constructor.update.apply(this.constructor, args);
+BinaryOperatorChanger; this.constructor.update.apply(this.constructor, args, this.constructor, args, args) + this.constructor.update.apply(this.constructor, args);
+BinaryOperatorChanger; this.constructor.update.apply(this.constructor, args, this.constructor, args, args) && this.constructor.update.apply(this.constructor, args);
+CallChangerOperator; this.constructor.update.apply(this.constructor, args, this.constructor, args, args) && this.constructor.update.apply(this.constructor, this.constructor, args);
+ReturnInsertOperator; return this.constructor.update.apply(this.constructor, args, this.constructor, args, args) && this.constructor.update.apply(this.constructor, this.constructor, args);

@@ -1,0 +1,12 @@
+Generation: 10
+Elapsed time: 40930.959914684296sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+NullCheckOperator; if (top.value._atomics && !top.value.hasAtomics() && top.value.hasAtomics()) {
+LogicalExprChangerOperator; if (top.value._atomics || !top.value.hasAtomics() && top.value.hasAtomics()) {
+CallChangerOperator; if (top.value._atomics || !top.q[i][0].hasAtomics() && top.value.hasAtomics()) {
+ArraySubscripterOperator; if (top.value._atomics || !top.q[i < 0 || i >= top.q.length ? Math.floor(Math.random() * top.q.length) : i][0].hasAtomics() && top.value.hasAtomics()) {
+TernaryChangerOperator; if (top.value._atomics || !top.q[i < 0 || i >= top.q.length ? i : Math.floor(Math.random() * top.q.length)][0].hasAtomics() && top.value.hasAtomics()) {
+FunctionMakerOperator; if (top.value._atomics || !top.q[i < 0 || i >= top.q.length ? i : Math.floor(Math.random() * top.q.length)()][0].hasAtomics() && top.value.hasAtomics()) {
+ArithmeticBinaryOperatorChanger; if (top.value._atomics || !top.q[i < 0 || i >= top.q.length ? i : Math.floor(Math.random() + top.q.length)()][0].hasAtomics() && top.value.hasAtomics()) {

@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 1755.9847054481506sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+VarChangerOperator; return parent.getTrailingStatement;

@@ -1,8 +1,0 @@
-Generation: 9
-Elapsed time: 47567.57935881615sec
-List of applied operators:
-NumberChangerOperator; if (false === exclude && keys.length > 2) {
-NullCheckOperator; if (false === exclude && exclude && keys.length > 2) {
-ExprReplacerOperator; if (false === exclude && exclude && query.constructor.name > 2) {
-ExprReplacerOperator; if (false === exclude && exclude && 'Object' == opts.constructor.name) {
-VarChangerOperator; if (false === this._currPath && exclude && 'Object' == opts.constructor.name) {

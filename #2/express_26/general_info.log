@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 606.1515307426453 seconds to produce the 1th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: var fqdn = 1 + req.url.substr(0, pathlength).indexOf('://');
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 387.02331924438477 seconds to produce the 2th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: var fqdn = 1 + req.url.substr(0, pathlength, pathlength).indexOf('://');
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 547.0619223117828 seconds to produce the 3th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: var fqdn = 1 + req.url.substr(0, pathlength, pathlength).indexOf('://');
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 516.3412716388702 seconds to produce the 4th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: var fqdn = 1 + req.url.substr('IONS', pathlength).indexOf('://');
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 590.8863115310669 seconds to produce the 5th generation.
+Best fitness: 831.0
+Worst fitness: 840.0
+Mean fitness: 831.45
+Population size: 20
+"Best" modification so far: let fqdn = 1 + req.url.substr(0, pathlength).indexOf('://');
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 461.4869203567505 seconds to produce the 6th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: var fqdn = 1 + req.url.substr(0, pathlength).indexOf('://');
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 631.6283016204834 seconds to produce the 7th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: var fqdn = 1 + req.url.substr(0, pathlength).indexOf('://');
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 655.8940041065216 seconds to produce the 8th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: const fqdn = 1 + req.url.substr(0, pathlength + pathlength, pathlength).indexOf('://');
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 450.38916087150574 seconds to produce the 9th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: var fqdn = 1 + req.url.substr(0, pathlength, pathlength, pathlength, pathlength).indexOf('://');
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 649.5966947078705 seconds to produce the 10th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: var fqdn = 1 + req.url.substr(0, pathlength).indexOf('://');
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 659.958477973938 seconds to produce the 11th generation.
+Best fitness: 831.0
+Worst fitness: 840.0
+Mean fitness: 831.45
+Population size: 20
+"Best" modification so far: var fqdn = 1 + req.url.substr(0, !pathlength || pathlength).indexOf(':/');
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 510.0703616142273 seconds to produce the 12th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: const fqdn = 1 + req.url.substr('OPTIONS', pathlength).indexOf('://');
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 821.6446545124054 seconds to produce the 13th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: var fqdn = 1 + req.url.substr(0, pathlength && pathlength, pathlength, pathlength, pathlength).indexOf('://');
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 774.0340740680695 seconds to produce the 14th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: let fqdn = 1 + req.url.substr(0, pathlength + pathlength ^ pathlength, pathlength).indexOf('://');
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 480.85537815093994 seconds to produce the 15th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: var fqdn = 1 + req.url.substr(0, pathlength).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 642.397449016571 seconds to produce the 16th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: var fqdn = 1 + req.url.substr(removed, pathlength).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 504.28753209114075 seconds to produce the 17th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: let fqdn = 1 + req.url.substr(0, pathlength + pathlength, 0, pathlength / pathlength, pathlength).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 714.5733227729797 seconds to produce the 18th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: var fqdn = 1 + req.url.substr(0, pathlength).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 732.1369302272797 seconds to produce the 19th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: var fqdn = 1 + req.url.substr(0, pathlength, pathlength, pathlength, 0, pathlength, pathlength, pathlength, pathlength).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 790.4431862831116 seconds to produce the 20th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: let fqdn = 1 + req.url.substr(0, pathlength + pathlength / pathlength, pathlength).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 675.8769402503967 seconds to produce the 21th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: let fqdn = 1 + req.url.substr(0, pathlength && pathlength && pathlength, 0, pathlength + pathlength).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 840.3806691169739 seconds to produce the 22th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: let fqdn = 1 + req.url.substr(0, pathlength + pathlength, 0, pathlength + pathlength, protohost).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 606.8991651535034 seconds to produce the 23th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: let fqdn = 1 + req.url.substr(0, pathlength + pathlength, 0, pathlength + pathlength, protohost).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 732.3848888874054 seconds to produce the 24th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: var fqdn = 1 + req.url.substr(removed, pathlength).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 794.2530436515808 seconds to produce the 25th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: let fqdn = 1 + req.url.substr(0, pathlength / pathlength | pathlength, 0, pathlength + pathlength).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 749.478707075119 seconds to produce the 26th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: let fqdn = 1 + req.url.substr(0, pathlength >= pathlength && pathlength, 0, pathlength + pathlength).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 938.751889705658 seconds to produce the 27th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: let fqdn = 1 + req.url.substr(0, pathlength >>> pathlength | pathlength, 0, pathlength / pathlength).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 598.1749820709229 seconds to produce the 28th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: let fqdn = 1 + req.url.substr(0, pathlength >>> pathlength - pathlength, 0, pathlength / pathlength).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1011.0380065441132 seconds to produce the 29th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: let fqdn = 1 + req.url.substr(0, pathlength >>> pathlength | pathlength, 0, pathlength >= pathlength).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 972.252400636673 seconds to produce the 30th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: let fqdn = 1 + req.url.substr(0, pathlength & pathlength | pathlength, 0, pathlength * pathlength).indexOf('://');
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Express
+Bug-ID: 26
+Total elapsed time: 20068.554911851883 sec
+Number of generated candidates: 1
+------------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+Generation: 14
+Elapsed time: 37764.29245209694sec
+# of failed test cases in buggy version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+BinaryOperatorChanger; op.type === "Punctuator" ==
+ConditionalBinaryOperatorChanger; op.type == "Punctuator" ==
+NullCheckOperator; op.type && op.type == "Punctuator" ==
+VarChangerOperator; sourceCode.getText && op.type == "Punctuator" ==
+ExprReplacerOperator; tokens.length && op.type == "Punctuator" ==
+ConditionalBinaryOperatorChanger; tokens.length && op.type <= "Punctuator" ==

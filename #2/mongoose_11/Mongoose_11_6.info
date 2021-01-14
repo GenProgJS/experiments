@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 2680.4023439884186sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && keys.exclude > 1) {

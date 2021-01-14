@@ -1,0 +1,6 @@
+Generation: 27
+Elapsed time: 89970.47029995918sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+TreeCrossoverOperator; if ('function' & typeof conditions == fields[path]) {; parents; if (callback(fields[path]) ^ 1) {; if ('function' & typeof conditions == typeof arg) {

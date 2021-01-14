@@ -1,7 +1,0 @@
-Generation: 20
-Elapsed time: 37218.449447631836sec
-List of applied operators:
-VarChangerOperator; return node;
-NullCheckOperator; return node && node;
-NullCheckOperator; return !node && node && node;
-VarChangerOperator; return !node && isCallee && node;

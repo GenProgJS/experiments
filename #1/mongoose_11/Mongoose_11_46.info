@@ -1,0 +1,11 @@
+Generation: 13
+Elapsed time: 42424.74049973488sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && 'string' == typeof arg) {
+BinaryOperatorChanger; if (false === exclude >= 'string' == typeof arg) {
+BinaryOperatorChanger; if (false === exclude & 'string' == typeof arg) {
+BinaryOperatorChanger; if (false === exclude & 'string' | typeof arg) {
+NumberChangerOperator; if (1 === exclude & 'string' | typeof arg) {
+NumberChangerOperator; if (0 === exclude & 'string' | typeof arg) {

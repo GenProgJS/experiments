@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 982.5034992694855sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+ConditionalChangerOperator; if (':' === path[1]) return true;

@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 40.539379835128784sec
+# of failed test cases in developer-fixed version: 8
+# of failed test cases in current version: 8
+List of applied operators:
+CallChangerOperator; if (!trust(this.connection.remoteAddress, false)) {

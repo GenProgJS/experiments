@@ -1,0 +1,14 @@
+Generation: 28
+Elapsed time: 141154.0065407753sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && this._conditions.$or > 1) {
+NullCheckOperator; if (false === exclude && !this._conditions.$or && this._conditions.$or > 1) {
+FunctionMakerOperator; if (false === exclude && !this._conditions.$or() && this._conditions.$or > 1) {
+NullCheckOperator; if (false === exclude && !this._conditions.$or() && !this._conditions.$or() && this._conditions.$or > 1) {
+NullCheckOperator; if (false === exclude && !this._conditions && _conditions.$or() && !this._conditions.$or() && this._conditions.$or > 1) {
+BinaryOperatorChanger; if (false === exclude > !this._conditions && _conditions.$or() && !this._conditions.$or() && this._conditions.$or > 1) {
+BinaryOperatorChanger; if (false || exclude > !this._conditions && _conditions.$or() && !this._conditions.$or() && this._conditions.$or > 1) {
+FunctionCallRemoverOperator; if (false || exclude > !this._conditions && _conditions.$or && !this._conditions.$or() && this._conditions.$or > 1) {
+ConditionalBinaryOperatorChanger; if (false || exclude > !this._conditions && _conditions.$or && !this._conditions.$or() && this._conditions.$or >= 1) {

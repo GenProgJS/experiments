@@ -1,0 +1,9 @@
+Generation: 8
+Elapsed time: 4098.360776424408sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+NullCheckOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match === paramVal)) {
+NullCheckOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match && paramCalled.match === paramVal)) {
+ExprReplacerOperator; if (paramCalled && (paramCalled.error && layer.name || paramCalled.match && paramCalled.match === paramVal)) {
+ConditionalChangerOperator; if (paramCalled && (paramCalled.match && paramCalled.match === paramVal)) {

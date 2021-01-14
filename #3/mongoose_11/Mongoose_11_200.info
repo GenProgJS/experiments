@@ -1,0 +1,8 @@
+Generation: 9
+Elapsed time: 46013.95251464844sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && 'string' == typeof value.$geometry.type) {
+FunctionMakerOperator; if (false === exclude && 'string' == typeof value().$geometry.type) {
+VarChangerOperator; if (false === exclude && 'string' == typeof Query.prototype.remove.type) {

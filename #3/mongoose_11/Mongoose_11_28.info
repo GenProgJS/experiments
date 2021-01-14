@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 12288.23021030426sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && val.$geoIntersects > 1) {
+NumberChangerOperator; if (-1 === exclude && val.$geoIntersects > 1) {

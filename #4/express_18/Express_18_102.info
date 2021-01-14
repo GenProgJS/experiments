@@ -1,0 +1,15 @@
+Generation: 26
+Elapsed time: 14488.148357152939sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+TreeCrossoverOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (paramCalled.error || paramCalled.match === paramVal)) {; parents; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+ExprReplacerOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (parseUrl(req).pathname || paramCalled.match === paramVal)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (parseUrl(req).pathname || paramCalled.match <= paramVal)) {
+ExprReplacerOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (parseUrl(req).pathname || this._params.push <= paramVal)) {
+BinaryOperatorChanger; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (parseUrl(req).pathname || this._params.push % paramVal)) {
+ArithmeticBinaryOperatorChanger; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (parseUrl(req).pathname || this._params.push + paramVal)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && (paramCalled.error || paramCalled.match == paramVal) && (parseUrl(req).pathname || this._params.push + paramVal)) {
+ArithmeticBinaryOperatorChanger; if (paramCalled && (paramCalled.error || paramCalled.match == paramVal) && (parseUrl(req).pathname || this._params.push / paramVal)) {
+CallChangerOperator; if (paramCalled && (paramCalled.error || paramCalled.match == paramVal) && (parseUrl(req, this._params).pathname || this._params.push / paramVal)) {
+ExprReplacerOperator; if (paramCalled && (this.params || paramCalled.match == paramVal) && (parseUrl(req, this._params).pathname || this._params.push / paramVal)) {

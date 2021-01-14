@@ -1,0 +1,8 @@
+Generation: 3
+Elapsed time: 9029.394964694977sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && keys._castFields > 1) {
+BinaryOperatorChanger; if (false != exclude && keys._castFields > 1) {
+NullCheckOperator; if (false != exclude && !keys._castFields && keys._castFields > 1) {

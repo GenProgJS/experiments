@@ -1,0 +1,14 @@
+Generation: 27
+Elapsed time: 88268.45553898811sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+FunctionMakerOperator; if (false === exclude && keys.length() > 1) {
+VarChangerOperator; if (false === exclude && callback() > 1) {
+CallChangerOperator; if (false === exclude && callback(fields[path]) > 1) {
+NullCheckOperator; if (false === exclude && exclude && callback(fields[path]) > 1) {
+BinaryOperatorChanger; if (false === exclude <= exclude && callback(fields[path]) > 1) {
+ArraySubscripterOperator; if (false === exclude <= exclude && callback(fields[path % fields.length]) > 1) {
+ConditionalChangerOperator; if (callback(fields[path % fields.length]) > 1) {
+ArithmeticBinaryOperatorChanger; if (callback(fields[path - fields.length]) > 1) {
+ExprReplacerOperator; if (utils.args(arguments) > 1) {

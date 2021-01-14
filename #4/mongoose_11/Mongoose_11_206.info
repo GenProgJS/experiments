@@ -1,0 +1,10 @@
+Generation: 7
+Elapsed time: 34430.494582653046sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if ('function' === typeof path && keys.length > 1) {
+NullCheckOperator; if ('function' === typeof path && !keys && keys.length > 1) {
+BinaryOperatorChanger; if ('function' === typeof path / !keys && keys.length > 1) {
+BinaryOperatorChanger; if ('function' === typeof path / !keys && keys.length >>> 1) {
+NumberChangerOperator; if ('function' === typeof path / !keys && keys.length >>> 0) {

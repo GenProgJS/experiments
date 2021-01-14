@@ -1,0 +1,13 @@
+Generation: 13
+Elapsed time: 49099.03934621811sec
+# of failed test cases in developer-fixed version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+BinaryOperatorChanger; (end.line > lineNumber ^ end.column === line.length);
+NullCheckOperator; (end.line && end.line > lineNumber ^ end.column === line.length);
+ExprReplacerOperator; (comment.loc.start && end.line > lineNumber ^ end.column === line.length);
+NullCheckOperator; (comment.loc.start && end && end.line > lineNumber ^ end.column === line.length);
+BitwiseBinaryOperatorChanger; (comment.loc.start && end && end.line > lineNumber | end.column === line.length);
+ExprReplacerOperator; (comment.loc.start && end && end.line > lineNumber | end.column === line.length && end.line > lineNumber | end.column === line.length);
+BitwiseBinaryOperatorChanger; (comment.loc.start && end && end.line > lineNumber | end.column === line.length && end.line > lineNumber ^ end.column === line.length);
+ConditionalBinaryOperatorChanger; (comment.loc.start && end && end.line > lineNumber | end.column === line.length && end.line != lineNumber ^ end.column === line.length);

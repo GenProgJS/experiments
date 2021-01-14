@@ -1,0 +1,15 @@
+Generation: 19
+Elapsed time: 80873.63323116302sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; this.constructor.update.apply(utils.object.vals, args);
+NullCheckOperator; this.constructor.update.apply(utils.object.vals, args) && this.constructor.update.apply(utils.object.vals, args);
+VarChangerOperator; this.constructor.update.apply(utils.object.vals, args) && this.constructor.update.apply(a.path, args);
+CallChangerOperator; this.constructor.update.apply(utils.object.vals, args) && this.constructor.subdocs.apply(a.path, args);
+LogicalExprChangerOperator; this.constructor.update.apply(utils.object.vals, args) || this.constructor.subdocs.apply(a.path, args);
+ReturnInsertOperator; return this.constructor.update.apply(utils.object.vals, args) || this.constructor.subdocs.apply(a.path, args);
+VarChangerOperator; return this.constructor.update.apply(utils.object.vals, args) || this.constructor.p.doValidate.apply(a.path, args);
+FunctionMakerOperator; return this.constructor.update.apply(utils.object.vals, args) || this.constructor.p.doValidate.apply(a.path, args());
+ExprReplacerOperator; return this.constructor.update.apply(utils.object.vals, args) || this.getValue.p.doValidate.apply(a.path, args());
+NullCheckOperator; return this.constructor.update.apply(utils.object.vals, args) || this.getValue.p && p.doValidate.apply(a.path, args());

@@ -1,0 +1,7 @@
+Generation: 13
+Elapsed time: 55732.45118832588sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && op == 'update') {
+VarChangerOperator; if (false === Query.prototype.where && op == 'update') {

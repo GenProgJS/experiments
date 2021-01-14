@@ -1,0 +1,10 @@
+Generation: 9
+Elapsed time: 16651.9695353508sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+ExprReplacerOperator; return parent.static && anyFunctionPattern.test;
+BinaryOperatorChanger; return parent.static << anyFunctionPattern.test;
+ShiftOperatorChanger; return parent.static >> anyFunctionPattern.test;
+VarChangerOperator; return parent.parent >> anyFunctionPattern.test;

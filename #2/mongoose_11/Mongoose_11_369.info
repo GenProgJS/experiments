@@ -1,0 +1,12 @@
+Generation: 23
+Elapsed time: 79729.78744864464sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+BinaryOperatorChanger; if (false === exclude && keys.length - 1) {
+BinaryOperatorChanger; if (false > exclude && keys.length - 1) {
+ArithmeticBinaryOperatorChanger; if (false > exclude && keys.length + 1) {
+FunctionMakerOperator; if (false > exclude && keys().length + 1) {
+VarChangerOperator; if (false > this.options.lean && keys().length + 1) {
+VarChangerOperator; if (false > Query.prototype.and.lean && keys().length + 1) {
+ExprReplacerOperator; if (false > Query.prototype.elemMatch && keys().length + 1) {

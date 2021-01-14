@@ -1,0 +1,9 @@
+Generation: 17
+Elapsed time: 53145.19684553146sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+FunctionMakerOperator; if (false === exclude && keys.length() > 1) {
+CallChangerOperator; if (false === exclude && keys.ur() > 1) {
+BinaryOperatorChanger; if (false === exclude && keys.ur() * 1) {
+CallChangerOperator; if (false === exclude && keys.join() * 1) {

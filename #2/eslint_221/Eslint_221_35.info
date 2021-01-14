@@ -1,0 +1,6 @@
+Generation: 4
+Elapsed time: 5388.417642831802sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+VarChangerOperator; return esutils.ast.static;

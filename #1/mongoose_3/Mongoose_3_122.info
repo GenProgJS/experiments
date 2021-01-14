@@ -1,0 +1,6 @@
+Generation: 19
+Elapsed time: 29282.01934146881sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+ExprReplacerOperator; if (!(item.value && Document.prototype.modifiedPaths)) return;

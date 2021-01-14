@@ -1,0 +1,9 @@
+Generation: 22
+Elapsed time: 62599.533831357956sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+BinaryOperatorChanger; if (top.value._atomics || top.value.hasAtomics()) {
+ExprReplacerOperator; if (top.value._atomics || p.doValidate()) {
+VarChangerOperator; if (top.value._atomics || opts.transform.doValidate()) {
+CallChangerOperator; if (top.value._atomics || opts.transform.Document.prototype()) {

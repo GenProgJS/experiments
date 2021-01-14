@@ -1,0 +1,14 @@
+Generation: 15
+Elapsed time: 60836.10329699516sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ConditionalBinaryOperatorChanger; if (false === exclude && keys.length !== 1) {
+ExprReplacerOperator; if (false === exclude && ascend === -1) {
+BinaryOperatorChanger; if (false === exclude && ascend + -1) {
+BinaryOperatorChanger; if (false | exclude && ascend + -1) {
+ArithmeticBinaryOperatorChanger; if (false | exclude && ascend / -1) {
+BinaryOperatorChanger; if (false | exclude && ascend << -1) {
+BinaryOperatorChanger; if (false | exclude && ascend <= -1) {
+BitwiseBinaryOperatorChanger; if (false ^ exclude && ascend <= -1) {
+VarChangerOperator; if (false ^ exclude && Query.prototype <= -1) {

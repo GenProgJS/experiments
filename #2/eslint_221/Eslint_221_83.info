@@ -1,0 +1,11 @@
+Generation: 10
+Elapsed time: 15808.70940208435sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent && parent.static;
+NullCheckOperator; return parent && parent.static && parent.static;
+FunctionMakerOperator; return parent && parent.static && parent().static;
+CallChangerOperator; return parent && parent.static && parent(getUpperFunction).static;
+NullCheckOperator; return parent && parent.static && !parent(getUpperFunction).static && parent(getUpperFunction).static;
+ExprReplacerOperator; return (node.type === "Literal" && node.value === null) ||

@@ -1,0 +1,8 @@
+Generation: 4
+Elapsed time: 14830.723197937012sec
+# of failed test cases in developer-fixed version: 25
+# of failed test cases in current version: 25
+List of applied operators:
+NullCheckOperator; } else if (tokenBefore.loc.end.line && tokenBefore.loc.end.line !== node.loc.end.line && option === "beside") {
+StringChangerOperator; } else if (tokenBefore.loc.end.line && tokenBefore.loc.end.line !== node.loc.end.line && option === 'beside') {
+BinaryOperatorChanger; } else if (tokenBefore.loc.end.line * tokenBefore.loc.end.line !== node.loc.end.line && option === 'beside') {

@@ -1,0 +1,11 @@
+Generation: 11
+Elapsed time: 43581.05075240135sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && keys.utils.isObject > 1) {
+BinaryOperatorChanger; if (false === exclude && keys.utils.isObject <= 1) {
+BinaryOperatorChanger; if (false | exclude && keys.utils.isObject <= 1) {
+BinaryOperatorChanger; if (false | exclude && keys.utils.isObject / 1) {
+ArithmeticBinaryOperatorChanger; if (false | exclude && keys.utils.isObject - 1) {
+ExprReplacerOperator; if (false | exclude && Types.Number.isObject - 1) {

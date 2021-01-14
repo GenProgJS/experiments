@@ -1,0 +1,6 @@
+Generation: 17
+Elapsed time: 38604.68164348602sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+TreeCrossoverOperator; return parent && parent.static && parent.parent.static;; parents; return parent && parent.static && comment.indexOf("global ").static;; return !!parent && parent.static && parent.parent();

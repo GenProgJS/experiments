@@ -1,0 +1,7 @@
+Generation: 5
+Elapsed time: 3531.3885600566864sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+BinaryOperatorChanger; if (':' === path[1] & '\\' === path[2]) return true;
+ConditionalBinaryOperatorChanger; if (':' === path[1] & '\\' >= path[2]) return true;

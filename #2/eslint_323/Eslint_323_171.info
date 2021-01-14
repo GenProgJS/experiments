@@ -1,0 +1,15 @@
+Generation: 25
+Elapsed time: 42969.01074671745sec
+# of failed test cases in buggy version: 17
+# of failed test cases in current version: 17
+List of applied operators:
+BinaryOperatorChanger; } else if (definition.type === "Parameter" | node.type === "FunctionDeclaration") {
+ConditionalBinaryOperatorChanger; } else if (definition.type === "Parameter" | node.type !== "FunctionDeclaration") {
+ConditionalBinaryOperatorChanger; } else if (definition.type === "Parameter" | node.type < "FunctionDeclaration") {
+StringChangerOperator; } else if (definition.type === "Parameter" | node.type < 'FUNCTIONDECLARATION') {
+IfElseChangerOperator; } else if (definition.type === 'Parameter' | node.type < 'FUNCTIONDECLARATION') {
+ConditionalBinaryOperatorChanger; } else if (definition.type == 'Parameter' | node.type < 'FUNCTIONDECLARATION') {
+NullCheckOperator; } else if (definition && definition.type == 'Parameter' | node.type < 'FUNCTIONDECLARATION') {
+StringChangerOperator; } else if (definition && definition.type == 'Parameter' | node.type < 'FUNCTLARATION') {
+ConditionalChangerOperator; } else if (definition.type == 'Parameter' | node.type < 'FUNCTLARATION') {
+VarChangerOperator; } else if (definition.type == 'Parameter' | context.report < 'FUNCTLARATION') {

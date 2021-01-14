@@ -1,0 +1,7 @@
+Generation: 29
+Elapsed time: 43259.7476439476sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+VarChangerOperator; if (!(item.value && utils.clone.value)) return;
+ExprReplacerOperator; if (!(item.value && Document.prototype._set)) return;

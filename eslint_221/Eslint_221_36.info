@@ -1,6 +1,0 @@
-Generation: 4
-Elapsed time: 4042.0527329444885sec
-List of applied operators:
-VarChangerOperator; return comment;
-VarChangerOperator; return parent.arguments;
-ExprReplacerOperator; return parent.right;

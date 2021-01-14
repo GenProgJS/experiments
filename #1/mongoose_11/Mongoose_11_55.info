@@ -1,0 +1,8 @@
+Generation: 14
+Elapsed time: 44464.90690231323sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+FunctionMakerOperator; if (false === exclude && keys.length() > 1) {
+CallChangerOperator; if (false === exclude && keys.ur() > 1) {
+FunctionCallRemoverOperator; if (false === exclude && keys.ur > 1) {

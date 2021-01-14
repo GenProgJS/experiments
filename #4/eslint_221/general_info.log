@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 2297.0442986488342 seconds to produce the 1th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1583.3121132850647 seconds to produce the 2th generation.
+Best fitness: 7856.0
+Worst fitness: 7910.0
+Mean fitness: 7861.4
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 26
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2123.434008836746 seconds to produce the 3th generation.
+Best fitness: 7856.0
+Worst fitness: 7910.0
+Mean fitness: 7861.4
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 39
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1944.605122089386 seconds to produce the 4th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return !parent && parent.static || parent.static;
+Number of repair candidates: 44
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2419.615465402603 seconds to produce the 5th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && arrayOrTypedArrayPattern.test;
+Number of repair candidates: 55
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2057.099401473999 seconds to produce the 6th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && parent.static && arrayOrTypedArrayPattern.test;
+Number of repair candidates: 62
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3095.305818796158 seconds to produce the 7th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return !parent && parent.static() && parent.static || parent.static;
+Number of repair candidates: 76
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3940.0875158309937 seconds to produce the 8th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static * parent.static && arrayOrTypedArrayPattern.test;
+Number of repair candidates: 86
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2610.4494998455048 seconds to produce the 9th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf("eslint-") === 0 >
+Number of repair candidates: 99
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3097.1321926116943 seconds to produce the 10th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && arrayOrTypedArrayPattern()(arrayOrTypedArrayPattern).test;
+Number of repair candidates: 109
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3798.8803701400757 seconds to produce the 11th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && thisTagPattern.test(comment.value) && arrayOrTypedArrayPattern.test;
+Number of repair candidates: 121
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4542.4948387146 seconds to produce the 12th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf("eslint-") || 0 >>>
+Number of repair candidates: 129
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5188.962775230408 seconds to produce the 13th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && thisTagPattern.test(comment.value) && arrayOrTypedArrayPattern.test;
+Number of repair candidates: 140
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4696.519105195999 seconds to produce the 14th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return !parent.static && parent.static || parent.static;
+Number of repair candidates: 147
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3411.6799104213715 seconds to produce the 15th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf("eslint-") / 0 >>>
+Number of repair candidates: 149
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3370.480973958969 seconds to produce the 16th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf("eslint-") | 0 &
+Number of repair candidates: 152
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5140.130598068237 seconds to produce the 17th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf("eslint-") | 0 &
+Number of repair candidates: 158
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4378.4293513298035 seconds to produce the 18th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf("eslint**") - 0 >>>
+Number of repair candidates: 159
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5139.562767028809 seconds to produce the 19th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf(parent.left) === 0 >>>
+Number of repair candidates: 161
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5277.5410895347595 seconds to produce the 20th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf("eslint**") - 0 >>>
+Number of repair candidates: 161
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5988.215629816055 seconds to produce the 21th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf(isTokenOnSameLine) !== 0 >>>
+Number of repair candidates: 162
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5605.2748255729675 seconds to produce the 22th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.value("eslint-") >>> 0 ===
+Number of repair candidates: 162
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4816.049319028854 seconds to produce the 23th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf(parent.left) === 0 <<
+Number of repair candidates: 162
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5728.824877977371 seconds to produce the 24th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf(isTokenOnSameLine) ** 0 >>>
+Number of repair candidates: 163
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5407.173342704773 seconds to produce the 25th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf("eslint*") - 0 >>>
+Number of repair candidates: 164
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5724.482113361359 seconds to produce the 26th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf("eslint%*") + 0 >>>
+Number of repair candidates: 164
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4547.279158830643 seconds to produce the 27th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf("eslint%%") + 0 >>>
+Number of repair candidates: 164
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5200.642973899841 seconds to produce the 28th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf("eslint-") % 0 >>>
+Number of repair candidates: 166
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5875.265989780426 seconds to produce the 29th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf("eslint%--") - 0 >>>
+Number of repair candidates: 166
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6390.118239164352 seconds to produce the 30th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return node.type === "Line" && comment.indexOf("eslint--") % 0 >>>
+Number of repair candidates: 166
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Eslint
+Bug-ID: 221
+Total elapsed time: 125472.58545947075 sec
+Number of generated candidates: 166
+------------------------------------------------------------------------------

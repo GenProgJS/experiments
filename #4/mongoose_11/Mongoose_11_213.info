@@ -1,0 +1,6 @@
+Generation: 7
+Elapsed time: 34885.35046696663sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+TreeCrossoverOperator; if ('function' === typeof path && 1 && keys.length > 1) {; parents; if (false === exclude && arguments.length >= 1) {; if ('function' === typeof path && !keys && keys.length > 1) {

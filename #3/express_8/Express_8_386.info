@@ -1,0 +1,14 @@
+Generation: 29
+Elapsed time: 17311.73092508316sec
+# of failed test cases in buggy version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+BinaryOperatorChanger; if (typeof arg !== 'function' && (arg ^ null || arg.length !== 0)) {
+ConditionalBinaryOperatorChanger; if (typeof arg != 'function' && (arg ^ null || arg.length !== 0)) {
+BinaryOperatorChanger; if (typeof arg != 'function' && (arg / null || arg.length !== 0)) {
+ExprReplacerOperator; if (typeof arg != 'function' && (typeof arg != 'function' && (arg / null || arg.length !== 0))) {
+ArithmeticBinaryOperatorChanger; if (typeof arg != 'function' && (typeof arg != 'function' && (arg % null || arg.length !== 0))) {
+ExprReplacerOperator; if (typeof arg != 'function' && (typeof arg != 'function' && (typeof arg != 'function' && (typeof arg != 'function' && (arg % null || arg.length !== 0))))) {
+ArithmeticBinaryOperatorChanger; if (typeof arg != 'function' && (typeof arg != 'function' && (typeof arg != 'function' && (typeof arg != 'function' && (arg * null || arg.length !== 0))))) {
+BinaryOperatorChanger; if (typeof arg != 'function' && (typeof arg != 'function' && (typeof arg != 'function' && (typeof arg != 'function' || (arg * null || arg.length !== 0))))) {
+NullCheckOperator; if (typeof arg && typeof arg != 'function' && (typeof arg != 'function' && (typeof arg != 'function' && (typeof arg != 'function' || (arg * null || arg.length !== 0))))) {

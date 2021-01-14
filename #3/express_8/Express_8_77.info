@@ -1,0 +1,6 @@
+Generation: 5
+Elapsed time: 3114.292818069458sec
+# of failed test cases in buggy version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+VarChangerOperator; if (typeof arg !== 'function' && (arg == null || Router !== 0)) {

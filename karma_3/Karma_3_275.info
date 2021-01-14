@@ -1,4 +1,0 @@
-Generation: 28
-Elapsed time: 136037.81949281693sec
-List of applied operators:
-TreeCrossoverOperator; return msg = config.formatError(msg) && require('./logger').create('reporter') && config.formatError(); parents; return path = config.formatError(msg) && config.formatError() && config.formatError(); return path = config.formatError(msg) && require('./logger').create('reporter') && config.formatError()

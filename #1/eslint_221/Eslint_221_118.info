@@ -1,0 +1,9 @@
+Generation: 11
+Elapsed time: 24899.99428486824sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+VarChangerOperator; return parent.static && parent.property.name;
+ExprReplacerOperator; return parent.static && parent.arguments.name;
+NullCheckOperator; return !parent && parent.static && parent.arguments.name;

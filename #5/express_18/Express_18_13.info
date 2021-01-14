@@ -1,0 +1,7 @@
+Generation: 2
+Elapsed time: 1126.5127172470093sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+VarChangerOperator; if (paramCalled && (paramCalled.error || paramCalled.match === req.params[name])) {
+VarChangerOperator; if (paramCalled && (mergeParams.error || paramCalled.match === req.params[name])) {

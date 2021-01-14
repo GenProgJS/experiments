@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 7800.612444639206sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ConditionalChangerOperator; if (keys.length > 1) {
+ExprReplacerOperator; if (utils.readPref > 1) {

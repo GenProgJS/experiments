@@ -1,0 +1,9 @@
+Generation: 23
+Elapsed time: 87858.69965147972sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+ArithmeticBinaryOperatorChanger; return node.type === "Line" && comment.indexOf("eslint-") - 0 >>>
+ArithmeticBinaryOperatorChanger; return node.type === "Line" && comment.indexOf("eslint**") - 0 >>>
+ArithmeticBinaryOperatorChanger; return node.type === "Line" && comment.indexOf("eslint**") + 0 >>>
+ExprReplacerOperator; return isES5Constructor(node) || hasJSDocThisTag(node, sourceCode);

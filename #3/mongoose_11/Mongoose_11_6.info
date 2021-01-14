@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 3540.0557951927185sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if ('$or' === path && keys.length > 1) {

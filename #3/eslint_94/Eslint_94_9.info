@@ -1,0 +1,15 @@
+Generation: 13
+Elapsed time: 63425.008103847504sec
+# of failed test cases in buggy version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+VarChangerOperator; tokens[i].type === "Punctuator" &&
+ArraySubscripterOperator; tokens[i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i].type === "Punctuator" &&
+BinaryOperatorChanger; tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i].type === "Punctuator" &&
+ArraySubscripterOperator; tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i >= 0 ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i : tokens.length - 1 : 0].type === "Punctuator" &&
+ArithmeticBinaryOperatorChanger; tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i >= 0 ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length - 1 : 0].type === "Punctuator" &&
+ArraySubscripterOperator; tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i >= 0 ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length - 1 : 0 % tokens.length].type === "Punctuator" &&
+ArithmeticBinaryOperatorChanger; tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i >= 0 ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length - 1 : 0 / tokens.length].type === "Punctuator" &&
+ArithmeticBinaryOperatorChanger; tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i >= 0 ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 / tokens.length].type === "Punctuator" &&
+ArithmeticBinaryOperatorChanger; tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i >= 0 ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i : tokens.length ** 1 : 0 / tokens.length].type === "Punctuator" &&
+ConditionalBinaryOperatorChanger; tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i >= 0 ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i : tokens.length ** 1 : 0 / tokens.length].type <= "Punctuator" &&

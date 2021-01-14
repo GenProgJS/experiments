@@ -1,0 +1,9 @@
+Generation: 16
+Elapsed time: 40693.966099500656sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+BinaryOperatorChanger; if (!options || typeof option | "string") {
+BitwiseBinaryOperatorChanger; if (!options || typeof option & "string") {
+NullCheckOperator; if (!options || typeof option && option & "string") {
+ExprReplacerOperator; if (!options || !options || options === "above") {

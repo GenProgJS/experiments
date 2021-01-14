@@ -1,0 +1,8 @@
+Generation: 12
+Elapsed time: 44938.57041978836sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+ExprReplacerOperator; if (top.value._atomics && require('./schematype')) {
+BinaryOperatorChanger; if (top.value._atomics === require('./schematype')) {
+ConditionalBinaryOperatorChanger; if (top.value._atomics <= require('./schematype')) {

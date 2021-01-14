@@ -1,0 +1,13 @@
+Generation: 20
+Elapsed time: 12621.950977563858sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+TreeCrossoverOperator; if (paramCalled && (paramCalled.error || paramCalled && (paramCalled.error || paramCalled.match === paramVal))) {; parents; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+NullCheckOperator; if (paramCalled && (paramCalled.error || paramCalled && (paramCalled.error || paramCalled.match === paramVal && paramVal))) {
+NullCheckOperator; if (paramCalled && (!paramCalled.error && paramCalled.error || paramCalled && (paramCalled.error || paramCalled.match === paramVal && paramVal))) {
+NullCheckOperator; if (paramCalled && (paramCalled.error && !paramCalled.error && paramCalled.error || paramCalled && (paramCalled.error || paramCalled.match === paramVal && paramVal))) {
+BinaryOperatorChanger; if (paramCalled && (paramCalled.error >> !paramCalled.error && paramCalled.error || paramCalled && (paramCalled.error || paramCalled.match === paramVal && paramVal))) {
+BinaryOperatorChanger; if (paramCalled && (paramCalled.error >> !paramCalled.error / paramCalled.error || paramCalled && (paramCalled.error || paramCalled.match === paramVal && paramVal))) {
+BinaryOperatorChanger; if (paramCalled && (paramCalled.error >> !paramCalled.error >> paramCalled.error || paramCalled && (paramCalled.error || paramCalled.match === paramVal && paramVal))) {
+VarChangerOperator; if (paramCalled && (paramCalled.error >> !paramCalled.error >> paramCalled.error || paramCalled && (params.error || paramCalled.match === paramVal && paramVal))) {

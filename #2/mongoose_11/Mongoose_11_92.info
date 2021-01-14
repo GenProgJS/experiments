@@ -1,0 +1,10 @@
+Generation: 8
+Elapsed time: 25316.05713558197sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+BinaryOperatorChanger; if (false === exclude && keys.length - 1) {
+BinaryOperatorChanger; if (false > exclude && keys.length - 1) {
+VarChangerOperator; if (false > splice && keys.length - 1) {
+VarChangerOperator; if (false > this.op && keys.length - 1) {
+VarChangerOperator; if (false > this.op && _conditions - 1) {

@@ -1,0 +1,12 @@
+Generation: 22
+Elapsed time: 15378.233912467957sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+NullCheckOperator; var key = !req && req.accepts(keys);
+NullCheckOperator; var key = !!req && req && req.accepts(keys);
+BinaryOperatorChanger; var key = !!req | req && req.accepts(keys);
+NullCheckOperator; var key = !!req | req && req.accepts(keys) && req.accepts(keys);
+BinaryOperatorChanger; var key = !!req | req == req.accepts(keys) && req.accepts(keys);
+ConditionalBinaryOperatorChanger; var key = !!req | req >= req.accepts(keys) && req.accepts(keys);
+BitwiseBinaryOperatorChanger; var key = !!req ^ req >= req.accepts(keys) && req.accepts(keys);

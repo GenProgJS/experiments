@@ -1,7 +1,0 @@
-Generation: 5
-Elapsed time: 7900.750359296799sec
-List of applied operators:
-ExprReplacerOperator; return left.loc.end;
-VarChangerOperator; return esutils.ast.trailingStatement;
-NullCheckOperator; return !esutils.ast.trailingStatement && esutils.ast.trailingStatement;
-VarChangerOperator; return !node && esutils.ast.trailingStatement;

@@ -1,0 +1,6 @@
+Generation: 9
+Elapsed time: 16256.474207162857sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+VarChangerOperator; if (!(item.value && Document.prototype.isInit)) return;

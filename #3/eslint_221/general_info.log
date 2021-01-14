@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 1560.3916141986847 seconds to produce the 1th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 721.0232448577881 seconds to produce the 2th generation.
+Best fitness: 7856.0
+Worst fitness: 7910.0
+Mean fitness: 7858.7
+Population size: 20
+"Best" modification so far: return parent.static && parent.static;
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1706.988481760025 seconds to produce the 3th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 28
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2391.2781989574432 seconds to produce the 4th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 39
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1053.041488647461 seconds to produce the 5th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && !parent.static() && parent.static();
+Number of repair candidates: 49
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1953.5760898590088 seconds to produce the 6th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static + parent.static;
+Number of repair candidates: 61
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1865.6316063404083 seconds to produce the 7th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 78
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2379.1982057094574 seconds to produce the 8th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static >= parent.static & parent.static;
+Number of repair candidates: 89
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1102.6333856582642 seconds to produce the 9th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static >= parent.static & parent.static;
+Number of repair candidates: 96
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1918.2026147842407 seconds to produce the 10th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && arrayOrTypedArrayPattern.test;
+Number of repair candidates: 115
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3168.8950476646423 seconds to produce the 11th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && parent.static & parent.static;
+Number of repair candidates: 136
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2081.5896515846252 seconds to produce the 12th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && node.id ^ parent.static;
+Number of repair candidates: 143
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2763.8928985595703 seconds to produce the 13th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static >> anyFunctionPattern.test;
+Number of repair candidates: 150
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4077.705815553665 seconds to produce the 14th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 160
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3727.5211350917816 seconds to produce the 15th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && parent.static;
+Number of repair candidates: 168
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5382.914946317673 seconds to produce the 16th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static;
+Number of repair candidates: 172
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4333.6227033138275 seconds to produce the 17th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static / parent.static | parent.static;
+Number of repair candidates: 181
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4629.770704269409 seconds to produce the 18th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static - parent.static | parent.static;
+Number of repair candidates: 188
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6244.179362773895 seconds to produce the 19th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static / parent.static | parent.static;
+Number of repair candidates: 192
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5054.84992146492 seconds to produce the 20th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && !parent.static() && isNullOrUndefined(parent.arguments[2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length >= 0 ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length < parent.arguments.length ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length : parent.arguments.length - 1 : 0 < 0 || 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length >= 0 ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 / parent.arguments.length < parent.arguments.length ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length : parent.arguments.length - 1 : 0 >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length >= 0 ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length < parent.arguments.length ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length : parent.arguments.length - 1 : 0]);
+Number of repair candidates: 198
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5637.395814418793 seconds to produce the 21th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && !parent.static() && isNullOrUndefined(parent.arguments[2 * parent.arguments.length]);
+Number of repair candidates: 199
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 7731.611741542816 seconds to produce the 22th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && !parent.static() && isNullOrUndefined(parent.arguments[2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length >= 0 ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length < parent.arguments.length ? 2 % parent.arguments.length < 0 || 2 - parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length : parent.arguments.length - 1 : 0 < 0 || 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length >= 0 ? 2 % parent.arguments.length < 0 || 2 - parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 / parent.arguments.length < parent.arguments.length ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length : parent.arguments.length - 1 : 0 >= parent.arguments.length ? Math.floor(Math.random() / parent.arguments.length) : 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length >= 0 ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() ** parent.arguments.length) : 2 % parent.arguments.length < parent.arguments.length ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length : parent.arguments.length - 1 : 0]);
+Number of repair candidates: 202
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 7667.959636211395 seconds to produce the 23th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && !parent.static() && isNullOrUndefined(parent.arguments[2 < 0 || 2 >= parent.arguments.length ? Math.floor(Math.random() ** parent.arguments.length) : 2 << 0 || 2 < 0 || 2 >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 < 0 || 2 >= parent.arguments.length ? Math.floor(Math.random() - parent.arguments.length) : 2]);
+Number of repair candidates: 203
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6261.829487323761 seconds to produce the 24th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && !parent.static() && isNullOrUndefined(parent.arguments[2 % parent.arguments.length >= 0 ? 2 % parent.arguments.length < parent.arguments.length ? 2 % parent.arguments.length : parent.arguments.length * 1 : 0]);
+Number of repair candidates: 205
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 7273.326279163361 seconds to produce the 25th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && !parent.static() && isNullOrUndefined(parent.arguments[2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length >= 0 ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length < parent.arguments.length ? 2 % parent.arguments.length < 0 || 2 - parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length : parent.arguments.length - 1 : 0 < 0 || 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length >= 0 ? 2 % parent.arguments.length < 0 || 2 - parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 / parent.arguments.length < parent.arguments.length ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length : parent.arguments.length - 1 : 0 >= parent.arguments.length ? Math.floor(Math.random() / parent.arguments.length) : 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length >= 0 ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() ** parent.arguments.length) : 2 % parent.arguments.length < parent.arguments.length ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length : parent.arguments.length - 1 : 0]);
+Number of repair candidates: 208
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6764.86329126358 seconds to produce the 26th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && !parent.static() && isNullOrUndefined(parent.arguments[2 < 0 || 2 >= parent.arguments.length ? Math.floor(Math.random() + parent.arguments.length) : 2 << 0 || 2 < 0 || 2 >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 < 0 || 2 >= parent.arguments.length ? Math.floor(Math.random() - parent.arguments.length) : 2]);
+Number of repair candidates: 210
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 7566.621015548706 seconds to produce the 27th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && !parent.static() && isNullOrUndefined(parent.arguments[2 < 0 || 2 >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 < 0 || 2 < 0 || 2 >= parent.arguments.length ? Math.floor(Math.random() / parent.arguments.length) : 2 >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 < 0 || 2 >= parent.arguments.length ? Math.floor(Math.random() - parent.arguments.length) : 2]);
+Number of repair candidates: 213
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 8947.355850458145 seconds to produce the 28th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && !parent.static() && isNullOrUndefined(parent.arguments[2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length >= 0 ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length < parent.arguments.length ? 2 % parent.arguments.length < 0 || 2 - parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length : parent.arguments.length - 1 : 0 < 0 || 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length >= 0 ? 2 % parent.arguments.length < 0 || 2 - parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 / parent.arguments.length < parent.arguments.length ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 * parent.arguments.length : parent.arguments.length - 1 : 0 >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length >= 0 ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length < parent.arguments.length ? 2 * parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length : parent.arguments.length - 1 : 0]);
+Number of repair candidates: 217
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 7412.413177728653 seconds to produce the 29th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && !parent.static() && isNullOrUndefined(parent.arguments[2 < 0 || 2 >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 < 0 || 2 < 0 || 2 >= parent.arguments.length ? Math.floor(Math.random() / parent.arguments.length) : 2 >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 < 0 || 2 >= parent.arguments.length ? Math.floor(Math.random() - parent.arguments.length) : 2]);
+Number of repair candidates: 219
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6310.748567819595 seconds to produce the 30th generation.
+Best fitness: 7856.0
+Worst fitness: 7856.0
+Mean fitness: 7856.0
+Population size: 20
+"Best" modification so far: return parent.static && !parent.static() && isNullOrUndefined(parent.arguments[2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length >= 0 ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length < parent.arguments.length ? 2 % parent.arguments.length < 0 || 2 % parent.arguments.length >= parent.arguments.length ? Math.floor(Math.random() * parent.arguments.length) : 2 % parent.arguments.length : parent.arguments.length - 1 : 0]);
+Number of repair candidates: 221
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Eslint
+Bug-ID: 221
+Total elapsed time: 129752.76519608498 sec
+Number of generated candidates: 221
+------------------------------------------------------------------------------

@@ -1,0 +1,7 @@
+Generation: 6
+Elapsed time: 3788.546502351761sec
+# of failed test cases in buggy version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+VarChangerOperator; if (typeof arg !== 'function' && (arg == null || arg.exports !== 0)) {
+ExprReplacerOperator; if (typeof arg !== 'function' && (arg == null || Object.create !== 0)) {

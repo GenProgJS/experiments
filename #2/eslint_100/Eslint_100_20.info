@@ -1,0 +1,12 @@
+Generation: 23
+Elapsed time: 45334.10834336281sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+NullCheckOperator; options.objectsInObjectsException && penultimateType && penultimateType === "ObjectExpression"
+VarChangerOperator; options.objectsInObjectsException && reportRequiredEndingSpace && penultimateType === "ObjectExpression"
+NullCheckOperator; options.objectsInObjectsException && reportRequiredEndingSpace && penultimateType && penultimateType === "ObjectExpression"
+BinaryOperatorChanger; options.objectsInObjectsException ^ reportRequiredEndingSpace && penultimateType && penultimateType === "ObjectExpression"
+BinaryOperatorChanger; options.objectsInObjectsException ^ reportRequiredEndingSpace === penultimateType && penultimateType === "ObjectExpression"
+BinaryOperatorChanger; options.objectsInObjectsException ^ reportRequiredEndingSpace >>> penultimateType && penultimateType === "ObjectExpression"
+BinaryOperatorChanger; options.objectsInObjectsException ^ reportRequiredEndingSpace >>> penultimateType && penultimateType >= "ObjectExpression"

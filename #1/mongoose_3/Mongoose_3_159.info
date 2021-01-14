@@ -1,0 +1,7 @@
+Generation: 29
+Elapsed time: 43848.61581611633sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(item.ValidatorError && top.value)) return;
+LogicalExprChangerOperator; if (!(item.ValidatorError || top.value)) return;

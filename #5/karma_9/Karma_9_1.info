@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 425.0926637649536sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+NullCheckOperator; return pattern && pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';

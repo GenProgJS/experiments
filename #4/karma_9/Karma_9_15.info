@@ -1,0 +1,16 @@
+Generation: 22
+Elapsed time: 13866.339921474457sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+NumberChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, -1) || '/';
+FunctionMakerOperator; return pattern.replace() && pattern.replace(0) || '/';
+LogicalExprChangerOperator; return pattern.replace() || pattern.replace(0) || '/';
+FunctionCallRemoverOperator; return pattern.replace() || pattern.replace || '/';
+ExprReplacerOperator; return pattern.replace() || pathsToWatch.forEach || '/';
+FunctionMakerOperator; return pattern.replace() || pathsToWatch().forEach || '/';
+CallChangerOperator; return pattern.replace() || pathsToWatch('./helper').forEach || '/';
+CallChangerOperator; return pattern.replace() || pathsToWatch(removeFile).forEach || '/';
+CallChangerOperator; return pattern.replace() || pathsToWatch(helper.normalizeWinPath).forEach || '/';
+ExprReplacerOperator; return pattern.replace() || pathsToWatch(helper.normalizeWinPath).forEach || '/' || '/';
+BinaryOperatorChanger; return pattern.replace() ** pathsToWatch(helper.normalizeWinPath).forEach || '/' || '/';

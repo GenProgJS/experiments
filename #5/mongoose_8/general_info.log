@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 8636.645853757858 seconds to produce the 1th generation.
+Best fitness: 781.0
+Worst fitness: 917.0
+Mean fitness: 859.0
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 9410.570548534393 seconds to produce the 2th generation.
+Best fitness: 781.0
+Worst fitness: 905.0
+Mean fitness: 844.0
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5013.8792843818665 seconds to produce the 3th generation.
+Best fitness: 781.0
+Worst fitness: 899.0
+Mean fitness: 832.4
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4560.631312131882 seconds to produce the 4th generation.
+Best fitness: 781.0
+Worst fitness: 914.0
+Mean fitness: 833.0
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4034.7174735069275 seconds to produce the 5th generation.
+Best fitness: 781.0
+Worst fitness: 914.0
+Mean fitness: 846.45
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4588.465247392654 seconds to produce the 6th generation.
+Best fitness: 781.0
+Worst fitness: 914.0
+Mean fitness: 856.2
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3894.011565923691 seconds to produce the 7th generation.
+Best fitness: 781.0
+Worst fitness: 914.0
+Mean fitness: 853.7
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4473.538747549057 seconds to produce the 8th generation.
+Best fitness: 781.0
+Worst fitness: 914.0
+Mean fitness: 865.9
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4061.7645823955536 seconds to produce the 9th generation.
+Best fitness: 781.0
+Worst fitness: 914.0
+Mean fitness: 872.4
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4069.6101717948914 seconds to produce the 10th generation.
+Best fitness: 781.0
+Worst fitness: 914.0
+Mean fitness: 867.55
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5073.914229631424 seconds to produce the 11th generation.
+Best fitness: 781.0
+Worst fitness: 914.0
+Mean fitness: 878.85
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5185.93616104126 seconds to produce the 12th generation.
+Best fitness: 781.0
+Worst fitness: 914.0
+Mean fitness: 877.8
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4346.497984170914 seconds to produce the 13th generation.
+Best fitness: 781.0
+Worst fitness: 914.0
+Mean fitness: 877.8
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4243.162909984589 seconds to produce the 14th generation.
+Best fitness: 781.0
+Worst fitness: 904.0
+Mean fitness: 859.15
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3315.0100798606873 seconds to produce the 15th generation.
+Best fitness: 781.0
+Worst fitness: 893.0
+Mean fitness: 832.95
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3382.6886541843414 seconds to produce the 16th generation.
+Best fitness: 781.0
+Worst fitness: 830.0
+Mean fitness: 801.45
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1931.6423254013062 seconds to produce the 17th generation.
+Best fitness: 781.0
+Worst fitness: 914.0
+Mean fitness: 818.0
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2636.777049779892 seconds to produce the 18th generation.
+Best fitness: 781.0
+Worst fitness: 914.0
+Mean fitness: 829.7
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1526.1199107170105 seconds to produce the 19th generation.
+Best fitness: 781.0
+Worst fitness: 914.0
+Mean fitness: 844.55
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3852.1880729198456 seconds to produce the 20th generation.
+Best fitness: 781.0
+Worst fitness: 911.0
+Mean fitness: 854.05
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4025.572278738022 seconds to produce the 21th generation.
+Best fitness: 781.0
+Worst fitness: 905.0
+Mean fitness: 863.45
+Population size: 20
+"Best" modification so far: complete();
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3923.8468215465546 seconds to produce the 22th generation.
+Best fitness: 786.0
+Worst fitness: 905.0
+Mean fitness: 869.65
+Population size: 20
+"Best" modification so far: this.constructor.update.apply(this.constructor, args)();
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3069.059012413025 seconds to produce the 23th generation.
+Best fitness: 786.0
+Worst fitness: 905.0
+Mean fitness: 869.65
+Population size: 20
+"Best" modification so far: this.constructor.update.apply(this.constructor, args)();
+Number of repair candidates: 10
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2841.9063284397125 seconds to produce the 24th generation.
+Best fitness: 786.0
+Worst fitness: 905.0
+Mean fitness: 880.4
+Population size: 20
+"Best" modification so far: this.constructor.update.apply(this.constructor, args)();
+Number of repair candidates: 10
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2567.722137451172 seconds to produce the 25th generation.
+Best fitness: 786.0
+Worst fitness: 905.0
+Mean fitness: 880.4
+Population size: 20
+"Best" modification so far: this.constructor.update.apply(this.constructor, args)();
+Number of repair candidates: 12
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2887.0014424324036 seconds to produce the 26th generation.
+Best fitness: 786.0
+Worst fitness: 905.0
+Mean fitness: 880.4
+Population size: 20
+"Best" modification so far: this.constructor.update.apply(this.constructor, args)();
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2097.584363222122 seconds to produce the 27th generation.
+Best fitness: 786.0
+Worst fitness: 905.0
+Mean fitness: 880.4
+Population size: 20
+"Best" modification so far: this.constructor.update.apply(this.constructor, args)();
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2160.212251186371 seconds to produce the 28th generation.
+Best fitness: 799.0
+Worst fitness: 905.0
+Mean fitness: 891.15
+Population size: 20
+"Best" modification so far: 
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2991.0843873023987 seconds to produce the 29th generation.
+Best fitness: 799.0
+Worst fitness: 905.0
+Mean fitness: 895.95
+Population size: 20
+"Best" modification so far: 
+Number of repair candidates: 22
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3526.62042760849 seconds to produce the 30th generation.
+Best fitness: 799.0
+Worst fitness: 905.0
+Mean fitness: 895.95
+Population size: 20
+"Best" modification so far: 
+Number of repair candidates: 22
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Mongoose
+Bug-ID: 8
+Total elapsed time: 118419.134298563 sec
+Number of generated candidates: 22
+------------------------------------------------------------------------------

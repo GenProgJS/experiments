@@ -1,0 +1,9 @@
+Generation: 7
+Elapsed time: 23013.3040933609sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+BinaryOperatorChanger; if (top.value._atomics || top.value.hasAtomics()) {
+CallChangerOperator; if (top.value._atomics || top.hasAtomics()) {
+FunctionCallRemoverOperator; if (top.value._atomics || top.hasAtomics) {
+FunctionMakerOperator; if (top.value._atomics || top().hasAtomics) {

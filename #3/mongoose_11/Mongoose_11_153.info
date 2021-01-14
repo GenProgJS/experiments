@@ -1,0 +1,9 @@
+Generation: 7
+Elapsed time: 37955.6968460083sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ConditionalChangerOperator; if (false === exclude) {
+BinaryOperatorChanger; if (false > exclude) {
+BinaryOperatorChanger; if (false == exclude) {
+ExprReplacerOperator; if ('boolean' != typeof type.selected) {

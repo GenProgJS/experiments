@@ -1,0 +1,11 @@
+Generation: 19
+Elapsed time: 13398.798382282257sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, require('./logger').create) || '/';
+FunctionCallRemoverOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, require.create) || '/';
+ExprReplacerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, pattern.replace) || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, pattern.replace, pattern.replace) || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, pattern.replace, /\/[^\/]*[\*\(].*$/, pattern.replace, pattern.replace) || '/';
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, pattern.replace, /\/[^\/]*[\*\(].*$/, pattern.replace, pattern.replace) ** '/';

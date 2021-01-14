@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 492.97364115715027 seconds to produce the 1th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection.remoteAddress)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 337.87690258026123 seconds to produce the 2th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection.remoteAddress)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 234.60837841033936 seconds to produce the 3th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(req.acceptsEncoding)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 306.05947637557983 seconds to produce the 4th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('a')) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 302.7325804233551 seconds to produce the 5th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection.remoteAddress)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 289.4494729042053 seconds to produce the 6th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(parse(this).pathname)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 206.54396629333496 seconds to produce the 7th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection.remoteAddress)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 352.3552725315094 seconds to produce the 8th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(0)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 312.60543179512024 seconds to produce the 9th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('subdomain offset')) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 245.17620062828064 seconds to produce the 10th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(req.__defineGetter__)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 328.2300248146057 seconds to produce the 11th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection.remoteAddress)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 371.8611583709717 seconds to produce the 12th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('acceptedCharsets')) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 361.92082715034485 seconds to produce the 13th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('Content-Type')) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 320.5030767917633 seconds to produce the 14th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(__defineGetter__)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 289.46167397499084 seconds to produce the 15th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(':')) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 332.22364115715027 seconds to produce the 16th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('ips')) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 402.35794830322266 seconds to produce the 17th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!req.__defineGetter__('protocol', function(){
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 403.9222288131714 seconds to produce the 18th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(200) + !trust(304)) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 402.77907395362854 seconds to produce the 19th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(304)) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 424.8356668949127 seconds to produce the 20th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('xhr', mime)) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 331.9236686229706 seconds to produce the 21th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(200) | !trust(304)) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 404.2035822868347 seconds to produce the 22th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('https') || !trust(this.app)) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 369.6582043170929 seconds to produce the 23th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('xmlhttprequest')) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 489.38084721565247 seconds to produce the 24th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('net', mime)) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 463.2166397571564 seconds to produce the 25th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(req.acceptsEncoding) | !trust('Accept-Encoding')) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 342.1334865093231 seconds to produce the 26th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(200) * !trust(304)) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 485.95950722694397 seconds to produce the 27th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!this.get('Range') <= !trust()) {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 353.6058294773102 seconds to produce the 28th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('xhr', mime)) {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 528.3837773799896 seconds to produce the 29th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!require('depd')('express') | !trust(304)) {
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 472.82097578048706 seconds to produce the 30th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(req.get, mime)) {
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Express
+Bug-ID: 2
+Total elapsed time: 10979.383242845535 sec
+Number of generated candidates: 5
+------------------------------------------------------------------------------

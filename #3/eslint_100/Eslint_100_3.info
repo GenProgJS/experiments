@@ -1,0 +1,7 @@
+Generation: 11
+Elapsed time: 27102.632260799408sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+ExprReplacerOperator; sourceCode.getTokenAfter && penultimateType === "ObjectExpression"
+BinaryOperatorChanger; sourceCode.getTokenAfter && penultimateType >= "ObjectExpression"

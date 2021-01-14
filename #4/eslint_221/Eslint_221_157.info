@@ -1,0 +1,6 @@
+Generation: 16
+Elapsed time: 55317.24996757507sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+TreeCrossoverOperator; return "eslint-" * parent.static && arrayOrTypedArrayPattern.test;; parents; return node.type === "Line" && comment.indexOf("eslint-") % 0 >>>; return parent.static * parent.static && arrayOrTypedArrayPattern.test;

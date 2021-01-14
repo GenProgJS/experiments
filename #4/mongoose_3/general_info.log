@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 4668.4194231033325 seconds to produce the 1th generation.
+Best fitness: 814.0
+Worst fitness: 916.0
+Mean fitness: 903.15
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3750.9571006298065 seconds to produce the 2th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 902.95
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2680.7418010234833 seconds to produce the 3th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 904.55
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 26
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2657.4162595272064 seconds to produce the 4th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 905.75
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 29
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1623.8382437229156 seconds to produce the 5th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 906.35
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 40
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2197.4460439682007 seconds to produce the 6th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 909.25
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 42
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3468.7856895923615 seconds to produce the 7th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 903.6
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 52
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3593.6584005355835 seconds to produce the 8th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 902.75
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 69
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2994.491792678833 seconds to produce the 9th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 903.05
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 87
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2068.064036846161 seconds to produce the 10th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 904.85
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 101
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1922.42751121521 seconds to produce the 11th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 905.45
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 113
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2180.738802909851 seconds to produce the 12th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 904.65
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 123
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2692.325485229492 seconds to produce the 13th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 904.65
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 145
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2428.6585891246796 seconds to produce the 14th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 905.55
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 161
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2561.249096393585 seconds to produce the 15th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 906.9
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 172
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2402.3531188964844 seconds to produce the 16th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 911.95
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 187
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2826.8825504779816 seconds to produce the 17th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 911.95
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 193
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3176.2362620830536 seconds to produce the 18th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 911.45
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 195
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2161.279830932617 seconds to produce the 19th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 911.45
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 201
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2835.132488012314 seconds to produce the 20th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 912.25
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 211
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3723.360898733139 seconds to produce the 21th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 912.25
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 215
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3162.1194100379944 seconds to produce the 22th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 912.25
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 238
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2416.9223659038544 seconds to produce the 23th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 915.8
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 246
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3483.1806445121765 seconds to produce the 24th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 915.8
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 248
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3181.554332256317 seconds to produce the 25th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 915.8
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 257
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3738.276052236557 seconds to produce the 26th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 915.8
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 257
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4854.54279088974 seconds to produce the 27th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 915.8
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 258
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3524.892821073532 seconds to produce the 28th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 915.8
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 259
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4451.626402378082 seconds to produce the 29th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 915.8
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 269
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3879.1700575351715 seconds to produce the 30th generation.
+Best fitness: 814.0
+Worst fitness: 922.0
+Mean fitness: 913.7
+Population size: 20
+"Best" modification so far: if (top.value._atomics <= top.value.hasAtomics()) {
+Number of repair candidates: 270
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Mongoose
+Bug-ID: 3
+Total elapsed time: 91409.5383079052 sec
+Number of generated candidates: 270
+------------------------------------------------------------------------------

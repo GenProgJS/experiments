@@ -1,0 +1,7 @@
+Generation: 5
+Elapsed time: 2532.9373576641083sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(require, '') || '/';
+BinaryOperatorChanger; return pattern.replace(require, '') ** '/';

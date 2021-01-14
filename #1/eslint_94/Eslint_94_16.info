@@ -1,0 +1,8 @@
+Generation: 7
+Elapsed time: 21287.333084344864sec
+# of failed test cases in buggy version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+NullCheckOperator; op && op.type === "Punctuator" &&
+ConditionalBinaryOperatorChanger; op && op.type >= "Punctuator" &&
+VarChangerOperator; op && left >= "Punctuator" &&

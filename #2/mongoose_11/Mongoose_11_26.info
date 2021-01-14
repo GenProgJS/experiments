@@ -1,0 +1,7 @@
+Generation: 3
+Elapsed time: 9141.963517904282sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && keys._castFields > 1) {
+NullCheckOperator; if (false === !exclude && exclude && keys._castFields > 1) {

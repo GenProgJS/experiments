@@ -1,0 +1,10 @@
+Generation: 13
+Elapsed time: 4500.518309831619sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+VarChangerOperator; if (typeof arg !== 'function' && (self.param == null || arg.length !== 0)) {
+ConditionalBinaryOperatorChanger; if (typeof arg !== 'function' && (self.param === null || arg.length !== 0)) {
+BinaryOperatorChanger; if (typeof arg !== 'function' && (self.param === null ^ arg.length !== 0)) {
+BitwiseBinaryOperatorChanger; if (typeof arg !== 'function' && (self.param === null | arg.length !== 0)) {
+ExprReplacerOperator; if (typeof arg !== 'function' && (typeof fn !== 'function' | arg.length !== 0)) {

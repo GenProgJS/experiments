@@ -1,0 +1,7 @@
+Generation: 6
+Elapsed time: 11641.804289102554sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(Document.prototype.isNew && top.value)) return;
+LogicalExprChangerOperator; if (!(Document.prototype.isNew || top.value)) return;

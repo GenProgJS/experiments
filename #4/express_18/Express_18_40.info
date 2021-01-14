@@ -1,0 +1,7 @@
+Generation: 9
+Elapsed time: 4973.797296524048sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+TreeCrossoverOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (paramCalled.error || paramCalled.match === paramVal)) {; parents; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+VarChangerOperator; if (paramCalled && (paramCalled.sensitive || paramCalled.match === paramVal) && (paramCalled.error || paramCalled.match === paramVal)) {

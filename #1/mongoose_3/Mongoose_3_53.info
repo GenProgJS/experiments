@@ -1,0 +1,6 @@
+Generation: 7
+Elapsed time: 12636.955107212067sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(top.value._atomics && top.value)) return;

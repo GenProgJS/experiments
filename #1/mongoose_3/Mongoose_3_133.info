@@ -1,0 +1,7 @@
+Generation: 22
+Elapsed time: 33932.58599257469sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+VarChangerOperator; if (!(item.value && Document.prototype.get.value)) return;
+LogicalExprChangerOperator; if (!(item.value || Document.prototype.get.value)) return;

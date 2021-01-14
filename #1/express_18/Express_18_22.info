@@ -1,0 +1,6 @@
+Generation: 6
+Elapsed time: 3252.2620832920074sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+VarChangerOperator; if (paramCalled && (paramCalled.send || paramCalled.match === paramVal)) {

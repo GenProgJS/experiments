@@ -1,0 +1,8 @@
+Generation: 13
+Elapsed time: 33903.22733473778sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+ExprReplacerOperator; node.properties && penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; node.properties && penultimateType == "ObjectExpression"
+ConditionalBinaryOperatorChanger; node.properties && penultimateType >= "ObjectExpression"

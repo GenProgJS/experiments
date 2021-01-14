@@ -1,0 +1,6 @@
+Generation: 4
+Elapsed time: 8655.633682250977sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(Object.create && top.value)) return;

@@ -1,0 +1,15 @@
+Generation: 27
+Elapsed time: 76866.4754281044sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+NullCheckOperator; options && options.objectsInObjectsException && penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; options && options.objectsInObjectsException && penultimateType == "ObjectExpression"
+ExprReplacerOperator; options && penultimate.value && penultimateType == "ObjectExpression"
+NullCheckOperator; options && penultimate && penultimate.value && penultimateType == "ObjectExpression"
+NullCheckOperator; options && penultimate && penultimate && penultimate.value && penultimateType == "ObjectExpression"
+ExprReplacerOperator; shouldCheckPenultimate && sourceCode.getNodeByRangeIndex(penultimate.start).type && penultimate && penultimate.value && penultimateType == "ObjectExpression"
+BinaryOperatorChanger; shouldCheckPenultimate | sourceCode.getNodeByRangeIndex(penultimate.start).type && penultimate && penultimate.value && penultimateType == "ObjectExpression"
+ConditionalBinaryOperatorChanger; shouldCheckPenultimate | sourceCode.getNodeByRangeIndex(penultimate.start).type && penultimate && penultimate.value && penultimateType === "ObjectExpression"
+BinaryOperatorChanger; shouldCheckPenultimate | sourceCode.getNodeByRangeIndex(penultimate.start).type > penultimate && penultimate.value && penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; shouldCheckPenultimate | sourceCode.getNodeByRangeIndex(penultimate.start).type > penultimate && penultimate.value && penultimateType >= "ObjectExpression"

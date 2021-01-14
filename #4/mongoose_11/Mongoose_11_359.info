@@ -1,0 +1,8 @@
+Generation: 13
+Elapsed time: 50605.65076136589sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && opts.constructor > 1) {
+BinaryOperatorChanger; if (false === exclude && opts.constructor <= 1) {
+ExprReplacerOperator; if ('$or' === path && opts.constructor <= 1) {

@@ -1,0 +1,6 @@
+Generation: 7
+Elapsed time: 13085.902639627457sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(self.invalidate && top.value)) return;

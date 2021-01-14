@@ -1,0 +1,16 @@
+Generation: 27
+Elapsed time: 100658.31273269653sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+NullCheckOperator; if (top.value._atomics && !top.value.hasAtomics() && top.value.hasAtomics()) {
+LogicalExprChangerOperator; if (top.value._atomics || !top.value.hasAtomics() && top.value.hasAtomics()) {
+FunctionCallRemoverOperator; if (top.value._atomics || !top.value.hasAtomics() && top.value.hasAtomics) {
+CallChangerOperator; if (top.value._atomics || !top.hasAtomics() && top.value.hasAtomics) {
+ConditionalChangerOperator; if (top.value._atomics || !top.hasAtomics()) {
+CallChangerOperator; if (top.value._atomics || !top.Document.prototype._dirty()) {
+CallChangerOperator; if (top.value._atomics || !top.Document.prototype.slice()) {
+ExprReplacerOperator; if (top.value._atomics || !Document.prototype.set.slice()) {
+FunctionMakerOperator; if (top.value._atomics || !Document.prototype.set().slice()) {
+NullCheckOperator; if (top.value._atomics || !Document.prototype.set && set().slice()) {
+FunctionCallRemoverOperator; if (top.value._atomics || !Document.prototype.set && set().slice) {

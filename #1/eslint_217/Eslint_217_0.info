@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 1071.367576122284sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+ExprReplacerOperator; if (!options || options === "above") {

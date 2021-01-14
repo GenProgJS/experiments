@@ -1,0 +1,11 @@
+Generation: 13
+Elapsed time: 7193.645663261414sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+NullCheckOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal && paramVal)) {
+NullCheckOperator; if (paramCalled && (paramCalled.error || paramCalled.match && paramCalled.match === paramVal && paramVal)) {
+NullCheckOperator; if (paramCalled && paramCalled && (paramCalled.error || paramCalled.match && paramCalled.match === paramVal && paramVal)) {
+VarChangerOperator; if (paramCalled && paramCalled && (paramCalled.error || utils && paramCalled.match === paramVal && paramVal)) {
+NullCheckOperator; if (paramCalled && paramCalled && paramCalled && (paramCalled.error || utils && paramCalled.match === paramVal && paramVal)) {
+ConditionalChangerOperator; if (paramCalled && paramCalled && paramCalled && (utils && paramCalled.match === paramVal && paramVal)) {

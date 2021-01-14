@@ -1,0 +1,12 @@
+Generation: 18
+Elapsed time: 49094.87073016167sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+ConditionalBinaryOperatorChanger; (end.line > lineNumber || end.column == line.length);
+ExprReplacerOperator; (context.options.length > lineNumber || end.column == line.length);
+NullCheckOperator; (context && context.options.length > lineNumber || end.column == line.length);
+ConditionalBinaryOperatorChanger; (context && context.options.length > lineNumber || end.column >= line.length);
+ConditionalBinaryOperatorChanger; (context && context.options.length !== lineNumber || end.column >= line.length);
+ConditionalBinaryOperatorChanger; (context && context.options.length !== lineNumber || end.column === line.length);
+BinaryOperatorChanger; (context && context.options.length !== lineNumber || end.column >> line.length);

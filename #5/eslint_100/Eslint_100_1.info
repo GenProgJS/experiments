@@ -1,0 +1,7 @@
+Generation: 4
+Elapsed time: 9491.76159286499sec
+# of failed test cases in developer-fixed version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+VarChangerOperator; reportRequiredBeginningSpace && penultimateType === "ObjectExpression"
+BinaryOperatorChanger; reportRequiredBeginningSpace && penultimateType >= "ObjectExpression"

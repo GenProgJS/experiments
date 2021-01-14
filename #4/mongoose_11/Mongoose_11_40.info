@@ -1,0 +1,8 @@
+Generation: 2
+Elapsed time: 12934.525490999222sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+NullCheckOperator; if (false === exclude && exclude && keys.length > 1) {
+BinaryOperatorChanger; if (false === exclude && exclude && keys.length && 1) {
+ConditionalChangerOperator; if (false === exclude && exclude && 1) {

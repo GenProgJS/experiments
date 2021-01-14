@@ -1,0 +1,13 @@
+Generation: 26
+Elapsed time: 102467.09962582588sec
+# of failed test cases in buggy version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+NullCheckOperator; op && op.type === "Punctuator" &&
+NullCheckOperator; op && op && op.type === "Punctuator" &&
+NullCheckOperator; op && op && op.type && op.type === "Punctuator" &&
+NullCheckOperator; op && op && op && op.type && op.type === "Punctuator" &&
+ExprReplacerOperator; op && op && op && op.type && op && op.type && op.type === "Punctuator" &&
+ExprReplacerOperator; op && op && op && op.type && op && op && op.type && op && op.type && op.type === "Punctuator" &&
+ExprReplacerOperator; op && op && op && op.type && op.type && op && op.type && op.type === "Punctuator" &&
+ExprReplacerOperator; op && op && op && op.type && op.type && op && op.type &&

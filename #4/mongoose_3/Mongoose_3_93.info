@@ -1,0 +1,10 @@
+Generation: 9
+Elapsed time: 28589.942974805832sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+BinaryOperatorChanger; if (top.value._atomics || top.value.hasAtomics()) {
+CallChangerOperator; if (top.value._atomics || top.hasAtomics()) {
+FunctionCallRemoverOperator; if (top.value._atomics || top.hasAtomics) {
+NullCheckOperator; if (top.value._atomics || !top.hasAtomics && top.hasAtomics) {
+ExprReplacerOperator; if (top.value._atomics || this._path(path) || this.schema.virtualpath(path)) {

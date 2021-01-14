@@ -1,0 +1,11 @@
+Generation: 13
+Elapsed time: 7291.090891599655sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+TreeCrossoverOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (paramCalled.error || paramCalled.match === paramVal)) {; parents; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (paramCalled.error || paramCalled.match == paramVal)) {
+ExprReplacerOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (req.route || paramCalled.match == paramVal)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (req.route || paramCalled.match >= paramVal)) {
+BinaryOperatorChanger; if (paramCalled && (paramCalled.error || paramCalled.match == paramVal) && (req.route || paramCalled.match >= paramVal)) {
+ExprReplacerOperator; if (paramCalled && (arguments.length || paramCalled.match == paramVal) && (req.route || paramCalled.match >= paramVal)) {

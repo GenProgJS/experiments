@@ -1,0 +1,9 @@
+Generation: 10
+Elapsed time: 14076.338121414185sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 17
+List of applied operators:
+ConditionalBinaryOperatorChanger; } else if (definition.type === "Parameter" && node.type <= "FunctionDeclaration") {
+NullCheckOperator; } else if (definition.type === "Parameter" && node.type && node.type <= "FunctionDeclaration") {
+ConditionalBinaryOperatorChanger; } else if (definition.type === "Parameter" && node.type && node.type >= "FunctionDeclaration") {
+VarChangerOperator; } else if (definition.type === "Parameter" && node.type && context.report >= "FunctionDeclaration") {

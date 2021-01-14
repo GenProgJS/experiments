@@ -1,0 +1,7 @@
+Generation: 13
+Elapsed time: 43234.89556622505sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === val.$maxDistance && keys.length > 1) {
+VarChangerOperator; if (false === Object.defineProperty && keys.length > 1) {

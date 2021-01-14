@@ -1,0 +1,6 @@
+Generation: 24
+Elapsed time: 36438.625663757324sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(Schema.interpretAsType && top.value)) return;

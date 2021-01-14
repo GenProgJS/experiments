@@ -1,0 +1,7 @@
+Generation: 4
+Elapsed time: 24542.651773929596sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === Object.defineProperty && keys.length > 1) {
+VarChangerOperator; if (false === Object.defineProperty && keys.Query.prototype.tailable > 1) {

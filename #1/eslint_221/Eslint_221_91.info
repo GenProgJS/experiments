@@ -1,0 +1,6 @@
+Generation: 9
+Elapsed time: 18170.92943572998sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+VarChangerOperator; return anyFunctionPattern.static;

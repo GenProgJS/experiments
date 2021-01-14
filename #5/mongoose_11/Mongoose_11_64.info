@@ -1,0 +1,17 @@
+Generation: 27
+Elapsed time: 135417.61736917496sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && obj[key].$sort > 1) {
+BinaryOperatorChanger; if (false ^ exclude && obj[key].$sort > 1) {
+NullCheckOperator; if (false ^ !exclude && exclude && obj[key].$sort > 1) {
+FunctionMakerOperator; if (false ^ !exclude && exclude && obj()[key].$sort > 1) {
+CallChangerOperator; if (false ^ !exclude && exclude && obj(/\s+/)[key].$sort > 1) {
+LogicalExprChangerOperator; if (false ^ !exclude || exclude && obj(/\s+/)[key].$sort > 1) {
+NullCheckOperator; if (false ^ !!exclude && exclude || exclude && obj(/\s+/)[key].$sort > 1) {
+VarChangerOperator; if (false ^ !!exclude && exclude || model.collection.findOne && obj(/\s+/)[key].$sort > 1) {
+CallChangerOperator; if (false ^ !!exclude && exclude || model.collection.findOne && obj(toArray)[key].$sort > 1) {
+NumberChangerOperator; if (false ^ !!exclude && exclude || model.collection.findOne && obj(toArray)[key].$sort > 2) {
+LogicalExprChangerOperator; if (false ^ !!exclude && exclude && model.collection.findOne && obj(toArray)[key].$sort > 2) {
+BinaryOperatorChanger; if (false & !!exclude && exclude && model.collection.findOne && obj(toArray)[key].$sort > 2) {

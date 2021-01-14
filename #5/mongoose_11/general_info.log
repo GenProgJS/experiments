@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 3798.7194559574127 seconds to produce the 1th generation.
+Best fitness: 814.0
+Worst fitness: 912.0
+Mean fitness: 899.95
+Population size: 20
+"Best" modification so far: if (false === exclude && obj[key].$sort > 1) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4951.428172826767 seconds to produce the 2th generation.
+Best fitness: 805.0
+Worst fitness: 912.0
+Mean fitness: 884.25
+Population size: 20
+"Best" modification so far: if (false === exclude && keys.centerSphere > 1) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4247.233412504196 seconds to produce the 3th generation.
+Best fitness: 805.0
+Worst fitness: 912.0
+Mean fitness: 875.65
+Population size: 20
+"Best" modification so far: if (false === exclude && keys.centerSphere > 1) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6236.644600391388 seconds to produce the 4th generation.
+Best fitness: 801.0
+Worst fitness: 910.0
+Mean fitness: 866.45
+Population size: 20
+"Best" modification so far: if (utils.args === '$' && k !== '$id') {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6628.146447896957 seconds to produce the 5th generation.
+Best fitness: 801.0
+Worst fitness: 910.0
+Mean fitness: 861.8
+Population size: 20
+"Best" modification so far: if (utils.args === '$' && k !== '$id') {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4950.391100645065 seconds to produce the 6th generation.
+Best fitness: 787.0
+Worst fitness: 904.0
+Mean fitness: 849.05
+Population size: 20
+"Best" modification so far: if (false ^ !exclude && exclude && obj[key].$sort + 1) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6658.766450166702 seconds to produce the 7th generation.
+Best fitness: 769.0
+Worst fitness: 889.0
+Mean fitness: 833.65
+Population size: 20
+"Best" modification so far: if (false === exclude && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5087.699184894562 seconds to produce the 8th generation.
+Best fitness: 769.0
+Worst fitness: 859.0
+Mean fitness: 820.25
+Population size: 20
+"Best" modification so far: if (false === exclude && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5781.46342086792 seconds to produce the 9th generation.
+Best fitness: 769.0
+Worst fitness: 853.0
+Mean fitness: 821.75
+Population size: 20
+"Best" modification so far: if (false === exclude && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4421.8808653354645 seconds to produce the 10th generation.
+Best fitness: 769.0
+Worst fitness: 858.0
+Mean fitness: 825.35
+Population size: 20
+"Best" modification so far: if (false === exclude && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4339.178452253342 seconds to produce the 11th generation.
+Best fitness: 769.0
+Worst fitness: 848.0
+Mean fitness: 823.1
+Population size: 20
+"Best" modification so far: if (false === exclude && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2284.145060777664 seconds to produce the 12th generation.
+Best fitness: 769.0
+Worst fitness: 856.0
+Mean fitness: 825.0
+Population size: 20
+"Best" modification so far: if (false === exclude && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2957.217695951462 seconds to produce the 13th generation.
+Best fitness: 769.0
+Worst fitness: 916.0
+Mean fitness: 832.85
+Population size: 20
+"Best" modification so far: if (false === exclude && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4758.581812381744 seconds to produce the 14th generation.
+Best fitness: 769.0
+Worst fitness: 859.0
+Mean fitness: 826.5
+Population size: 20
+"Best" modification so far: if (false === exclude && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4274.299008607864 seconds to produce the 15th generation.
+Best fitness: 769.0
+Worst fitness: 859.0
+Mean fitness: 824.25
+Population size: 20
+"Best" modification so far: if (false === exclude && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4663.098472833633 seconds to produce the 16th generation.
+Best fitness: 769.0
+Worst fitness: 862.0
+Mean fitness: 826.6
+Population size: 20
+"Best" modification so far: if (false === exclude && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3948.3605613708496 seconds to produce the 17th generation.
+Best fitness: 769.0
+Worst fitness: 856.0
+Mean fitness: 824.9
+Population size: 20
+"Best" modification so far: if (false === exclude && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6947.437742233276 seconds to produce the 18th generation.
+Best fitness: 769.0
+Worst fitness: 843.0
+Mean fitness: 821.3
+Population size: 20
+"Best" modification so far: if (false === exclude && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5137.872259140015 seconds to produce the 19th generation.
+Best fitness: 769.0
+Worst fitness: 842.0
+Mean fitness: 818.35
+Population size: 20
+"Best" modification so far: if (false === exclude && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 7201.999468803406 seconds to produce the 20th generation.
+Best fitness: 762.0
+Worst fitness: 837.0
+Mean fitness: 814.35
+Population size: 20
+"Best" modification so far: if (false === exclude() && !this._conditions && _conditions.$or() && !this._conditions.upsert() && this._conditions.$or > 1) {
+Number of repair candidates: 7
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5357.88884472847 seconds to produce the 21th generation.
+Best fitness: 762.0
+Worst fitness: 921.0
+Mean fitness: 829.4
+Population size: 20
+"Best" modification so far: if (false === exclude() && !this._conditions && _conditions.$or() && !this._conditions.upsert() && this._conditions.$or > 1) {
+Number of repair candidates: 7
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3527.5386488437653 seconds to produce the 22th generation.
+Best fitness: 762.0
+Worst fitness: 921.0
+Mean fitness: 831.25
+Population size: 20
+"Best" modification so far: if (false === exclude() && !this._conditions && _conditions.$or() && !this._conditions.upsert() && this._conditions.$or > 1) {
+Number of repair candidates: 7
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6524.190561056137 seconds to produce the 23th generation.
+Best fitness: 797.0
+Worst fitness: 912.0
+Mean fitness: 849.65
+Population size: 20
+"Best" modification so far: if (model.collection.remove === '$' && k(this._conditions.$or) !== '') {
+Number of repair candidates: 7
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4032.5286178588867 seconds to produce the 24th generation.
+Best fitness: 797.0
+Worst fitness: 912.0
+Mean fitness: 862.2
+Population size: 20
+"Best" modification so far: if (model.collection.remove === '$' && k(this._conditions.$or) !== '') {
+Number of repair candidates: 12
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6197.323982954025 seconds to produce the 25th generation.
+Best fitness: 797.0
+Worst fitness: 912.0
+Mean fitness: 864.15
+Population size: 20
+"Best" modification so far: if (model.collection.remove === '$' && k(this._conditions.$or) !== '') {
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5293.4929802417755 seconds to produce the 26th generation.
+Best fitness: 797.0
+Worst fitness: 912.0
+Mean fitness: 867.95
+Population size: 20
+"Best" modification so far: if (model.collection.remove === '$' && k(this._conditions.$or) !== '') {
+Number of repair candidates: 38
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4867.081118583679 seconds to produce the 27th generation.
+Best fitness: 797.0
+Worst fitness: 912.0
+Mean fitness: 868.15
+Population size: 20
+"Best" modification so far: if (model.collection.remove === '$' && k(this._conditions.$or) !== '') {
+Number of repair candidates: 63
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4500.417803287506 seconds to produce the 28th generation.
+Best fitness: 797.0
+Worst fitness: 912.0
+Mean fitness: 870.3
+Population size: 20
+"Best" modification so far: if (model.collection.remove === '$' && k(this._conditions.$or) !== '') {
+Number of repair candidates: 98
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4451.17264175415 seconds to produce the 29th generation.
+Best fitness: 797.0
+Worst fitness: 912.0
+Mean fitness: 881.4
+Population size: 20
+"Best" modification so far: if (model.collection.remove === '$' && k(this._conditions.$or) !== '') {
+Number of repair candidates: 121
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6197.6367444992065 seconds to produce the 30th generation.
+Best fitness: 813.0
+Worst fitness: 912.0
+Mean fitness: 891.9
+Population size: 20
+"Best" modification so far: if (false || exclude > !this._conditions && _conditions.$or && !this._conditions.$or() && this._conditions.$or > 1) {
+Number of repair candidates: 147
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Mongoose
+Bug-ID: 11
+Total elapsed time: 150268.82296061516 sec
+Number of generated candidates: 147
+------------------------------------------------------------------------------

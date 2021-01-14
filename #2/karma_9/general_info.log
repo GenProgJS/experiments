@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 610.2275054454803 seconds to produce the 1th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 306.8
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 404.44254326820374 seconds to produce the 2th generation.
+Best fitness: 296.0
+Worst fitness: 377.0
+Mean fitness: 318.05
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 427.03856587409973 seconds to produce the 3th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 328.4
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 7
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 562.9542841911316 seconds to produce the 4th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 335.6
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 649.4037635326385 seconds to produce the 5th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 342.8
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 412.82362151145935 seconds to produce the 6th generation.
+Best fitness: 296.0
+Worst fitness: 377.0
+Mean fitness: 354.05
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 676.0869951248169 seconds to produce the 7th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 353.6
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 9
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 639.879772901535 seconds to produce the 8th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 360.8
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 10
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 849.2311086654663 seconds to produce the 9th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 360.8
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 12
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 556.2401616573334 seconds to produce the 10th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 364.4
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 919.0570030212402 seconds to produce the 11th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 364.4
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 689.4881517887115 seconds to produce the 12th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar << chokidar, '') || '/';
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 864.5699219703674 seconds to produce the 13th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar >= chokidar, '') || '/';
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 825.8742334842682 seconds to produce the 14th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace('change', chokidar || log.debug, '') || '/';
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 895.1726410388947 seconds to produce the 15th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace('change', chokidar || watched, '') || '/';
+Number of repair candidates: 18
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 623.6100654602051 seconds to produce the 16th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace(createIgnore, chokidar || log.debug, '') || '/';
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 851.4865860939026 seconds to produce the 17th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace('change', chokidar === log.debug, '') || '/';
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 918.0631504058838 seconds to produce the 18th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace(createIgnore, chokidar ^ log.debug, '') || '/';
+Number of repair candidates: 20
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 517.5870013237 seconds to produce the 19th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace('change', chokidar != log.debug, '') || '/';
+Number of repair candidates: 20
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 869.4891018867493 seconds to produce the 20th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace && pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar % chokidar, '') || '/';
+Number of repair candidates: 20
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 727.8583359718323 seconds to produce the 21th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar > /\/[^\/]*[\*\(].*$/, chokidar >> log.debug, '') || '/';
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 788.1848585605621 seconds to produce the 22th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace && pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar % chokidar, '') || '/';
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 604.0194065570831 seconds to produce the 23th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace(createIgnore, chokidar == log.debug, '') || '/';
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 736.0202217102051 seconds to produce the 24th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace(createIgnore, chokidar !== log.debug, '') || '/';
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 723.8367233276367 seconds to produce the 25th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace('change', chokidar ^ log.debug, '') || '/';
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 783.628261089325 seconds to produce the 26th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace(chokidar ^ log.debug, '') || '/';
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 692.057612657547 seconds to produce the 27th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace('change', chokidar ^ log.debug, '') || '/';
+Number of repair candidates: 23
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 616.0980272293091 seconds to produce the 28th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar > /\/[^\/]*[\*\(].*$/, chokidar >> log.debug, '') || '/';
+Number of repair candidates: 24
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 741.0233898162842 seconds to produce the 29th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar == log.debug, '') || '/';
+Number of repair candidates: 26
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 797.6668915748596 seconds to produce the 30th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar > /\/[^\/]*[\*\(].*$/, chokidar >> log.debug, '') || '/';
+Number of repair candidates: 30
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Karma
+Bug-ID: 9
+Total elapsed time: 21074.06304049492 sec
+Number of generated candidates: 30
+------------------------------------------------------------------------------

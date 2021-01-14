@@ -1,0 +1,11 @@
+Generation: 26
+Elapsed time: 99002.03194069862sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ConditionalBinaryOperatorChanger; if (false === exclude && keys.length !== 1) {
+ExprReplacerOperator; if (false === exclude && ascend === -1) {
+BinaryOperatorChanger; if (false === exclude && ascend + -1) {
+BinaryOperatorChanger; if (false | exclude && ascend + -1) {
+BinaryOperatorChanger; if (false | exclude && ascend >>> -1) {
+VarChangerOperator; if (false | exclude && this._distinctArg >>> -1) {

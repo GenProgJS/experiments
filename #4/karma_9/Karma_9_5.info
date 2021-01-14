@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 588.4435739517212sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, '') ** '/';

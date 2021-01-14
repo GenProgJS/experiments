@@ -1,0 +1,16 @@
+Generation: 20
+Elapsed time: 91129.18580508232sec
+# of failed test cases in developer-fixed version: 44
+# of failed test cases in current version: 36
+List of applied operators:
+ExprReplacerOperator; if (Project.prototype.saveJson || that._options.saveDev) {
+ExprReplacerOperator; if (Project.prototype.saveJson || this._manager) {
+NullCheckOperator; if (Project.prototype.saveJson || this._manager && this._manager) {
+BinaryOperatorChanger; if (Project.prototype.saveJson || this._manager << this._manager) {
+ExprReplacerOperator; if (that._jsonFile || this._manager << this._manager) {
+BinaryOperatorChanger; if (that._jsonFile || this._manager <= this._manager) {
+ConditionalBinaryOperatorChanger; if (that._jsonFile || this._manager < this._manager) {
+ConditionalBinaryOperatorChanger; if (that._jsonFile || this._manager == this._manager) {
+BinaryOperatorChanger; if (that._jsonFile || this._manager / this._manager) {
+ArithmeticBinaryOperatorChanger; if (that._jsonFile || this._manager * this._manager) {
+VarChangerOperator; if (that._jsonFile || this._manager * _direct) {

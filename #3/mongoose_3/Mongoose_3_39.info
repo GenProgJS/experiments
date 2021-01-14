@@ -1,0 +1,8 @@
+Generation: 3
+Elapsed time: 18642.825747966766sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+NullCheckOperator; if (!top.value && top.value._atomics && top.value.hasAtomics()) {
+NullCheckOperator; if (!!top && top.value && top.value._atomics && top.value.hasAtomics()) {
+FunctionCallRemoverOperator; if (!!top && top.value && top.value._atomics && top.value.hasAtomics) {

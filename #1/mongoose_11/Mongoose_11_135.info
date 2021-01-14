@@ -1,0 +1,14 @@
+Generation: 18
+Elapsed time: 57752.23744416237sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && ll.length > 1) {
+FunctionMakerOperator; if (false === exclude && ll().length > 1) {
+NullCheckOperator; if (false === exclude && !ll().length && ll().length > 1) {
+ConditionalBinaryOperatorChanger; if (false === exclude && !ll().length && ll().length <= 1) {
+CallChangerOperator; if (false === exclude && !ll(upsert).length && ll().length <= 1) {
+CallChangerOperator; if (false === exclude && !ll(upsert).length && ll(']').length <= 1) {
+VarChangerOperator; if (false === exclude && !ll(upsert).length && upsert <= 1) {
+NumberChangerOperator; if (-1 === exclude && !ll(upsert).length && upsert <= 1) {
+FunctionCallRemoverOperator; if (-1 === exclude && !ll.length && upsert <= 1) {

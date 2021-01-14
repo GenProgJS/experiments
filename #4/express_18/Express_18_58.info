@@ -1,0 +1,10 @@
+Generation: 12
+Elapsed time: 6889.173894643784sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+TreeCrossoverOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (paramCalled.error || paramCalled.match === paramVal)) {; parents; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (paramCalled.error || paramCalled.match >= paramVal)) {
+NullCheckOperator; if (paramCalled && paramCalled && (paramCalled.error || paramCalled.match === paramVal) && (paramCalled.error || paramCalled.match >= paramVal)) {
+NullCheckOperator; if (paramCalled && paramCalled && (paramCalled.error || paramCalled.match === paramVal && paramVal) && (paramCalled.error || paramCalled.match >= paramVal)) {
+NullCheckOperator; if (paramCalled && paramCalled && (!paramCalled.error && paramCalled.error || paramCalled.match === paramVal && paramVal) && (paramCalled.error || paramCalled.match >= paramVal)) {

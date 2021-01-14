@@ -1,0 +1,18 @@
+Generation: 27
+Elapsed time: 46138.56113409996sec
+# of failed test cases in buggy version: 17
+# of failed test cases in current version: 17
+List of applied operators:
+BinaryOperatorChanger; } else if (definition.type === "Parameter" | node.type === "FunctionDeclaration") {
+ConditionalBinaryOperatorChanger; } else if (definition.type === "Parameter" | node.type !== "FunctionDeclaration") {
+ConditionalBinaryOperatorChanger; } else if (definition.type === "Parameter" | node.type < "FunctionDeclaration") {
+StringChangerOperator; } else if (definition.type === "Parameter" | node.type < 'FUNCTIONDECLARATION') {
+StringChangerOperator; } else if (definition.type === "Parameter" | node.type < 'ECLARA') {
+ConditionalBinaryOperatorChanger; } else if (definition.type === "Parameter" | node.type <= 'ECLARA') {
+IfElseChangerOperator; } else if (definition.type === 'Parameter' | node.type <= 'ECLARA') {
+ConditionalBinaryOperatorChanger; } else if (definition.type >= 'Parameter' | node.type <= 'ECLARA') {
+StringChangerOperator; } else if (definition.type >= 'PARAMETER' | node.type <= 'ECLARA') {
+BinaryOperatorChanger; } else if (definition.type >= 'PARAMETER' || node.type <= 'ECLARA') {
+NullCheckOperator; } else if (definition.type && definition.type >= 'PARAMETER' || node.type <= 'ECLARA') {
+NullCheckOperator; } else if (definition.type && definition.type && definition.type >= 'PARAMETER' || node.type <= 'ECLARA') {
+StringChangerOperator; } else if (definition.type && definition.type && definition.type >= 'PARAMETER' || node.type <= 'CLARA') {

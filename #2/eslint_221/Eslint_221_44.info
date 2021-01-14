@@ -1,0 +1,7 @@
+Generation: 7
+Elapsed time: 8901.354282617569sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+FunctionMakerOperator; return parent.static();
+ExprReplacerOperator; return isES5Constructor(node);

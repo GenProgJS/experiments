@@ -1,0 +1,9 @@
+Generation: 8
+Elapsed time: 20729.868972063065sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+ExprReplacerOperator; sourceCode.getNodeByRangeIndex && penultimateType === "ObjectExpression"
+NullCheckOperator; sourceCode.getNodeByRangeIndex && sourceCode.getNodeByRangeIndex && penultimateType === "ObjectExpression"
+ExprReplacerOperator; sourceCode.getNodeByRangeIndex && module.exports && penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; sourceCode.getNodeByRangeIndex && module.exports && penultimateType >= "ObjectExpression"

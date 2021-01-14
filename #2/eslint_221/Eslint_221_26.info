@@ -1,0 +1,6 @@
+Generation: 4
+Elapsed time: 4280.681462287903sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+ExprReplacerOperator; return parent.object;

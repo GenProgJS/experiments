@@ -1,0 +1,8 @@
+Generation: 29
+Elapsed time: 43919.08380317688sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(ValidatorError.value && top.value)) return;
+NullCheckOperator; if (!(ValidatorError && ValidatorError.value && top.value)) return;
+LogicalExprChangerOperator; if (!(ValidatorError || ValidatorError.value && top.value)) return;

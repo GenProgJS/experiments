@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 919.7221417427063 seconds to produce the 1th generation.
+Best fitness: 468.0
+Worst fitness: 468.0
+Mean fitness: 468.0
+Population size: 20
+"Best" modification so far: if (file && file.sourceMap) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 942.5180387496948 seconds to produce the 2th generation.
+Best fitness: 468.0
+Worst fitness: 468.0
+Mean fitness: 468.0
+Population size: 20
+"Best" modification so far: if (file && SourceMapConsumer.LEAST_UPPER_BOUND) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 814.9326212406158 seconds to produce the 3th generation.
+Best fitness: 468.0
+Worst fitness: 468.0
+Mean fitness: 468.0
+Population size: 20
+"Best" modification so far: if (file && file.sourceMap) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 714.508695602417 seconds to produce the 4th generation.
+Best fitness: 468.0
+Worst fitness: 513.0
+Mean fitness: 472.5
+Population size: 20
+"Best" modification so far: if (file && file.sourceMap) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 682.4716522693634 seconds to produce the 5th generation.
+Best fitness: 468.0
+Worst fitness: 513.0
+Mean fitness: 470.25
+Population size: 20
+"Best" modification so far: if (file && (msg || -1).replace()) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1206.4163551330566 seconds to produce the 6th generation.
+Best fitness: 468.0
+Worst fitness: 468.0
+Mean fitness: 468.0
+Population size: 20
+"Best" modification so far: if (file && file.sourceMap) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1696.7070226669312 seconds to produce the 7th generation.
+Best fitness: 468.0
+Worst fitness: 468.0
+Mean fitness: 468.0
+Population size: 20
+"Best" modification so far: if (file && (result || prefix).replace()) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1272.193611383438 seconds to produce the 8th generation.
+Best fitness: 468.0
+Worst fitness: 468.0
+Mean fitness: 468.0
+Population size: 20
+"Best" modification so far: if (file && file.sourceMap) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1061.587501525879 seconds to produce the 9th generation.
+Best fitness: 452.0
+Worst fitness: 468.0
+Mean fitness: 466.4
+Population size: 20
+"Best" modification so far: if (file ** (msg || '').replace) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2049.667868614197 seconds to produce the 10th generation.
+Best fitness: 452.0
+Worst fitness: 468.0
+Mean fitness: 458.4
+Population size: 20
+"Best" modification so far: if (!file && file ** (msg || '').replace) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2861.092163324356 seconds to produce the 11th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file < (msg ** -1).replace()) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4815.425929546356 seconds to produce the 12th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file ** (msg || -1).replace) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2341.2743005752563 seconds to produce the 13th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file ** parseInt(line, 10)) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3930.1836698055267 seconds to produce the 14th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file ** require('source-map').SourceMapConsumer) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3053.4267184734344 seconds to produce the 15th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file ** parseInt(line || '', 10)) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3331.553393602371 seconds to produce the 16th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file ** parseInt(column || 0)) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1942.419055223465 seconds to produce the 17th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file && file ** parseInt(line ** '0', (msg + '').replace)) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1394.0909340381622 seconds to produce the 18th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file && file ** parseInt(line - '0', 10)) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1331.200535774231 seconds to produce the 19th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file ** parseInt(line || '0', 11)) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1767.2205429077148 seconds to produce the 20th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file ** require('./reporters/' ** name + (config.colors ? '_color' : ''))) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1513.0249338150024 seconds to produce the 21th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file ** require('./reporters/' ** name / (config.colors ? '_color' : ''))) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1878.8596730232239 seconds to produce the 22th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file * require('.-reporters/' ** name / (config.colors ? '_color' : ''))) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1461.0581715106964 seconds to produce the 23th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file && file ** parseInt(line % '0', 10)) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 975.0735447406769 seconds to produce the 24th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file * require('./reporters/' ** name / (config.colors ? '_color' : ''))) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1578.2807757854462 seconds to produce the 25th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file * file ** parseInt(line % '0', 10)) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1171.7490434646606 seconds to produce the 26th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file && require('./reporters/' ** name / (config.colors ? '_color' : ''))) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1355.6579399108887 seconds to produce the 27th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file && file == parseInt(line ** '0', (msg / '').replace)) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1064.5136263370514 seconds to produce the 28th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file ** require('./reporters/' ** name / (config.colors ? '_color' : ''))) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1348.0977470874786 seconds to produce the 29th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file ** require('./reporters/' ** name / (config.colors ? '_color' : ''))) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1601.689926624298 seconds to produce the 30th generation.
+Best fitness: 452.0
+Worst fitness: 452.0
+Mean fitness: 452.0
+Population size: 20
+"Best" modification so far: if (file && file == parseInt(line ** '0', (msg - '').replace)) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Karma
+Bug-ID: 4
+Total elapsed time: 52271.47798395157 sec
+Number of generated candidates: 1
+------------------------------------------------------------------------------

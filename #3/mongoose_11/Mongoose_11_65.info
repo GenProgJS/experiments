@@ -1,0 +1,8 @@
+Generation: 3
+Elapsed time: 21918.912022590637sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ConditionalChangerOperator; if (false === exclude) {
+BinaryOperatorChanger; if (false ^ exclude) {
+BitwiseBinaryOperatorChanger; if (false & exclude) {

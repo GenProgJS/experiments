@@ -1,0 +1,7 @@
+Generation: 7
+Elapsed time: 24008.983958005905sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+BinaryOperatorChanger; if (top.value._atomics || top.value.hasAtomics()) {
+VarChangerOperator; if (top.value._atomics || top.value.keys[len]()) {

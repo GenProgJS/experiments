@@ -1,0 +1,10 @@
+Generation: 9
+Elapsed time: 26960.630394935608sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && 'function' == typeof doc) {
+ExprReplacerOperator; if (false === exclude && 'update' == this.op) {
+StringChangerOperator; if (false === exclude && 'e' == this.op) {
+ConditionalBinaryOperatorChanger; if (false < exclude && 'e' == this.op) {
+BinaryOperatorChanger; if (false < exclude && 'e' >>> this.op) {

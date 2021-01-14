@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 3572.1560106277466sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+TryCatcherOperator; try {

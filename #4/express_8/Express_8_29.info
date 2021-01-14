@@ -1,0 +1,6 @@
+Generation: 2
+Elapsed time: 1260.469736814499sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+ConditionalChangerOperator; if (typeof arg !== 'function') {

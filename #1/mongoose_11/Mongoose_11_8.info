@@ -1,0 +1,7 @@
+Generation: 2
+Elapsed time: 9370.438779830933sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if ('$or' === path && keys.length > 1) {
+VarChangerOperator; if ('$or' === path && keys.eachPath > 1) {

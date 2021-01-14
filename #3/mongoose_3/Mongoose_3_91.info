@@ -1,0 +1,9 @@
+Generation: 8
+Elapsed time: 34061.85101222992sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+NullCheckOperator; if (!top && top.value._atomics && top.value.hasAtomics()) {
+FunctionMakerOperator; if (!top && top.value._atomics && top().value.hasAtomics()) {
+BinaryOperatorChanger; if (!top === top.value._atomics && top().value.hasAtomics()) {
+ConditionalChangerOperator; if (!(!top === top.value._atomics && top().value.hasAtomics())) {

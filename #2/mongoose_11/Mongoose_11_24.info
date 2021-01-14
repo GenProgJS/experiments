@@ -1,0 +1,7 @@
+Generation: 3
+Elapsed time: 8841.697308540344sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+BinaryOperatorChanger; if (false === exclude && keys.length - 1) {
+ExprReplacerOperator; if (false === exclude && Query.prototype.tailable - 1) {

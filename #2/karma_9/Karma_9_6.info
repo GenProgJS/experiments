@@ -1,0 +1,6 @@
+Generation: 2
+Elapsed time: 1441.7087790966034sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+TreeCrossoverOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList');; parents; return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';; return pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') || '/';

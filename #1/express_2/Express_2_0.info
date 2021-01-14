@@ -1,0 +1,7 @@
+Generation: 6
+Elapsed time: 1873.7224915027618sec
+# of failed test cases in buggy version: 8
+# of failed test cases in current version: 8
+List of applied operators:
+CallChangerOperator; if (!trust(this.connection.remoteAddress, true)) {
+NumberChangerOperator; if (!trust(this.connection.remoteAddress, 0)) {

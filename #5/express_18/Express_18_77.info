@@ -1,0 +1,14 @@
+Generation: 16
+Elapsed time: 8406.25083398819sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+VarChangerOperator; if (paramCalled && (paramCalled.error || paramCalled.match === req.params[name])) {
+ExprReplacerOperator; if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match === req.params[name]))) {
+ConditionalBinaryOperatorChanger; if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name]))) {
+NullCheckOperator; if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name && name]))) {
+LogicalExprChangerOperator; if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name]))) {
+ArraySubscripterOperator; if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name % req.params.length]))) {
+ArithmeticBinaryOperatorChanger; if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name + req.params.length]))) {
+ArraySubscripterOperator; if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name + req.params.length >= 0 ? name || name + req.params.length < req.params.length ? name || name + req.params.length : req.params.length - 1 : 0]))) {
+ConditionalChangerOperator; if (paramCalled && (paramCalled && paramCalled.match == req.params[name || name + req.params.length >= 0 ? name || name + req.params.length < req.params.length ? name || name + req.params.length : req.params.length - 1 : 0])) {

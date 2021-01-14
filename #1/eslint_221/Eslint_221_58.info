@@ -1,0 +1,6 @@
+Generation: 5
+Elapsed time: 9446.079537630081sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+VarChangerOperator; return isReflectApply.static;

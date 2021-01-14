@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 4057.4266333580017sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+NullCheckOperator; if (top.value._atomics && top.value._atomics && top.value.hasAtomics()) {

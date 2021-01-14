@@ -1,0 +1,6 @@
+Generation: 15
+Elapsed time: 5201.661867856979sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+ExprReplacerOperator; if (typeof arg !== 'function' && (arg == null || app.delete !== 0)) {

@@ -1,0 +1,6 @@
+Generation: 17
+Elapsed time: 9630.05968618393sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+VarChangerOperator; if (paramCalled && (layer.path.error || paramCalled.match === paramVal)) {

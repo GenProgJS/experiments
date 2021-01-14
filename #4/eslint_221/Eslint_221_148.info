@@ -1,0 +1,6 @@
+Generation: 14
+Elapsed time: 46806.637948036194sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+TreeCrossoverOperator; return !parent.static && parent.static || parent.test;; parents; return parent.static * parent.static && arrayOrTypedArrayPattern.test;; return !parent.static && parent.static || parent.static;

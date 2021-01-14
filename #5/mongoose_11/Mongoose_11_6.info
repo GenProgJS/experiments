@@ -1,0 +1,13 @@
+Generation: 19
+Elapsed time: 98039.09478831291sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && this._conditions.$or > 1) {
+NullCheckOperator; if (false === exclude && !this._conditions.$or && this._conditions.$or > 1) {
+VarChangerOperator; if (false === exclude && !val.$sort.$or && this._conditions.$or > 1) {
+VarChangerOperator; if (false === exclude && !val.$sort.$or && this._conditions.$unset > 1) {
+NullCheckOperator; if (false === exclude && !!val.$sort.$or && val.$sort.$or && this._conditions.$unset > 1) {
+FunctionMakerOperator; if (false === exclude && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {
+NullCheckOperator; if (false === exclude && !val.$sort.$or && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {
+NumberChangerOperator; if (1 === exclude && !val.$sort.$or && !!val.$sort.$or && val.$sort.$or && this._conditions().$unset > 1) {

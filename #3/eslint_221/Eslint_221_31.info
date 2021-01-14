@@ -1,0 +1,6 @@
+Generation: 3
+Elapsed time: 4893.591315507889sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+ExprReplacerOperator; return node.parent.callee;

@@ -1,0 +1,7 @@
+Generation: 2
+Elapsed time: 5873.843548297882sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && k > 1) {
+BinaryOperatorChanger; if (false && exclude && k > 1) {

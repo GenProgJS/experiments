@@ -1,0 +1,16 @@
+Generation: 29
+Elapsed time: 20227.243192195892sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar, '') || '/';
+NullCheckOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar && chokidar, '') || '/';
+VarChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar && log.debug, '') || '/';
+LogicalExprChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar || log.debug, '') || '/';
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar == log.debug, '') || '/';
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar === log.debug, '') || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar === /\/[^\/]*[\*\(].*$/, chokidar === log.debug, '') || '/';
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar === /\/[^\/]*[\*\(].*$/, chokidar >= log.debug, '') || '/';
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar > /\/[^\/]*[\*\(].*$/, chokidar >= log.debug, '') || '/';
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar * /\/[^\/]*[\*\(].*$/, chokidar >= log.debug, '') || '/';
+ArithmeticBinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar ** /\/[^\/]*[\*\(].*$/, chokidar >= log.debug, '') || '/';

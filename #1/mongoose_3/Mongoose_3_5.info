@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 1687.609309911728sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+NullCheckOperator; if (!(item.value && top.value) && !(item.value && top.value)) return;

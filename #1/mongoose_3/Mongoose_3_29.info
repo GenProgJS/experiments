@@ -1,0 +1,6 @@
+Generation: 2
+Elapsed time: 6230.088104486465sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ConditionalChangerOperator; if (!top.value) return;

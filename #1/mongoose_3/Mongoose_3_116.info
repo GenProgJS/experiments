@@ -1,0 +1,7 @@
+Generation: 19
+Elapsed time: 28903.62668967247sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(item.value && top.part)) return;
+ConditionalChangerOperator; if (item.value && top.part) return;

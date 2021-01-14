@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 7906.142009973526sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && arguments.length > 1) {
+NullCheckOperator; if (false === exclude && exclude && arguments.length > 1) {

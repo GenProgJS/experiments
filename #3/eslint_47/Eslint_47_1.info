@@ -1,0 +1,8 @@
+Generation: 8
+Elapsed time: 4930.354812860489sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+TreeCrossoverOperator; column: blankCounter; parents; column: 1; blankCounter: 1
+NullCheckOperator; column: blankCounter && blankCounter
+ExprReplacerOperator; column: trimmedLines[firstOfEndingBlankLines - 1] === ""

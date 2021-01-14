@@ -1,0 +1,14 @@
+Generation: 18
+Elapsed time: 9285.981291532516sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+NullCheckOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal && paramVal)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && (paramCalled.error || paramCalled.match == paramVal && paramVal)) {
+NullCheckOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal && paramVal)) {
+NullCheckOperator; if (paramCalled && paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal && paramVal)) {
+ExprReplacerOperator; if (paramCalled && paramCalled && (paramCalled.error && res.send || paramCalled.match == paramVal && paramVal)) {
+ExprReplacerOperator; if (paramCalled && paramCalled && (paramCalled.error && layer.params || paramCalled.match == paramVal && paramVal)) {
+ConditionalChangerOperator; if (paramCalled && (paramCalled.error && layer.params || paramCalled.match == paramVal && paramVal)) {
+BinaryOperatorChanger; if (paramCalled && (paramCalled.error >= layer.params || paramCalled.match == paramVal && paramVal)) {
+VarChangerOperator; if (paramCalled && (utils.flatten.error >= layer.params || paramCalled.match == paramVal && paramVal)) {

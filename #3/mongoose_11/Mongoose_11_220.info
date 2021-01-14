@@ -1,0 +1,9 @@
+Generation: 11
+Elapsed time: 50767.56578493118sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && op == 'update') {
+ConditionalBinaryOperatorChanger; if (false == exclude && op == 'update') {
+BinaryOperatorChanger; if (false == exclude && op | 'update') {
+NullCheckOperator; if (false == exclude && exclude && op | 'update') {

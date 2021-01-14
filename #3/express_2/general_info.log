@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 253.8392469882965 seconds to produce the 1th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection.remoteAddress)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 228.48103165626526 seconds to produce the 2th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection.remoteAddress)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 450.4804654121399 seconds to produce the 3th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection / this.connection.remoteAddress)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 408.6273441314697 seconds to produce the 4th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(connect.mime)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 297.7134482860565 seconds to produce the 5th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection * this.connection.remoteAddress)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 206.68771886825562 seconds to produce the 6th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(parse(this).pathname)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 277.89717864990234 seconds to produce the 7th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection * req.param)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 263.2218556404114 seconds to produce the 8th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection * this.connection.remoteAddress)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 501.80288219451904 seconds to produce the 9th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('Range')) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 438.0908987522125 seconds to produce the 10th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection.remoteAddress, proxyaddr)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 449.8968367576599 seconds to produce the 11th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(parse(this).pathname)) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 470.9273798465729 seconds to produce the 12th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection.remoteAddress)) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 397.49023628234863 seconds to produce the 13th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(proto < this.connection.remoteAddress)) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 403.26263976097107 seconds to produce the 14th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(proto & this.connection.remoteAddress)) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 360.60106658935547 seconds to produce the 15th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection + this.connection.remoteAddress)) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 472.0392656326294 seconds to produce the 16th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('auth', 'auth', this.connection.remoteAddress)) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 477.8100485801697 seconds to produce the 17th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(proto - this.connection.remoteAddress)) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 570.0046937465668 seconds to produce the 18th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection + 'connect')) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 442.0933859348297 seconds to produce the 19th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(proto || this.connection.remoteAddress)) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 530.2806053161621 seconds to produce the 20th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('ips' > this.connection.remoteAddress + this.connection.remoteAddress)) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 455.33825945854187 seconds to produce the 21th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection - 'connect')) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 379.38016152381897 seconds to produce the 22th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('ips' >= this.connection.remoteAddress !== this.connection.remoteAddress)) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 469.36606311798096 seconds to produce the 23th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('ips' ** this.connection.remoteAddress * this.connection.remoteAddress)) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 523.7908811569214 seconds to produce the 24th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust(this.connection - 'connect')) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 418.7510185241699 seconds to produce the 25th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('ips' >= this.connection.remoteAddress + this.connection.remoteAddress)) {
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 322.8720922470093 seconds to produce the 26th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('ips' > this.connection.remoteAddress + this.connection.remoteAddress)) {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 236.23387742042542 seconds to produce the 27th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('ips' >= this.connection.remoteAddress || this.connection.remoteAddress)) {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 505.76650404930115 seconds to produce the 28th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('ips' >= this.connection.remoteAddress !== this.connection.remoteAddress)) {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 463.75388073921204 seconds to produce the 29th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('ips' > this.connection.remoteAddress != this.connection.remoteAddress)) {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 470.9492518901825 seconds to produce the 30th generation.
+Best fitness: 709.0
+Worst fitness: 709.0
+Mean fitness: 709.0
+Population size: 20
+"Best" modification so far: if (!trust('ips' >= this.connection.remoteAddress + this.connection.remoteAddress)) {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Express
+Bug-ID: 2
+Total elapsed time: 12160.799721717834 sec
+Number of generated candidates: 4
+------------------------------------------------------------------------------

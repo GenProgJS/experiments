@@ -1,7 +1,0 @@
-Generation: 19
-Elapsed time: 22830.123164892197sec
-List of applied operators:
-NullCheckOperator; if (file && file.sourceMap && file.sourceMap) {
-VarChangerOperator; if (file && file.sourceMap && emitter) {
-VarChangerOperator; if (file && line && emitter) {
-VarChangerOperator; if (file && line && SourceMapConsumer.LEAST_UPPER_BOUND) {

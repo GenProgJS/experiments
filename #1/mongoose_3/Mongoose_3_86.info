@@ -1,0 +1,9 @@
+Generation: 13
+Elapsed time: 20368.507831573486sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(this.db && top.value)) return;
+ReturnNoneOperator; if (!(this.db && top.value)) return null;
+BinaryOperatorChanger; if (!(this.db ^ top.value)) return null;
+ConditionalChangerOperator; if (this.db ^ top.value) return null;

@@ -1,0 +1,11 @@
+Generation: 18
+Elapsed time: 58525.795271635056sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && 'string' == typeof arg) {
+BinaryOperatorChanger; if (false === exclude >= 'string' == typeof arg) {
+StringChangerOperator; if (false === exclude >= 'st' == typeof arg) {
+ConditionalBinaryOperatorChanger; if (false === exclude !== 'st' == typeof arg) {
+BinaryOperatorChanger; if (false === exclude | 'st' == typeof arg) {
+VarChangerOperator; if (false === Query.prototype.setOptions | 'st' == typeof arg) {

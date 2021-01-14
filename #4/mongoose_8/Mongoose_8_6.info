@@ -1,0 +1,15 @@
+Generation: 24
+Elapsed time: 90157.151086092sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+NullCheckOperator; this.constructor.update.apply(this.constructor, args) && this.constructor.update.apply(this.constructor, args);
+BinaryOperatorChanger; this.constructor.update.apply(this.constructor, args) + this.constructor.update.apply(this.constructor, args);
+ArithmeticBinaryOperatorChanger; this.constructor.update.apply(this.constructor, args) - this.constructor.update.apply(this.constructor, args);
+BinaryOperatorChanger; this.constructor.update.apply(this.constructor, args) <= this.constructor.update.apply(this.constructor, args);
+CallChangerOperator; this.constructor.update.apply(this.constructor, args, args) <= this.constructor.update.apply(this.constructor, args);
+BinaryOperatorChanger; this.constructor.update.apply(this.constructor, args, args) != this.constructor.update.apply(this.constructor, args);
+CallChangerOperator; this.constructor.apply(this.constructor, args, args) != this.constructor.update.apply(this.constructor, args);
+BinaryOperatorChanger; this.constructor.apply(this.constructor, args, args) < this.constructor.update.apply(this.constructor, args);
+BinaryOperatorChanger; this.constructor.apply(this.constructor, args, args) && this.constructor.update.apply(this.constructor, args);
+ReturnInsertOperator; return this.constructor.apply(this.constructor, args, args) && this.constructor.update.apply(this.constructor, args);

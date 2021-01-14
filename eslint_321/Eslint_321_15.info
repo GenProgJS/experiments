@@ -1,4 +1,0 @@
-Generation: 20
-Elapsed time: 70124.25311779976sec
-List of applied operators:
-TreeCrossoverOperator; } else if (tokenBefore.loc.end.line !== node.loc.start.line && node.range && tokenBefore.loc.end.line < node.loc.start.line && node.range && option && option === "beside" && option === "beside") {; parents; } else if (tokenBefore.loc.end.line < node.loc.start.line && node.range && option && option === "beside") {; } else if (tokenBefore.loc.end.line !== node.loc.start.line && node.range && tokenBefore.range && option === "beside") {

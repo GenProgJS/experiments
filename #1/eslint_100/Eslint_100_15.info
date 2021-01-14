@@ -1,0 +1,13 @@
+Generation: 14
+Elapsed time: 41711.185262680054sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+NullCheckOperator; options.objectsInObjectsException && penultimateType && penultimateType === "ObjectExpression"
+ExprReplacerOperator; options.objectsInObjectsException && penultimateType && penultimateType === "ObjectExpression" && penultimateType === "ObjectExpression"
+BinaryOperatorChanger; options.objectsInObjectsException >>> penultimateType && penultimateType === "ObjectExpression" && penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; options.objectsInObjectsException >>> penultimateType && penultimateType == "ObjectExpression" && penultimateType === "ObjectExpression"
+BinaryOperatorChanger; options.objectsInObjectsException >>> penultimateType && penultimateType == "ObjectExpression" && penultimateType && "ObjectExpression"
+BinaryOperatorChanger; options.objectsInObjectsException | penultimateType && penultimateType == "ObjectExpression" && penultimateType && "ObjectExpression"
+BitwiseBinaryOperatorChanger; options.objectsInObjectsException ^ penultimateType && penultimateType == "ObjectExpression" && penultimateType && "ObjectExpression"
+ConditionalBinaryOperatorChanger; options.objectsInObjectsException ^ penultimateType && penultimateType >= "ObjectExpression" && penultimateType && "ObjectExpression"

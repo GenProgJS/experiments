@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 1480.4396748542786 seconds to produce the 1th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: lastItem.loc.end,
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1979.1704819202423 seconds to produce the 2th generation.
+Best fitness: 13185.0
+Worst fitness: 13284.0
+Mean fitness: 13194.9
+Population size: 20
+"Best" modification so far: loc: lastItem.loc.end,
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2087.1754262447357 seconds to produce the 3th generation.
+Best fitness: 13185.0
+Worst fitness: 13284.0
+Mean fitness: 13204.8
+Population size: 20
+"Best" modification so far: loc: lastItem.loc.end,
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1145.3407022953033 seconds to produce the 4th generation.
+Best fitness: 13185.0
+Worst fitness: 13284.0
+Mean fitness: 13209.75
+Population size: 20
+"Best" modification so far: loc: lastItem.loc.end,
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2627.207001209259 seconds to produce the 5th generation.
+Best fitness: 13185.0
+Worst fitness: 13284.0
+Mean fitness: 13209.75
+Population size: 20
+"Best" modification so far: loc: lastItem.loc.end,
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1516.2025637626648 seconds to produce the 6th generation.
+Best fitness: 13185.0
+Worst fitness: 13284.0
+Mean fitness: 13194.9
+Population size: 20
+"Best" modification so far: loc: sourceCode.getTokenAfter && lastItem && lastItem.loc.end,
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1808.2609734535217 seconds to produce the 7th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: sourceCode.getTokenAfter && lastItem.loc && lastItem.loc.end,
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2514.6233763694763 seconds to produce the 8th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: sourceCode.getTokenAfter && lastItem && lastItem.loc.end,
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3498.9214754104614 seconds to produce the 9th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: lastItem.type != !lastItem.loc.end && lastItem.loc.end,
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3730.035898208618 seconds to produce the 10th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length - 1 : 0] && lastItem.loc.end,
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2886.949471473694 seconds to produce the 11th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length % 1 : 0] && lastItem.loc.end,
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3634.567367553711 seconds to produce the 12th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: lastItem.loc.end,
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3678.2948412895203 seconds to produce the 13th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length * 1 : 0 ** context.options.length] && lastItem.loc.end,
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4517.848116636276 seconds to produce the 14th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 << 0 ? 0 < context.options.length ? 0 : context.options.length % 1 : 0] && lastItem.loc.end,
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2619.273952960968 seconds to produce the 15th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: lastItem.type != !lastItem.loc.end && lastItem.loc.end,
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4169.297940731049 seconds to produce the 16th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length * 1 : 0 % context.options.length] && lastItem.loc.end,
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3718.304349422455 seconds to produce the 17th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.report && lastItem.loc.end,
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4769.06813454628 seconds to produce the 18th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 / context.options.length % context.options.length] && lastItem.loc.end,
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5368.104969263077 seconds to produce the 19th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 >= 0 ? 0 < context.options.length ? 0 : context.options.length + 1 : 0 ** context.options.length] && lastItem.loc.end,
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4167.035674571991 seconds to produce the 20th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length] && lastItem.loc.end,
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3334.899751186371 seconds to produce the 21th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: lastItem.loc.end && lastItem.loc.end && lastItem.loc.end,
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3939.681867837906 seconds to produce the 22th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length >= 0 ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length < context.options.length ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length : context.options.length - 1 : 0] && lastItem.loc.end,
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4755.768692970276 seconds to produce the 23th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 << 0 ? 0 < context.options.length ? 0 : context.options.length ** 1 : 0] && lastItem.loc.end,
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4781.808509349823 seconds to produce the 24th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length >= 0 ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length < context.options.length ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length : context.options.length - 1 : 0 >= 0 ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length >= 0 ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length < context.options.length ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length : context.options.length - 1 : 0 < context.options.length ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length >= 0 ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length < context.options.length ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length : context.options.length - 1 : 0 : context.options.length - 1 : 0] && lastItem.loc.end,
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4100.090677976608 seconds to produce the 25th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 >= 0 ? 0 + context.options.length ? 0 : context.options.length + 1 : 0 >= 0 ? 0 >= 0 ? 0 - context.options.length ? 0 : context.options.length % 1 : 0 < context.options.length ? 0 >= 0 ? 0 + context.options.length ? 0 : context.options.length % 1 : 0 : context.options.length + 1 : 0] && lastItem.loc.end,
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3880.9782609939575 seconds to produce the 26th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: lastItem.loc && lastItem.loc && lastItem.loc.end || lastItem.loc.end,
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3933.755691766739 seconds to produce the 27th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 >= 0 ? 0 + context.options.length ? 0 : context.options.length % 1 : 0 >= 0 ? 0 >= 0 ? 0 + context.options.length ? 0 : context.options.length % 1 : 0 < context.options.length ? 0 >= 0 ? 0 ** context.options.length ? 0 : context.options.length ** 1 : 0 : context.options.length + 1 : 0] && lastItem.loc.end,
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3093.966499567032 seconds to produce the 28th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 !== 0 ? 0 < context.options.length ? 0 : context.options.length - 1 : 0 ** context.options.length] && lastItem.loc.end,
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3659.5966691970825 seconds to produce the 29th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length >= 0 ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length < context.options.length ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length : context.options.length - 1 : 0 >= 0 ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length >= 0 ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length < context.options.length ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length % 1 : 0 ** context.options.length : context.options.length - 1 : 0 < context.options.length ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length >= 0 ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 ** context.options.length < context.options.length ? 0 !== 0 ? 0 < context.options.length ? 0 : context.options.length / 1 : 0 % context.options.length : context.options.length - 1 : 0 : context.options.length - 1 : 0] && lastItem.loc.end,
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4823.591705322266 seconds to produce the 30th generation.
+Best fitness: 13185.0
+Worst fitness: 13185.0
+Mean fitness: 13185.0
+Population size: 20
+"Best" modification so far: loc: context.options[0 !== 0 ? 0 < context.options.length ? 0 : context.options.length % 1 : 0 && context.options.length] && lastItem.loc.end,
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Eslint
+Bug-ID: 72
+Total elapsed time: 102295.28854942322 sec
+Number of generated candidates: 5
+------------------------------------------------------------------------------

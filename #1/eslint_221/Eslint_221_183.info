@@ -1,0 +1,6 @@
+Generation: 26
+Elapsed time: 91908.13956594467sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+VarChangerOperator; return exports.static;

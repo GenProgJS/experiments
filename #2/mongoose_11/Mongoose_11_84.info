@@ -1,0 +1,9 @@
+Generation: 8
+Elapsed time: 23951.548553466797sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && k > 1) {
+BinaryOperatorChanger; if (false === exclude && k * 1) {
+VarChangerOperator; if (false === exclude && model.populate * 1) {
+NullCheckOperator; if (false === exclude && exclude && model.populate * 1) {

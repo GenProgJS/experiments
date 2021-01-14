@@ -1,6 +1,0 @@
-Generation: 3
-Elapsed time: 24210.948494195938sec
-List of applied operators:
-ReturnInsertOperator; return msg = config.formatError(msg)
-VarChangerOperator; return cache = config.formatError(msg)
-VarChangerOperator; return emitter = config.formatError(msg)

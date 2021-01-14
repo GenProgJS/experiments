@@ -1,0 +1,6 @@
+Generation: 16
+Elapsed time: 24972.04919195175sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(this.constructor && top.value)) return;

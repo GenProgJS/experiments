@@ -1,6 +1,0 @@
-Generation: 20
-Elapsed time: 78251.97178506851sec
-List of applied operators:
-ConditionalTypeChangerOperator; if (false === exclude && keys.length === 1) {
-NullCheckOperator; if (false === exclude && exclude && keys.length === 1) {
-ExprReplacerOperator; if (arguments.length === 2 && exclude && keys.length === 1) {

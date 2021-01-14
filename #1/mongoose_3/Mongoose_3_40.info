@@ -1,0 +1,7 @@
+Generation: 5
+Elapsed time: 9317.127297878265sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(Document.prototype.isNew && top.value)) return;
+BinaryOperatorChanger; if (!(Document.prototype.isNew != top.value)) return;

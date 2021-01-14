@@ -1,0 +1,10 @@
+Generation: 16
+Elapsed time: 8094.6100018024445sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+NullCheckOperator; if (paramCalled && (paramCalled.error || paramCalled.match === paramVal && paramVal)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && (paramCalled.error || paramCalled.match == paramVal && paramVal)) {
+NullCheckOperator; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal && paramVal)) {
+ExprReplacerOperator; if (paramCalled && (req.method && paramCalled.error || paramCalled.match == paramVal && paramVal)) {
+ExprReplacerOperator; if (paramCalled && (req.url[0] !== '/' && 1 + req.url.substr(0, pathlength).indexOf('://') || paramCalled.match == paramVal && paramVal)) {

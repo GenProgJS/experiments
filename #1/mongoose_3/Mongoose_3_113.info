@@ -1,0 +1,8 @@
+Generation: 17
+Elapsed time: 26713.975263834sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(Document.prototype._shouldModify.value && top.value)) return;
+BinaryOperatorChanger; if (!(Document.prototype._shouldModify.value >> top.value)) return;
+ConditionalChangerOperator; if (Document.prototype._shouldModify.value >> top.value) return;

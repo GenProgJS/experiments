@@ -1,0 +1,6 @@
+Generation: 19
+Elapsed time: 30005.212334394455sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+VarChangerOperator; if (!(item.value && all)) return;

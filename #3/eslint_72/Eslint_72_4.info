@@ -1,0 +1,13 @@
+Generation: 13
+Elapsed time: 41585.28812980652sec
+# of failed test cases in buggy version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+NullCheckOperator; loc: lastItem.loc.end && lastItem.loc.end,
+LogicalExprChangerOperator; loc: lastItem.loc.end || lastItem.loc.end,
+ExprReplacerOperator; loc: lastItem.loc.end || trailingToken.loc.end,
+NullCheckOperator; loc: lastItem.loc.end || !trailingToken && trailingToken.loc.end,
+FunctionMakerOperator; loc: lastItem.loc.end || !trailingToken && trailingToken.loc().end,
+BinaryOperatorChanger; loc: lastItem.loc.end || !trailingToken > trailingToken.loc().end,
+ConditionalBinaryOperatorChanger; loc: lastItem.loc.end || !trailingToken !== trailingToken.loc().end,
+VarChangerOperator; loc: penultimateToken.loc.end || !trailingToken !== trailingToken.loc().end,

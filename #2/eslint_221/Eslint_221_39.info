@@ -1,0 +1,10 @@
+Generation: 5
+Elapsed time: 6258.589872598648sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+ExprReplacerOperator; return anyFunctionPattern.test;
+FunctionMakerOperator; return anyFunctionPattern().test;
+CallChangerOperator; return anyFunctionPattern(module.exports).test;
+CallChangerOperator; return anyFunctionPattern("eslint-").test;
+ExprReplacerOperator; return hasJSDocThisTag(node, sourceCode).test;

@@ -1,0 +1,7 @@
+Generation: 8
+Elapsed time: 34488.50250911713sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+TreeCrossoverOperator; if (top._atomics && require('./schema/mixed')) {; parents; if (top.value._atomics && require('./schema/mixed')) {; if (top.value._atomics || !parts.length.hasAtomics() && top.value.hasAtomics()) {
+ConditionalChangerOperator; if (require('./schema/mixed')) {

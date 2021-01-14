@@ -1,0 +1,9 @@
+Generation: 13
+Elapsed time: 33785.661593437195sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+ExprReplacerOperator; context.getSourceCode().getTokenBefore && penultimateType === "ObjectExpression"
+NullCheckOperator; context && context.getSourceCode().getTokenBefore && penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; context && context.getSourceCode().getTokenBefore && penultimateType == "ObjectExpression"
+ConditionalBinaryOperatorChanger; context && context.getSourceCode().getTokenBefore && penultimateType >= "ObjectExpression"

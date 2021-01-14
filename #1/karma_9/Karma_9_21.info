@@ -1,0 +1,11 @@
+Generation: 24
+Elapsed time: 17825.83540892601sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(exports, '') || '/';
+CallChangerOperator; return pattern.replace(exports, '', chokidar) || '/';
+CallChangerOperator; return pattern.replace(exports, helper, chokidar) || '/';
+CallChangerOperator; return pattern.replace && pattern.replace(true, require('./logger').create, require('./logger').create()) || '/';
+CallChangerOperator; return pattern.replace && pattern.replace(true, './logger', require('./logger').create()) || '/';
+BinaryOperatorChanger; return pattern.replace && pattern.replace(true, './logger', require('./logger').create()) ** '/';

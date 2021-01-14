@@ -1,0 +1,14 @@
+Generation: 16
+Elapsed time: 35014.16336631775sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+FunctionMakerOperator; return parent.static();
+NullCheckOperator; return !parent.static && parent.static();
+CallChangerOperator; return !parent.static && parent.sourceCode.getJSDocComment();
+NullCheckOperator; return !!parent && parent.static && parent.sourceCode.getJSDocComment();
+CallChangerOperator; return !!parent && parent.static && parent.getJSDocComment();
+CallChangerOperator; return !!parent && parent.static && parent.ast();
+CallChangerOperator; return !!parent && parent.static && parent.parent();
+BinaryOperatorChanger; return !!parent == parent.static && parent.parent();
+NullCheckOperator; return !!parent == !parent.static && parent.static && parent.parent();

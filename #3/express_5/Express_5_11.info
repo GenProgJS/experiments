@@ -1,0 +1,7 @@
+Generation: 4
+Elapsed time: 2073.9862818717957sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+ArraySubscripterOperator; if (':' === path[1 % path.length] && '\\' === path[2]) return true;
+ConditionalChangerOperator; if (':' === path[1 % path.length]) return true;

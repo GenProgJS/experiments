@@ -1,0 +1,15 @@
+Generation: 23
+Elapsed time: 57431.587759017944sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+BinaryOperatorChanger; if (!options || typeof option >>> "string") {
+NullCheckOperator; if (!options || typeof option && option >>> "string") {
+NullCheckOperator; if (!options && !options || typeof option && option >>> "string") {
+BinaryOperatorChanger; if (!options && !options || typeof option && option && "string") {
+BinaryOperatorChanger; if (!options && !options || typeof option % option && "string") {
+ArithmeticBinaryOperatorChanger; if (!options && !options || typeof option * option && "string") {
+NullCheckOperator; if (!options && !options || typeof option && typeof option * option && "string") {
+ArithmeticBinaryOperatorChanger; if (!options && !options || typeof option && typeof option - option && "string") {
+BinaryOperatorChanger; if (!options && !options || typeof option === typeof option - option && "string") {
+ExprReplacerOperator; if (!options && !options || options === "above" && "string") {

@@ -1,0 +1,7 @@
+Generation: 5
+Elapsed time: 24511.520653247833sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+ExprReplacerOperator; if (top.value._atomics && require('./schema/mixed')) {
+IfElseChangerOperator; {

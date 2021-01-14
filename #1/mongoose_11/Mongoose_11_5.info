@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 4876.34752702713sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && 'function' == typeof doc) {
+NullCheckOperator; if (false === !exclude && exclude && 'function' == typeof doc) {

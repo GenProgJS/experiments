@@ -1,0 +1,7 @@
+Generation: 2
+Elapsed time: 14576.872604370117sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === Object.defineProperty && keys.length > 1) {
+FunctionMakerOperator; if (false === Object().defineProperty && keys.length > 1) {

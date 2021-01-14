@@ -1,0 +1,6 @@
+Generation: 3
+Elapsed time: 3297.1252081394196sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+VarChangerOperator; return parent.test;

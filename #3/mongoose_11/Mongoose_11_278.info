@@ -1,0 +1,12 @@
+Generation: 18
+Elapsed time: 67164.06487894058sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && 'string' == typeof value.$geometry.type) {
+FunctionMakerOperator; if (false === exclude && 'string' == typeof value().$geometry.type) {
+BinaryOperatorChanger; if (false >= exclude && 'string' == typeof value().$geometry.type) {
+BinaryOperatorChanger; if (false ^ exclude && 'string' == typeof value().$geometry.type) {
+CallChangerOperator; if (false ^ exclude && 'string' == typeof value(value.type).$geometry.type) {
+BitwiseBinaryOperatorChanger; if (false | exclude && 'string' == typeof value(value.type).$geometry.type) {
+BinaryOperatorChanger; if (false % exclude && 'string' == typeof value(value.type).$geometry.type) {

@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 2495.994882583618sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+VarChangerOperator; if (!(item.value && hooks[k])) return;

@@ -1,0 +1,9 @@
+Generation: 29
+Elapsed time: 97382.2692937851sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && opts.constructor > 1) {
+BinaryOperatorChanger; if (false === exclude && opts.constructor <= 1) {
+BinaryOperatorChanger; if (false === exclude && opts.constructor - 1) {
+VarChangerOperator; if (false === exclude && Query.prototype.read.constructor - 1) {

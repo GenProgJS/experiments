@@ -1,0 +1,8 @@
+Generation: 3
+Elapsed time: 5945.57822227478sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+BinaryOperatorChanger; options.objectsInObjectsException & penultimateType === "ObjectExpression"
+NullCheckOperator; options.objectsInObjectsException && options.objectsInObjectsException & penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; options.objectsInObjectsException && options.objectsInObjectsException & penultimateType >= "ObjectExpression"

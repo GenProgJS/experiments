@@ -1,0 +1,22 @@
+Generation: 23
+Elapsed time: 71540.1261408329sec
+# of failed test cases in buggy version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+NullCheckOperator; loc: lastItem.loc.end && lastItem.loc.end,
+NullCheckOperator; loc: lastItem && lastItem.loc.end && lastItem.loc.end,
+BinaryOperatorChanger; loc: lastItem / lastItem.loc.end && lastItem.loc.end,
+LogicalExprChangerOperator; loc: lastItem / lastItem.loc.end || lastItem.loc.end,
+BinaryOperatorChanger; loc: lastItem % lastItem.loc.end || lastItem.loc.end,
+NullCheckOperator; loc: lastItem % !lastItem.loc.end && lastItem.loc.end || lastItem.loc.end,
+FunctionMakerOperator; loc: lastItem % !lastItem.loc.end && lastItem.loc().end || lastItem.loc.end,
+ArithmeticBinaryOperatorChanger; loc: lastItem / !lastItem.loc.end && lastItem.loc().end || lastItem.loc.end,
+CallChangerOperator; loc: lastItem / !lastItem.loc.end && lastItem.node().end || lastItem.loc.end,
+ArithmeticBinaryOperatorChanger; loc: lastItem * !lastItem.loc.end && lastItem.node().end || lastItem.loc.end,
+CallChangerOperator; loc: lastItem * !lastItem.loc.end && lastItem.lastItem.loc.end().end || lastItem.loc.end,
+BinaryOperatorChanger; loc: lastItem && !lastItem.loc.end && lastItem.lastItem.loc.end().end || lastItem.loc.end,
+CallChangerOperator; loc: lastItem && !lastItem.loc.end && lastItem.lastItem.loc.trailingToken.value().end || lastItem.loc.end,
+BinaryOperatorChanger; loc: lastItem / !lastItem.loc.end && lastItem.lastItem.loc.trailingToken.value().end || lastItem.loc.end,
+ArithmeticBinaryOperatorChanger; loc: lastItem % !lastItem.loc.end && lastItem.lastItem.loc.trailingToken.value().end || lastItem.loc.end,
+ArithmeticBinaryOperatorChanger; loc: lastItem - !lastItem.loc.end && lastItem.lastItem.loc.trailingToken.value().end || lastItem.loc.end,
+ExprReplacerOperator; loc: lastItem - !lastItem.loc.end && lastItem.lastItem.loc.trailingToken.value().end || penultimateToken.loc.end,

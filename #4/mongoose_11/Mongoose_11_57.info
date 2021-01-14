@@ -1,0 +1,7 @@
+Generation: 2
+Elapsed time: 16199.510370969772sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && Query.prototype.polygon > 1) {
+NumberChangerOperator; if (1 === exclude && Query.prototype.polygon > 1) {

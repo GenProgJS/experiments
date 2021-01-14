@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 1765.150747537613 seconds to produce the 1th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: op.type === "Punctuator" &&
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2541.1097326278687 seconds to produce the 2th generation.
+Best fitness: 13690.0
+Worst fitness: 13951.0
+Mean fitness: 13703.05
+Population size: 20
+"Best" modification so far: op.type === "Punctuator" &&
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 854.2000777721405 seconds to produce the 3th generation.
+Best fitness: 13690.0
+Worst fitness: 13915.0
+Mean fitness: 13704.85
+Population size: 20
+"Best" modification so far: op.type === "Punctuator" &&
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3235.943021297455 seconds to produce the 4th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i].type === "Punctuator" &&
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4620.0061502456665 seconds to produce the 5th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i].type === "Punctuator" &&
+Number of repair candidates: 7
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4849.922679901123 seconds to produce the 6th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i >= 0 ? i < tokens.length ? i : tokens.length - 1 : 0].type === "Punctuator" &&
+Number of repair candidates: 7
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5418.962533950806 seconds to produce the 7th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i >= 0 ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length - 1 : 0].type === "Punctuator" &&
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4869.503595590591 seconds to produce the 8th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i >= 0 ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length * 1 : 0].type === "Punctuator" &&
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6417.699627637863 seconds to produce the 9th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i >= 0 ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length % 1 : 0].type === "Punctuator" &&
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6253.48220539093 seconds to produce the 10th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: op.type === "Punctuator" &&
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5622.524952411652 seconds to produce the 11th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i : tokens.length ** 1 : 0].type === "Punctuator" &&
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6606.164099931717 seconds to produce the 12th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() + tokens.length) : i >= 0 ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length % 1 : 0].type === "Punctuator" &&
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 7394.342091798782 seconds to produce the 13th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() - tokens.length) : i >= 0 ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length + 1 : 0 % tokens.length].type === "Punctuator" &&
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 7640.22115945816 seconds to produce the 14th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() - tokens.length) : i >= 0 ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length - 1 : 0 % tokens.length].type === "Punctuator" &&
+Number of repair candidates: 10
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6956.445287704468 seconds to produce the 15th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i >= 0 ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i < tokens.length ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length - 1 : 0 % tokens.length].type === "Punctuator" &&
+Number of repair candidates: 10
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 8937.674508333206 seconds to produce the 16th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 || i >= tokens.length ? Math.floor(Math.random() / tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i : tokens.length ** 1 : 0].type === "Punctuator" &&
+Number of repair candidates: 10
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 7110.872528553009 seconds to produce the 17th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i : tokens.length ** 1 : 0].type === "Punctuator" &&
+Number of repair candidates: 10
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 8071.550087690353 seconds to produce the 18th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 <= i >= tokens.length ? Math.floor(Math.random() - tokens.length) : i >= 0 ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 <= i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length + 1 : 0 % tokens.length].type === "Punctuator" &&
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 8470.059921741486 seconds to produce the 19th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() - tokens.length) : i : tokens.length ** 1 : 0].type === "Punctuator" &&
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 10034.513593435287 seconds to produce the 20th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: op.type === "Punctuator" &&
+Number of repair candidates: 12
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 7232.217756986618 seconds to produce the 21th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 || i >= tokens.length ? Math.floor(Math.random() - tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i : tokens.length + 1 : 0 - tokens.length].type === "Punctuator" &&
+Number of repair candidates: 12
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 9172.594806671143 seconds to produce the 22th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 < 0 || i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 < 0 || i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 < 0 || i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 < 0 || i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0].type === "Punctuator" &&
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 10480.91389465332 seconds to produce the 23th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 || i >= tokens.length ? Math.floor(Math.random() - tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i : tokens.length + 1 : 0 - tokens.length].type === "Punctuator" &&
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6477.335839986801 seconds to produce the 24th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: op.type === "Punctuator" &&
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 9343.489846467972 seconds to produce the 25th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 || i >= tokens.length ? Math.floor(Math.random() - tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() - tokens.length) : i : tokens.length + 1 : 0 - tokens.length].type === "Punctuator" &&
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 8268.646585941315 seconds to produce the 26th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 || i >= tokens.length ? Math.floor(Math.random() - tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i : tokens.length + 1 : 0 - tokens.length].type === "Punctuator" &&
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 10380.461639165878 seconds to produce the 27th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 || i >= tokens.length ? Math.floor(Math.random() - tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() - tokens.length) : i : tokens.length + 1 : 0 - tokens.length].type === "Punctuator" ===
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 8951.082899808884 seconds to produce the 28th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 < 0 || i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 < 0 || i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 < 0 || i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 < 0 || i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0].type === "Punctuator" &&
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 9061.915297746658 seconds to produce the 29th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 < 0 || i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length + 1 : 0 >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 < 0 || i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 < 0 || i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 < 0 || i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0 >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < 0 || i >= tokens.length ? Math.floor(Math.random() % tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() ** tokens.length) : i : tokens.length ** 1 : 0].type === "Punctuator" &&
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 11937.004739284515 seconds to produce the 30th generation.
+Best fitness: 13690.0
+Worst fitness: 13690.0
+Mean fitness: 13690.0
+Population size: 20
+"Best" modification so far: tokens[i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i >= 0 ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i < tokens.length ? i < 0 || i >= tokens.length ? Math.floor(Math.random() * tokens.length) : i : tokens.length + 1 : 0 - tokens.length].type === "Punctuator" &&
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Eslint
+Bug-ID: 94
+Total elapsed time: 209135.28317141533 sec
+Number of generated candidates: 14
+------------------------------------------------------------------------------

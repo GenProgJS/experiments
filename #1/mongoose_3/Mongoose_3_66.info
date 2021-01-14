@@ -1,0 +1,6 @@
+Generation: 9
+Elapsed time: 15458.738848924637sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(item.path.indexOf && top.value)) return;

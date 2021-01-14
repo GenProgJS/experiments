@@ -1,0 +1,6 @@
+Generation: 10
+Elapsed time: 19820.864568948746sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+TreeCrossoverOperator; return parent.parent.static && !isCallee(func) && arrayOrTypedArrayPattern.test;; parents; return parent.static && !isCallee(func) && references.filter(isModifyingReference);; return parent.static && arrayOrTypedArrayPattern.test;

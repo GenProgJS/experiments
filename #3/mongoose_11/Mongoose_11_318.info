@@ -1,0 +1,8 @@
+Generation: 21
+Elapsed time: 79675.02830290794sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ConditionalChangerOperator; if (false === exclude) {
+BinaryOperatorChanger; if (false > exclude) {
+VarChangerOperator; if (false > Query.prototype.update) {

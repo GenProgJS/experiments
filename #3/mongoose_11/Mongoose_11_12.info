@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 7122.8860476017sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if ('$exists' === $cond && keys.length > 1) {
+ConditionalChangerOperator; if (false) {

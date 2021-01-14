@@ -1,0 +1,9 @@
+Generation: 8
+Elapsed time: 10798.499639749527sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+FunctionMakerOperator; return parent().static;
+CallChangerOperator; return parent("Literal").static;
+CallChangerOperator; return parent("ConditionalExpression").static;
+NullCheckOperator; return !parent && parent("ConditionalExpression").static;

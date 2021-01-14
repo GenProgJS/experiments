@@ -1,0 +1,6 @@
+Generation: 21
+Elapsed time: 33117.66267204285sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(Array.isArray && top.value)) return;

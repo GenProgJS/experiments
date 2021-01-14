@@ -1,0 +1,6 @@
+Generation: 16
+Elapsed time: 37750.4505443573sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+VarChangerOperator; if (!options || typeof options === "string") {

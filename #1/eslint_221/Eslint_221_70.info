@@ -1,0 +1,10 @@
+Generation: 7
+Elapsed time: 12859.108056783676sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+BinaryOperatorChanger; return parent.static >= parent.static;
+BinaryOperatorChanger; return parent.static & parent.static;
+BinaryOperatorChanger; return parent.static + parent.static;
+NullCheckOperator; return !parent && parent.static + parent.static;

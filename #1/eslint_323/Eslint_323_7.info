@@ -1,0 +1,6 @@
+Generation: 3
+Elapsed time: 3587.9287366867065sec
+# of failed test cases in buggy version: 17
+# of failed test cases in current version: 17
+List of applied operators:
+ExprReplacerOperator; } else if (definition.type === "Parameter" && config.vars === "all") {

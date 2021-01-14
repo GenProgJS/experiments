@@ -1,0 +1,16 @@
+Generation: 26
+Elapsed time: 73342.5075852871sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+NullCheckOperator; options.objectsInObjectsException && options.objectsInObjectsException && penultimateType === "ObjectExpression"
+BinaryOperatorChanger; options.objectsInObjectsException / options.objectsInObjectsException && penultimateType === "ObjectExpression"
+ArithmeticBinaryOperatorChanger; options.objectsInObjectsException + options.objectsInObjectsException && penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; options.objectsInObjectsException + options.objectsInObjectsException && penultimateType == "ObjectExpression"
+NullCheckOperator; options && options.objectsInObjectsException + options.objectsInObjectsException && penultimateType == "ObjectExpression"
+ArithmeticBinaryOperatorChanger; options && options.objectsInObjectsException ** options.objectsInObjectsException && penultimateType == "ObjectExpression"
+BinaryOperatorChanger; options + options.objectsInObjectsException ** options.objectsInObjectsException && penultimateType == "ObjectExpression"
+ArithmeticBinaryOperatorChanger; options + options.objectsInObjectsException * options.objectsInObjectsException && penultimateType == "ObjectExpression"
+BinaryOperatorChanger; options | options.objectsInObjectsException * options.objectsInObjectsException && penultimateType == "ObjectExpression"
+ArithmeticBinaryOperatorChanger; options | options.objectsInObjectsException + options.objectsInObjectsException && penultimateType == "ObjectExpression"
+ConditionalBinaryOperatorChanger; options | options.objectsInObjectsException + options.objectsInObjectsException && penultimateType >= "ObjectExpression"

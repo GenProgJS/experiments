@@ -1,0 +1,7 @@
+Generation: 5
+Elapsed time: 9263.16093158722sec
+# of failed test cases in developer-fixed version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+ExprReplacerOperator; astUtils.isTokenOnSameLine && penultimateType === "ObjectExpression"
+BinaryOperatorChanger; astUtils.isTokenOnSameLine && penultimateType >= "ObjectExpression"

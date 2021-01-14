@@ -1,0 +1,9 @@
+Generation: 8
+Elapsed time: 19861.80741095543sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+LogicalExprChangerOperator; return parent.static || parent.static;
+ExprReplacerOperator; return parent.left || parent.static;
+BinaryOperatorChanger; return parent.left >>> parent.static;

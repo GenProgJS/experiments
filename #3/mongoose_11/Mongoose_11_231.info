@@ -1,0 +1,11 @@
+Generation: 12
+Elapsed time: 53025.19665360451sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ConditionalBinaryOperatorChanger; if (false === exclude && keys.length !== 1) {
+ExprReplacerOperator; if (false === exclude && ascend === -1) {
+BinaryOperatorChanger; if (false === exclude && ascend + -1) {
+BinaryOperatorChanger; if (false === exclude && ascend == -1) {
+NullCheckOperator; if (false === exclude && !ascend && ascend == -1) {
+NumberChangerOperator; if (-1 === exclude && !ascend && ascend == -1) {

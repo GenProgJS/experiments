@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 517.933185338974 seconds to produce the 1th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: var key = req.accepts(keys);
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 289.3516526222229 seconds to produce the 2th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req.accepts(keys);
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 486.0767352581024 seconds to produce the 3th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req.accepts(keys && keys);
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 505.30880403518677 seconds to produce the 4th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: var key = req.accepts(keys);
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 300.0683026313782 seconds to produce the 5th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: var key = req.accepts(keys);
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 454.9342966079712 seconds to produce the 6th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: var key = req.accepts(406 && keys && keys);
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 618.1023972034454 seconds to produce the 7th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req && req.accepts(keys || keys) && req.accepts(keys && keys);
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 441.87370681762695 seconds to produce the 8th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: var key = req.accepts(406 | keys && keys);
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 601.7283048629761 seconds to produce the 9th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: var key = req.accepts(keys);
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 847.4270486831665 seconds to produce the 10th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req != req.accepts(keys || keys) && req.accepts(keys && keys);
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 724.3179504871368 seconds to produce the 11th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req.accepts(keys !== keys) && req.accepts(keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 799.2215805053711 seconds to produce the 12th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req.accepts(keys ** keys) && req.accepts(keys && keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 524.132693529129 seconds to produce the 13th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req.accepts(keys !== keys) && req.accepts(keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 675.3262295722961 seconds to produce the 14th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: var key = req.accepts(406 + keys === 406 + keys && keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 798.8805365562439 seconds to produce the 15th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req.accepts(typeof chunk === 'number' - arguments.length && 1) && req.accepts(keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 758.6143560409546 seconds to produce the 16th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: var key = req.accepts(406 != keys <= 406 % keys && keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1062.9314711093903 seconds to produce the 17th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: var key = req.accepts(406 != keys <= 406 * keys && keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 557.9904997348785 seconds to produce the 18th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req.accepts(keys < keys) && req.accepts(keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 796.967604637146 seconds to produce the 19th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: var key = req.accepts(406 | keys && 406 + keys && keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 995.1531434059143 seconds to produce the 20th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req.accepts(keys > keys) && req.accepts(keys && keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 828.0708336830139 seconds to produce the 21th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: var key = req.accepts(406 | keys <= 406 * keys && keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1011.9781491756439 seconds to produce the 22th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req.accepts(typeof chunk ^ 'number' % arguments.length && 1) && req.accepts(keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 519.4382061958313 seconds to produce the 23th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: var key = req.accepts(406 | keys - 406 + keys && keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 858.912840127945 seconds to produce the 24th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: var key = req.accepts(406 | keys && 406 + keys && keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 834.2454173564911 seconds to produce the 25th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req.accepts(keys > keys) && req.accepts(keys && keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 699.1226305961609 seconds to produce the 26th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req.accepts(typeof chunk === 'number' * arguments.length <= 1) && req.accepts(keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 896.8404107093811 seconds to produce the 27th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: var key = req.accepts(406 != keys <= 406 + keys && keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 859.8869082927704 seconds to produce the 28th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req.accepts(typeof chunk === 'number' ** arguments.length ** 1) && req.accepts(keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 916.1376249790192 seconds to produce the 29th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req.accepts(typeof chunk === 'number' + arguments.length <= 1) && req.accepts(keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 782.3124477863312 seconds to produce the 30th generation.
+Best fitness: 867.0
+Worst fitness: 867.0
+Mean fitness: 867.0
+Population size: 20
+"Best" modification so far: let key = req.accepts(typeof chunk === 'number' ** arguments.length ** 1) && req.accepts(keys);
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Express
+Bug-ID: 3
+Total elapsed time: 20993.030367851257 sec
+Number of generated candidates: 1
+------------------------------------------------------------------------------

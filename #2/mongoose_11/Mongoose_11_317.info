@@ -1,0 +1,11 @@
+Generation: 21
+Elapsed time: 72993.05742049217sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && i < len) {
+VarChangerOperator; if (false === exclude && i < coordinates) {
+ConditionalBinaryOperatorChanger; if (false != exclude && i < coordinates) {
+NullCheckOperator; if (false != exclude && exclude && i < coordinates) {
+BinaryOperatorChanger; if (false != exclude && exclude && i * coordinates) {
+ExprReplacerOperator; if ('function' == typeof query && exclude && i * coordinates) {

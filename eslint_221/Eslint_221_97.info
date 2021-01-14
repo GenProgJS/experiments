@@ -1,7 +1,0 @@
-Generation: 5
-Elapsed time: 7339.801976919174sec
-List of applied operators:
-ExprReplacerOperator; return left.loc.end;
-ExprReplacerOperator; return parent.left.type;
-VarChangerOperator; return parent.left;
-NullCheckOperator; return !parent.left && parent.left;

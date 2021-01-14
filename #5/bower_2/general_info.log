@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 5439.415884256363 seconds to produce the 1th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4056.5829656124115 seconds to produce the 2th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save << that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4224.798382282257 seconds to produce the 3th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4491.356535434723 seconds to produce the 4th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4203.723670721054 seconds to produce the 5th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2268.391848087311 seconds to produce the 6th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || fs.writeFile) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5094.863132238388 seconds to produce the 7th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || that._bootstrap(targets, resolved, incompatibles).then(function () {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4722.335415363312 seconds to produce the 8th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || that._bootstrap(targets, resolved, incompatibles).then(function () {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4007.246965408325 seconds to produce the 9th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.saveJson || this._manager - this._manager) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1656.6473934650421 seconds to produce the 10th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.saveJson || this._manager == this._manager) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5530.175534248352 seconds to produce the 11th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.saveJson || this._manager && this._manager) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4748.5734095573425 seconds to produce the 12th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2920.440076828003 seconds to produce the 13th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save >> that._bootstrap(targets, resolved, incompatibles).then(function () {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3618.9282009601593 seconds to produce the 14th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (!config * config || {}) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4141.267663002014 seconds to produce the 15th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.saveJson || this._manager % mout.object.forOwn) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5974.148912906647 seconds to produce the 16th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.saveJson || this._manager + mout.object.forOwn) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4675.264950752258 seconds to produce the 17th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.saveJson || restored.canonicalDir * this._manager) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5376.318103551865 seconds to produce the 18th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.saveJson !== this._manager - mout.object.forOwn) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4178.5485553741455 seconds to produce the 19th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4944.612155914307 seconds to produce the 20th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.saveJson != this._manager / mout.object.forOwn) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4938.457278013229 seconds to produce the 21th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._jsonFile >> this._manager != this._manager) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3447.502726316452 seconds to produce the 22th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4173.69659614563 seconds to produce the 23th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (!config * config || {}) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4442.761034727097 seconds to produce the 24th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (!config > config || {}) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5080.878549575806 seconds to produce the 25th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.saveJson || this._manager + mout.object.forOwn) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2725.3101892471313 seconds to produce the 26th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.saveJson >> this._manager !== mout.object.forOwn) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5084.372093915939 seconds to produce the 27th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._jsonFile >> this._manager != this._manager) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3702.743157148361 seconds to produce the 28th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (!config * config || {}) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3687.420022010803 seconds to produce the 29th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._jsonFile || this._manager - this._manager) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3641.6498851776123 seconds to produce the 30th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._manager.install !== this._manager ** mout.object.forOwn) {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Bower
+Bug-ID: 2
+Total elapsed time: 127288.9368982315 sec
+Number of generated candidates: 1
+------------------------------------------------------------------------------

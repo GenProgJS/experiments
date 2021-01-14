@@ -1,0 +1,7 @@
+Generation: 4
+Elapsed time: 20954.86474084854sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === Object.defineProperty && keys.length > 1) {
+BinaryOperatorChanger; if (false === Object.defineProperty && keys.length | 1) {

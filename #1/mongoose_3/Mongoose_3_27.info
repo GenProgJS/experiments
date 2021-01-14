@@ -1,0 +1,7 @@
+Generation: 2
+Elapsed time: 6074.664129257202sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ConditionalChangerOperator; if (item.value && top.value) return;
+BinaryOperatorChanger; if (item.value / top.value) return;

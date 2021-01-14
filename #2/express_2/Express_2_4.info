@@ -1,0 +1,11 @@
+Generation: 28
+Elapsed time: 10275.819674491882sec
+# of failed test cases in buggy version: 8
+# of failed test cases in current version: 8
+List of applied operators:
+CallChangerOperator; if (!trust('xhr', this.connection.remoteAddress)) {
+CallChangerOperator; if (!trust('xhr', 'xhr', this.connection.remoteAddress)) {
+CallChangerOperator; if (!trust('xhr', 'xhr', mime)) {
+CallChangerOperator; if (!trust('xhr', mime)) {
+CallChangerOperator; if (!trust('net', mime)) {
+NullCheckOperator; if (!trust('net', !mime && mime)) {

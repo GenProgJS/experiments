@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 6265.814976215363sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && this.model > 1) {
+ConditionalBinaryOperatorChanger; if (false !== exclude && this.model > 1) {

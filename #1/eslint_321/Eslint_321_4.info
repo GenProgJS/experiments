@@ -1,0 +1,9 @@
+Generation: 13
+Elapsed time: 52680.06748867035sec
+# of failed test cases in buggy version: 25
+# of failed test cases in current version: 25
+List of applied operators:
+NullCheckOperator; } else if (tokenBefore.loc.end.line !== node.loc.end.line && node.loc.end.line && option === "beside") {
+NullCheckOperator; } else if (tokenBefore.loc.end.line !== node.loc.end.line && node.loc.end.line && option && option === "beside") {
+ConditionalChangerOperator; } else if (tokenBefore.loc.end.line !== node.loc.end.line && option && option === 'beside') {
+ExprReplacerOperator; } else if (tokenBefore.loc.end.line !== node.loc.start.line && option && option === 'beside') {

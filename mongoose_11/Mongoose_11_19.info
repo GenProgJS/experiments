@@ -1,6 +1,0 @@
-Generation: 2
-Elapsed time: 13325.266634225845sec
-List of applied operators:
-NumberChangerOperator; if (-1 === exclude && keys.length > 1) {
-NullCheckOperator; if (-1 === exclude && !keys.length && keys.length > 1) {
-VarChangerOperator; if (-1 === exclude && !options && keys.length > 1) {

@@ -1,0 +1,11 @@
+Generation: 17
+Elapsed time: 61813.1986579895sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && arguments.length > 1) {
+BinaryOperatorChanger; if (false === exclude && arguments.length >= 1) {
+NullCheckOperator; if (false === exclude && arguments && arguments.length >= 1) {
+BinaryOperatorChanger; if (false === exclude | arguments && arguments.length >= 1) {
+BinaryOperatorChanger; if (false === exclude | arguments && arguments.length != 1) {
+BitwiseBinaryOperatorChanger; if (false === exclude & arguments && arguments.length != 1) {

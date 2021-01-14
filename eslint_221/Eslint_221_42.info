@@ -1,7 +1,0 @@
-Generation: 4
-Elapsed time: 4486.096198797226sec
-List of applied operators:
-ExprReplacerOperator; return left.loc.end;
-ExprReplacerOperator; return node.value;
-NullCheckOperator; return !node.value && node.value;
-NullCheckOperator; return !node.value && !node.value && node.value;

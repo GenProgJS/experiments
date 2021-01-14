@@ -1,0 +1,7 @@
+Generation: 13
+Elapsed time: 58396.62625861168sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; this.constructor.update.apply('No listeners detected, throwing. ', args);
+ReturnInsertOperator; return this.constructor.update.apply('No listeners detected, throwing. ', args);

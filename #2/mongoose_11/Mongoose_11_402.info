@@ -1,0 +1,6 @@
+Generation: 24
+Elapsed time: 87035.58189487457sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+TreeCrossoverOperator; if (false < exclude && keys.false && 'Field `' + key + '` is not in schema.') {; parents; if (false < exclude && keys.length && 'Field `' + key + '` is not in schema.') {; if (false != exclude && exclude && i < coordinates) {

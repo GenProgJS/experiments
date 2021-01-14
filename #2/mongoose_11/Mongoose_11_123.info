@@ -1,0 +1,9 @@
+Generation: 13
+Elapsed time: 40304.071336746216sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+BinaryOperatorChanger; if (false === exclude !== keys.length > 1) {
+ExprReplacerOperator; if ('boolean' !== typeof nested !== keys.length > 1) {
+StringChangerOperator; if ('ean' !== typeof nested !== keys.length > 1) {
+ExprReplacerOperator; if ('ean' !== typeof nested !== 'function' == typeof options) {

@@ -1,0 +1,9 @@
+Generation: 7
+Elapsed time: 18920.94202899933sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+ConditionalBinaryOperatorChanger; if (!options || typeof option == "string") {
+BinaryOperatorChanger; if (!options || typeof option | "string") {
+IfElseChangerOperator; if (!options || typeof option | 'string') {
+ExprReplacerOperator; if (!options || options === 'above') {

@@ -1,4 +1,0 @@
-Generation: 19
-Elapsed time: 77229.5634086132sec
-List of applied operators:
-TreeCrossoverOperator; if (false > exclude && exclude && keys.false === exclude && item && keys.length > 2 === 1) {; parents; if (false === exclude && item && keys.length > 2) {; if (false > exclude && exclude && keys.length === 1) {

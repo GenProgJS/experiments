@@ -1,0 +1,6 @@
+Generation: 11
+Elapsed time: 3818.391410589218sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+ExprReplacerOperator; if (typeof arg !== 'function' && (arg == null || require('./utils').flatten !== 0)) {

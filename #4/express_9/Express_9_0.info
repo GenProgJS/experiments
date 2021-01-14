@@ -1,0 +1,7 @@
+Generation: 8
+Elapsed time: 3428.698217868805sec
+# of failed test cases in developer-fixed version: 13
+# of failed test cases in current version: 10
+List of applied operators:
+ExprStatementInserterOperator; app.route = function(path){
+ExprReplacerOperator; app.route = function(){

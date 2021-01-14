@@ -1,0 +1,7 @@
+Generation: 4
+Elapsed time: 24231.75294995308sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+NullCheckOperator; if (false === exclude && !keys.length && keys.length > 1) {
+NumberChangerOperator; if (1 === exclude && !keys.length && keys.length > 1) {

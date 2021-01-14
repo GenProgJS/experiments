@@ -1,0 +1,7 @@
+Generation: 7
+Elapsed time: 4904.25399017334sec
+# of failed test cases in buggy version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+NumberChangerOperator; if (typeof arg !== 'function' && (arg == -1 || arg.length !== 0)) {
+VarChangerOperator; if (typeof arg !== 'function' && (arg == -1 || require('./utils').flatten.length !== 0)) {

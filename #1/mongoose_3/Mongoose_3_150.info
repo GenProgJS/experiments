@@ -1,0 +1,7 @@
+Generation: 26
+Elapsed time: 39903.668405056sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(this.setMaxListeners && top.value)) return;
+LogicalExprChangerOperator; if (!(this.setMaxListeners || top.value)) return;

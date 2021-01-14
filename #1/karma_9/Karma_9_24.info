@@ -1,0 +1,12 @@
+Generation: 26
+Elapsed time: 19249.86760544777sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') || '/';
+NullCheckOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') && pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') || '/';
+ExprReplacerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') && pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') || '/' || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') && pattern.replace('unlink', /\/[^\/]*[\*\(].*$/, 'fileList') || '/' || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') && pattern.replace('unlink', /\/[^\/]*[\*\(].*$/) || '/' || '/';
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') && pattern.replace('unlink') || '/' || '/';
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') && pattern.replace('unlink') ** '/' || '/';

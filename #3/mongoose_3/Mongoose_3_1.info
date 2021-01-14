@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 539.2977418899536sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+BinaryOperatorChanger; if (top.value._atomics + top.value.hasAtomics()) {

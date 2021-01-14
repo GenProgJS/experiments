@@ -1,0 +1,6 @@
+Generation: 2
+Elapsed time: 996.4201395511627sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+ExprReplacerOperator; if (paramCalled && (this.route || paramCalled.match === paramVal)) {

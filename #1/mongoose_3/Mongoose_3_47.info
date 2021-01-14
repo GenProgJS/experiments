@@ -1,0 +1,9 @@
+Generation: 6
+Elapsed time: 11090.219414949417sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(item.value && this.setMaxListeners)) return;
+IfElseChangerOperator; if (!(item.value && this.setMaxListeners))
+ConditionalChangerOperator; if (true)
+ConditionalChangerOperator; if (false)

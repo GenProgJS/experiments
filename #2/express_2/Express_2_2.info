@@ -1,0 +1,8 @@
+Generation: 19
+Elapsed time: 6417.916377067566sec
+# of failed test cases in buggy version: 8
+# of failed test cases in current version: 8
+List of applied operators:
+CallChangerOperator; if (!trust('stale')) {
+CallChangerOperator; if (!trust(0)) {
+CallChangerOperator; if (!trust(module.exports, 0)) {

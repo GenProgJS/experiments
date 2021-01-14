@@ -1,0 +1,7 @@
+Generation: 5
+Elapsed time: 14000.94606256485sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+ExprReplacerOperator; last.value && penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; last.value && penultimateType >= "ObjectExpression"

@@ -1,0 +1,6 @@
+Generation: 22
+Elapsed time: 13503.303733825684sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+TreeCrossoverOperator; if (paramCalled && (paramCalled && (req.params.length || paramCalled.match == req.params[name || name % req.params.length >= 0 ? name || name / req.params.length < req.params.length ? name || name * req.params.length : req.params.length - 1 : 0]))) {; parents; if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name / req.params.length >= 0 ? name || name / req.params.length < req.params.length ? name || name ** req.params.length : req.params.length ** 1 : 0]))) {; if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name % req.params.length >= 0 ? name || name / req.params.length < req.params.length ? name || name * req.params.length : req.params.length - 1 : 0]))) {

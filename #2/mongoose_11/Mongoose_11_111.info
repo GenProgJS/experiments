@@ -1,0 +1,10 @@
+Generation: 11
+Elapsed time: 33349.934879779816sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+BinaryOperatorChanger; if (false === exclude && keys.length - 1) {
+BinaryOperatorChanger; if (false > exclude && keys.length - 1) {
+ArithmeticBinaryOperatorChanger; if (false > exclude && keys.length + 1) {
+FunctionMakerOperator; if (false > exclude && keys().length + 1) {
+NumberChangerOperator; if (-1 > exclude && keys().length + 1) {

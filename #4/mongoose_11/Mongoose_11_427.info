@@ -1,0 +1,7 @@
+Generation: 17
+Elapsed time: 62319.12472867966sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if ('function' === typeof path && keys.length > 1) {
+ExprReplacerOperator; if ('function' === typeof path && utils.options > 1) {

@@ -1,0 +1,6 @@
+Generation: 2
+Elapsed time: 1092.401153087616sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+ExprReplacerOperator; if (paramCalled && (this.strict || paramCalled.match === paramVal)) {

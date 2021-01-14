@@ -1,8 +1,0 @@
-Generation: 10
-Elapsed time: 31061.62096309662sec
-List of applied operators:
-NullCheckOperator; options.objectsInObjectsException && penultimateType && penultimateType === "ObjectExpression"
-ExprReplacerOperator; context.report && penultimateType && penultimateType === "ObjectExpression"
-NullCheckOperator; context.report && context.report && penultimateType && penultimateType === "ObjectExpression"
-ConditionalTypeChangerOperator; context.report && context.report && penultimateType && penultimateType >= "ObjectExpression"
-VarChangerOperator; context.report && first && penultimateType && penultimateType >= "ObjectExpression"

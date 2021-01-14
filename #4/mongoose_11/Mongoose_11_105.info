@@ -1,0 +1,7 @@
+Generation: 4
+Elapsed time: 24863.616551160812sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+NullCheckOperator; if (false === exclude && !keys.length && keys.length > 1) {
+VarChangerOperator; if (false === exclude && !keys.length && Query.prototype.slice.length > 1) {

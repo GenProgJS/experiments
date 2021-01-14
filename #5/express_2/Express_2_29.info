@@ -1,0 +1,6 @@
+Generation: 13
+Elapsed time: 5000.3567497730255sec
+# of failed test cases in developer-fixed version: 8
+# of failed test cases in current version: 8
+List of applied operators:
+TreeCrossoverOperator; if (!trust(null, !this.params >>> !trust(null, this.params, req.__defineGetter__, this.params, req.__defineGetter__).params, 'subdomain offset', this.params)) {; parents; if (!trust(null, this.params, req.__defineGetter__, this.params, req.__defineGetter__)) {; if (!trust(null, !this.params >>> this.params, 'subdomain offset', this.params)) {

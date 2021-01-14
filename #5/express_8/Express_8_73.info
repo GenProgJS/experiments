@@ -1,0 +1,8 @@
+Generation: 5
+Elapsed time: 1801.2297027111053sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+ConditionalBinaryOperatorChanger; if (typeof arg > 'function' && (arg == null || arg.length !== 0)) {
+NumberChangerOperator; if (typeof arg > 'function' && (arg == -1 || arg.length !== 0)) {
+NullCheckOperator; if (typeof arg > 'function' && (arg == !-1 && -1 || arg.length !== 0)) {

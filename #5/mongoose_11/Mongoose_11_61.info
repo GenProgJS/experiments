@@ -1,0 +1,16 @@
+Generation: 26
+Elapsed time: 134332.93837547302sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (k.charAt(0) === '$' && k !== '$id') {
+VarChangerOperator; if (promise.resolve.bind.charAt(0) === '$' && k !== '$id') {
+ExprReplacerOperator; if (utils.args(arguments, 1) === '$' && k !== '$id') {
+FunctionCallRemoverOperator; if (utils.args === '$' && k !== '$id') {
+StringChangerOperator; if (utils.args === '$' && k !== '') {
+ExprReplacerOperator; if (model.collection.remove === '$' && k !== '') {
+FunctionMakerOperator; if (model.collection.remove === '$' && k() !== '') {
+ExprReplacerOperator; if ('$and' === path && k() !== '') {
+VarChangerOperator; if ('$and' === path && promise.complete() !== '') {
+BinaryOperatorChanger; if ('$and' - path && promise.complete() !== '') {
+VarChangerOperator; if ('$and' - path && promise.prototype() !== '') {

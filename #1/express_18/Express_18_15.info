@@ -1,0 +1,6 @@
+Generation: 4
+Elapsed time: 2291.163861513138sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+VarChangerOperator; if (paramCalled && (req.originalUrl.error || paramCalled.match === paramVal)) {

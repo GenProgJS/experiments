@@ -1,9 +1,0 @@
-Generation: 9
-Elapsed time: 14964.248428106308sec
-List of applied operators:
-VarChangerOperator; return node;
-NullCheckOperator; return node && node;
-ExprReplacerOperator; return node.type === "Literal" && node.value === null;
-ExprReplacerOperator; return node.type === "Literal" && node.type === "Identifier";
-ConditionalTypeChangerOperator; return node.type < "Literal" && node.type === "Identifier";
-NullCheckOperator; return node.type < "Literal" && !node.type && node.type === "Identifier";

@@ -1,0 +1,7 @@
+Generation: 3
+Elapsed time: 11671.507560968399sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && 'function' == typeof doc) {
+StringChangerOperator; if (false === exclude && 'ct' == typeof doc) {

@@ -1,0 +1,9 @@
+Generation: 9
+Elapsed time: 5727.4057722091675sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+ArraySubscripterOperator; if (':' === path[1 >= 0 ? 1 < path.length ? 1 : path.length - 1 : 0] && '\\' === path[2]) return true;
+ArraySubscripterOperator; if (':' === path[1 >= 0 ? 1 < path.length ? 1 : path.length - 1 : 0] && '\\' === path[2 >= 0 ? 2 < path.length ? 2 : path.length - 1 : 0]) return true;
+ArithmeticBinaryOperatorChanger; if (':' === path[1 >= 0 ? 1 < path.length ? 1 : path.length - 1 : 0] && '\\' === path[2 >= 0 ? 2 < path.length ? 2 : path.length / 1 : 0]) return true;
+ExprReplacerOperator; if (':' === path[1 >= 0 ? 1 < path.length ? 1 : path.length - 1 : 0] && ':' === path[1 >= 0 ? 1 < path.length ? 1 : path.length - 1 : 0]) return true;

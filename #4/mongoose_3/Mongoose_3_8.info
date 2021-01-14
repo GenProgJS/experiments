@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 6012.141206264496sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+ExprReplacerOperator; if (item.path.indexOf && top.value.hasAtomics()) {

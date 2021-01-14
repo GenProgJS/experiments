@@ -1,0 +1,13 @@
+Generation: 17
+Elapsed time: 28305.216943264008sec
+# of failed test cases in buggy version: 17
+# of failed test cases in current version: 17
+List of applied operators:
+BinaryOperatorChanger; } else if (definition.type === "Parameter" | node.type === "FunctionDeclaration") {
+ConditionalBinaryOperatorChanger; } else if (definition.type === "Parameter" | node.type !== "FunctionDeclaration") {
+ConditionalBinaryOperatorChanger; } else if (definition.type === "Parameter" | node.type < "FunctionDeclaration") {
+StringChangerOperator; } else if (definition.type === "Parameter" | node.type < 'FUNCTIONDECLARATION') {
+StringChangerOperator; } else if (definition.type === "Parameter" | node.type < 'ECLARA') {
+ConditionalBinaryOperatorChanger; } else if (definition.type === "Parameter" | node.type <= 'ECLARA') {
+ConditionalBinaryOperatorChanger; } else if (definition.type == "Parameter" | node.type <= 'ECLARA') {
+ExprReplacerOperator; } else if (definition.type == "Parameter" | config.varsIgnorePattern <= 'ECLARA') {

@@ -1,0 +1,13 @@
+Generation: 13
+Elapsed time: 37633.85466527939sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+NullCheckOperator; if (top.value && top.value._atomics && top.value.hasAtomics()) {
+BinaryOperatorChanger; if (top.value >> top.value._atomics && top.value.hasAtomics()) {
+CallChangerOperator; if (top.value >> top.value._atomics && top.value()) {
+CallChangerOperator; if (top.value >> top.value._atomics && top.toJSON()) {
+CallChangerOperator; if (top.value >> top.value._atomics && top.arguments()) {
+ConditionalChangerOperator; if (!(top.value >> top.value._atomics && top.arguments())) {
+VarChangerOperator; if (!(top.e >> top.value._atomics && top.arguments())) {
+ExprReplacerOperator; if (!(top.e >> top.value._atomics && cur.indexOf(pathDot))) {

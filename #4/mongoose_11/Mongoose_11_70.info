@@ -1,0 +1,7 @@
+Generation: 3
+Elapsed time: 18574.059297800064sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+NullCheckOperator; if (false === exclude && exclude && keys.length > 1) {
+NullCheckOperator; if (false === exclude && exclude && exclude && keys.length > 1) {

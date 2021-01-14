@@ -1,0 +1,8 @@
+Generation: 14
+Elapsed time: 38380.70564484596sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+ExprReplacerOperator; penultimate.start && penultimateType === "ObjectExpression"
+NullCheckOperator; penultimate.start && penultimateType && penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; penultimate.start && penultimateType && penultimateType >= "ObjectExpression"

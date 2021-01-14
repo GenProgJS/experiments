@@ -1,0 +1,7 @@
+Generation: 8
+Elapsed time: 4333.892508029938sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+BinaryOperatorChanger; if (paramCalled && (paramCalled.error + paramCalled.match === paramVal)) {
+NullCheckOperator; if (paramCalled && (paramCalled.error + paramCalled.match && paramCalled.match === paramVal)) {

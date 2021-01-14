@@ -1,4 +1,0 @@
-Generation: 21
-Elapsed time: 24361.425136327744sec
-List of applied operators:
-TreeCrossoverOperator; if (file && file && file && file && file && file && file && file && file && file && line && file && file && file && file && file && file && file && file && file && file) {; parents; if (file && file && line && file && file && file && file && file && file && file && file && file && file && line && file && file && file && file && file && file && file && file && file && file) {; if (file && line && file && file && file && file && file && file && file && file.sourceMap && file.sourceMap && file && file.sourceMap) {

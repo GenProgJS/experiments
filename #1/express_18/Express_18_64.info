@@ -1,0 +1,6 @@
+Generation: 14
+Elapsed time: 8526.147837638855sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+TreeCrossoverOperator; if (paramCalled && (paramCalled.error && paramCalled && (paramCalled.error || paramCalled.match && paramCalled.match == paramVal).error || paramCalled.match == paramVal)) {; parents; if (paramCalled && (paramCalled.error || paramCalled.match && paramCalled.match == paramVal)) {; if (paramCalled && (paramCalled.error && paramCalled.error || paramCalled.match == paramVal)) {

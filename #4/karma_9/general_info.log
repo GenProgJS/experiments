@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 524.8477375507355 seconds to produce the 1th generation.
+Best fitness: 296.0
+Worst fitness: 377.0
+Mean fitness: 303.65
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 454.3807153701782 seconds to produce the 2th generation.
+Best fitness: 296.0
+Worst fitness: 377.0
+Mean fitness: 318.05
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 321.12195110321045 seconds to produce the 3th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 321.2
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 477.0837576389313 seconds to produce the 4th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 335.6
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 669.4566659927368 seconds to produce the 5th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 342.8
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 734.6403450965881 seconds to produce the 6th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 342.8
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 9
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 678.8128292560577 seconds to produce the 7th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 346.4
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 10
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 740.7267687320709 seconds to produce the 8th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 353.6
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 10
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 648.7284224033356 seconds to produce the 9th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 360.8
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 10
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 483.3413119316101 seconds to produce the 10th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 360.8
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 10
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 433.37977266311646 seconds to produce the 11th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 364.4
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 10
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 712.9583675861359 seconds to produce the 12th generation.
+Best fitness: 296.0
+Worst fitness: 368.0
+Mean fitness: 364.4
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '/';
+Number of repair candidates: 10
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 747.4593458175659 seconds to produce the 13th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace('./logger', 1) || '/';
+Number of repair candidates: 10
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 732.6497097015381 seconds to produce the 14th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace() || pattern.replace || '/';
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 536.3653135299683 seconds to produce the 15th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, './logger', 'chokidar') || '/';
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 832.4326696395874 seconds to produce the 16th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace(require, './logger', 'chokidar') || '/';
+Number of repair candidates: 12
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 823.51194024086 seconds to produce the 17th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace(-1) || '/';
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 514.9018204212189 seconds to produce the 18th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace() || pathsToWatch(helper.normalizeWinPath).forEach || '/';
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 610.6945667266846 seconds to produce the 19th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace() && pattern.replace(0) || '/';
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 563.4047455787659 seconds to produce the 20th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace() || pathsToWatch(helper.normalizeWinPath).forEach || '/';
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 663.9588780403137 seconds to produce the 21th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace && pattern.replace('', '') || '/';
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 854.9373953342438 seconds to produce the 22th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace() || pathsToWatch(helper.normalizeWinPath).forEach || '/';
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 753.7065365314484 seconds to produce the 23th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace('fileList', /\/[^\/]*[\*\(].*$/, exports.watch.$inject, 'watcher', getWatchedPatterns, getWatchedPatterns) || '/';
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 720.3522505760193 seconds to produce the 24th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace() || pathsToWatch(helper.normalizeWinPath).forEach || '/' || '/';
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 480.9020047187805 seconds to produce the 25th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace() || pathsToWatch(watcher).forEach || '/';
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 819.8684039115906 seconds to produce the 26th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace(/\/[^\/]*[\*\(].*$/, './logger', 1) || '/';
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 533.5670654773712 seconds to produce the 27th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace() || pathsToWatch(create).forEach || '/' || '/';
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 845.9241154193878 seconds to produce the 28th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace && pattern.replace('', '') || '/';
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 773.9130811691284 seconds to produce the 29th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace() || pathsToWatch('path', exports.watch, 'path', uniqueMap[path], exports.watch).forEach || '/';
+Number of repair candidates: 18
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 459.39160919189453 seconds to produce the 30th generation.
+Best fitness: 368.0
+Worst fitness: 368.0
+Mean fitness: 368.0
+Population size: 20
+"Best" modification so far: return pattern.replace() || pathsToWatch('path', exports.watch, 'path', uniqueMap[path], exports.watch).forEach || '/';
+Number of repair candidates: 20
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Karma
+Bug-ID: 9
+Total elapsed time: 19244.569918870926 sec
+Number of generated candidates: 20
+------------------------------------------------------------------------------

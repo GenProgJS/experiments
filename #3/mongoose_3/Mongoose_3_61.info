@@ -1,0 +1,9 @@
+Generation: 4
+Elapsed time: 21929.72891998291sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+ExprReplacerOperator; if (top.value._atomics && require('./schematype')) {
+ConditionalChangerOperator; if (!(top.value._atomics && require('./schematype'))) {
+NullCheckOperator; if (!(!top.value._atomics && top.value._atomics && require('./schematype'))) {
+FunctionCallRemoverOperator; if (!(!top.value._atomics && top.value._atomics && require)) {

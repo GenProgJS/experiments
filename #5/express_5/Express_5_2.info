@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 671.9850406646729sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+BinaryOperatorChanger; if (':' === path[1] && '\\' && path[2]) return true;

@@ -1,0 +1,7 @@
+Generation: 7
+Elapsed time: 3863.897573709488sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+TreeCrossoverOperator; return 'add' && pattern.replace('change') || '/';; parents; return pattern && pattern.replace('change') || '/';; return pattern.replace('add', 'fileList') || '/';
+BinaryOperatorChanger; return 'add' && pattern.replace('change') ** '/';

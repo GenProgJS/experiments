@@ -1,0 +1,8 @@
+Generation: 6
+Elapsed time: 2257.3941168785095sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+VarChangerOperator; if (typeof arg !== 'function' && (this.response == null || arg.length !== 0)) {
+ExprReplacerOperator; if (typeof arg !== 'function' && (this.lazyrouter == null || arg.length !== 0)) {
+NumberChangerOperator; if (typeof arg !== 'function' && (this.lazyrouter == null || arg.length !== 1)) {

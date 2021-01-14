@@ -1,0 +1,16 @@
+Generation: 25
+Elapsed time: 74299.75908565521sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent && parent.static;
+NullCheckOperator; return parent && parent.static && parent.static;
+NullCheckOperator; return parent && parent.static && parent.static && parent.static;
+FunctionMakerOperator; return parent && parent.static && parent().static && parent.static;
+ExprReplacerOperator; return parent && parent.static && isNullOrUndefined(parent.parent.arguments[0]).static && parent.static;
+ArraySubscripterOperator; return parent && parent.static && isNullOrUndefined(parent.parent.arguments[0 < 0 || 0 >= parent.parent.arguments.length ? Math.floor(Math.random() * parent.parent.arguments.length) : 0]).static && parent.static;
+ArraySubscripterOperator; return parent && parent.static && isNullOrUndefined(parent.parent.arguments[0 < 0 || 0 >= parent.parent.arguments.length ? Math.floor(Math.random() * parent.parent.arguments.length) : 0 >= 0 ? 0 < 0 || 0 >= parent.parent.arguments.length ? Math.floor(Math.random() * parent.parent.arguments.length) : 0 < parent.parent.arguments.length ? 0 < 0 || 0 >= parent.parent.arguments.length ? Math.floor(Math.random() * parent.parent.arguments.length) : 0 : parent.parent.arguments.length - 1 : 0]).static && parent.static;
+ArithmeticBinaryOperatorChanger; return parent && parent.static && isNullOrUndefined(parent.parent.arguments[0 < 0 || 0 >= parent.parent.arguments.length ? Math.floor(Math.random() * parent.parent.arguments.length) : 0 >= 0 ? 0 < 0 || 0 >= parent.parent.arguments.length ? Math.floor(Math.random() + parent.parent.arguments.length) : 0 < parent.parent.arguments.length ? 0 < 0 || 0 >= parent.parent.arguments.length ? Math.floor(Math.random() * parent.parent.arguments.length) : 0 : parent.parent.arguments.length - 1 : 0]).static && parent.static;
+ArithmeticBinaryOperatorChanger; return parent && parent.static && isNullOrUndefined(parent.parent.arguments[0 < 0 || 0 >= parent.parent.arguments.length ? Math.floor(Math.random() * parent.parent.arguments.length) : 0 >= 0 ? 0 < 0 || 0 >= parent.parent.arguments.length ? Math.floor(Math.random() + parent.parent.arguments.length) : 0 < parent.parent.arguments.length ? 0 < 0 || 0 >= parent.parent.arguments.length ? Math.floor(Math.random() % parent.parent.arguments.length) : 0 : parent.parent.arguments.length - 1 : 0]).static && parent.static;
+ArraySubscripterOperator; return parent && parent.static && isNullOrUndefined(parent.parent.arguments[0 < 0 || 0 >= parent.parent.arguments.length ? Math.floor(Math.random() * parent.parent.arguments.length) : 0 >= 0 ? 0 < 0 || 0 >= parent.parent.arguments.length ? Math.floor(Math.random() + parent.parent.arguments.length) : 0 < parent.parent.arguments.length ? 0 < 0 || 0 >= parent.parent.arguments.length ? Math.floor(Math.random() % parent.parent.arguments.length) : 0 : parent.parent.arguments.length - 1 : 0 % parent.parent.arguments.length]).static && parent.static;
+ExprReplacerOperator; return parent && parent.static && node.operator && parent.static;

@@ -1,0 +1,6 @@
+Generation: 23
+Elapsed time: 13388.914610862732sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+VarChangerOperator; if (typeof arg !== 'function' && (arg == null || arg.self !== 0)) {

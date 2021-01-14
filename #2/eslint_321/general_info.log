@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 2825.770976781845 seconds to produce the 1th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore.loc.end.line !== node.loc.end.line && option === "beside") {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3072.380444049835 seconds to produce the 2th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore.loc.end.line !== node.loc.end.line && option === "beside") {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2978.049140930176 seconds to produce the 3th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore.loc.end.line !== node.loc.end.line && option === "beside") {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3952.512311697006 seconds to produce the 4th generation.
+Best fitness: 15017.0
+Worst fitness: 15080.0
+Mean fitness: 15020.15
+Population size: 20
+"Best" modification so far: } else if (tokenBefore.loc.end.line !== node.loc.end.line && option === "beside") {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3376.2227244377136 seconds to produce the 5th generation.
+Best fitness: 15017.0
+Worst fitness: 15080.0
+Mean fitness: 15023.3
+Population size: 20
+"Best" modification so far: } else if (tokenBefore.loc.end.line !== node.loc.end.line && option == "beside") {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3433.1556417942047 seconds to produce the 6th generation.
+Best fitness: 15017.0
+Worst fitness: 15080.0
+Mean fitness: 15023.3
+Population size: 20
+"Best" modification so far: } else if (tokenBefore.loc.end.line !== node.loc.end.line && option === "beside") {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4682.955118894577 seconds to produce the 7th generation.
+Best fitness: 15017.0
+Worst fitness: 15080.0
+Mean fitness: 15023.3
+Population size: 20
+"Best" modification so far: } else if (tokenBefore.loc.end && tokenBefore.loc.end.line !== node.loc.end.line && option === 'beside') {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5222.214683294296 seconds to produce the 8th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore.loc.end.line !== node.loc.end.line && node.loc.end.line && option == "beside") {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4908.720678806305 seconds to produce the 9th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore && tokenBefore.loc.end.line !== node.loc.end.line && option == "beside" && option == "beside") {
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3130.9579463005066 seconds to produce the 10th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore.loc.end.line !== node.loc.end.line && tokenBefore.loc.end && option == "beside") {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4497.396368980408 seconds to produce the 11th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore && tokenBefore.loc.end.line && tokenBefore.loc.end.line !== node.loc.end.line && option == "beside") {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4433.405980587006 seconds to produce the 12th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore && tokenBefore && tokenBefore.loc.end.line && tokenBefore.loc.end.line < node.loc.end.line && option == "beside") {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5309.141093492508 seconds to produce the 13th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore + tokenBefore.loc.end.line && tokenBefore.loc.end.line !== node.loc.end.line && option == "beside") {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3840.6310110092163 seconds to produce the 14th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore && tokenBefore.loc.end.line && tokenBefore.loc.end.line !== node.loc.end.line && node.loc.end.line && option == "beside") {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2859.026261329651 seconds to produce the 15th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore && tokenBefore.loc.end.line && tokenBefore.loc.end.line !== node.loc.end.line && node.loc.end.line && option == "beside") {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5901.4287803173065 seconds to produce the 16th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore.loc.end.line < node.loc.end.line && node.loc.end.line && option == "beside") {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5603.340287923813 seconds to produce the 17th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore && tokenBefore.loc.end.line !== node.loc.end.line && option === 'beside' && option <= 'beside') {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4563.5748455524445 seconds to produce the 18th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore && tokenBefore.loc.end.line && tokenBefore.loc.end.line !== node.loc.end.line && node.loc.end.line && option == "beside") {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4642.951375484467 seconds to produce the 19th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (sourceCode.getTokenBefore | tokenBefore.loc.end.line !== node.loc.end.line && node.loc.end.line && option == "beside") {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5610.373692750931 seconds to produce the 20th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (sourceCode.getTokenBefore | tokenBefore.loc.end.line !== node.loc.end.line && node.loc.end.line && option == "beside") {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4992.874802350998 seconds to produce the 21th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore.loc.end.line >= tokenBefore.loc.end.line ^ node.loc.end.line && option === "beside") {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5537.887166500092 seconds to produce the 22th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore === tokenBefore !== tokenBefore.loc.end.line && tokenBefore.loc.end.line < node.loc.end.line && option == "beside") {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5108.309632062912 seconds to produce the 23th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (sourceCode.getTokenBefore | tokenBefore.loc.end.line !== node.loc.end.line && node.loc.end.line && option == "beside") {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4926.057124376297 seconds to produce the 24th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore && tokenBefore.loc.end.line !== node.loc.end.line && option >= "beside" && option == "beside") {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4440.438854932785 seconds to produce the 25th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore | tokenBefore.loc.end.line < node.loc.end.line && option <= "beside" && option == "beside") {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4464.990063905716 seconds to produce the 26th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore && tokenBefore.loc.end.line != node.loc.end.line && option === "beside" && option == "beside") {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5002.924347639084 seconds to produce the 27th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore && tokenBefore.loc.end.line - node.loc.end.line && option <= "beside" && option == "beside") {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4195.2997670173645 seconds to produce the 28th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore && tokenBefore.loc.end.line - node.loc.end.line && option <= "beside" && option <= "beside" && option == "beside") {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5638.661320924759 seconds to produce the 29th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore && tokenBefore.loc.end.line < node.loc.end.line && option <= "beside" && option == "beside") {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4780.762415647507 seconds to produce the 30th generation.
+Best fitness: 15017.0
+Worst fitness: 15017.0
+Mean fitness: 15017.0
+Population size: 20
+"Best" modification so far: } else if (tokenBefore && tokenBefore.loc.end.line !== node.loc.end.line && option >= "beside" && option && "beside") {
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Eslint
+Bug-ID: 321
+Total elapsed time: 134056.53249955177 sec
+Number of generated candidates: 4
+------------------------------------------------------------------------------

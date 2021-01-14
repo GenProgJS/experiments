@@ -1,0 +1,8 @@
+Generation: 2
+Elapsed time: 4042.063325881958sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+VarChangerOperator; return parent.static && arrayOrTypedArrayPattern.test;
+ExprReplacerOperator; return node.type === "MemberExpression" &&

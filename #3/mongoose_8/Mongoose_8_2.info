@@ -1,0 +1,7 @@
+Generation: 2
+Elapsed time: 21452.778410196304sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; this.constructor.update.apply(this.schema.options.shardKey, args);
+ReturnInsertOperator; return this.constructor.update.apply(this.schema.options.shardKey, args);

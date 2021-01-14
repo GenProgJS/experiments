@@ -1,0 +1,7 @@
+Generation: 4
+Elapsed time: 4777.792448759079sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+ExprReplacerOperator; return anyFunctionPattern.test;
+NullCheckOperator; return !anyFunctionPattern && anyFunctionPattern.test;

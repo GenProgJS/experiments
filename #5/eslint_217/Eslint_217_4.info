@@ -1,0 +1,8 @@
+Generation: 10
+Elapsed time: 27629.800394773483sec
+# of failed test cases in developer-fixed version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+NullCheckOperator; if (!options || typeof option && typeof option === "string") {
+IfElseChangerOperator; if (!options || typeof option && typeof option === 'string') {
+ExprReplacerOperator; if (!options || typeof option && options === 'above') {

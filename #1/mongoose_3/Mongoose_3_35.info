@@ -1,0 +1,6 @@
+Generation: 4
+Elapsed time: 7764.582557439804sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ConditionalChangerOperator; if (false) return;

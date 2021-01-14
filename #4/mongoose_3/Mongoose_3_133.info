@@ -1,0 +1,7 @@
+Generation: 12
+Elapsed time: 34954.15107798576sec
+# of failed test cases in developer-fixed version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+VarChangerOperator; if (top.value.shardkey && top.value.hasAtomics()) {
+ConditionalChangerOperator; if (!(top.value.shardkey && top.value.hasAtomics())) {

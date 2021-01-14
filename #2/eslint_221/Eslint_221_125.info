@@ -1,0 +1,10 @@
+Generation: 12
+Elapsed time: 22979.649783611298sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent && parent.static;
+NullCheckOperator; return parent && parent.static && parent.static;
+FunctionMakerOperator; return parent && parent.static && parent().static;
+ExprReplacerOperator; return parent && parent.static && reference.isWrite().static;
+NullCheckOperator; return !parent && parent && parent.static && reference.isWrite().static;

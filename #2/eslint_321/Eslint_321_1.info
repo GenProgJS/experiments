@@ -1,0 +1,8 @@
+Generation: 9
+Elapsed time: 35689.19560670853sec
+# of failed test cases in buggy version: 25
+# of failed test cases in current version: 25
+List of applied operators:
+BinaryOperatorChanger; } else if (tokenBefore.loc.end.line !== node.loc.end.line & option === "beside") {
+ConditionalBinaryOperatorChanger; } else if (tokenBefore.loc.end.line < node.loc.end.line & option === "beside") {
+NullCheckOperator; } else if (tokenBefore.loc.end.line < node.loc.end.line && node.loc.end.line & option === "beside") {

@@ -1,7 +1,0 @@
-Generation: 11
-Elapsed time: 40906.20735192299sec
-List of applied operators:
-TreeCrossoverOperator; return !this.constructor.update.apply(update, args, args) || this.constructor.update.apply(this.constructor, args) && this.constructor.update.apply(this.constructor, args);; parents; return !this.constructor.update.apply(this.constructor, args, args) || this.constructor.update.apply(this.constructor, args) && this.constructor.update.apply(this.constructor, args);; return this.constructor.update.apply(args, args);
-CallChangerOperator; return !this.constructor.update.apply(update, args, args) || this.constructor.update.apply(this.constructor, this.constructor, args) && this.constructor.update.apply(this.constructor, args);
-LogicalExprChangerOperator; return !this.constructor.update.apply(update, args, args) || this.constructor.update.apply(this.constructor, this.constructor, args) || this.constructor.update.apply(this.constructor, args);
-ExprReplacerOperator; return !this.constructor.update.apply(update, args, args) || this.constructor.update.apply(this.constructor, this.constructor, args) || this.$__.activePaths(this.constructor, args);

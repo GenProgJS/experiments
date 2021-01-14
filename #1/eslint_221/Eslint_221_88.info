@@ -1,0 +1,10 @@
+Generation: 9
+Elapsed time: 16864.68470978737sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+VarChangerOperator; return parent.static && left.loc.end;
+NullCheckOperator; return parent.static && left.loc.end && end;
+FunctionMakerOperator; return parent.static && left.loc.end() && end;
+ExprReplacerOperator; return parent.static && thisTagPattern.test() && end;

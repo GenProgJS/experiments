@@ -1,0 +1,7 @@
+Generation: 2
+Elapsed time: 15806.705430984497sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && ascend.length > 1) {
+NumberChangerOperator; if (1 === exclude && ascend.length > 1) {

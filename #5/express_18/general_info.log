@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 421.26444458961487 seconds to produce the 1th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 364.3381881713867 seconds to produce the 2th generation.
+Best fitness: 866.0
+Worst fitness: 875.0
+Mean fitness: 866.9
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 409.396436214447 seconds to produce the 3th generation.
+Best fitness: 866.0
+Worst fitness: 875.0
+Mean fitness: 866.9
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled.error || paramCalled.match == paramVal)) {
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 441.4944806098938 seconds to produce the 4th generation.
+Best fitness: 866.0
+Worst fitness: 875.0
+Mean fitness: 867.8
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 482.7530794143677 seconds to produce the 5th generation.
+Best fitness: 866.0
+Worst fitness: 875.0
+Mean fitness: 868.25
+Population size: 20
+"Best" modification so far: if (paramCalled && paramCalled && (paramCalled.error && paramCallback || paramCalled.match === paramVal)) {
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 289.90060448646545 seconds to produce the 6th generation.
+Best fitness: 866.0
+Worst fitness: 875.0
+Mean fitness: 868.7
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+Number of repair candidates: 24
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 553.3081238269806 seconds to produce the 7th generation.
+Best fitness: 866.0
+Worst fitness: 875.0
+Mean fitness: 868.25
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+Number of repair candidates: 27
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 488.8550634384155 seconds to produce the 8th generation.
+Best fitness: 866.0
+Worst fitness: 875.0
+Mean fitness: 867.8
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+Number of repair candidates: 32
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 635.8837685585022 seconds to produce the 9th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+Number of repair candidates: 39
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 580.8053698539734 seconds to produce the 10th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+Number of repair candidates: 42
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 637.8087224960327 seconds to produce the 11th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+Number of repair candidates: 48
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 508.98224997520447 seconds to produce the 12th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name / req.params.length]))) {
+Number of repair candidates: 54
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 655.5566022396088 seconds to produce the 13th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled.error && paramCalled.error && paramCallback && paramCallback || paramCalled.match === paramVal && paramVal)) {
+Number of repair candidates: 62
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 462.19691729545593 seconds to produce the 14th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name + req.params.length >= 0 ? name || name + req.params.length < req.params.length ? name || name + req.params.length : req.params.length - 1 : 0]))) {
+Number of repair candidates: 67
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 797.497828245163 seconds to produce the 15th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && paramCalled && (paramCalled.error && paramCallback || paramVal === undefined || paramCalled.match === paramVal)) {
+Number of repair candidates: 71
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 435.3094882965088 seconds to produce the 16th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled.error > paramCallback && paramCallback || paramCalled.match == paramVal && paramVal)) {
+Number of repair candidates: 74
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 551.6609547138214 seconds to produce the 17th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && paramCalled && (paramCalled.error && paramCallback || paramCalled.match === paramVal || paramCalled.match === paramVal)) {
+Number of repair candidates: 81
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 758.0526216030121 seconds to produce the 18th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled.error > paramCallback && paramCallback || paramCalled.match == paramVal && paramVal)) {
+Number of repair candidates: 88
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 765.3362686634064 seconds to produce the 19th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && paramCalled && paramCalled && (paramCalled.error && paramCallback || paramCalled.match === paramVal)) {
+Number of repair candidates: 93
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 858.0040426254272 seconds to produce the 20th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled.error || paramCalled.match === paramVal)) {
+Number of repair candidates: 96
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 848.0207977294922 seconds to produce the 21th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name * req.params.length >= 0 ? name || name + req.params.length < req.params.length ? name || name + req.params.length : req.params.length - 1 : 0 % req.params.length]))) {
+Number of repair candidates: 98
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 754.8714814186096 seconds to produce the 22th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name * req.params.length >= 0 ? name || name + req.params.length < req.params.length ? name || name + req.params.length : req.params.length - 1 : 0 % req.params.length]))) {
+Number of repair candidates: 103
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 801.9959602355957 seconds to produce the 23th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name * req.params.length >= 0 ? name || name + req.params.length < req.params.length ? name || name + req.params.length : req.params.length - 1 : 0 % req.params.length >= 0 ? name || name * req.params.length >= 0 ? name || name + req.params.length < req.params.length ? name || name | req.params.length : req.params.length - 1 : 0 % req.params.length < req.params.length ? name || name * req.params.length >= 0 ? name || name + req.params.length < req.params.length ? name || name + req.params.length : req.params.length - 1 : 0 % req.params.length : req.params.length - 1 : 0]))) {
+Number of repair candidates: 107
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 996.5625431537628 seconds to produce the 24th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name ^ req.params.length >= 0 ? name || name / req.params.length < req.params.length ? name || name / req.params.length : req.params.length - 1 : 0]))) {
+Number of repair candidates: 111
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 598.3040642738342 seconds to produce the 25th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name * req.params.length >= 0 ? name || name + req.params.length < req.params.length ? name || name + req.params.length : req.params.length - 1 : 0 % req.params.length >= 0 ? name || name * req.params.length >= 0 ? name || name + req.params.length < req.params.length ? name || name | req.params.length : req.params.length - 1 : 0 % req.params.length < req.params.length ? name || name * req.params.length >= 0 ? name || name + req.params.length < req.params.length ? name || name + req.params.length : req.params.length - 1 : 0 % req.params.length : req.params.length - 1 : 0]))) {
+Number of repair candidates: 115
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 947.2028300762177 seconds to produce the 26th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name ^ req.params.length >= 0 ? name || name / req.params.length < req.params.length ? name || name + req.params.length : req.params.length - 1 : 0]))) {
+Number of repair candidates: 117
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 856.6547164916992 seconds to produce the 27th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name - req.params.length >= 0 ? name || name / req.params.length < req.params.length ? name || name ** req.params.length : req.params.length * 1 : 0 % req.params.length]))) {
+Number of repair candidates: 118
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 981.5323665142059 seconds to produce the 28th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name + req.params.length >= 0 ? name || name % req.params.length < req.params.length ? name || name % req.params.length : req.params.length - 1 : 0 >= 0 ? name || name % req.params.length >= 0 ? name || name % req.params.length < req.params.length ? name || name % req.params.length : req.params.length - 1 : 0 < req.params.length ? name || name % req.params.length >= 0 ? name || name % req.params.length < req.params.length ? name || name % req.params.length : req.params.length - 1 : 0 : req.params.length - 1 : 0 >= 0 ? name || name - req.params.length >= 0 ? name || name % req.params.length < req.params.length ? name || name % req.params.length : req.params.length - 1 : 0 >= 0 ? name || name % req.params.length >= 0 ? name || name % req.params.length < req.params.length ? name || name % req.params.length : req.params.length - 1 : 0 < req.params.length ? name || name % req.params.length >= 0 ? name || name % req.params.length < req.params.length ? name || name % req.params.length : req.params.length - 1 : 0 : req.params.length - 1 : 0 < req.params.length ? name || name + req.params.length >= 0 ? name || name % req.params.length < req.params.length ? name || name % req.params.length : req.params.length - 1 : 0 >= 0 ? name || name % req.params.length >= 0 ? name || name % req.params.length < req.params.length ? name || name % req.params.length : req.params.length - 1 : 0 < req.params.length ? name || name % req.params.length >= 0 ? name || name % req.params.length < req.params.length ? name || name % req.params.length : req.params.length - 1 : 0 : req.params.length - 1 : 0 : req.params.length - 1 : 0]))) {
+Number of repair candidates: 119
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1043.0287244319916 seconds to produce the 29th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name * req.params.length >= 0 ? name || name + req.params.length < req.params.length ? name || name + req.params.length : req.params.length - 1 : 0 % req.params.length >= 0 ? name || name * req.params.length >= 0 ? name || name + req.params.length < req.params.length ? name || name + req.params.length : req.params.length - 1 : 0 % req.params.length < req.params.length ? name || name / req.params.length >= 0 ? name || name + req.params.length < req.params.length ? name || name + req.params.length : req.params.length - 1 : 0 % req.params.length : req.params.length - 1 : 0]))) {
+Number of repair candidates: 123
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1148.1425156593323 seconds to produce the 30th generation.
+Best fitness: 866.0
+Worst fitness: 866.0
+Mean fitness: 866.0
+Population size: 20
+"Best" modification so far: if (paramCalled && (paramCalled && (paramCalled.error || paramCalled.match == req.params[name || name ** req.params.length >= 0 ? name || name / req.params.length < req.params.length ? name || name - req.params.length : req.params.length - 1 : 0]))) {
+Number of repair candidates: 127
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Express
+Bug-ID: 18
+Total elapsed time: 20090.807817697525 sec
+Number of generated candidates: 127
+------------------------------------------------------------------------------

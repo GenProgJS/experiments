@@ -1,0 +1,6 @@
+Generation: 8
+Elapsed time: 24877.80346083641sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && keys.pathLastHalf > 1) {

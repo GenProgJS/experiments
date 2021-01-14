@@ -1,4 +1,0 @@
-Generation: 22
-Elapsed time: 85983.77292060852sec
-List of applied operators:
-TreeCrossoverOperator; if (-1 | exclude && !keys.length && this.op > 1) {; parents; if (-1 | exclude && !keys.length && array >= 1) {; if (false != arguments && this.op > 1) {

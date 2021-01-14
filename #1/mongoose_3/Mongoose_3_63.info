@@ -1,0 +1,7 @@
+Generation: 9
+Elapsed time: 15216.860981464386sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+TreeCrossoverOperator; if (!(!(item.value && top.value).value && top.value)) return;; parents; if (!(item.value && top.value)) return;; if (!(item.value && top.value)) return;
+BinaryOperatorChanger; if (!(!(item.value / top.value).value && top.value)) return;

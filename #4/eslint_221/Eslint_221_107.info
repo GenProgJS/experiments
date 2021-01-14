@@ -1,0 +1,10 @@
+Generation: 9
+Elapsed time: 24724.351160287857sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+VarChangerOperator; return parent.static && arrayOrTypedArrayPattern.test;
+ExprReplacerOperator; return parent.static && comment.value;
+ExprReplacerOperator; return parent.static && parent.type;
+VarChangerOperator; return parent.isES5Constructor && parent.type;

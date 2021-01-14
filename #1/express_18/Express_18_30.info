@@ -1,0 +1,8 @@
+Generation: 8
+Elapsed time: 4377.928158998489sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+ConditionalBinaryOperatorChanger; if (paramCalled && (paramCalled.error || paramCalled.match == paramVal)) {
+NullCheckOperator; if (paramCalled && (paramCalled.error || paramCalled.match && paramCalled.match == paramVal)) {
+VarChangerOperator; if (paramCalled && (gettype.error || paramCalled.match && paramCalled.match == paramVal)) {

@@ -1,0 +1,6 @@
+Generation: 8
+Elapsed time: 14258.537568092346sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+TreeCrossoverOperator; return parent.jsdocComment && parent().right.loc.start();; parents; return parent.static && jsdocComment.getVariableByName();; return parent.static && parent().right.loc.start();

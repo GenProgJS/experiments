@@ -1,0 +1,7 @@
+Generation: 11
+Elapsed time: 7137.528260707855sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(baseDirFromPattern, '') || '/';
+BinaryOperatorChanger; return pattern.replace(baseDirFromPattern, '') ** '/';

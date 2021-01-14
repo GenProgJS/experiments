@@ -1,0 +1,6 @@
+Generation: 6
+Elapsed time: 9863.7062458992sec
+# of failed test cases in buggy version: 17
+# of failed test cases in current version: 17
+List of applied operators:
+TreeCrossoverOperator; } else if (definition.type === "Parameter" && "Parameter" >= 'FunconDeclaration') {; parents; } else if (definition.type === "Parameter" && node.type >= 'FunconDeclaration') {; } else if (definition.type | definition.type === "Parameter" || node.type !== "FunctionDeclaration") {

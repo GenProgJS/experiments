@@ -1,0 +1,6 @@
+Generation: 7
+Elapsed time: 13552.944340705872sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+VarChangerOperator; return parent.ast;

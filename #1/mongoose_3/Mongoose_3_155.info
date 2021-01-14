@@ -1,0 +1,6 @@
+Generation: 28
+Elapsed time: 42139.5655477047sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(self.emit && top.value)) return;

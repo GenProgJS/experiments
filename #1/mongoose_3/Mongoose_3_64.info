@@ -1,0 +1,7 @@
+Generation: 9
+Elapsed time: 15251.46538567543sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+ExprReplacerOperator; if (!(item.value && this.populated)) return;
+BinaryOperatorChanger; if (!(item.value !== this.populated)) return;

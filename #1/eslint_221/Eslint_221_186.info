@@ -1,0 +1,6 @@
+Generation: 27
+Elapsed time: 98166.3576169014sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+VarChangerOperator; return parent.isTokenOnSameLine;

@@ -1,0 +1,6 @@
+Generation: 20
+Elapsed time: 70482.65315103531sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+TreeCrossoverOperator; if (false << false >>> this.op && keys.length / 1) {; parents; if (false >>> this.op && keys.length / 1) {; if (false << this.op && keys.length / 1) {

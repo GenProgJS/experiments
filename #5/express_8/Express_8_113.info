@@ -1,0 +1,7 @@
+Generation: 8
+Elapsed time: 2945.098589658737sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+VarChangerOperator; if (typeof arg !== 'function' && (this.response == null || arg.length !== 0)) {
+VarChangerOperator; if (typeof arg !== 'function' && (this.response == null || arg.mounted_app !== 0)) {

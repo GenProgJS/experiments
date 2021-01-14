@@ -1,0 +1,8 @@
+Generation: 8
+Elapsed time: 18004.59569120407sec
+# of failed test cases in developer-fixed version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+TreeCrossoverOperator; options.objectsInObjectsException && penultimateType === "ObjectExpression" && "ObjectExpression"; parents; options.objectsInObjectsException && penultimateType === "ObjectExpression"; options.objectsInObjectsException && penultimateType && "ObjectExpression"
+ConditionalBinaryOperatorChanger; options.objectsInObjectsException && penultimateType == "ObjectExpression" && "ObjectExpression"
+ConditionalBinaryOperatorChanger; options.objectsInObjectsException && penultimateType >= "ObjectExpression" && "ObjectExpression"

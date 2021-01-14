@@ -1,0 +1,6 @@
+Generation: 7
+Elapsed time: 12603.54644870758sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(self.try && top.value)) return;

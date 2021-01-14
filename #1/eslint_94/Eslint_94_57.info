@@ -1,0 +1,16 @@
+Generation: 23
+Elapsed time: 87789.53434538841sec
+# of failed test cases in buggy version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+NullCheckOperator; op && op.type === "Punctuator" &&
+NullCheckOperator; op && op && op.type === "Punctuator" &&
+NullCheckOperator; op && op && op.type && op.type === "Punctuator" &&
+NullCheckOperator; op && op && op && op.type && op.type === "Punctuator" &&
+ExprReplacerOperator; op && op && op && op.type && op && op.type && op.type === "Punctuator" &&
+BinaryOperatorChanger; op >= op && op && op.type && op && op.type && op.type === "Punctuator" &&
+BinaryOperatorChanger; op >= op != op && op.type && op && op.type && op.type === "Punctuator" &&
+BinaryOperatorChanger; op >= op != op - op.type && op && op.type && op.type === "Punctuator" &&
+ArithmeticBinaryOperatorChanger; op >= op != op / op.type && op && op.type && op.type === "Punctuator" &&
+ArithmeticBinaryOperatorChanger; op >= op != op + op.type && op && op.type && op.type === "Punctuator" &&
+ExprReplacerOperator; op >= op != op + op.type && op && op.type &&

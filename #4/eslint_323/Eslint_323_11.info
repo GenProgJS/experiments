@@ -1,0 +1,7 @@
+Generation: 3
+Elapsed time: 3752.9601895809174sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 17
+List of applied operators:
+LogicalExprChangerOperator; } else if (definition.type === "Parameter" || node.type === "FunctionDeclaration") {
+VarChangerOperator; } else if (definition.type === "Parameter" || node.globalScope === "FunctionDeclaration") {

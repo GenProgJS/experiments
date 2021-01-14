@@ -1,0 +1,11 @@
+Generation: 11
+Elapsed time: 6753.738859176636sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar, '') || '/';
+NullCheckOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar && chokidar, '') || '/';
+VarChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar && log.debug, '') || '/';
+LogicalExprChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar || log.debug, '') || '/';
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar << log.debug, '') || '/';
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, chokidar << log.debug, '') ** '/';

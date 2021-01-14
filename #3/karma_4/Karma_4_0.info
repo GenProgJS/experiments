@@ -1,0 +1,10 @@
+Generation: 7
+Elapsed time: 7917.836833238602sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+ExprReplacerOperator; if (file && (msg || '').replace) {
+FunctionMakerOperator; if (file && (msg || '').replace()) {
+NumberChangerOperator; if (file && (msg || 1).replace()) {
+ExprReplacerOperator; if (file && (line || '0').replace()) {
+StringChangerOperator; if (file && (line || '').replace()) {

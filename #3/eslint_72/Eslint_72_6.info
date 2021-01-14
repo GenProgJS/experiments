@@ -1,0 +1,16 @@
+Generation: 20
+Elapsed time: 71030.5095000267sec
+# of failed test cases in buggy version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+NullCheckOperator; loc: lastItem.loc.end && lastItem.loc.end,
+LogicalExprChangerOperator; loc: lastItem.loc.end || lastItem.loc.end,
+ExprReplacerOperator; loc: lastItem.loc.end || trailingToken.loc.end,
+NullCheckOperator; loc: lastItem.loc.end || !trailingToken && trailingToken.loc.end,
+FunctionMakerOperator; loc: lastItem.loc.end || !trailingToken && trailingToken.loc().end,
+CallChangerOperator; loc: lastItem.loc.end || !trailingToken && trailingToken.trailingToken.loc.start().end,
+CallChangerOperator; loc: lastItem.loc.end || !trailingToken && trailingToken.trailingToken.loc.node.elements().end,
+BinaryOperatorChanger; loc: lastItem.loc.end || !trailingToken <= trailingToken.trailingToken.loc.node.elements().end,
+CallChangerOperator; loc: lastItem.loc.end || !trailingToken <= trailingToken.trailingToken.context.options[0].node.elements().end,
+ArraySubscripterOperator; loc: lastItem.loc.end || !trailingToken <= trailingToken.trailingToken.context.options[0 >= 0 ? 0 < trailingToken.trailingToken.context.options.length ? 0 : trailingToken.trailingToken.context.options.length - 1 : 0].node.elements().end,
+ExprReplacerOperator; loc: penultimateToken.loc.end || !trailingToken <= trailingToken.trailingToken.context.options[0 >= 0 ? 0 < trailingToken.trailingToken.context.options.length ? 0 : trailingToken.trailingToken.context.options.length - 1 : 0].node.elements().end,

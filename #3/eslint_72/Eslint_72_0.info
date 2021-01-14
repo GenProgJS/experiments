@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 2575.016232252121sec
+# of failed test cases in buggy version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+VarChangerOperator; loc: penultimateToken.loc.end,

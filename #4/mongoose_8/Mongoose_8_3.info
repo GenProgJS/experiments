@@ -1,0 +1,7 @@
+Generation: 2
+Elapsed time: 21566.8507874012sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; this.constructor.update.apply(this.validation, args);
+ReturnInsertOperator; return this.constructor.update.apply(this.validation, args);

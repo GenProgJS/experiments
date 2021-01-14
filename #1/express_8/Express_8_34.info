@@ -1,0 +1,6 @@
+Generation: 2
+Elapsed time: 1359.7429807186127sec
+# of failed test cases in buggy version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+ExprReplacerOperator; if (typeof arg !== 'function' && (arg == null || this.get !== 0)) {

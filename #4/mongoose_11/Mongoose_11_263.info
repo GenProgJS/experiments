@@ -1,0 +1,11 @@
+Generation: 9
+Elapsed time: 38452.02162146568sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && ascend.length > 1) {
+BinaryOperatorChanger; if (false >= exclude && ascend.length > 1) {
+BinaryOperatorChanger; if (false - exclude && ascend.length > 1) {
+BinaryOperatorChanger; if (false < exclude && ascend.length > 1) {
+BinaryOperatorChanger; if (false < exclude && ascend.length * 1) {
+BinaryOperatorChanger; if (false / exclude && ascend.length * 1) {

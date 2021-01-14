@@ -1,0 +1,10 @@
+Generation: 16
+Elapsed time: 6029.818167448044sec
+# of failed test cases in buggy version: 8
+# of failed test cases in current version: 8
+List of applied operators:
+NullCheckOperator; if (!trust(this.connection && this.connection.remoteAddress)) {
+BinaryOperatorChanger; if (!trust(this.connection * this.connection.remoteAddress)) {
+BinaryOperatorChanger; if (!trust(this.connection + this.connection.remoteAddress)) {
+CallChangerOperator; if (!trust('ips' + this.connection.remoteAddress)) {
+CallChangerOperator; if (!trust('ips' + this.connection.remoteAddress, 0)) {

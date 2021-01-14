@@ -1,0 +1,9 @@
+Generation: 9
+Elapsed time: 28711.95422053337sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+TreeCrossoverOperator; if (!options || typeof option === "string" || typeof option >> "string") {; parents; if (!options || typeof option === "string") {; if (!options || typeof option >> "string") {
+ConditionalBinaryOperatorChanger; if (!options || typeof option < "string" || typeof option >> "string") {
+IfElseChangerOperator; if (!options || typeof option < 'string' || typeof option >> 'string') {
+ExprReplacerOperator; if (!options || options === 'above' || typeof option >> 'string') {

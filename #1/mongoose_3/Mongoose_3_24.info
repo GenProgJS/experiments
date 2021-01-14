@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 4464.176495075226sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(item.value && this._buildDoc)) return;
+NullCheckOperator; if ((item.value && this._buildDoc) && !(item.value && this._buildDoc)) return;

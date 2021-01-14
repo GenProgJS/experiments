@@ -1,4 +1,0 @@
-Generation: 27
-Elapsed time: 110414.7177746296sec
-List of applied operators:
-TreeCrossoverOperator; i &&; parents; OPERATORS.indexOf(tokens[i + 1].range) && OPERATORS.indexOf() !== 0 &&; OPERATORS.indexOf(tokens[i - 1].range[1], op.value) && OPERATORS.indexOf(op.value) >= 2 &&

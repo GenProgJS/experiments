@@ -1,0 +1,6 @@
+Generation: 8
+Elapsed time: 14631.789467096329sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+VarChangerOperator; if (!(item.value && Document.prototype.isSelected)) return;

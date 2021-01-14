@@ -1,0 +1,8 @@
+Generation: 13
+Elapsed time: 20705.206231355667sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(item._set && top.value)) return;
+ConditionalChangerOperator; if (item._set && top.value) return;
+ExprReplacerOperator; if (item._set && this.$__.activePaths.states.default) return;

@@ -1,0 +1,7 @@
+Generation: 3
+Elapsed time: 19314.53185391426sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+ExprReplacerOperator; if (top.value._atomics && require('./schematype')) {
+NullCheckOperator; if (top.value._atomics && require && require('./schematype')) {

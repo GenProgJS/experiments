@@ -1,0 +1,7 @@
+Generation: 8
+Elapsed time: 4975.375270605087sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+TreeCrossoverOperator; column: blankCounter; parents; column: 1; blankCounter: 1
+NullCheckOperator; column: !blankCounter && blankCounter

@@ -1,0 +1,8 @@
+Generation: 7
+Elapsed time: 3331.711935520172sec
+# of failed test cases in buggy version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+ExprReplacerOperator; if (paramCalled && (paramCalled.error || paramCalled.value === paramVal)) {
+ConditionalBinaryOperatorChanger; if (paramCalled && (paramCalled.error || paramCalled.value == paramVal)) {
+ConditionalChangerOperator; if (paramCalled && paramCalled.value == paramVal) {

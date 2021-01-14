@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 10947.270474433899sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if ('number' === typeof path && keys.length > 1) {
+NullCheckOperator; if ('number' === typeof path && path && keys.length > 1) {

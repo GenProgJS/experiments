@@ -1,0 +1,10 @@
+Generation: 18
+Elapsed time: 84836.73791265488sec
+# of failed test cases in buggy version: 44
+# of failed test cases in current version: 44
+List of applied operators:
+ExprReplacerOperator; if (that._options.save || Project.prototype.hasJson) {
+BinaryOperatorChanger; if (that._options.save << Project.prototype.hasJson) {
+BinaryOperatorChanger; if (that._options.save | Project.prototype.hasJson) {
+ExprReplacerOperator; if (that._options.save | this._restoreNode) {
+VarChangerOperator; if (hasJson | this._restoreNode) {

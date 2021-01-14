@@ -1,0 +1,10 @@
+Generation: 18
+Elapsed time: 60837.809029102325sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+BinaryOperatorChanger; if (false === exclude && keys.length - 1) {
+ExprReplacerOperator; if (false === exclude && 'Invalid sort value: {' + field + ': ') {
+BinaryOperatorChanger; if (false === exclude && 'Invalid sort value: {' << field + ': ') {
+BinaryOperatorChanger; if (false === exclude && 'Invalid sort value: {' << field >>> ': ') {
+NullCheckOperator; if (false === exclude && exclude && 'Invalid sort value: {' << field >>> ': ') {

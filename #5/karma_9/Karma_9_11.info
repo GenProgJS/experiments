@@ -1,0 +1,8 @@
+Generation: 6
+Elapsed time: 3317.169183254242sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+CallChangerOperator; return pattern.replace(createIgnore, '') || '/';
+CallChangerOperator; return pattern.replace(pattern.replace, '') || '/';
+BinaryOperatorChanger; return pattern.replace(/\/[^\/]*[\*\(].*$/, 'fileList') ** '/';

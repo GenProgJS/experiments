@@ -1,0 +1,16 @@
+Generation: 24
+Elapsed time: 80471.75594162941sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 3
+List of applied operators:
+NullCheckOperator; if (!top.value._atomics && top.value._atomics && top.value.hasAtomics()) {
+FunctionCallRemoverOperator; if (!top.value._atomics && top.value._atomics && top.value.hasAtomics) {
+VarChangerOperator; if (!utils.getValue._atomics && top.value._atomics && top.value.hasAtomics) {
+BinaryOperatorChanger; if (!utils.getValue._atomics & top.value._atomics && top.value.hasAtomics) {
+BinaryOperatorChanger; if (!utils.getValue._atomics & top.value._atomics - top.value.hasAtomics) {
+ExprReplacerOperator; if (!Object.create & top.value._atomics - top.value.hasAtomics) {
+ArithmeticBinaryOperatorChanger; if (!Object.create & top.value._atomics * top.value.hasAtomics) {
+BitwiseBinaryOperatorChanger; if (!Object.create ^ top.value._atomics * top.value.hasAtomics) {
+ArithmeticBinaryOperatorChanger; if (!Object.create ^ top.value._atomics + top.value.hasAtomics) {
+ArithmeticBinaryOperatorChanger; if (!Object.create ^ top.value._atomics % top.value.hasAtomics) {
+BinaryOperatorChanger; if (!Object.create ^ top.value._atomics != top.value.hasAtomics) {

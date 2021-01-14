@@ -1,0 +1,6 @@
+Generation: 3
+Elapsed time: 8227.521429300308sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ExprReplacerOperator; if (false === exclude && 'distinct' == this.op) {

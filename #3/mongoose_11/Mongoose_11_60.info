@@ -1,0 +1,7 @@
+Generation: 2
+Elapsed time: 20527.97034573555sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+ConditionalChangerOperator; if (false === exclude) {
+VarChangerOperator; if (false === Query.prototype._applyPaths) {

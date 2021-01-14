@@ -1,0 +1,6 @@
+Generation: 3
+Elapsed time: 1133.7944712638855sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+VarChangerOperator; if (typeof arg !== 'function' && (self._router == null || arg.length !== 0)) {

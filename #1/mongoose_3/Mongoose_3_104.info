@@ -1,0 +1,7 @@
+Generation: 16
+Elapsed time: 25454.516565084457sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(Document.prototype._shouldModify.value && top.value)) return;
+LogicalExprChangerOperator; if (!(Document.prototype._shouldModify.value || top.value)) return;

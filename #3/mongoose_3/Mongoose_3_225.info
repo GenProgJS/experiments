@@ -1,0 +1,20 @@
+Generation: 28
+Elapsed time: 93471.29336619377sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+FunctionCallRemoverOperator; if (top.value._atomics && top.value.hasAtomics) {
+BinaryOperatorChanger; if (top.value._atomics & top.value.hasAtomics) {
+NullCheckOperator; if (!top.value._atomics && top.value._atomics & top.value.hasAtomics) {
+BinaryOperatorChanger; if (!top.value._atomics && top.value._atomics / top.value.hasAtomics) {
+FunctionMakerOperator; if (!top.value._atomics && top.value._atomics() / top.value.hasAtomics) {
+ArithmeticBinaryOperatorChanger; if (!top.value._atomics && top.value._atomics() % top.value.hasAtomics) {
+CallChangerOperator; if (!top.value._atomics && top.Object.keys(this.$__.activePaths.states.require).filter._atomics() % top.value.hasAtomics) {
+ArithmeticBinaryOperatorChanger; if (!top.value._atomics && top.Object.keys(this.$__.activePaths.states.require).filter._atomics() * top.value.hasAtomics) {
+CallChangerOperator; if (!top.value._atomics && top.Object.keys(this.$__.activePaths.states.init).filter._atomics() * top.value.hasAtomics) {
+ArithmeticBinaryOperatorChanger; if (!top.value._atomics && top.Object.keys(this.$__.activePaths.states.init).filter._atomics() % top.value.hasAtomics) {
+ArithmeticBinaryOperatorChanger; if (!top.value._atomics && top.Object.keys(this.$__.activePaths.states.init).filter._atomics() + top.value.hasAtomics) {
+CallChangerOperator; if (!top.value._atomics && top.Document.prototype.get.keys(this.$__.activePaths.states.init).filter._atomics() + top.value.hasAtomics) {
+ArithmeticBinaryOperatorChanger; if (!top.value._atomics && top.Document.prototype.get.keys(this.$__.activePaths.states.init).filter._atomics() % top.value.hasAtomics) {
+ExprReplacerOperator; if (!top.value._atomics && Array.isArray.keys(this.$__.activePaths.states.init).filter._atomics() % top.value.hasAtomics) {
+ConditionalChangerOperator; if (!(!top.value._atomics && Array.isArray.keys(this.$__.activePaths.states.init).filter._atomics() % top.value.hasAtomics)) {

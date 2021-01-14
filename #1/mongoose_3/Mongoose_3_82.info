@@ -1,0 +1,6 @@
+Generation: 12
+Elapsed time: 19229.277353048325sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+VarChangerOperator; if (!(Document.prototype.update && top.value)) return;

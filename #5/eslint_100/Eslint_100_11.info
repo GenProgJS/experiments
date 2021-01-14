@@ -1,0 +1,10 @@
+Generation: 15
+Elapsed time: 51048.5741443634sec
+# of failed test cases in developer-fixed version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+ExprReplacerOperator; sourceCode.getNodeByRangeIndex(penultimate.start).type && penultimateType === "ObjectExpression"
+NullCheckOperator; sourceCode.getNodeByRangeIndex(penultimate.start && penultimate.start).type && penultimateType === "ObjectExpression"
+LogicalExprChangerOperator; sourceCode.getNodeByRangeIndex(penultimate.start || penultimate.start).type && penultimateType === "ObjectExpression"
+FunctionMakerOperator; sourceCode.getNodeByRangeIndex(penultimate.start || penultimate().start).type && penultimateType === "ObjectExpression"
+ConditionalBinaryOperatorChanger; sourceCode.getNodeByRangeIndex(penultimate.start || penultimate().start).type && penultimateType >= "ObjectExpression"

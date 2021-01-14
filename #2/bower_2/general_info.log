@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 3997.1717100143433 seconds to produce the 1th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3140.8263399600983 seconds to produce the 2th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5056.791495084763 seconds to produce the 3th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5044.598921775818 seconds to produce the 4th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5198.960870742798 seconds to produce the 5th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5103.626395225525 seconds to produce the 6th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save >>> that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3405.8525676727295 seconds to produce the 7th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save >>> that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3913.1207506656647 seconds to produce the 8th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save !== decEndpoints.forEach.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4767.406177282333 seconds to produce the 9th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4037.1388487815857 seconds to produce the 10th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.install || that.compatible().saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2708.6748230457306 seconds to produce the 11th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.install + that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4907.815939426422 seconds to produce the 12th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save != that._options.saveDev) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6495.086152553558 seconds to produce the 13th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save | this._restoreNode) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5245.874953985214 seconds to produce the 14th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.install || that._json) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4412.886902332306 seconds to produce the 15th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save !== module.exports.hasJson) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3140.127195596695 seconds to produce the 16th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || module.exports.hasJson) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3380.48033952713 seconds to produce the 17th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.install >= that._json) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6006.3930106163025 seconds to produce the 18th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || Q.reject) {
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6968.962823629379 seconds to produce the 19th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save != that._config) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3290.0441875457764 seconds to produce the 20th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save !== decEndpoints.forEach.saveDev) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5493.037004947662 seconds to produce the 21th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || Q.reject) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4654.097389698029 seconds to produce the 22th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save || this._restoreNode) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4212.5389568805695 seconds to produce the 23th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._bootstrap(targets)
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5203.140702486038 seconds to produce the 24th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save << that._config) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4995.553109169006 seconds to produce the 25th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.update || that.jsonCopy().saveDev) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3760.0121817588806 seconds to produce the 26th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.install || mout.decEndpoints[name].equals._source().saveDev) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4369.661864995956 seconds to produce the 27th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._working.save + Project.prototype) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4587.997510433197 seconds to produce the 28th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (that._options.save != this._restoreNode) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5849.878422260284 seconds to produce the 29th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.install || that.pkgMeta.node.dependencies[key < 0 || key >= that.pkgMeta.node.dependencies.length ? Math.floor(Math.random() * that.pkgMeta.node.dependencies.length) : key]().saveDev) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5634.66844534874 seconds to produce the 30th generation.
+Best fitness: 809.0
+Worst fitness: 809.0
+Mean fitness: 809.0
+Population size: 20
+"Best" modification so far: if (Project.prototype.install || that.pkgMeta.node.dependencies[key < 0 || key >= that.pkgMeta.node.dependencies.length ? Math.floor(Math.random() + that.pkgMeta.node.dependencies.length) : key]().saveDev) {
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Bower
+Bug-ID: 2
+Total elapsed time: 139039.88581323624 sec
+Number of generated candidates: 2
+------------------------------------------------------------------------------

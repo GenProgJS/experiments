@@ -1,0 +1,13 @@
+Generation: 19
+Elapsed time: 46547.01748728752sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+BinaryOperatorChanger; if (!options | typeof option === "string") {
+BinaryOperatorChanger; if (!options | typeof option && "string") {
+StringChangerOperator; if (!options | typeof option && 'string') {
+BinaryOperatorChanger; if (!options | typeof option * 'string') {
+BinaryOperatorChanger; if (!options | typeof option / 'string') {
+ArithmeticBinaryOperatorChanger; if (!options | typeof option % 'string') {
+BinaryOperatorChanger; if (!options | typeof option == 'string') {
+VarChangerOperator; if (!options | typeof options == 'string') {

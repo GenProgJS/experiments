@@ -1,0 +1,7 @@
+Generation: 3
+Elapsed time: 4796.690177202225sec
+# of failed test cases in buggy version: 17
+# of failed test cases in current version: 17
+List of applied operators:
+BinaryOperatorChanger; } else if (definition.type === "Parameter" | node.type === "FunctionDeclaration") {
+ExprReplacerOperator; } else if (definition.type === "Parameter" | variable.eslintExplicitGlobalComment === "FunctionDeclaration") {

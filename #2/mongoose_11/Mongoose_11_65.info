@@ -1,0 +1,8 @@
+Generation: 7
+Elapsed time: 19383.712646722794sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+BinaryOperatorChanger; if (false === exclude && keys.length - 1) {
+BinaryOperatorChanger; if (false > exclude && keys.length - 1) {
+ExprReplacerOperator; if (false > exclude && model.schema.options - 1) {

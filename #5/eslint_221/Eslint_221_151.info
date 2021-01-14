@@ -1,0 +1,13 @@
+Generation: 21
+Elapsed time: 47240.86463475227sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+VarChangerOperator; return parent.static && getComments.static;
+FunctionMakerOperator; return parent.static && getComments().static;
+CallChangerOperator; return parent.static && getComments(arrayOrTypedArrayPattern.test).static;
+CallChangerOperator; return parent.static && getComments(scope.set).static;
+CallChangerOperator; return parent.static && getComments("eslint-").static;
+CallChangerOperator; return parent.static && getComments(2).static;
+ExprReplacerOperator; return node.operator && getComments(2).static;

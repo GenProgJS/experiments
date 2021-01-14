@@ -1,0 +1,8 @@
+Generation: 4
+Elapsed time: 23991.91351366043sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 4
+List of applied operators:
+FunctionCallRemoverOperator; if (top.value._atomics && top.value.hasAtomics) {
+LogicalExprChangerOperator; if (top.value._atomics || top.value.hasAtomics) {
+VarChangerOperator; if (top.value._atomics || top.handleSave.hasAtomics) {

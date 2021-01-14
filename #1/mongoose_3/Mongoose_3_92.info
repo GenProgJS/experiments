@@ -1,0 +1,6 @@
+Generation: 13
+Elapsed time: 20809.937258005142sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(Document.ValidationError && top.value)) return;

@@ -1,0 +1,15 @@
+Generation: 29
+Elapsed time: 144680.36477088928sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+VarChangerOperator; if (false === exclude && this._conditions.$or > 1) {
+NullCheckOperator; if (false === exclude && !this._conditions.$or && this._conditions.$or > 1) {
+FunctionMakerOperator; if (false === exclude && !this._conditions.$or() && this._conditions.$or > 1) {
+NullCheckOperator; if (false === exclude && !this._conditions.$or() && !this._conditions.$or() && this._conditions.$or > 1) {
+NullCheckOperator; if (false === exclude && !this._conditions && _conditions.$or() && !this._conditions.$or() && this._conditions.$or > 1) {
+FunctionMakerOperator; if (false === exclude && !this._conditions() && _conditions.$or() && !this._conditions.$or() && this._conditions.$or > 1) {
+ExprReplacerOperator; if (false === exclude && !this._conditions() && _conditions.$or() && !this._walkUpdatePath(val, op) && this._conditions.$or > 1) {
+CallChangerOperator; if (false === exclude && !this.this.cast() && _conditions.$or() && !this._walkUpdatePath(val, op) && this._conditions.$or > 1) {
+BinaryOperatorChanger; if (false * exclude && !this.this.cast() && _conditions.$or() && !this._walkUpdatePath(val, op) && this._conditions.$or > 1) {
+CallChangerOperator; if (false * exclude && !this.cast() && _conditions.$or() && !this._walkUpdatePath(val, op) && this._conditions.$or > 1) {

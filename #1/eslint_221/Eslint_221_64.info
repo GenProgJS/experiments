@@ -1,0 +1,8 @@
+Generation: 7
+Elapsed time: 12115.772057533264sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+NullCheckOperator; return parent.static && parent.static;
+VarChangerOperator; return parent.static && left.loc.end;
+ExprReplacerOperator; return parent.static && sourceCode.getComments(node).leading.end;

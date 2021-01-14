@@ -1,0 +1,6 @@
+Generation: 14
+Elapsed time: 10190.103968381882sec
+# of failed test cases in buggy version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+VarChangerOperator; if (typeof arg !== 'function' && (arg == null || arg.view !== 0)) {

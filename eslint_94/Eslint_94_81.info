@@ -1,9 +1,0 @@
-Generation: 7
-Elapsed time: 26871.635443925858sec
-List of applied operators:
-ConditionalTypeChangerOperator; op.type > "Punctuator" &&
-ExprReplacerOperator; OPERATORS.indexOf(op.value) >= 0 &&
-NumberChangerOperator; OPERATORS.indexOf(op.value) >= -1 &&
-CallChangerOperator; OPERATORS.indexOf(checkConditional) >= -1 &&
-ConditionalTypeChangerOperator; OPERATORS.indexOf(checkConditional) == -1 &&
-VarChangerOperator; tokens[i - 1].range[1] >= checkConditional || tokens[i + 1].range[0] >= tokens[i + 1].range[0] &&

@@ -1,0 +1,6 @@
+Generation: 4
+Elapsed time: 6368.097235441208sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+VarChangerOperator; return isMethodWhichHasThisArg.static;

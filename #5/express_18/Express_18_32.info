@@ -1,0 +1,6 @@
+Generation: 8
+Elapsed time: 3710.019917011261sec
+# of failed test cases in developer-fixed version: 7
+# of failed test cases in current version: 7
+List of applied operators:
+ConditionalChangerOperator; if (paramCalled && paramCalled.match === paramVal) {

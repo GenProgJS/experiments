@@ -1,0 +1,6 @@
+Generation: 3
+Elapsed time: 1793.2998552322388sec
+# of failed test cases in developer-fixed version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+StringChangerOperator; return pattern.replace(/\/[^\/]*[\*\(].*$/, '') || '';

@@ -1,0 +1,277 @@
+---------------------------------- Statistics ----------------------------------
+It took 541.6079847812653 seconds to produce the 1th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: column: 1
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 162.8233609199524 seconds to produce the 2th generation.
+Best fitness: 12989.0
+Worst fitness: 13142.0
+Mean fitness: 12996.65
+Population size: 20
+"Best" modification so far: column: 1
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 651.826069355011 seconds to produce the 3th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: column: 1
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 382.6487965583801 seconds to produce the 4th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: i: 0
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 652.064525604248 seconds to produce the 5th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: column: 1
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 430.543497800827 seconds to produce the 6th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: column: 1
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 783.3853490352631 seconds to produce the 7th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: -1
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1089.9014637470245 seconds to produce the 8th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: column: 1
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1403.4622614383698 seconds to produce the 9th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: currentLocation: 1
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1607.7144527435303 seconds to produce the 10th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: fixable: 1
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2935.274783849716 seconds to produce the 11th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: column: 1
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3613.381062746048 seconds to produce the 12th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines - 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() + trimmedLines.length) : firstOfEndingBlankLines - 1] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 2922.5312514305115 seconds to produce the 13th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines * 1] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3211.561728954315 seconds to produce the 14th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines - 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() - trimmedLines.length) : firstOfEndingBlankLines * 1] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4929.958832740784 seconds to produce the 15th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines ** 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() + trimmedLines.length) : firstOfEndingBlankLines - 1 % trimmedLines.length] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 6190.494677305222 seconds to produce the 16th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: !-1 === -1
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4852.814249277115 seconds to produce the 17th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines - 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() + trimmedLines.length) : firstOfEndingBlankLines - 1] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4971.113911628723 seconds to produce the 18th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines * 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() + trimmedLines.length) : firstOfEndingBlankLines - 1] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5432.50580239296 seconds to produce the 19th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines - 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() * trimmedLines.length) : firstOfEndingBlankLines % 1 % trimmedLines.length] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5729.461710929871 seconds to produce the 20th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines - 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() * trimmedLines.length) : firstOfEndingBlankLines % 1 % trimmedLines.length] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5311.986198186874 seconds to produce the 21th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines / 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() + trimmedLines.length) : firstOfEndingBlankLines - 1] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4867.414709806442 seconds to produce the 22th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines - 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() - trimmedLines.length) : firstOfEndingBlankLines * 1] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4804.0556218624115 seconds to produce the 23th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines * 1 < 0 || firstOfEndingBlankLines * 1 >= trimmedLines.length ? Math.floor(Math.random() - trimmedLines.length) : firstOfEndingBlankLines - 1 % trimmedLines.length < 0 || firstOfEndingBlankLines * 1 < 0 || firstOfEndingBlankLines * 1 >= trimmedLines.length ? Math.floor(Math.random() - trimmedLines.length) : firstOfEndingBlankLines - 1 % trimmedLines.length >= trimmedLines.length ? Math.floor(Math.random() * trimmedLines.length) : firstOfEndingBlankLines * 1 < 0 || firstOfEndingBlankLines * 1 >= trimmedLines.length ? Math.floor(Math.random() - trimmedLines.length) : firstOfEndingBlankLines - 1 % trimmedLines.length] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4267.626365661621 seconds to produce the 24th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines / 1 < 0 || firstOfEndingBlankLines * 1 >= trimmedLines.length ? Math.floor(Math.random() ** trimmedLines.length) : firstOfEndingBlankLines - 1 % trimmedLines.length >= 0 ? firstOfEndingBlankLines / 1 < 0 || firstOfEndingBlankLines * 1 >= trimmedLines.length ? Math.floor(Math.random() ** trimmedLines.length) : firstOfEndingBlankLines - 1 % trimmedLines.length < trimmedLines.length ? firstOfEndingBlankLines / 1 < 0 || firstOfEndingBlankLines * 1 >= trimmedLines.length ? Math.floor(Math.random() ** trimmedLines.length) : firstOfEndingBlankLines - 1 % trimmedLines.length : trimmedLines.length - 1 : 0] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 3878.9766087532043 seconds to produce the 25th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines / 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() + trimmedLines.length) : firstOfEndingBlankLines - 1 < 0 || firstOfEndingBlankLines / 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() + trimmedLines.length) : firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() * trimmedLines.length) : firstOfEndingBlankLines / 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() + trimmedLines.length) : firstOfEndingBlankLines - 1] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5231.994795560837 seconds to produce the 26th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines - 1 < 0 || firstOfEndingBlankLines + 1 >= trimmedLines.length ? Math.floor(Math.random() + trimmedLines.length) : firstOfEndingBlankLines * 1 % trimmedLines.length] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5170.726597547531 seconds to produce the 27th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines - 1 < 0 || firstOfEndingBlankLines + 1 >= trimmedLines.length ? Math.floor(Math.random() * trimmedLines.length) : firstOfEndingBlankLines * 1 % trimmedLines.length] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 5122.551336050034 seconds to produce the 28th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines / 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() + trimmedLines.length) : firstOfEndingBlankLines - 1 < 0 || firstOfEndingBlankLines / 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() + trimmedLines.length) : firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() * trimmedLines.length) : firstOfEndingBlankLines / 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() + trimmedLines.length) : firstOfEndingBlankLines - 1] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4474.640958547592 seconds to produce the 29th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines / 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() + trimmedLines.length) : firstOfEndingBlankLines - 1 < 0 || firstOfEndingBlankLines ** 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() + trimmedLines.length) : firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() * trimmedLines.length) : firstOfEndingBlankLines / 1 < 0 || firstOfEndingBlankLines - 1 >= trimmedLines.length ? Math.floor(Math.random() + trimmedLines.length) : firstOfEndingBlankLines - 1] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 4276.702908277512 seconds to produce the 30th generation.
+Best fitness: 12989.0
+Worst fitness: 12989.0
+Mean fitness: 12989.0
+Population size: 20
+"Best" modification so far: type: trimmedLines[firstOfEndingBlankLines / 1 < 0 || firstOfEndingBlankLines * 1 >= trimmedLines.length ? Math.floor(Math.random() ** trimmedLines.length) : firstOfEndingBlankLines - 1 % trimmedLines.length >= 0 ? firstOfEndingBlankLines / 1 < 0 || firstOfEndingBlankLines * 1 >= trimmedLines.length ? Math.floor(Math.random() ** trimmedLines.length) : firstOfEndingBlankLines - 1 % trimmedLines.length < trimmedLines.length ? firstOfEndingBlankLines / 1 < 0 || firstOfEndingBlankLines * 1 >= trimmedLines.length ? Math.floor(Math.random() ** trimmedLines.length) : firstOfEndingBlankLines - 1 % trimmedLines.length : trimmedLines.length - 1 : 0 % trimmedLines.length] === ""
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Eslint
+Bug-ID: 47
+Total elapsed time: 99968.51071882248 sec
+Number of generated candidates: 1
+------------------------------------------------------------------------------

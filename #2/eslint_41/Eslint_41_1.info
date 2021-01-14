@@ -1,0 +1,13 @@
+Generation: 24
+Elapsed time: 63627.809542655945sec
+# of failed test cases in buggy version: 62
+# of failed test cases in current version: 62
+List of applied operators:
+NullCheckOperator; (end.line > lineNumber || end.column && end.column === line.length);
+NullCheckOperator; (end.line > lineNumber || end.column && end.column && end.column === line.length);
+VarChangerOperator; (end.line > lineNumber || stripTrailingComment && end.column && end.column === line.length);
+NullCheckOperator; (end.line > lineNumber || stripTrailingComment && end.column && end.column === line.length && line.length);
+BinaryOperatorChanger; (end.line > lineNumber || stripTrailingComment !== end.column && end.column === line.length && line.length);
+ConditionalBinaryOperatorChanger; (end.line > lineNumber || stripTrailingComment !== end.column && end.column == line.length && line.length);
+BinaryOperatorChanger; (end.line > lineNumber || stripTrailingComment != end.column && end.column == line.length && line.length);
+ExprReplacerOperator; (end.line > lineNumber || lineNumber <= comment.loc.end.line && end.column == line.length && line.length);

@@ -1,0 +1,6 @@
+Generation: 21
+Elapsed time: 63366.57617998123sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+TreeCrossoverOperator; return node.id && scope.set.get;; parents; return parent.static && func(node.id.name[0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length - 1 : 0 < 0 || 0 >= 0 ? 0 < node.id.name.length ? 0 : node.id.name.length ** 1 : 0 >= node.id.name.length ? Math.floor(Math.random() * node.id.name.length) : 0 === 0 ? 0 < node.id.name.length ? 0 : node.id.name.length / 1 : 0 * node.id.name.length]).parent;; return parent.static && scope.set.get;

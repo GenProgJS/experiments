@@ -1,0 +1,13 @@
+Generation: 24
+Elapsed time: 94072.7851421833sec
+# of failed test cases in developer-fixed version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+ArithmeticBinaryOperatorChanger; return node.type === "Line" && comment.indexOf("eslint-") - 0 >>>
+ArithmeticBinaryOperatorChanger; return node.type === "Line" && comment.indexOf("eslint**") - 0 >>>
+ArithmeticBinaryOperatorChanger; return node.type === "Line" && comment.indexOf("eslint**") * 0 >>>
+ArithmeticBinaryOperatorChanger; return node.type === "Line" && comment.indexOf("eslint%*") * 0 >>>
+ArithmeticBinaryOperatorChanger; return node.type === "Line" && comment.indexOf("eslint%+") * 0 >>>
+BinaryOperatorChanger; return node.type === "Line" && comment.indexOf("eslint%+") + 0 >>>
+ArithmeticBinaryOperatorChanger; return node.type === "Line" && comment.indexOf("eslint%*") + 0 >>>
+ExprReplacerOperator; return node.type === "Block" && (

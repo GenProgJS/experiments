@@ -1,7 +1,0 @@
-Generation: 15
-Elapsed time: 24662.714999437332sec
-List of applied operators:
-VarChangerOperator; return node;
-NullCheckOperator; return node && node;
-NullCheckOperator; return !node && node && node;
-ExprReplacerOperator; return node.type === "Block" && (

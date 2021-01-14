@@ -1,0 +1,7 @@
+Generation: 9
+Elapsed time: 5425.035419464111sec
+# of failed test cases in buggy version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+ExprReplacerOperator; if (typeof arg !== 'function' && (arg == null || typeof arg !== 'function')) {
+ConditionalBinaryOperatorChanger; if (typeof arg !== 'function' && (arg !== null || typeof arg !== 'function')) {

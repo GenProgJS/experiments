@@ -1,0 +1,6 @@
+Generation: 14
+Elapsed time: 22443.615411520004sec
+# of failed test cases in buggy version: 4
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; if (!(self.isSelected && top.value)) return;

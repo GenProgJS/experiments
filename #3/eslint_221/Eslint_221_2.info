@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 281.7369773387909sec
+# of failed test cases in buggy version: 6
+# of failed test cases in current version: 6
+List of applied operators:
+ExprReplacerOperator; return parent.left;

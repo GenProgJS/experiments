@@ -1,0 +1,8 @@
+Generation: 14
+Elapsed time: 57321.81780052185sec
+# of failed test cases in buggy version: 1
+# of failed test cases in current version: 1
+List of applied operators:
+FunctionMakerOperator; if (false === exclude && keys().length > 1) {
+ConditionalBinaryOperatorChanger; if (false == exclude && keys().length > 1) {
+ExprReplacerOperator; if (false == exclude && Query.prototype.or > 1) {

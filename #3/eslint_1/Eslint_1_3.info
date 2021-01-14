@@ -1,0 +1,11 @@
+Generation: 26
+Elapsed time: 96563.37318205833sec
+# of failed test cases in buggy version: 56
+# of failed test cases in current version: 56
+List of applied operators:
+ConditionalBinaryOperatorChanger; if (name && name && name === 'Math' || name === 'JSON') {
+ConditionalBinaryOperatorChanger; if (name && name && name == 'Math' || name === 'JSON') {
+ConditionalBinaryOperatorChanger; if (name && name && name == 'Math' || name == 'JSON') {
+BinaryOperatorChanger; if (name && name && name && name === 'Math' | name === 'JSON') {
+ConditionalBinaryOperatorChanger; if (name && name && name && name === 'Math' | name == 'JSON') {
+StringChangerOperator; if (exports && name && name && name == 'Mh' | name <= 'S') {

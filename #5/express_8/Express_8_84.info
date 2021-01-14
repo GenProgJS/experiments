@@ -1,0 +1,7 @@
+Generation: 5
+Elapsed time: 1998.3684821128845sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 11
+List of applied operators:
+ConditionalBinaryOperatorChanger; if (typeof arg !== 'function' && (arg == null || arg.length != 0)) {
+VarChangerOperator; if (typeof arg !== 'function' && (arg == null || self.lazyrouter != 0)) {
