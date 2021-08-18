@@ -1,0 +1,337 @@
+---------------------------------- Statistics ----------------------------------
+It took 34.91512489318848 seconds to produce the 1th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 41.722397804260254 seconds to produce the 2th generation.
+Best fitness: 831.0
+Worst fitness: 831.0
+Mean fitness: 831.0
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 118.46689033508301 seconds to produce the 3th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 847.65
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 114.6604163646698 seconds to produce the 4th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 848.55
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 102.75017833709717 seconds to produce the 5th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 876.0
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 49.940605878829956 seconds to produce the 6th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 883.2
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 91.52993512153625 seconds to produce the 7th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 890.4
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 82.93197727203369 seconds to produce the 8th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 877.8
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 79.29883456230164 seconds to produce the 9th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 878.7
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 15
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 51.64592981338501 seconds to produce the 10th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 878.7
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 15
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 67.97893905639648 seconds to produce the 11th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 878.7
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 15
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 66.80151605606079 seconds to produce the 12th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 899.4
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 15
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 52.62993001937866 seconds to produce the 13th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 905.7
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 15
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 75.00668954849243 seconds to produce the 14th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 907.5
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 32.99749755859375 seconds to produce the 15th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 907.5
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 62.02145433425903 seconds to produce the 16th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 914.7
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 71.24849057197571 seconds to produce the 17th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 921.9
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 67.42611908912659 seconds to produce the 18th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 935.4
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 91.139817237854 seconds to produce the 19th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 929.1
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 91.54375863075256 seconds to produce the 20th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 911.1
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 70.45784568786621 seconds to produce the 21th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 917.4
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 36.795429706573486 seconds to produce the 22th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 917.4
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 34.28171515464783 seconds to produce the 23th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 917.4
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 81.651052236557 seconds to produce the 24th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 911.1
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 18
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 80.74518251419067 seconds to produce the 25th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 918.3
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 18
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 79.06290006637573 seconds to produce the 26th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 912.45
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 18
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 76.93378639221191 seconds to produce the 27th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 912.45
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 18
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 69.94666242599487 seconds to produce the 28th generation.
+Best fitness: 831.0
+Worst fitness: 984.0
+Mean fitness: 912.9
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 92.37758231163025 seconds to produce the 29th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 912.45
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 66.01731395721436 seconds to produce the 30th generation.
+Best fitness: 831.0
+Worst fitness: 975.0
+Mean fitness: 912.45
+Population size: 20
+"Best" modification so far: 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var u = escapeHtml(url);
+
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Express
+Bug-ID: 16
+Total elapsed time: 2144.9593963623047 sec
+Number of generated candidates: 19
+------------------------------------------------------------------------------

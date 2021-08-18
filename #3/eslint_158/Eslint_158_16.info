@@ -1,0 +1,8 @@
+Generation: 4
+Elapsed time: 14566.40914273262sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+ExprReplacerOperator; 898: sourceCode.getTokensBetween(startToken, endToken, { includeComments: true }),
+
+TryCatcherOperator; 898:     offsets.setDesiredOffsets(

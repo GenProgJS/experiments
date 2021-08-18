@@ -1,0 +1,17 @@
+Generation: 24
+Elapsed time: 1502.714103937149sec
+# of failed test cases in developer-fixed version: 2
+# of failed test cases in current version: 2
+List of applied operators:
+ExprReplacerOperator; 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: if (util.isArray(fieldErrors)) {

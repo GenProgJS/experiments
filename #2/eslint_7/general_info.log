@@ -1,0 +1,367 @@
+---------------------------------- Statistics ----------------------------------
+It took 36.72078061103821 seconds to produce the 1th generation.
+Best fitness: 4724.0
+Worst fitness: 4850.0
+Mean fitness: 4730.3
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 43.67459034919739 seconds to produce the 2th generation.
+Best fitness: 4724.0
+Worst fitness: 4850.0
+Mean fitness: 4736.6
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 72.85144519805908 seconds to produce the 3th generation.
+Best fitness: 4724.0
+Worst fitness: 4850.0
+Mean fitness: 4737.05
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 87.69493985176086 seconds to produce the 4th generation.
+Best fitness: 4724.0
+Worst fitness: 4805.0
+Mean fitness: 4741.1
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 73.13509249687195 seconds to produce the 5th generation.
+Best fitness: 4724.0
+Worst fitness: 5120.0
+Mean fitness: 4762.7
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 263.80283665657043 seconds to produce the 6th generation.
+Best fitness: 4724.0
+Worst fitness: 4760.0
+Mean fitness: 4740.65
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 85.45292735099792 seconds to produce the 7th generation.
+Best fitness: 4724.0
+Worst fitness: 4877.0
+Mean fitness: 4747.85
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 66.33207964897156 seconds to produce the 8th generation.
+Best fitness: 4724.0
+Worst fitness: 4796.0
+Mean fitness: 4747.4
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 153.20759797096252 seconds to produce the 9th generation.
+Best fitness: 4724.0
+Worst fitness: 4751.0
+Mean fitness: 4743.8
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 128.40754389762878 seconds to produce the 10th generation.
+Best fitness: 4724.0
+Worst fitness: 4751.0
+Mean fitness: 4747.4
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 81.88995742797852 seconds to produce the 11th generation.
+Best fitness: 4724.0
+Worst fitness: 4751.0
+Mean fitness: 4747.4
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 125.17603611946106 seconds to produce the 12th generation.
+Best fitness: 4724.0
+Worst fitness: 4751.0
+Mean fitness: 4748.3
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 108.07602739334106 seconds to produce the 13th generation.
+Best fitness: 4724.0
+Worst fitness: 4751.0
+Mean fitness: 4748.3
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 57.95185327529907 seconds to produce the 14th generation.
+Best fitness: 4724.0
+Worst fitness: 4796.0
+Mean fitness: 4751.45
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 110.82058811187744 seconds to produce the 15th generation.
+Best fitness: 4724.0
+Worst fitness: 4751.0
+Mean fitness: 4748.3
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 50.61048173904419 seconds to produce the 16th generation.
+Best fitness: 4724.0
+Worst fitness: 4751.0
+Mean fitness: 4748.3
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 101.53109884262085 seconds to produce the 17th generation.
+Best fitness: 4724.0
+Worst fitness: 4877.0
+Mean fitness: 4767.2
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 126.73984289169312 seconds to produce the 18th generation.
+Best fitness: 4724.0
+Worst fitness: 4877.0
+Mean fitness: 4754.6
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 31.395689010620117 seconds to produce the 19th generation.
+Best fitness: 4724.0
+Worst fitness: 4877.0
+Mean fitness: 4754.6
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 48.2754693031311 seconds to produce the 20th generation.
+Best fitness: 4724.0
+Worst fitness: 4877.0
+Mean fitness: 4754.6
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 160.94791793823242 seconds to produce the 21th generation.
+Best fitness: 4724.0
+Worst fitness: 4751.0
+Mean fitness: 4748.3
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: } else if (!hasDanglingComma && nodeIsMultiLine) {
+
+Number of repair candidates: 15
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 60.477818965911865 seconds to produce the 22th generation.
+Best fitness: 4751.0
+Worst fitness: 4751.0
+Mean fitness: 4751.0
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41:                   if (allowDangle === 'always-multiline') {
+43:                    length - 1;
+
+Number of repair candidates: 15
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 103.2815330028534 seconds to produce the 23th generation.
+Best fitness: 4751.0
+Worst fitness: 4751.0
+Mean fitness: 4751.0
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43:     context.report = [{
+
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 52.98264813423157 seconds to produce the 24th generation.
+Best fitness: 4751.0
+Worst fitness: 4877.0
+Mean fitness: 4763.6
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: context.report(lastItem, lastItem.loc.end, MISSING_MESSAGE);
+
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 107.03900170326233 seconds to produce the 25th generation.
+Best fitness: 4751.0
+Worst fitness: 4751.0
+Mean fitness: 4751.0
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41:                   if (allowDangle === 'always-multiline') {
+43:                                   if (hasDanglingComma && !nodeIsMultiLine) {
+
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 25.099504232406616 seconds to produce the 26th generation.
+Best fitness: 4751.0
+Worst fitness: 4751.0
+Mean fitness: 4751.0
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41:                   if (allowDangle === 'always-multiline') {
+43:                                   if (hasDanglingComma && !nodeIsMultiLine) {
+
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 51.70387887954712 seconds to produce the 27th generation.
+Best fitness: 4751.0
+Worst fitness: 4751.0
+Mean fitness: 4751.0
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43:                         'enum': [
+
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 37.02859902381897 seconds to produce the 28th generation.
+Best fitness: 4751.0
+Worst fitness: 4751.0
+Mean fitness: 4751.0
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43:                                                                                             'enum': [{
+
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 100.75927686691284 seconds to produce the 29th generation.
+Best fitness: 4751.0
+Worst fitness: 4751.0
+Mean fitness: 4751.0
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43:     lastItem.loc = function (context) {
+
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 94.08863878250122 seconds to produce the 30th generation.
+Best fitness: 4751.0
+Worst fitness: 4877.0
+Mean fitness: 4769.9
+Population size: 20
+"Best" modification so far: 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43:                                                 var allowDangle = node.loc;
+
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Eslint
+Bug-ID: 7
+Total elapsed time: 2678.7503232955933 sec
+Number of generated candidates: 16
+------------------------------------------------------------------------------

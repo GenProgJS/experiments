@@ -1,0 +1,28 @@
+Generation: 22
+Elapsed time: 2121.189521551132sec
+# of failed test cases in developer-fixed version: 3
+# of failed test cases in current version: 10
+List of applied operators:
+MutExprStatementChangerOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43:     var allowDangle = penultimateToken.loc.line.schema.end.schema.end.end;
+
+ExprReplacerOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43:                                                 var allowDangle = node.loc;
+
+IfElseChangerOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41:     if (hasDanglingComma && !nodeIsMultiLine) {
+43:             var allowDangle = node.loc;
+
+ExprReplacerOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41:     if (hasDanglingComma && !nodeIsMultiLine) {
+43: var allowDangle = context.options[0];
+
+MutExprStatementChangerOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41:     if (hasDanglingComma && !nodeIsMultiLine) {
+43:     var allowDangle = items[allowDangle !== 'always'].end;
+
+ExprStatementInserterOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41:     if (hasDanglingComma && !nodeIsMultiLine) {
+43:         node.properties = function (context) {

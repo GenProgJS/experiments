@@ -1,0 +1,307 @@
+---------------------------------- Statistics ----------------------------------
+It took 1177.4428565502167 seconds to produce the 1th generation.
+Best fitness: 17208.0
+Worst fitness: 19269.0
+Mean fitness: 17319.6
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 945.1717991828918 seconds to produce the 2th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 17709.8
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 623.2943041324615 seconds to produce the 3th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 18111.5
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 6
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1340.3476796150208 seconds to produce the 4th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 18377.05
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 996.7184648513794 seconds to produce the 5th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 18361.3
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 9
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1104.3648645877838 seconds to produce the 6th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 18526.05
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1545.196878194809 seconds to produce the 7th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 18828.9
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 390.8069386482239 seconds to produce the 8th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 18921.65
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1547.196212053299 seconds to produce the 9th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 18665.1
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 12
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 981.4145877361298 seconds to produce the 10th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 18672.55
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 12
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 892.3424451351166 seconds to produce the 11th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 18962.65
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1549.3679208755493 seconds to produce the 12th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19101.5
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 829.4930598735809 seconds to produce the 13th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19232.7
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1146.024927854538 seconds to produce the 14th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19102.4
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 542.8443176746368 seconds to produce the 15th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19231.35
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 15
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 796.8144998550415 seconds to produce the 16th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19361.65
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 15
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 857.4249823093414 seconds to produce the 17th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19491.95
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 16
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 677.6417467594147 seconds to produce the 18th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19491.95
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 884.0633490085602 seconds to produce the 19th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19363.0
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 1247.3752393722534 seconds to produce the 20th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19234.05
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 18
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 704.1225996017456 seconds to produce the 21th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19491.95
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 409.0943021774292 seconds to produce the 22th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19491.95
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 888.4767920970917 seconds to produce the 23th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19491.95
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 771.8864498138428 seconds to produce the 24th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19491.95
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 646.980437040329 seconds to produce the 25th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19620.9
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 549.4459700584412 seconds to produce the 26th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19623.15
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 679.9243247509003 seconds to produce the 27th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19623.15
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 20
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 792.4950504302979 seconds to produce the 28th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19623.15
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 20
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 532.7095074653625 seconds to produce the 29th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19623.15
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 20
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 520.346040725708 seconds to produce the 30th generation.
+Best fitness: 17208.0
+Worst fitness: 19886.0
+Mean fitness: 19623.15
+Population size: 20
+"Best" modification so far: 898: offsets.matchIndentOf(sourceCode.getLastToken(node.callee), openingParen);
+
+Number of repair candidates: 20
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Eslint
+Bug-ID: 158
+Total elapsed time: 26661.549379348755 sec
+Number of generated candidates: 20
+------------------------------------------------------------------------------

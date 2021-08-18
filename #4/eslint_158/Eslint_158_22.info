@@ -1,0 +1,8 @@
+Generation: 13
+Elapsed time: 12748.91385602951sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+MutExprStatementChangerOperator; 898:     start: { skip: 1 },
+
+ExprReplacerOperator; 898: type: "integer",

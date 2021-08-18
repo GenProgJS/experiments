@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 134.1256775856018sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+ExprStatementInserterOperator; 70: subject = node.arguments[0];

@@ -1,0 +1,16 @@
+Generation: 3
+Elapsed time: 440.59411573410034sec
+# of failed test cases in developer-fixed version: 3
+# of failed test cases in current version: 10
+List of applied operators:
+MutExprStatementChangerOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43:         'enum': [
+
+ExprReplacerOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43:             'always',
+
+MutExprStatementInserterOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: ({

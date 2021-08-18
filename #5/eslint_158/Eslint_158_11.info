@@ -1,0 +1,8 @@
+Generation: 8
+Elapsed time: 9610.206595182419sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+MutExprStatementChangerOperator; 898:     if (!node) {
+
+TryCatcherOperator; 898:     sourceCode.getTokenBefore(node.alternate, offsets.matchIndentOf.parent.type, token => {

@@ -1,0 +1,16 @@
+Generation: 16
+Elapsed time: 22797.37070417404sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+ExprStatementChangerOperator; 898: if (!parenthesizedTokens.has(offsets.getFirstDependency(token))) {
+
+ExprStatementChangerOperator; 898: 
+
+AwaitInserterOperator; 898:     if (astUtils.isOpeningParenToken(nextToken)) {
+
+MutExprStatementChangerOperator; 898:     const leftParen = offsets.matchIndentOf.line;
+
+ExprStatementChangerOperator; 898:                                 node: token,
+
+TryCatcherOperator; 898:     offsets.matchIndentOf.start({

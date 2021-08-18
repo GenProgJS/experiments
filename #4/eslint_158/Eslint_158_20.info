@@ -1,0 +1,8 @@
+Generation: 11
+Elapsed time: 11769.709698677063sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+ExprStatementInserterOperator; 898: desiredOffsets[token.range[0]] = NO_OFFSET;
+
+TryCatcherOperator; 898:     this.desiredOffsets = tokenInfo.getAllTokens().reduce((desiredOffsets, token) => {

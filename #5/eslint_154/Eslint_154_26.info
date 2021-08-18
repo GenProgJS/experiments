@@ -1,0 +1,6 @@
+Generation: 24
+Elapsed time: 7163.11092877388sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+MutExprStatementInserterOperator; 70: ({});

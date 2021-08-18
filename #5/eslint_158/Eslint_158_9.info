@@ -1,0 +1,6 @@
+Generation: 5
+Elapsed time: 5919.350327730179sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+MutExprStatementInserterOperator; 898: sourceCode.getTokenBefore;

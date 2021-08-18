@@ -1,0 +1,6 @@
+Generation: 3
+Elapsed time: 1138.8909006118774sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+MutExprStatementInserterOperator; 70: ({ 'exceptions': { 'type': 'string' } });

@@ -1,0 +1,12 @@
+Generation: 12
+Elapsed time: 20227.817923784256sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+ExprStatementChangerOperator; 898: const previousQuasi = node.quasis[index];
+
+ExprStatementChangerOperator; 898: if (offset === "off") {
+
+AwaitInserterOperator; 898:     if (offset === 'off') {
+
+TryCatcherOperator; 898:     elements.forEach(await ((element, index) => {

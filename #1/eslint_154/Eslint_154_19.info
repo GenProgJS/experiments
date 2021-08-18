@@ -1,0 +1,10 @@
+Generation: 13
+Elapsed time: 4047.9073712825775sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+MutExprStatementInserterOperator; 70:     var callee = exceptions.indexOf, subject, object;
+
+ExprReplacerOperator; 70:             return exceptions.length() === callee.property;
+
+TryCatcherOperator; 70:     lhs.object.value.type(function (builtin) {

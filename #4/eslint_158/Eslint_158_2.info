@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 1112.1544268131256sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+TryCatcherOperator; 898:     parameterParens.add(closingParen);

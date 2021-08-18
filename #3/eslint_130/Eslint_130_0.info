@@ -1,0 +1,10 @@
+Generation: 7
+Elapsed time: 8293.153131246567sec
+# of failed test cases in developer-fixed version: 55
+# of failed test cases in current version: 56
+List of applied operators:
+CallChangerOperator; 115: notEmpty.forEach(function(x, i) {
+116: trimmedLines[i] = context;
+
+CallChangerOperator; 115: notEmpty.forEach(function(i) {
+116: trimmedLines[i] = context;

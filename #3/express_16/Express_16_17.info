@@ -1,0 +1,10 @@
+Generation: 5
+Elapsed time: 480.21118807792664sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 13
+List of applied operators:
+ExprReplacerOperator; 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: return '<' + links[rel] + '>; rel="' + rel + '"';
+
+ExprReplacerOperator; 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: if (err) return req.next(err);

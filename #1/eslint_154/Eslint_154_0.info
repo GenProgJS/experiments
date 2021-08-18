@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 152.2713041305542sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+ExprStatementInserterOperator; 70: module.exports.schema = [

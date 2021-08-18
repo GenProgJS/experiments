@@ -1,0 +1,16 @@
+Generation: 12
+Elapsed time: 1051.2764291763306sec
+# of failed test cases in developer-fixed version: 3
+# of failed test cases in current version: 10
+List of applied operators:
+MutExprStatementInserterOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43:         'ObjectExpression': checkForTrailingComma,
+
+MutExprStatementChangerOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43:     var allowDangle = node.loc.start;
+
+ExprStatementChangerOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43:                                                                     'enum': [

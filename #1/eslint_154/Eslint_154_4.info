@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 342.3389675617218sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+ExprStatementInserterOperator; 70: "use strict";

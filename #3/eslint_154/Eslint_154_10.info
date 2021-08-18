@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 969.7738134860992sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+MutExprStatementInserterOperator; 70: Object.keys;

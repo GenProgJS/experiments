@@ -1,0 +1,14 @@
+Generation: 18
+Elapsed time: 5493.564353466034sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+MutExprStatementInserterOperator; 70:     return callee.property === 'MemberExpression';
+
+CallChangerOperator; 70:     return -1, callee.property === 'MemberExpression';
+
+ConditionalBinaryOperatorChanger; 70:     return -1, callee.property <= 'MemberExpression';
+
+ExprReplacerOperator; 70: callee.object.name === "Object" &&
+
+MutExprStatementChangerOperator; 70:     var config = module.exports === 'MemberExpression' && callee.property === 'defineProperties';

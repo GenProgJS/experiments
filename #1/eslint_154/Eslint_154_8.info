@@ -1,0 +1,6 @@
+Generation: 3
+Elapsed time: 1020.423930644989sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+MutExprStatementInserterOperator; 70: callee.type;

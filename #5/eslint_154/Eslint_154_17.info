@@ -1,0 +1,6 @@
+Generation: 5
+Elapsed time: 1953.985225200653sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+MutExprStatementInserterOperator; 70: module.exports;

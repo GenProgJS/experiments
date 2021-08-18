@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 63.36141276359558sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+ExprReplacerOperator; 70: return exceptions.indexOf(builtIn) === -1;

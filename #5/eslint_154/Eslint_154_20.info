@@ -1,0 +1,8 @@
+Generation: 8
+Elapsed time: 2891.94860124588sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+MutExprStatementInserterOperator; 70:     return callee.property === 'MemberExpression';
+
+TryCatcherOperator; 70:     context.report.property ? builtin + ' prototype is read only, properties should not be added.' && lhs.object.value !== 'MemberExpression' : config.exceptions.property(function (builtIn) {

@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 660.9185752868652sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+MutExprStatementInserterOperator; 70: exceptions.length;

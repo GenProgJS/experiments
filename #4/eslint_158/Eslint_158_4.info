@@ -1,0 +1,8 @@
+Generation: 1
+Elapsed time: 2041.5728340148926sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+ExprStatementChangerOperator; 898: if (offset === "off") {
+
+TryCatcherOperator; 898:     elements.forEach((element, index) => {

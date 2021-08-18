@@ -1,0 +1,12 @@
+Generation: 22
+Elapsed time: 6398.135240316391sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+MutExprStatementInserterOperator; 70:     return callee.property === 'MemberExpression';
+
+CallChangerOperator; 70:     return -1, callee.property === 'MemberExpression';
+
+ConditionalBinaryOperatorChanger; 70:     return -1, callee.property <= 'MemberExpression';
+
+MutExprStatementChangerOperator; 70:     if (object.name === 'Identifier') {

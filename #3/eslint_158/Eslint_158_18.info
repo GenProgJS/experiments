@@ -1,0 +1,10 @@
+Generation: 5
+Elapsed time: 15611.95464515686sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+ExprReplacerOperator; 898: const lineNumber = lineIndex + 1;
+
+AwaitInserterOperator; 898:     const lineNumber = lineIndex + 1;
+
+TryCatcherOperator; 898:     sourceCode.lines.forEach(await ((line, lineIndex) => {

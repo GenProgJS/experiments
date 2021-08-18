@@ -1,0 +1,8 @@
+Generation: 5
+Elapsed time: 15666.896019220352sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+ExprStatementChangerOperator; 898: const previousQuasi = node.quasis[index];
+
+TryCatcherOperator; 898:     node.expressions.forEach((expression, index) => {

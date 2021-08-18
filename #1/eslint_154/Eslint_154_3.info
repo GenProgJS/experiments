@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 323.9171726703644sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+ExprStatementInserterOperator; 70: modifiedBuiltins = modifiedBuiltins.filter(function(builtIn) {

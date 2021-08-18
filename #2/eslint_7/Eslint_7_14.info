@@ -1,0 +1,36 @@
+Generation: 20
+Elapsed time: 2004.3304307460785sec
+# of failed test cases in developer-fixed version: 3
+# of failed test cases in current version: 10
+List of applied operators:
+MutExprStatementChangerOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43:         'enum': [{
+
+ExprReplacerOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: "ObjectExpression": checkForTrailingComma,
+
+TryCatcherOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41:                   if (allowDangle === "always-multiline") {
+43:            [
+
+TryCatcherOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41:                   if (allowDangle === "always-multiline") {
+43:                           if (hasDanglingComma && !nodeIsMultiLine) {
+
+MutExprStatementInserterOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: node.elements.start.end.line(node, 1);
+
+IfElseChangerOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41:     if (hasDanglingComma && !nodeIsMultiLine) {
+43:         node.elements.start.end.line(node, 1);
+
+TryCatcherOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41:     if (hasDanglingComma && !nodeIsMultiLine) {
+43:                     context.report(lastItem, penultimateToken.loc.start, UNEXPECTED_MESSAGE);
+
+TryCatcherOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41:                   if (allowDangle === 'always-multiline') {
+43:                    try {

@@ -1,0 +1,6 @@
+Generation: 20
+Elapsed time: 20779.47360754013sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+MutExprStatementInserterOperator; 898: 'use strict';

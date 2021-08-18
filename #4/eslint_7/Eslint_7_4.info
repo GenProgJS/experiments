@@ -1,0 +1,8 @@
+Generation: 3
+Elapsed time: 280.58347487449646sec
+# of failed test cases in developer-fixed version: 3
+# of failed test cases in current version: 10
+List of applied operators:
+ExprStatementInserterOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: var allowDangle = context.options[0];

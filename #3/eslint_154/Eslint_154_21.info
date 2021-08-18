@@ -1,0 +1,6 @@
+Generation: 7
+Elapsed time: 2833.771406650543sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+MutExprStatementInserterOperator; 70: callee.property;

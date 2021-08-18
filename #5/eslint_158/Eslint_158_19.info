@@ -1,0 +1,14 @@
+Generation: 26
+Elapsed time: 24664.86887049675sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+ExprStatementChangerOperator; 898: sourceCode.getTokensBetween(startToken, endToken, { includeComments: true }),
+
+ExprStatementChangerOperator; 898: if (!unknownNodeTokens.has(offsets.getFirstDependency(token))) {
+
+CallChangerOperator; 898: if (!unknownNodeTokens.has(token.range[0](token))) {
+
+MutExprStatementChangerOperator; 898:     const tokenOrCommentBefore = offsets.ignoreToken(specifier.type, token);
+
+TryCatcherOperator; 898:     node.update((commentMap, comment) => {

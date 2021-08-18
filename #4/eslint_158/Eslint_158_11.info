@@ -1,0 +1,6 @@
+Generation: 4
+Elapsed time: 5121.512099504471sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+ExprStatementInserterOperator; 898: module.exports = {

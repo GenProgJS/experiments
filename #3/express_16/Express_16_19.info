@@ -1,0 +1,7 @@
+Generation: 9
+Elapsed time: 859.3180022239685sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 13
+List of applied operators:
+ExprReplacerOperator; 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var body = http.STATUS_CODES[statusCode] || String(statusCode);

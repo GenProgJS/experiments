@@ -1,0 +1,6 @@
+Generation: 0
+Elapsed time: 897.2350533008575sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+MutExprStatementInserterOperator; 898:     offset: 0,

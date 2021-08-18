@@ -1,0 +1,8 @@
+Generation: 4
+Elapsed time: 358.9150884151459sec
+# of failed test cases in developer-fixed version: 3
+# of failed test cases in current version: 10
+List of applied operators:
+MutExprStatementInserterOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: hasDanglingComma = allowDangle !== 'always-multiline';

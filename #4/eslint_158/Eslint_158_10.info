@@ -1,0 +1,6 @@
+Generation: 3
+Elapsed time: 4238.022087097168sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+ExprStatementInserterOperator; 898: parameterParens.add(openingParen);

@@ -1,0 +1,7 @@
+Generation: 5
+Elapsed time: 662.5628232955933sec
+# of failed test cases in developer-fixed version: 11
+# of failed test cases in current version: 13
+List of applied operators:
+ExprReplacerOperator; 820: body = statusCodes[status] + '. Redirecting to ' + encodeURI(url);
+824: var opts = { expires: new Date(1), path: '/' };

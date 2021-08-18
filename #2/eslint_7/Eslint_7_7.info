@@ -1,0 +1,12 @@
+Generation: 5
+Elapsed time: 445.79453134536743sec
+# of failed test cases in developer-fixed version: 3
+# of failed test cases in current version: 10
+List of applied operators:
+TreeCrossoverOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: }
+43: }
+; parents; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,__EOL__41: if (hasDanglingComma && !nodeIsMultiLine) {__EOL__43: } else if (!hasDanglingComma && nodeIsMultiLine) {__EOL__; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,__EOL__41: if (hasDanglingComma && !nodeIsMultiLine) {__EOL__43: } else if (!hasDanglingComma && nodeIsMultiLine) {__EOL__
+ExprStatementInserterOperator; 27: nodeIsMultiLine = node.loc.start.line !== node.loc.end.line,
+41: if (hasDanglingComma && !nodeIsMultiLine) {
+43: penultimateToken = context.getLastToken(node, 1);

@@ -1,0 +1,10 @@
+Generation: 4
+Elapsed time: 14504.163459539413sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+ExprStatementChangerOperator; 898: if (!parenthesizedTokens.has(offsets.getFirstDependency(token))) {
+
+ExprStatementChangerOperator; 898: 
+
+TryCatcherOperator; 898:     tokens.forEach(nextToken => {

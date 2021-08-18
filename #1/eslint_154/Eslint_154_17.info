@@ -1,0 +1,6 @@
+Generation: 8
+Elapsed time: 2733.8747732639313sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+MutExprStatementInserterOperator; 70: object = node.callee.property;

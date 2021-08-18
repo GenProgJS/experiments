@@ -1,0 +1,6 @@
+Generation: 11
+Elapsed time: 12779.381856918335sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+MutExprStatementInserterOperator; 898: node.test;

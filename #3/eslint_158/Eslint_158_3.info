@@ -1,0 +1,6 @@
+Generation: 1
+Elapsed time: 1515.0058102607727sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+ExprReplacerOperator; 898: if (!map.has(token.loc.start.line)) {

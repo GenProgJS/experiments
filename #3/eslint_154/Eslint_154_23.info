@@ -1,0 +1,6 @@
+Generation: 9
+Elapsed time: 3573.4527759552sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+MutExprStatementInserterOperator; 70: context.options.name = function (node) {

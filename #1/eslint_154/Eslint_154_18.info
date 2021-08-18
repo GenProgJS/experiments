@@ -1,0 +1,6 @@
+Generation: 11
+Elapsed time: 3376.1329433918sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+MutExprStatementInserterOperator; 70: callee.property !== 'MemberExpression';

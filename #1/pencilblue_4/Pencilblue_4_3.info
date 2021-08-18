@@ -1,0 +1,18 @@
+Generation: 21
+Elapsed time: 1101.7342727184296sec
+# of failed test cases in developer-fixed version: 2
+# of failed test cases in current version: 2
+List of applied operators:
+TreeCrossoverOperator; 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: var dao = new pb.DAO();
+; parents; 200: * @param {Object|String} The custom object type descriptor object or the ID__EOL__410: async.series(tasks, function(err, results) {__EOL__566: * @param {String} type__EOL__707: async.series(tasks, function(err, results) {__EOL__747: async.series(tasks, function(err, results) {__EOL__823: async.series(tasks, function(err, results) {__EOL__831: * @param {String} field__EOL__940: * @param {Function} cb__EOL__951: * @param {Object} [options={}]__EOL__984: * @param {String|Object} custObjType A string ID of the custom object type or__EOL__986: * @param {Object} [options={}]__EOL__993: typeId = custObjType.toString();__EOL__; 200: * @param {Object|String} The custom object type descriptor object or the ID__EOL__410: async.series(tasks, function(err, results) {__EOL__566: * @param {String} type__EOL__707: async.series(tasks, function(err, results) {__EOL__747: async.series(tasks, function(err, results) {__EOL__823: async.series(tasks, function(err, results) {__EOL__831: * @param {String} field__EOL__940: * @param {Function} cb__EOL__951: * @param {Object} [options={}]__EOL__984: * @param {String|Object} custObjType A string ID of the custom object type or__EOL__986: * @param {Object} [options={}]__EOL__993: typeId = custObjType.toString();__EOL__

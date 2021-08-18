@@ -1,0 +1,1094 @@
+---------------------------------- Statistics ----------------------------------
+It took 27.779444456100464 seconds to produce the 1th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 28.80106544494629 seconds to produce the 2th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 30.715776920318604 seconds to produce the 3th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 28.9973304271698 seconds to produce the 4th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 28.609904527664185 seconds to produce the 5th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 29.095580577850342 seconds to produce the 6th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 32.95607805252075 seconds to produce the 7th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 35.65560245513916 seconds to produce the 8th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 33.69900131225586 seconds to produce the 9th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 34.042176485061646 seconds to produce the 10th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 27.60714864730835 seconds to produce the 11th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 28.904446125030518 seconds to produce the 12th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 30.73018169403076 seconds to produce the 13th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 30.070906400680542 seconds to produce the 14th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 28.72073459625244 seconds to produce the 15th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 32.72854804992676 seconds to produce the 16th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 28.907959938049316 seconds to produce the 17th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 34.29859685897827 seconds to produce the 18th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 27.811835289001465 seconds to produce the 19th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 34.572442054748535 seconds to produce the 20th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 29.56011462211609 seconds to produce the 21th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 31.37216830253601 seconds to produce the 22th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 35.664663791656494 seconds to produce the 23th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 33.09355282783508 seconds to produce the 24th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 34.04746103286743 seconds to produce the 25th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 32.753111839294434 seconds to produce the 26th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 34.62066578865051 seconds to produce the 27th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 36.49371790885925 seconds to produce the 28th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 28.44324564933777 seconds to produce the 29th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 35.15734052658081 seconds to produce the 30th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 326: * @param {Boolean} required
+342: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+361: * @param {Float} val The value under test
+364: * @param {Boolean} Indicates if the value must be a number rather than a string representing a number.
+372: var parsed = parseFloat(val, 10);
+423: * @param {*} val The value under test
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Pencilblue
+Bug-ID: 4
+Total elapsed time: 1002.3152577877045 sec
+Number of generated candidates: 0
+------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 47.08781456947327 seconds to produce the 1th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 44.51219129562378 seconds to produce the 2th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 39.68746900558472 seconds to produce the 3th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 41.15025758743286 seconds to produce the 4th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 38.490174770355225 seconds to produce the 5th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 115.48053622245789 seconds to produce the 6th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 41.751415967941284 seconds to produce the 7th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 44.82140827178955 seconds to produce the 8th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 48.58991003036499 seconds to produce the 9th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 37.506032943725586 seconds to produce the 10th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 46.12753677368164 seconds to produce the 11th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 52.038591146469116 seconds to produce the 12th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 39.122886180877686 seconds to produce the 13th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 38.604074001312256 seconds to produce the 14th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 44.16515064239502 seconds to produce the 15th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 50.19244027137756 seconds to produce the 16th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 39.839582443237305 seconds to produce the 17th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 44.26903247833252 seconds to produce the 18th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 55.93680953979492 seconds to produce the 19th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 41.7920560836792 seconds to produce the 20th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 42.16844916343689 seconds to produce the 21th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 108.38707709312439 seconds to produce the 22th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 40.5266809463501 seconds to produce the 23th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 44.06851887702942 seconds to produce the 24th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 38.10207796096802 seconds to produce the 25th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 31.446386575698853 seconds to produce the 26th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 33.65909290313721 seconds to produce the 27th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 41.042962074279785 seconds to produce the 28th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 41.05235528945923 seconds to produce the 29th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 33.13967943191528 seconds to produce the 30th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 5
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Pencilblue
+Bug-ID: 4
+Total elapsed time: 1441.549931526184 sec
+Number of generated candidates: 5
+------------------------------------------------------------------------------

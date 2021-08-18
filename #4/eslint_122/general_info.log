@@ -1,0 +1,337 @@
+---------------------------------- Statistics ----------------------------------
+It took 233.4170036315918 seconds to produce the 1th generation.
+Best fitness: 7305.0
+Worst fitness: 7503.0
+Mean fitness: 7334.7
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 75.13572144508362 seconds to produce the 2th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7380.6
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 57.259135723114014 seconds to produce the 3th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7408.5
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 161.5615155696869 seconds to produce the 4th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7474.2
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 56.31583023071289 seconds to produce the 5th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7502.1
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 31.864672660827637 seconds to produce the 6th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7502.1
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 50.89403033256531 seconds to produce the 7th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7530.0
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 30.31389808654785 seconds to produce the 8th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7530.0
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 80.53320789337158 seconds to produce the 9th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7548.0
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 26.4489848613739 seconds to produce the 10th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7548.0
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 36.39164733886719 seconds to produce the 11th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7548.0
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 49.812031984329224 seconds to produce the 12th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7566.0
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 79.40935134887695 seconds to produce the 13th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7621.8
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 94.7672905921936 seconds to produce the 14th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7639.8
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 107.03951001167297 seconds to produce the 15th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7667.7
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 68.5274932384491 seconds to produce the 16th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7695.6
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 157.20131587982178 seconds to produce the 17th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7723.5
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 64.35314011573792 seconds to produce the 18th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7723.5
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 121.15598487854004 seconds to produce the 19th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7751.4
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 23.721559762954712 seconds to produce the 20th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7751.4
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 25.62894320487976 seconds to produce the 21th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7751.4
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 95.75045895576477 seconds to produce the 22th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7779.3
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 101.65437173843384 seconds to produce the 23th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7779.3
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 46.0962610244751 seconds to produce the 24th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7779.3
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 133.0924198627472 seconds to produce the 25th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7835.1
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 256.7454979419708 seconds to produce the 26th generation.
+Best fitness: 7305.0
+Worst fitness: 7863.0
+Mean fitness: 7835.1
+Population size: 20
+"Best" modification so far: 27: "MemberExpression": function(parent) {
+32: parent.parent.type === "Property" && properties && parent.parent.value === parent &&
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 256.5262224674225 seconds to produce the 27th generation.
+Best fitness: 7863.0
+Worst fitness: 7863.0
+Mean fitness: 7863.0
+Population size: 20
+"Best" modification so far: 27: Identifier: function(context) {
+32: .reduce()() >> "never";
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 132.4137794971466 seconds to produce the 28th generation.
+Best fitness: 7863.0
+Worst fitness: 7863.0
+Mean fitness: 7863.0
+Population size: 20
+"Best" modification so far: 27: Identifier: function(context) {
+32: .module.exports.schema()() >> "never";
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 381.96650433540344 seconds to produce the 29th generation.
+Best fitness: 7863.0
+Worst fitness: 7863.0
+Mean fitness: 7863.0
+Population size: 20
+"Best" modification so far: 27: Identifier: function(context) {
+32: .reduce()() ** "never";
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 106.51866674423218 seconds to produce the 30th generation.
+Best fitness: 7863.0
+Worst fitness: 7863.0
+Mean fitness: 7863.0
+Population size: 20
+"Best" modification so far: 27:         'type': 'object',
+32:             'min': { 'type': 'number' },
+
+Number of repair candidates: 1
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Eslint
+Bug-ID: 122
+Total elapsed time: 3215.6999776363373 sec
+Number of generated candidates: 1
+------------------------------------------------------------------------------

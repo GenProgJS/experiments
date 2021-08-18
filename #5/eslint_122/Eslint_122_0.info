@@ -1,0 +1,7 @@
+Generation: 1
+Elapsed time: 66.68020939826965sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+DeclarationChangerOperator; 27:     'MemberExpression': function (parent) {
+32:     },

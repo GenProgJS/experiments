@@ -1,0 +1,14 @@
+Generation: 24
+Elapsed time: 7106.045897245407sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+MutExprStatementInserterOperator; 70:     return callee.property === 'MemberExpression';
+
+CallChangerOperator; 70:     return -1, callee.property === 'MemberExpression';
+
+ConditionalBinaryOperatorChanger; 70:     return -1, callee.property <= 'MemberExpression';
+
+CallChangerOperator; 70:     return -1;
+
+MutExprStatementChangerOperator; 70:     var config = builtin[0](lhs.object.name) === -1 && subject.object(function (builtin) {

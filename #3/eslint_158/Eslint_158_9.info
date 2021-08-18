@@ -1,0 +1,6 @@
+Generation: 3
+Elapsed time: 12950.083666563034sec
+# of failed test cases in developer-fixed version: 26
+# of failed test cases in current version: 30
+List of applied operators:
+MutExprStatementInserterOperator; 898: getTokensAndComments(node);

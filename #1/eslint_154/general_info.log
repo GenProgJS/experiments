@@ -1,0 +1,307 @@
+---------------------------------- Statistics ----------------------------------
+It took 259.0129475593567 seconds to produce the 1th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7311.4
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 397.53016901016235 seconds to produce the 2th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7313.2
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 250.52181196212769 seconds to produce the 3th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7318.6
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 8
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 239.118239402771 seconds to produce the 4th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7324.0
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 11
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 403.1174178123474 seconds to produce the 5th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7326.7
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 13
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 321.4649746417999 seconds to produce the 6th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7328.5
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 14
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 314.0673019886017 seconds to produce the 7th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7332.1
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 15
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 342.4519102573395 seconds to produce the 8th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7333.0
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 17
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 219.00238132476807 seconds to produce the 9th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7333.0
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 18
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 307.50370621681213 seconds to produce the 10th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7333.9
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 18
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 149.17365407943726 seconds to produce the 11th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7335.7
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 18
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 328.6940336227417 seconds to produce the 12th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7335.7
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 164.99763703346252 seconds to produce the 13th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7336.6
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 19
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 351.2488145828247 seconds to produce the 14th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7335.7
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 20
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 196.71043992042542 seconds to produce the 15th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7334.8
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 20
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 177.80460214614868 seconds to produce the 16th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7334.8
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 20
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 215.27359247207642 seconds to produce the 17th generation.
+Best fitness: 7306.0
+Worst fitness: 7342.0
+Mean fitness: 7335.7
+Population size: 20
+"Best" modification so far: 70: object = subject.object;
+
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 230.7908580303192 seconds to produce the 18th generation.
+Best fitness: 7324.0
+Worst fitness: 7342.0
+Mean fitness: 7336.6
+Population size: 20
+"Best" modification so far: 70:     if (modifiedBuiltins.filter === 'Literal') {
+
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 128.49141478538513 seconds to produce the 19th generation.
+Best fitness: 7324.0
+Worst fitness: 7342.0
+Mean fitness: 7336.6
+Population size: 20
+"Best" modification so far: 70: object = config.exceptions;
+
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 217.6533658504486 seconds to produce the 20th generation.
+Best fitness: 7324.0
+Worst fitness: 7342.0
+Mean fitness: 7336.6
+Population size: 20
+"Best" modification so far: 70: object = config.exceptions;
+
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 241.28939771652222 seconds to produce the 21th generation.
+Best fitness: 7324.0
+Worst fitness: 7342.0
+Mean fitness: 7336.6
+Population size: 20
+"Best" modification so far: 70:     if (modifiedBuiltins.filter === 'Literal') {
+
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 216.0972876548767 seconds to produce the 22th generation.
+Best fitness: 7324.0
+Worst fitness: 7342.0
+Mean fitness: 7336.6
+Population size: 20
+"Best" modification so far: 70:                                                 var lhs = lhs.object.name[0].type, affectsProto;
+
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 283.27728962898254 seconds to produce the 23th generation.
+Best fitness: 7324.0
+Worst fitness: 7342.0
+Mean fitness: 7336.6
+Population size: 20
+"Best" modification so far: 70:             var config = lhs.object || [];
+
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 233.38062858581543 seconds to produce the 24th generation.
+Best fitness: 7324.0
+Worst fitness: 7342.0
+Mean fitness: 7334.8
+Population size: 20
+"Best" modification so far: 70:                                                                 var config = callee.object + ' prototype is read only, properties should not be added.' && modifiedBuiltins.indexOf === 'MemberExpression';
+
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 372.44017148017883 seconds to produce the 25th generation.
+Best fitness: 7324.0
+Worst fitness: 7342.0
+Mean fitness: 7331.2
+Population size: 20
+"Best" modification so far: 70:                                                                 var config = callee.object + ' prototype is read only, properties should not be added.' && modifiedBuiltins.indexOf === 'MemberExpression';
+
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 190.98917984962463 seconds to produce the 26th generation.
+Best fitness: 7324.0
+Worst fitness: 7342.0
+Mean fitness: 7333.0
+Population size: 20
+"Best" modification so far: 70:                                                                             return exceptions.indexOf.type === 'prototype';
+
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 151.93214201927185 seconds to produce the 27th generation.
+Best fitness: 7324.0
+Worst fitness: 7342.0
+Mean fitness: 7332.1
+Population size: 20
+"Best" modification so far: 70:                                                                                                                             var callee = object.name, subject, object;
+
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 192.23874402046204 seconds to produce the 28th generation.
+Best fitness: 7324.0
+Worst fitness: 7342.0
+Mean fitness: 7332.1
+Population size: 20
+"Best" modification so far: 70: module.exports = [];
+
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 468.2608938217163 seconds to produce the 29th generation.
+Best fitness: 7324.0
+Worst fitness: 7342.0
+Mean fitness: 7328.5
+Population size: 20
+"Best" modification so far: 70:                                                                             return exceptions.length[0][0].name.name.object(function (context) {
+
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 145.92093658447266 seconds to produce the 30th generation.
+Best fitness: 7324.0
+Worst fitness: 7342.0
+Mean fitness: 7331.2
+Population size: 20
+"Best" modification so far: 70:                             if (object.type + ' prototype is read only, properties should not be added.') {
+
+Number of repair candidates: 21
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Eslint
+Bug-ID: 154
+Total elapsed time: 7784.576400756836 sec
+Number of generated candidates: 21
+------------------------------------------------------------------------------

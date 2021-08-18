@@ -1,0 +1,637 @@
+---------------------------------- Statistics ----------------------------------
+It took 52.61297345161438 seconds to produce the 1th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 49.8158438205719 seconds to produce the 2th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 51.140249252319336 seconds to produce the 3th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 54.12798070907593 seconds to produce the 4th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 49.317665576934814 seconds to produce the 5th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 43.57323670387268 seconds to produce the 6th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 64.83554220199585 seconds to produce the 7th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 55.02781081199646 seconds to produce the 8th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 53.516847133636475 seconds to produce the 9th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 46.66844820976257 seconds to produce the 10th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 50.67405462265015 seconds to produce the 11th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 49.47367215156555 seconds to produce the 12th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 0
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 59.38494849205017 seconds to produce the 13th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 52.2739520072937 seconds to produce the 14th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 57.129361152648926 seconds to produce the 15th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 42.98399233818054 seconds to produce the 16th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 2
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 55.39637112617493 seconds to produce the 17th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 48.61954617500305 seconds to produce the 18th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 46.41571044921875 seconds to produce the 19th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 43.32835245132446 seconds to produce the 20th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 47.63930368423462 seconds to produce the 21th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 45.317973136901855 seconds to produce the 22th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 42.72373843193054 seconds to produce the 23th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 3
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 117.4430079460144 seconds to produce the 24th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 39.22356653213501 seconds to produce the 25th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 36.9072003364563 seconds to produce the 26th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 40.87056040763855 seconds to produce the 27th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 42.242318868637085 seconds to produce the 28th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 44.13302040100098 seconds to produce the 29th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+---------------------------------- Statistics ----------------------------------
+It took 44.58260226249695 seconds to produce the 30th generation.
+Best fitness: 517.0
+Worst fitness: 517.0
+Mean fitness: 517.0
+Population size: 20
+"Best" modification so far: 200: * @param {Object|String} The custom object type descriptor object or the ID
+410: async.series(tasks, function(err, results) {
+566: * @param {String} type
+707: async.series(tasks, function(err, results) {
+747: async.series(tasks, function(err, results) {
+823: async.series(tasks, function(err, results) {
+831: * @param {String} field
+940: * @param {Function} cb
+951: * @param {Object} [options={}]
+984: * @param {String|Object} custObjType A string ID of the custom object type or
+986: * @param {Object} [options={}]
+993: typeId = custObjType.toString();
+
+Number of repair candidates: 4
+--------------------------------------------------------------------------------
+
+-------------------------------- General info --------------------------------
+Project: Pencilblue
+Bug-ID: 4
+Total elapsed time: 1585.1266791820526 sec
+Number of generated candidates: 4
+------------------------------------------------------------------------------

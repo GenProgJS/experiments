@@ -1,0 +1,8 @@
+Generation: 3
+Elapsed time: 1639.7471656799316sec
+# of failed test cases in developer-fixed version: 17
+# of failed test cases in current version: 19
+List of applied operators:
+ExprStatementInserterOperator; 70: if (lhs.object.object.name === builtin) {
+
+TryCatcherOperator; 70:     modifiedBuiltins.forEach(function(builtin) {
