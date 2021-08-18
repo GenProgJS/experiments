@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## GenProgJS: a Baseline System for Test-based Automated Repair of JavaScript Programs 
+GenProgJS was evaluated on the [BugsJS dataset](https://bugsjs.github.io). The random nature of the genetic algorithm makes it harder to validate and reproduce our results, thus, for the sake of generalization our experiments were carried out on 5 independent runs. On this page we gathered and systematized the data for all the generated patches and display them.
 
-You can use the [editor on GitHub](https://github.com/GenProgJS/experiments/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Online appendix components
+ - [GenProgJS source code](https://genprogjs.github.io/GenProgJS/)
+ - [Docker environment](https://genprogjs.github.io/GenProgJS-Docker/)
+ - [Experiment data](https://genprogjs.github.io/experiments/) (this page)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Data
+In the table below one can find the experiment data for all the five independent runs. We created diffs for every generated patch and created an html file for each run (see column 3 - Diffs). In the data folder (column 2) there is a subfolder for each bug following the `[project]_[bugNumber]` naming convention (eg. the first bug in the Eslint project would have the folder name `eslint_1`). Inside of these subfolders one can find 3 types of files:
+ - `general_info.log`: log messages containing general information about the fitness values, running time and population throughout the search process.
+ - `[project]_[bugNumber]_[index].info`: contains detailed information about the `[index]`th generated patch. This information includes the generation in which the patch was generated, the elapsed time, test execution information and the list of applied operators (and their corresponding modifications). 
+ - `[project]_[bugNumber]_[index].js`: the patched version of the original program.
 
-```markdown
-Syntax highlighted code block
+| Run | Data folder | Diffs | Avg. runtime (30 gens.) | Avg. #candidate | #operators |
+|---|---|---|---|---|---|
+| #1 | [GenProgJS/experiments/#1](https://github.com/GenProgJS/experiments/tree/master/%231) | [#1/](./#1/index.html) | 19.54 h | 5.92 | 622 |
+| #2 | [GenProgJS/experiments/#1](https://github.com/GenProgJS/experiments/tree/master/%232) | [#2/](./#2/index.html) | 16.32 h | 6.9 | 764 |
+| #3 | [GenProgJS/experiments/#1](https://github.com/GenProgJS/experiments/tree/master/%233) | [#3/](./#3/index.html) | 16.34 h | 6 | 434 |
+| #4 | [GenProgJS/experiments/#1](https://github.com/GenProgJS/experiments/tree/master/%234) | [#4/](./#4/index.html) | 14.12 h | 3.9 | 453 |
+| #4 | [GenProgJS/experiments/#1](https://github.com/GenProgJS/experiments/tree/master/%235) | [#5/](./#5/index.html) | 17.39 h | 9 | 954 |
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GenProgJS/experiments/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
