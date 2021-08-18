@@ -3,7 +3,7 @@ GenProgJS was evaluated on the [BugsJS dataset](https://bugsjs.github.io). The r
 
 
 ## Online appendix components
- - [GenProgJS source code](https://genprogjs.github.io/GenProgJS/)
+ - [GenProgJS homepage](https://genprogjs.github.io/GenProgJS/)
  - [Docker environment](https://genprogjs.github.io/GenProgJS-Docker/)
  - [Experiment data](https://genprogjs.github.io/experiments/) (this page)
 
