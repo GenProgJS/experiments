@@ -14,7 +14,7 @@ In the table below one can find the experiment data for all the five independent
  - `[project]_[bugNumber]_[index].info`: contains detailed information about the `[index]`th generated patch. This information includes the generation in which the patch was generated, the elapsed time, test execution information and the list of applied operators (and their corresponding modifications). 
  - `[project]_[bugNumber]_[index].js`: the patched version of the original program.
 
-| Run | Data folder | Diffs | Avg total runtime (30 gens.) | Avg. candidate | #operators |
+| Run | Data folder | Diffs | Avg. runtime (30 gens.) | Avg. #candidate | #operators |
 |---|---|---|---|---|---|
 | #1 | [GenProgJS/experiments/#1](https://github.com/GenProgJS/experiments/tree/master/%231) | [#1/](../#1/index.html) | 19.54 h | 5.92 | 622 |
 | #2 | [GenProgJS/experiments/#1](https://github.com/GenProgJS/experiments/tree/master/%232) | [#2/](../#2/index.html) | 16.32 h | 6.9 | 764 |
