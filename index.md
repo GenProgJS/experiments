@@ -9,7 +9,7 @@ GenProgJS was evaluated on the [BugsJS dataset](https://bugsjs.github.io). The r
 
 
 ## Data
-In the table below one can find the experiment data for all the five independent runs. We created diffs for every generated patch and created an html file for each run (see column 3 - Diffs). In the data folder (column 2) there is a subfolder for each bug following the `[project]_[bugNumber]` naming convention (eg. the first bug in the Eslint project would have the folder name `eslint_1`). Inside of these subfolders one can find 3 types of files:
+In the table below one can find the experiment data for all the five independent runs. **We created diffs for every generated patch and created an html file for each run (see [column 3 - Diffs](./1/index.html))**. In the data folder (column 2) there is a subfolder for each bug following the `[project]_[bugNumber]` naming convention (eg. the first bug in the Eslint project would have the folder name `eslint_1`). Inside of these subfolders one can find 3 types of files:
  - `general_info.log`: log messages containing general information about the fitness values, running time and population throughout the search process.
  - `[project]_[bugNumber]_[index].info`: contains detailed information about the `[index]`th generated patch. This information includes the generation in which the patch was generated, the elapsed time, test execution information and the list of applied operators (and their corresponding modifications). 
  - `[project]_[bugNumber]_[index].js`: the patched version of the original program.
